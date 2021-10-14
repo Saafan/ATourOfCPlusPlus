@@ -91,6 +91,7 @@
       <AssemblerOutput>AssemblyAndSourceCode</AssemblerOutput>
       <ShowIncludes>true</ShowIncludes>
       <PreprocessToFile>false</PreprocessToFile>
+      <LanguageStandard>Default</LanguageStandard>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
