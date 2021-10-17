@@ -10,5 +10,10 @@ struct Student
 	int operator[](int index);
 
 	int operator+();
+		
+	bool operator==(int x);
 
+	operator bool();
+
+	//operator bool() const;
 };

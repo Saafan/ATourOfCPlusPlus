@@ -4171,12 +4171,12 @@ __pragma(pack(push, 8)) extern "C" {
 
 
 #line 278 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\vcruntime.h"
-
-
-#line 281 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\vcruntime.h"
         
         
-    #line 284 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\vcruntime.h"
+    
+
+
+#line 284 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\vcruntime.h"
 
     
 #line 287 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\vcruntime.h"
@@ -4912,7 +4912,7 @@ extern uintptr_t __security_cookie;
 
 
 
-
+#line 376 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\yvals_core.h"
 
 #line 378 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\yvals_core.h"
 
@@ -5056,7 +5056,7 @@ extern uintptr_t __security_cookie;
 
 
 
-#line 520 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\yvals_core.h"
+
 
 #line 522 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\yvals_core.h"
 
@@ -5070,7 +5070,7 @@ extern uintptr_t __security_cookie;
 
 
 
-#line 534 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\yvals_core.h"
+
 
 #line 536 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\yvals_core.h"
 
@@ -5119,7 +5119,7 @@ extern uintptr_t __security_cookie;
 
 
 
-#line 583 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\yvals_core.h"
+
 #line 584 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\yvals_core.h"
 
 
@@ -5184,7 +5184,7 @@ extern uintptr_t __security_cookie;
 
 
 
-#line 649 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\yvals_core.h"
+
 
 #line 651 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\yvals_core.h"
 
@@ -5194,7 +5194,7 @@ extern uintptr_t __security_cookie;
 
 
 
-#line 660 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\yvals_core.h"
+
 
 #line 662 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\yvals_core.h"
 
@@ -5206,7 +5206,7 @@ extern uintptr_t __security_cookie;
 
 
 
-#line 673 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\yvals_core.h"
+
 
 #line 675 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\yvals_core.h"
 
@@ -5219,7 +5219,7 @@ extern uintptr_t __security_cookie;
 
 
 
-#line 687 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\yvals_core.h"
+
 
 #line 689 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\yvals_core.h"
 
@@ -5231,7 +5231,7 @@ extern uintptr_t __security_cookie;
 
 
 
-#line 700 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\yvals_core.h"
+
 
 #line 702 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\yvals_core.h"
 
@@ -5245,7 +5245,7 @@ extern uintptr_t __security_cookie;
 
 
 
-#line 715 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\yvals_core.h"
+
 
 #line 717 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\yvals_core.h"
 
@@ -5257,7 +5257,7 @@ extern uintptr_t __security_cookie;
 
 
 
-#line 728 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\yvals_core.h"
+
 
 #line 730 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\yvals_core.h"
 
@@ -5268,7 +5268,7 @@ extern uintptr_t __security_cookie;
 
 
 
-#line 740 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\yvals_core.h"
+
 
 #line 742 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\yvals_core.h"
 
@@ -5279,7 +5279,7 @@ extern uintptr_t __security_cookie;
 
 
 
-#line 752 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\yvals_core.h"
+
 
 #line 754 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\yvals_core.h"
 
@@ -5291,7 +5291,7 @@ extern uintptr_t __security_cookie;
 
 
 
-#line 765 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\yvals_core.h"
+
 
 #line 767 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\yvals_core.h"
 
@@ -5307,7 +5307,7 @@ extern uintptr_t __security_cookie;
 
 
 
-#line 782 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\yvals_core.h"
+
 
 #line 784 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\yvals_core.h"
 
@@ -5318,7 +5318,7 @@ extern uintptr_t __security_cookie;
 
 
 
-#line 794 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\yvals_core.h"
+
 
 #line 796 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\yvals_core.h"
 
@@ -5335,7 +5335,7 @@ extern uintptr_t __security_cookie;
 
 
 
-#line 812 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\yvals_core.h"
+
 
 #line 814 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\yvals_core.h"
 
@@ -5607,6 +5607,11 @@ extern uintptr_t __security_cookie;
 
 
 
+#line 1093 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\yvals_core.h"
+
+
+
+#line 1097 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\yvals_core.h"
 
 
 
@@ -5624,12 +5629,7 @@ extern uintptr_t __security_cookie;
 
 
 
-
-
-
-
-
-
+#line 1115 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\yvals_core.h"
 
 
 
@@ -5641,7 +5641,7 @@ extern uintptr_t __security_cookie;
 
 
 
-#line 1127 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\yvals_core.h"
+
 
 #line 1129 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\yvals_core.h"
 
@@ -6226,10 +6226,10 @@ extern "C++"
 
  
   
-
-#line 282 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
    
-  #line 284 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+  
+
+#line 284 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
  
 
 
@@ -8043,11 +8043,11 @@ extern "C++" {
 
 
 
-
-
-
-
-
+namespace std
+{
+    enum class align_val_t : size_t {};
+}
+#line 30 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\vcruntime_new.h"
 
 
 
@@ -8116,67 +8116,67 @@ void __cdecl operator delete[](
     ) noexcept;
 
 
+[[nodiscard]]     __declspec(allocator)
+void* __cdecl operator new(
+    size_t           _Size,
+    std::align_val_t _Al
+    );
+
+[[nodiscard]]       __declspec(allocator)
+void* __cdecl operator new(
+    size_t                _Size,
+    std::align_val_t      _Al,
+    std::nothrow_t const&
+    ) noexcept;
 
 
+[[nodiscard]]     __declspec(allocator)
+void* __cdecl operator new[](
+    size_t           _Size,
+    std::align_val_t _Al
+    );
 
+[[nodiscard]]       __declspec(allocator)
+void* __cdecl operator new[](
+    size_t                _Size,
+    std::align_val_t      _Al,
+    std::nothrow_t const&
+    ) noexcept;
 
+void __cdecl operator delete(
+    void*            _Block,
+    std::align_val_t _Al
+    ) noexcept;
 
+void __cdecl operator delete(
+    void*                 _Block,
+    std::align_val_t      _Al,
+    std::nothrow_t const&
+    ) noexcept;
 
+void __cdecl operator delete[](
+    void*            _Block,
+    std::align_val_t _Al
+    ) noexcept;
 
+void __cdecl operator delete[](
+    void*                 _Block,
+    std::align_val_t      _Al,
+    std::nothrow_t const&
+    ) noexcept;
 
+void __cdecl operator delete(
+    void*            _Block,
+    size_t           _Size,
+    std::align_val_t _Al
+    ) noexcept;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+void __cdecl operator delete[](
+    void*            _Block,
+    size_t           _Size,
+    std::align_val_t _Al
+    ) noexcept;
+#line 159 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\vcruntime_new.h"
 
 #pragma warning(push)
 #pragma warning(disable: 4577) 
@@ -9167,7 +9167,7 @@ typedef struct _CrtMemState
 
 #pragma pack(push, 8)
 #pragma warning(push, 3)
-#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294  4984 5053 )
+#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294   5053 )
 
 
 
@@ -12941,7 +12941,7 @@ __declspec(dllimport) wchar_t*** __cdecl __p__wenviron(void);
 
 #pragma pack(push, 8)
 #pragma warning(push, 3)
-#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294  4984 5053 )
+#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294   5053 )
 
 
 
@@ -13032,7 +13032,7 @@ using :: quick_exit;
 
 #pragma pack(push, 8)
 #pragma warning(push, 3)
-#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294  4984 5053 )
+#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294   5053 )
 
 
 
@@ -13097,9 +13097,9 @@ using conditional_t = typename conditional<_Test, _Ty1, _Ty2>::type;
 
 
 template <class, class>
- constexpr bool is_same_v = false; 
+inline constexpr bool is_same_v = false; 
 template <class _Ty>
- constexpr bool is_same_v<_Ty, _Ty> = true;
+inline constexpr bool is_same_v<_Ty, _Ty> = true;
 
 template <class _Ty1, class _Ty2>
 struct is_same : bool_constant<is_same_v<_Ty1, _Ty2>> {};
@@ -13189,16 +13189,16 @@ struct disjunction<_First, _Rest...> : _Disjunction<_First::value, _First, _Rest
 };
 
 template <class... _Traits>
- constexpr bool disjunction_v = disjunction<_Traits...>::value;
+inline constexpr bool disjunction_v = disjunction<_Traits...>::value;
 
 
 template <class _Ty, class... _Types>
- constexpr bool _Is_any_of_v = 
+inline constexpr bool _Is_any_of_v = 
     disjunction_v<is_same<_Ty, _Types>...>;
 
 
 template <class _Ty>
- constexpr bool is_integral_v = _Is_any_of_v<remove_cv_t<_Ty>, bool, char, signed char, unsigned char,
+inline constexpr bool is_integral_v = _Is_any_of_v<remove_cv_t<_Ty>, bool, char, signed char, unsigned char,
     wchar_t,
 
 
@@ -13210,14 +13210,14 @@ struct is_integral : bool_constant<is_integral_v<_Ty>> {};
 
 
 template <class _Ty>
- constexpr bool is_floating_point_v = _Is_any_of_v<remove_cv_t<_Ty>, float, double, long double>;
+inline constexpr bool is_floating_point_v = _Is_any_of_v<remove_cv_t<_Ty>, float, double, long double>;
 
 template <class _Ty>
 struct is_floating_point : bool_constant<is_floating_point_v<_Ty>> {};
 
 
 template <class _Ty>
- constexpr bool is_arithmetic_v = 
+inline constexpr bool is_arithmetic_v = 
     is_integral_v<_Ty> || is_floating_point_v<_Ty>;
 
 template <class _Ty>
@@ -13273,7 +13273,7 @@ using _Remove_cvref_t = remove_cv_t<remove_reference_t<_Ty>>;
 
 #pragma pack(push, 8)
 #pragma warning(push, 3)
-#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294  4984 5053 )
+#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294   5053 )
 
 
 
@@ -14136,137 +14136,395 @@ using :: isunordered;
 }
 
 
+extern "C" {
+ [[nodiscard]] double __stdcall __std_smf_assoc_laguerre(unsigned int, unsigned int, double) noexcept;
+ [[nodiscard]] float __stdcall __std_smf_assoc_laguerref(unsigned int, unsigned int, float) noexcept;
+ [[nodiscard]] double __stdcall __std_smf_assoc_legendre(unsigned int, unsigned int, double) noexcept;
+ [[nodiscard]] float __stdcall __std_smf_assoc_legendref(unsigned int, unsigned int, float) noexcept;
+ [[nodiscard]] double __stdcall __std_smf_beta(double, double) noexcept;
+ [[nodiscard]] float __stdcall __std_smf_betaf(float, float) noexcept;
+ [[nodiscard]] double __stdcall __std_smf_comp_ellint_1(double) noexcept;
+ [[nodiscard]] float __stdcall __std_smf_comp_ellint_1f(float) noexcept;
+ [[nodiscard]] double __stdcall __std_smf_comp_ellint_2(double) noexcept;
+ [[nodiscard]] float __stdcall __std_smf_comp_ellint_2f(float) noexcept;
+ [[nodiscard]] double __stdcall __std_smf_comp_ellint_3(double, double) noexcept;
+ [[nodiscard]] float __stdcall __std_smf_comp_ellint_3f(float, float) noexcept;
+ [[nodiscard]] double __stdcall __std_smf_cyl_bessel_i(double, double) noexcept;
+ [[nodiscard]] float __stdcall __std_smf_cyl_bessel_if(float, float) noexcept;
+ [[nodiscard]] double __stdcall __std_smf_cyl_bessel_j(double, double) noexcept;
+ [[nodiscard]] float __stdcall __std_smf_cyl_bessel_jf(float, float) noexcept;
+ [[nodiscard]] double __stdcall __std_smf_cyl_bessel_k(double, double) noexcept;
+ [[nodiscard]] float __stdcall __std_smf_cyl_bessel_kf(float, float) noexcept;
+ [[nodiscard]] double __stdcall __std_smf_cyl_neumann(double, double) noexcept;
+ [[nodiscard]] float __stdcall __std_smf_cyl_neumannf(float, float) noexcept;
+ [[nodiscard]] double __stdcall __std_smf_ellint_1(double, double) noexcept;
+ [[nodiscard]] float __stdcall __std_smf_ellint_1f(float, float) noexcept;
+ [[nodiscard]] double __stdcall __std_smf_ellint_2(double, double) noexcept;
+ [[nodiscard]] float __stdcall __std_smf_ellint_2f(float, float) noexcept;
+ [[nodiscard]] double __stdcall __std_smf_ellint_3(double, double, double) noexcept;
+ [[nodiscard]] float __stdcall __std_smf_ellint_3f(float, float, float) noexcept;
+ [[nodiscard]] double __stdcall __std_smf_expint(double) noexcept;
+ [[nodiscard]] float __stdcall __std_smf_expintf(float) noexcept;
+ [[nodiscard]] double __stdcall __std_smf_hermite(unsigned int, double) noexcept;
+ [[nodiscard]] float __stdcall __std_smf_hermitef(unsigned int, float) noexcept;
+ [[nodiscard]] double __stdcall __std_smf_laguerre(unsigned int, double) noexcept;
+ [[nodiscard]] float __stdcall __std_smf_laguerref(unsigned int, float) noexcept;
+ [[nodiscard]] double __stdcall __std_smf_legendre(unsigned int, double) noexcept;
+ [[nodiscard]] float __stdcall __std_smf_legendref(unsigned int, float) noexcept;
+ [[nodiscard]] double __stdcall __std_smf_riemann_zeta(double) noexcept;
+ [[nodiscard]] float __stdcall __std_smf_riemann_zetaf(float) noexcept;
+ [[nodiscard]] double __stdcall __std_smf_sph_bessel(unsigned int, double) noexcept;
+ [[nodiscard]] float __stdcall __std_smf_sph_besself(unsigned int, float) noexcept;
+ [[nodiscard]] double __stdcall __std_smf_sph_legendre(unsigned int, unsigned int, double) noexcept;
+ [[nodiscard]] float __stdcall __std_smf_sph_legendref(unsigned int, unsigned int, float) noexcept;
+ [[nodiscard]] double __stdcall __std_smf_sph_neumann(unsigned int, double) noexcept;
+ [[nodiscard]] float __stdcall __std_smf_sph_neumannf(unsigned int, float) noexcept;
+ [[nodiscard]] double __stdcall __std_smf_hypot3(double, double, double) noexcept;
+ [[nodiscard]] float __stdcall __std_smf_hypot3f(float, float, float) noexcept;
+}
 
+namespace std {
 
+[[nodiscard]] inline double assoc_laguerre(const unsigned int _Degree, const unsigned int _Order, const double _Value) {
+    return __std_smf_assoc_laguerre(_Degree, _Order, _Value);
+}
 
 
+[[nodiscard]] inline float assoc_laguerref(const unsigned int _Degree, const unsigned int _Order, const float _Value) {
+    return __std_smf_assoc_laguerref(_Degree, _Order, _Value);
+}
 
 
+[[nodiscard]] inline long double assoc_laguerrel(
+    const unsigned int _Degree, const unsigned int _Order, const long double _Value) {
+    return __std_smf_assoc_laguerre(_Degree, _Order, static_cast<double>(_Value));
+}
 
 
+[[nodiscard]] inline double assoc_legendre(const unsigned int _Degree, const unsigned int _Order, const double _Value) {
+    return __std_smf_assoc_legendre(_Degree, _Order, _Value);
+}
 
 
+[[nodiscard]] inline float assoc_legendref(const unsigned int _Degree, const unsigned int _Order, const float _Value) {
+    return __std_smf_assoc_legendref(_Degree, _Order, _Value);
+}
 
 
+[[nodiscard]] inline long double assoc_legendrel(
+    const unsigned int _Degree, const unsigned int _Order, const long double _Value) {
+    return __std_smf_assoc_legendre(_Degree, _Order, static_cast<double>(_Value));
+}
 
 
+[[nodiscard]] inline double beta(const double _Arg1, const double _Arg2) {
+    return __std_smf_beta(_Arg1, _Arg2);
+}
 
 
+[[nodiscard]] inline float betaf(const float _Arg1, const float _Arg2) {
+    return __std_smf_betaf(_Arg1, _Arg2);
+}
 
 
+[[nodiscard]] inline long double betal(const long double _Arg1, const long double _Arg2) {
+    return __std_smf_beta(static_cast<double>(_Arg1), static_cast<double>(_Arg2));
+}
 
 
+[[nodiscard]] inline double comp_ellint_1(const double _Arg) {
+    return __std_smf_comp_ellint_1(_Arg);
+}
 
 
+[[nodiscard]] inline float comp_ellint_1f(const float _Arg) {
+    return __std_smf_comp_ellint_1f(_Arg);
+}
 
 
+[[nodiscard]] inline long double comp_ellint_1l(const long double _Arg) {
+    return __std_smf_comp_ellint_1(static_cast<double>(_Arg));
+}
 
 
+[[nodiscard]] inline double comp_ellint_2(const double _Arg) {
+    return __std_smf_comp_ellint_2(_Arg);
+}
 
 
+[[nodiscard]] inline float comp_ellint_2f(const float _Arg) {
+    return __std_smf_comp_ellint_2f(_Arg);
+}
 
 
+[[nodiscard]] inline long double comp_ellint_2l(const long double _Arg) {
+    return __std_smf_comp_ellint_2(static_cast<double>(_Arg));
+}
 
 
+[[nodiscard]] inline double comp_ellint_3(const double _Arg1, const double _Arg2) {
+    return __std_smf_comp_ellint_3(_Arg1, _Arg2);
+}
 
 
+[[nodiscard]] inline float comp_ellint_3f(const float _Arg1, const float _Arg2) {
+    return __std_smf_comp_ellint_3f(_Arg1, _Arg2);
+}
 
 
+[[nodiscard]] inline long double comp_ellint_3l(const long double _Arg1, const long double _Arg2) {
+    return __std_smf_comp_ellint_3(static_cast<double>(_Arg1), static_cast<double>(_Arg2));
+}
 
 
+[[nodiscard]] inline double cyl_bessel_i(const double _Arg1, const double _Arg2) {
+    return __std_smf_cyl_bessel_i(_Arg1, _Arg2);
+}
 
 
+[[nodiscard]] inline float cyl_bessel_if(const float _Arg1, const float _Arg2) {
+    return __std_smf_cyl_bessel_if(_Arg1, _Arg2);
+}
 
 
+[[nodiscard]] inline long double cyl_bessel_il(const long double _Arg1, const long double _Arg2) {
+    return __std_smf_cyl_bessel_i(static_cast<double>(_Arg1), static_cast<double>(_Arg2));
+}
 
 
+[[nodiscard]] inline double cyl_bessel_j(const double _Arg1, const double _Arg2) {
+    return __std_smf_cyl_bessel_j(_Arg1, _Arg2);
+}
 
 
+[[nodiscard]] inline float cyl_bessel_jf(const float _Arg1, const float _Arg2) {
+    return __std_smf_cyl_bessel_jf(_Arg1, _Arg2);
+}
 
 
+[[nodiscard]] inline long double cyl_bessel_jl(const long double _Arg1, const long double _Arg2) {
+    return __std_smf_cyl_bessel_j(static_cast<double>(_Arg1), static_cast<double>(_Arg2));
+}
 
 
+[[nodiscard]] inline double cyl_bessel_k(const double _Arg1, const double _Arg2) {
+    return __std_smf_cyl_bessel_k(_Arg1, _Arg2);
+}
 
 
+[[nodiscard]] inline float cyl_bessel_kf(const float _Arg1, const float _Arg2) {
+    return __std_smf_cyl_bessel_kf(_Arg1, _Arg2);
+}
 
 
+[[nodiscard]] inline long double cyl_bessel_kl(const long double _Arg1, const long double _Arg2) {
+    return __std_smf_cyl_bessel_k(static_cast<double>(_Arg1), static_cast<double>(_Arg2));
+}
 
 
+[[nodiscard]] inline double cyl_neumann(const double _Arg1, const double _Arg2) {
+    return __std_smf_cyl_neumann(_Arg1, _Arg2);
+}
 
 
+[[nodiscard]] inline float cyl_neumannf(const float _Arg1, const float _Arg2) {
+    return __std_smf_cyl_neumannf(_Arg1, _Arg2);
+}
 
 
+[[nodiscard]] inline long double cyl_neumannl(const long double _Arg1, const long double _Arg2) {
+    return __std_smf_cyl_neumann(static_cast<double>(_Arg1), static_cast<double>(_Arg2));
+}
 
 
+[[nodiscard]] inline double ellint_1(const double _Arg1, const double _Arg2) {
+    return __std_smf_ellint_1(_Arg1, _Arg2);
+}
 
 
+[[nodiscard]] inline float ellint_1f(const float _Arg1, const float _Arg2) {
+    return __std_smf_ellint_1f(_Arg1, _Arg2);
+}
 
 
+[[nodiscard]] inline long double ellint_1l(const long double _Arg1, const long double _Arg2) {
+    return __std_smf_ellint_1(static_cast<double>(_Arg1), static_cast<double>(_Arg2));
+}
 
 
+[[nodiscard]] inline double ellint_2(const double _Arg1, const double _Arg2) {
+    return __std_smf_ellint_2(_Arg1, _Arg2);
+}
 
 
+[[nodiscard]] inline float ellint_2f(const float _Arg1, const float _Arg2) {
+    return __std_smf_ellint_2f(_Arg1, _Arg2);
+}
 
 
+[[nodiscard]] inline long double ellint_2l(const long double _Arg1, const long double _Arg2) {
+    return __std_smf_ellint_2(static_cast<double>(_Arg1), static_cast<double>(_Arg2));
+}
 
 
+[[nodiscard]] inline double ellint_3(const double _Arg1, const double _Arg2, const double _Arg3) {
+    return __std_smf_ellint_3(_Arg1, _Arg2, _Arg3);
+}
 
 
+[[nodiscard]] inline float ellint_3f(const float _Arg1, const float _Arg2, const float _Arg3) {
+    return __std_smf_ellint_3f(_Arg1, _Arg2, _Arg3);
+}
 
 
+[[nodiscard]] inline long double ellint_3l(const long double _Arg1, const long double _Arg2, const long double _Arg3) {
+    return __std_smf_ellint_3(static_cast<double>(_Arg1), static_cast<double>(_Arg2), static_cast<double>(_Arg3));
+}
 
 
+[[nodiscard]] inline double expint(const double _Arg) {
+    return __std_smf_expint(_Arg);
+}
 
 
+[[nodiscard]] inline float expintf(const float _Arg) {
+    return __std_smf_expintf(_Arg);
+}
 
 
+[[nodiscard]] inline long double expintl(const long double _Arg) {
+    return __std_smf_expint(static_cast<double>(_Arg));
+}
 
 
+[[nodiscard]] inline double hermite(const unsigned int _Arg1, const double _Arg2) {
+    return __std_smf_hermite(_Arg1, _Arg2);
+}
 
 
+[[nodiscard]] inline float hermitef(const unsigned int _Arg1, const float _Arg2) {
+    return __std_smf_hermitef(_Arg1, _Arg2);
+}
 
 
+[[nodiscard]] inline long double hermitel(const unsigned int _Arg1, const long double _Arg2) {
+    return __std_smf_hermite(_Arg1, static_cast<double>(_Arg2));
+}
 
 
+[[nodiscard]] inline double laguerre(const unsigned int _Arg1, const double _Arg2) {
+    return __std_smf_laguerre(_Arg1, _Arg2);
+}
 
 
+[[nodiscard]] inline float laguerref(const unsigned int _Arg1, const float _Arg2) {
+    return __std_smf_laguerref(_Arg1, _Arg2);
+}
 
 
+[[nodiscard]] inline long double laguerrel(const unsigned int _Arg1, const long double _Arg2) {
+    return __std_smf_laguerre(_Arg1, static_cast<double>(_Arg2));
+}
 
 
+[[nodiscard]] inline double legendre(const unsigned int _Degree, const double _Value) {
+    return __std_smf_legendre(_Degree, _Value);
+}
 
 
+[[nodiscard]] inline float legendref(const unsigned int _Degree, const float _Value) {
+    return __std_smf_legendref(_Degree, _Value);
+}
 
 
+[[nodiscard]] inline long double legendrel(const unsigned int _Degree, const long double _Value) {
+    return __std_smf_legendre(_Degree, static_cast<double>(_Value));
+}
 
 
+[[nodiscard]] inline double riemann_zeta(const double _Arg) {
+    return __std_smf_riemann_zeta(_Arg);
+}
 
 
+[[nodiscard]] inline float riemann_zetaf(const float _Arg) {
+    return __std_smf_riemann_zetaf(_Arg);
+}
 
 
+[[nodiscard]] inline long double riemann_zetal(const long double _Arg) {
+    return __std_smf_riemann_zeta(static_cast<double>(_Arg));
+}
 
 
+[[nodiscard]] inline double sph_bessel(const unsigned int _Arg1, const double _Arg2) {
+    return __std_smf_sph_bessel(_Arg1, _Arg2);
+}
 
 
+[[nodiscard]] inline float sph_besself(const unsigned int _Arg1, const float _Arg2) {
+    return __std_smf_sph_besself(_Arg1, _Arg2);
+}
 
 
+[[nodiscard]] inline long double sph_bessell(const unsigned int _Arg1, const long double _Arg2) {
+    return __std_smf_sph_bessel(_Arg1, static_cast<double>(_Arg2));
+}
 
 
+[[nodiscard]] inline double sph_legendre(const unsigned int _Arg1, const unsigned int _Arg2, const double _Theta) {
+    return __std_smf_sph_legendre(_Arg1, _Arg2, _Theta);
+}
 
 
+[[nodiscard]] inline float sph_legendref(const unsigned int _Arg1, const unsigned int _Arg2, const float _Theta) {
+    return __std_smf_sph_legendref(_Arg1, _Arg2, _Theta);
+}
 
 
+[[nodiscard]] inline long double sph_legendrel(
+    const unsigned int _Arg1, const unsigned int _Arg2, const long double _Theta) {
+    return __std_smf_sph_legendre(_Arg1, _Arg2, static_cast<double>(_Theta));
+}
 
 
+[[nodiscard]] inline double sph_neumann(const unsigned int _Arg1, const double _Arg2) {
+    return __std_smf_sph_neumann(_Arg1, _Arg2);
+}
 
 
+[[nodiscard]] inline float sph_neumannf(const unsigned int _Arg1, const float _Arg2) {
+    return __std_smf_sph_neumannf(_Arg1, _Arg2);
+}
 
 
+[[nodiscard]] inline long double sph_neumannl(const unsigned int _Arg1, const long double _Arg2) {
+    return __std_smf_sph_neumann(_Arg1, static_cast<double>(_Arg2));
+}
 
 
+[[nodiscard]] inline double hypot(const double _Dx, const double _Dy, const double _Dz) {
+    return __std_smf_hypot3(_Dx, _Dy, _Dz);
+}
 
+[[nodiscard]] inline float hypot(const float _Dx, const float _Dy, const float _Dz) {
+    return __std_smf_hypot3f(_Dx, _Dy, _Dz);
+}
 
+[[nodiscard]] inline long double hypot(const long double _Dx, const long double _Dy, const long double _Dz) {
+    return __std_smf_hypot3(static_cast<double>(_Dx), static_cast<double>(_Dy), static_cast<double>(_Dz));
+}
 
+template <class _Ty1, class _Ty2, class _Ty3,
+    enable_if_t<is_arithmetic_v<_Ty1> && is_arithmetic_v<_Ty2> && is_arithmetic_v<_Ty3>, int> = 0>
+[[nodiscard]] auto hypot(const _Ty1 _Dx, const _Ty2 _Dy, const _Ty3 _Dz) {
+    
+    
+    
+    using _Common      = _Common_float_type_t<_Ty1, _Common_float_type_t<_Ty2, _Ty3>>; 
+    const auto _Result = __std_smf_hypot3(static_cast<double>(_Dx), static_cast<double>(_Dy), static_cast<double>(_Dz));
+    return static_cast<_Common>(_Result);
+}
 
 
 
@@ -14397,266 +14655,8 @@ using :: isunordered;
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#line 1400 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\cmath"
+}
 #line 1402 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\cmath"
 
 
@@ -19339,7 +19339,7 @@ __declspec(deprecated("This function or variable may be unsafe. Consider using "
 
 #pragma pack(push, 8)
 #pragma warning(push, 3)
-#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294  4984 5053 )
+#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294   5053 )
 
 
 
@@ -20998,7 +20998,7 @@ extern "C++"
 
 #pragma pack(push, 8)
 #pragma warning(push, 3)
-#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294  4984 5053 )
+#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294   5053 )
 
 
 
@@ -22924,7 +22924,7 @@ typedef wchar_t _Wint_t;
 
 #pragma pack(push, 8)
 #pragma warning(push, 3)
-#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294  4984 5053 )
+#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294   5053 )
 
 
 
@@ -23042,7 +23042,7 @@ using :: wcstoull;
 
 #pragma pack(push, 8)
 #pragma warning(push, 3)
-#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294  4984 5053 )
+#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294   5053 )
 
 
 
@@ -23053,70 +23053,70 @@ using :: size_t;
 using max_align_t = double; 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+                            
+enum class byte : unsigned char {};
+
+template <class _IntType, enable_if_t<is_integral_v<_IntType>, int> = 0>
+[[nodiscard]] constexpr byte operator<<(
+    const byte _Arg, const _IntType _Shift) noexcept { 
+    return static_cast<byte>(static_cast<unsigned char>(static_cast<unsigned int>(_Arg) << _Shift));
+}
+
+template <class _IntType, enable_if_t<is_integral_v<_IntType>, int> = 0>
+[[nodiscard]] constexpr byte operator>>(
+    const byte _Arg, const _IntType _Shift) noexcept { 
+    return static_cast<byte>(static_cast<unsigned char>(static_cast<unsigned int>(_Arg) >> _Shift));
+}
+
+[[nodiscard]] constexpr byte operator|(
+    const byte _Left, const byte _Right) noexcept { 
+    return static_cast<byte>(
+        static_cast<unsigned char>(static_cast<unsigned int>(_Left) | static_cast<unsigned int>(_Right)));
+}
+
+[[nodiscard]] constexpr byte operator&(
+    const byte _Left, const byte _Right) noexcept { 
+    return static_cast<byte>(
+        static_cast<unsigned char>(static_cast<unsigned int>(_Left) & static_cast<unsigned int>(_Right)));
+}
+
+[[nodiscard]] constexpr byte operator^(
+    const byte _Left, const byte _Right) noexcept { 
+    return static_cast<byte>(
+        static_cast<unsigned char>(static_cast<unsigned int>(_Left) ^ static_cast<unsigned int>(_Right)));
+}
+
+[[nodiscard]] constexpr byte operator~(const byte _Arg) noexcept { 
+    return static_cast<byte>(static_cast<unsigned char>(~static_cast<unsigned int>(_Arg)));
+}
+
+template <class _IntType, enable_if_t<is_integral_v<_IntType>, int> = 0>
+constexpr byte& operator<<=(byte& _Arg, const _IntType _Shift) noexcept { 
+    return _Arg = _Arg << _Shift;
+}
+
+template <class _IntType, enable_if_t<is_integral_v<_IntType>, int> = 0>
+constexpr byte& operator>>=(byte& _Arg, const _IntType _Shift) noexcept { 
+    return _Arg = _Arg >> _Shift;
+}
+
+constexpr byte& operator|=(byte& _Left, const byte _Right) noexcept { 
+    return _Left = _Left | _Right;
+}
+
+constexpr byte& operator&=(byte& _Left, const byte _Right) noexcept { 
+    return _Left = _Left & _Right;
+}
+
+constexpr byte& operator^=(byte& _Left, const byte _Right) noexcept { 
+    return _Left = _Left ^ _Right;
+}
+
+template <class _IntType, enable_if_t<is_integral_v<_IntType>, int> = 0>
+[[nodiscard]] constexpr _IntType to_integer(const byte _Arg) noexcept { 
+    return static_cast<_IntType>(_Arg);
+}
+#line 92 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\cstddef"
 
 }
 
@@ -23146,7 +23146,7 @@ using ::std:: max_align_t;
 
 #pragma pack(push, 8)
 #pragma warning(push, 3)
-#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294  4984 5053 )
+#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294   5053 )
 
 
 
@@ -23209,7 +23209,7 @@ template <class _Elem>
 
 #pragma pack(push, 8)
 #pragma warning(push, 3)
-#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294  4984 5053 )
+#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294   5053 )
 
 
 
@@ -23218,32 +23218,32 @@ namespace std {
 
 template <class>
 
- constexpr bool _Always_false = false;
+inline constexpr bool _Always_false = false;
 
 
 
 
-template <class _Arg, class _Result>
-struct unary_function { 
-    using argument_type = _Arg;
-    using result_type   = _Result;
-};
 
 
-template <class _Arg1, class _Arg2, class _Result>
-struct binary_function { 
-    using first_argument_type  = _Arg1;
-    using second_argument_type = _Arg2;
-    using result_type          = _Result;
-};
+
+
+
+
+
+
+
+
+
+
+
 #line 46 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstddef"
 
 
 template <class _Ty = void>
 struct plus {
-     typedef _Ty first_argument_type;
-     typedef _Ty second_argument_type;
-     typedef _Ty result_type;
+    [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ty first_argument_type;
+    [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ty second_argument_type;
+    [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ty result_type;
 
     constexpr _Ty operator()(const _Ty& _Left, const _Ty& _Right) const {
         return _Left + _Right;
@@ -23253,9 +23253,9 @@ struct plus {
 
 template <class _Ty = void>
 struct minus {
-     typedef _Ty first_argument_type;
-     typedef _Ty second_argument_type;
-     typedef _Ty result_type;
+    [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ty first_argument_type;
+    [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ty second_argument_type;
+    [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ty result_type;
 
     constexpr _Ty operator()(const _Ty& _Left, const _Ty& _Right) const {
         return _Left - _Right;
@@ -23265,9 +23265,9 @@ struct minus {
 
 template <class _Ty = void>
 struct multiplies {
-     typedef _Ty first_argument_type;
-     typedef _Ty second_argument_type;
-     typedef _Ty result_type;
+    [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ty first_argument_type;
+    [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ty second_argument_type;
+    [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ty result_type;
 
     constexpr _Ty operator()(const _Ty& _Left, const _Ty& _Right) const {
         return _Left * _Right;
@@ -23277,9 +23277,9 @@ struct multiplies {
 
 template <class _Ty = void>
 struct equal_to {
-     typedef _Ty first_argument_type;
-     typedef _Ty second_argument_type;
-     typedef bool result_type;
+    [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ty first_argument_type;
+    [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ty second_argument_type;
+    [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef bool result_type;
 
     constexpr bool operator()(const _Ty& _Left, const _Ty& _Right) const {
         return _Left == _Right;
@@ -23289,9 +23289,9 @@ struct equal_to {
 
 template <class _Ty = void>
 struct not_equal_to {
-     typedef _Ty first_argument_type;
-     typedef _Ty second_argument_type;
-     typedef bool result_type;
+    [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ty first_argument_type;
+    [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ty second_argument_type;
+    [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef bool result_type;
 
     constexpr bool operator()(const _Ty& _Left, const _Ty& _Right) const {
         return _Left != _Right;
@@ -23301,9 +23301,9 @@ struct not_equal_to {
 
 template <class _Ty = void>
 struct greater {
-     typedef _Ty first_argument_type;
-     typedef _Ty second_argument_type;
-     typedef bool result_type;
+    [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ty first_argument_type;
+    [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ty second_argument_type;
+    [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef bool result_type;
 
     constexpr bool operator()(const _Ty& _Left, const _Ty& _Right) const {
         return _Left > _Right;
@@ -23313,9 +23313,9 @@ struct greater {
 
 template <class _Ty = void>
 struct less {
-     typedef _Ty first_argument_type;
-     typedef _Ty second_argument_type;
-     typedef bool result_type;
+    [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ty first_argument_type;
+    [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ty second_argument_type;
+    [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef bool result_type;
 
     constexpr bool operator()(const _Ty& _Left, const _Ty& _Right) const {
         return _Left < _Right;
@@ -23325,9 +23325,9 @@ struct less {
 
 template <class _Ty = void>
 struct greater_equal {
-     typedef _Ty first_argument_type;
-     typedef _Ty second_argument_type;
-     typedef bool result_type;
+    [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ty first_argument_type;
+    [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ty second_argument_type;
+    [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef bool result_type;
 
     constexpr bool operator()(const _Ty& _Left, const _Ty& _Right) const {
         return _Left >= _Right;
@@ -23337,9 +23337,9 @@ struct greater_equal {
 
 template <class _Ty = void>
 struct less_equal {
-     typedef _Ty first_argument_type;
-     typedef _Ty second_argument_type;
-     typedef bool result_type;
+    [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ty first_argument_type;
+    [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ty second_argument_type;
+    [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef bool result_type;
 
     constexpr bool operator()(const _Ty& _Left, const _Ty& _Right) const {
         return _Left <= _Right;
@@ -23625,7 +23625,7 @@ template <class _Ty>
 
 #pragma pack(push, 8)
 #pragma warning(push, 3)
-#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294  4984 5053 )
+#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294   5053 )
 
 
 
@@ -23905,7 +23905,7 @@ using wfstream       = basic_fstream<wchar_t, char_traits<wchar_t>>;
 
 #pragma pack(push, 8)
 #pragma warning(push, 3)
-#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294  4984 5053 )
+#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294   5053 )
 
 
 
@@ -23956,14 +23956,14 @@ struct conjunction<_First, _Rest...> : _Conjunction<_First::value, _First, _Rest
 };
 
 template <class... _Traits>
- constexpr bool conjunction_v = conjunction<_Traits...>::value;
+inline constexpr bool conjunction_v = conjunction<_Traits...>::value;
 
 
 template <class _Trait>
 struct negation : bool_constant<!static_cast<bool>(_Trait::value)> {}; 
 
 template <class _Trait>
- constexpr bool negation_v = negation<_Trait>::value;
+inline constexpr bool negation_v = negation<_Trait>::value;
 
 
 template <class... _Types>
@@ -23971,13 +23971,13 @@ struct _Arg_types {};
 
 template <class _Ty1>
 struct _Arg_types<_Ty1> {
-     typedef _Ty1 argument_type;
+    [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ty1 argument_type;
 };
 
 template <class _Ty1, class _Ty2>
 struct _Arg_types<_Ty1, _Ty2> {
-     typedef _Ty1 first_argument_type;
-     typedef _Ty2 second_argument_type;
+    [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ty1 first_argument_type;
+    [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ty2 second_argument_type;
 };
 
 
@@ -23993,7 +23993,7 @@ struct _Is_function {
 
 
 
-template <class _Ret, class... _Types> struct _Is_function<_Ret __cdecl(_Types...)   > : _Arg_types<_Types...> { using _Bool_type = true_type;  typedef _Ret result_type; };  template <class _Ret, class... _Types> struct _Is_function<_Ret __fastcall(_Types...)   > : _Arg_types<_Types...> { using _Bool_type = true_type;  typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __stdcall(_Types...)   > : _Arg_types<_Types...> { using _Bool_type = true_type;  typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __vectorcall(_Types...)   > : _Arg_types<_Types...> { using _Bool_type = true_type;  typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __cdecl(_Types...) const  > : _Arg_types<_Types...> { using _Bool_type = true_type;  typedef _Ret result_type; };  template <class _Ret, class... _Types> struct _Is_function<_Ret __fastcall(_Types...) const  > : _Arg_types<_Types...> { using _Bool_type = true_type;  typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __stdcall(_Types...) const  > : _Arg_types<_Types...> { using _Bool_type = true_type;  typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __vectorcall(_Types...) const  > : _Arg_types<_Types...> { using _Bool_type = true_type;  typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __cdecl(_Types...) volatile  > : _Arg_types<_Types...> { using _Bool_type = true_type;  typedef _Ret result_type; };  template <class _Ret, class... _Types> struct _Is_function<_Ret __fastcall(_Types...) volatile  > : _Arg_types<_Types...> { using _Bool_type = true_type;  typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __stdcall(_Types...) volatile  > : _Arg_types<_Types...> { using _Bool_type = true_type;  typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __vectorcall(_Types...) volatile  > : _Arg_types<_Types...> { using _Bool_type = true_type;  typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __cdecl(_Types...) const volatile  > : _Arg_types<_Types...> { using _Bool_type = true_type;  typedef _Ret result_type; };  template <class _Ret, class... _Types> struct _Is_function<_Ret __fastcall(_Types...) const volatile  > : _Arg_types<_Types...> { using _Bool_type = true_type;  typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __stdcall(_Types...) const volatile  > : _Arg_types<_Types...> { using _Bool_type = true_type;  typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __vectorcall(_Types...) const volatile  > : _Arg_types<_Types...> { using _Bool_type = true_type;  typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __cdecl(_Types...)  & > : _Arg_types<_Types...> { using _Bool_type = true_type;  typedef _Ret result_type; };  template <class _Ret, class... _Types> struct _Is_function<_Ret __fastcall(_Types...)  & > : _Arg_types<_Types...> { using _Bool_type = true_type;  typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __stdcall(_Types...)  & > : _Arg_types<_Types...> { using _Bool_type = true_type;  typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __vectorcall(_Types...)  & > : _Arg_types<_Types...> { using _Bool_type = true_type;  typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __cdecl(_Types...) const & > : _Arg_types<_Types...> { using _Bool_type = true_type;  typedef _Ret result_type; };  template <class _Ret, class... _Types> struct _Is_function<_Ret __fastcall(_Types...) const & > : _Arg_types<_Types...> { using _Bool_type = true_type;  typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __stdcall(_Types...) const & > : _Arg_types<_Types...> { using _Bool_type = true_type;  typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __vectorcall(_Types...) const & > : _Arg_types<_Types...> { using _Bool_type = true_type;  typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __cdecl(_Types...) volatile & > : _Arg_types<_Types...> { using _Bool_type = true_type;  typedef _Ret result_type; };  template <class _Ret, class... _Types> struct _Is_function<_Ret __fastcall(_Types...) volatile & > : _Arg_types<_Types...> { using _Bool_type = true_type;  typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __stdcall(_Types...) volatile & > : _Arg_types<_Types...> { using _Bool_type = true_type;  typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __vectorcall(_Types...) volatile & > : _Arg_types<_Types...> { using _Bool_type = true_type;  typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __cdecl(_Types...) const volatile & > : _Arg_types<_Types...> { using _Bool_type = true_type;  typedef _Ret result_type; };  template <class _Ret, class... _Types> struct _Is_function<_Ret __fastcall(_Types...) const volatile & > : _Arg_types<_Types...> { using _Bool_type = true_type;  typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __stdcall(_Types...) const volatile & > : _Arg_types<_Types...> { using _Bool_type = true_type;  typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __vectorcall(_Types...) const volatile & > : _Arg_types<_Types...> { using _Bool_type = true_type;  typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __cdecl(_Types...)  && > : _Arg_types<_Types...> { using _Bool_type = true_type;  typedef _Ret result_type; };  template <class _Ret, class... _Types> struct _Is_function<_Ret __fastcall(_Types...)  && > : _Arg_types<_Types...> { using _Bool_type = true_type;  typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __stdcall(_Types...)  && > : _Arg_types<_Types...> { using _Bool_type = true_type;  typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __vectorcall(_Types...)  && > : _Arg_types<_Types...> { using _Bool_type = true_type;  typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __cdecl(_Types...) const && > : _Arg_types<_Types...> { using _Bool_type = true_type;  typedef _Ret result_type; };  template <class _Ret, class... _Types> struct _Is_function<_Ret __fastcall(_Types...) const && > : _Arg_types<_Types...> { using _Bool_type = true_type;  typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __stdcall(_Types...) const && > : _Arg_types<_Types...> { using _Bool_type = true_type;  typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __vectorcall(_Types...) const && > : _Arg_types<_Types...> { using _Bool_type = true_type;  typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __cdecl(_Types...) volatile && > : _Arg_types<_Types...> { using _Bool_type = true_type;  typedef _Ret result_type; };  template <class _Ret, class... _Types> struct _Is_function<_Ret __fastcall(_Types...) volatile && > : _Arg_types<_Types...> { using _Bool_type = true_type;  typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __stdcall(_Types...) volatile && > : _Arg_types<_Types...> { using _Bool_type = true_type;  typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __vectorcall(_Types...) volatile && > : _Arg_types<_Types...> { using _Bool_type = true_type;  typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __cdecl(_Types...) const volatile && > : _Arg_types<_Types...> { using _Bool_type = true_type;  typedef _Ret result_type; };  template <class _Ret, class... _Types> struct _Is_function<_Ret __fastcall(_Types...) const volatile && > : _Arg_types<_Types...> { using _Bool_type = true_type;  typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __stdcall(_Types...) const volatile && > : _Arg_types<_Types...> { using _Bool_type = true_type;  typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __vectorcall(_Types...) const volatile && > : _Arg_types<_Types...> { using _Bool_type = true_type;  typedef _Ret result_type; };
+template <class _Ret, class... _Types> struct _Is_function<_Ret __cdecl(_Types...)   > : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; };  template <class _Ret, class... _Types> struct _Is_function<_Ret __fastcall(_Types...)   > : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __stdcall(_Types...)   > : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __vectorcall(_Types...)   > : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __cdecl(_Types...) const  > : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; };  template <class _Ret, class... _Types> struct _Is_function<_Ret __fastcall(_Types...) const  > : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __stdcall(_Types...) const  > : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __vectorcall(_Types...) const  > : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __cdecl(_Types...) volatile  > : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; };  template <class _Ret, class... _Types> struct _Is_function<_Ret __fastcall(_Types...) volatile  > : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __stdcall(_Types...) volatile  > : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __vectorcall(_Types...) volatile  > : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __cdecl(_Types...) const volatile  > : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; };  template <class _Ret, class... _Types> struct _Is_function<_Ret __fastcall(_Types...) const volatile  > : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __stdcall(_Types...) const volatile  > : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __vectorcall(_Types...) const volatile  > : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __cdecl(_Types...)  & > : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; };  template <class _Ret, class... _Types> struct _Is_function<_Ret __fastcall(_Types...)  & > : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __stdcall(_Types...)  & > : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __vectorcall(_Types...)  & > : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __cdecl(_Types...) const & > : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; };  template <class _Ret, class... _Types> struct _Is_function<_Ret __fastcall(_Types...) const & > : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __stdcall(_Types...) const & > : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __vectorcall(_Types...) const & > : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __cdecl(_Types...) volatile & > : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; };  template <class _Ret, class... _Types> struct _Is_function<_Ret __fastcall(_Types...) volatile & > : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __stdcall(_Types...) volatile & > : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __vectorcall(_Types...) volatile & > : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __cdecl(_Types...) const volatile & > : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; };  template <class _Ret, class... _Types> struct _Is_function<_Ret __fastcall(_Types...) const volatile & > : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __stdcall(_Types...) const volatile & > : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __vectorcall(_Types...) const volatile & > : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __cdecl(_Types...)  && > : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; };  template <class _Ret, class... _Types> struct _Is_function<_Ret __fastcall(_Types...)  && > : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __stdcall(_Types...)  && > : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __vectorcall(_Types...)  && > : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __cdecl(_Types...) const && > : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; };  template <class _Ret, class... _Types> struct _Is_function<_Ret __fastcall(_Types...) const && > : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __stdcall(_Types...) const && > : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __vectorcall(_Types...) const && > : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __cdecl(_Types...) volatile && > : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; };  template <class _Ret, class... _Types> struct _Is_function<_Ret __fastcall(_Types...) volatile && > : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __stdcall(_Types...) volatile && > : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __vectorcall(_Types...) volatile && > : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __cdecl(_Types...) const volatile && > : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; };  template <class _Ret, class... _Types> struct _Is_function<_Ret __fastcall(_Types...) const volatile && > : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __stdcall(_Types...) const volatile && > : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __vectorcall(_Types...) const volatile && > : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __cdecl(_Types...)   noexcept> : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; };  template <class _Ret, class... _Types> struct _Is_function<_Ret __fastcall(_Types...)   noexcept> : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __stdcall(_Types...)   noexcept> : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __vectorcall(_Types...)   noexcept> : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __cdecl(_Types...) const  noexcept> : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; };  template <class _Ret, class... _Types> struct _Is_function<_Ret __fastcall(_Types...) const  noexcept> : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __stdcall(_Types...) const  noexcept> : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __vectorcall(_Types...) const  noexcept> : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __cdecl(_Types...) volatile  noexcept> : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; };  template <class _Ret, class... _Types> struct _Is_function<_Ret __fastcall(_Types...) volatile  noexcept> : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __stdcall(_Types...) volatile  noexcept> : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __vectorcall(_Types...) volatile  noexcept> : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __cdecl(_Types...) const volatile  noexcept> : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; };  template <class _Ret, class... _Types> struct _Is_function<_Ret __fastcall(_Types...) const volatile  noexcept> : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __stdcall(_Types...) const volatile  noexcept> : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __vectorcall(_Types...) const volatile  noexcept> : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __cdecl(_Types...)  & noexcept> : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; };  template <class _Ret, class... _Types> struct _Is_function<_Ret __fastcall(_Types...)  & noexcept> : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __stdcall(_Types...)  & noexcept> : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __vectorcall(_Types...)  & noexcept> : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __cdecl(_Types...) const & noexcept> : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; };  template <class _Ret, class... _Types> struct _Is_function<_Ret __fastcall(_Types...) const & noexcept> : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __stdcall(_Types...) const & noexcept> : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __vectorcall(_Types...) const & noexcept> : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __cdecl(_Types...) volatile & noexcept> : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; };  template <class _Ret, class... _Types> struct _Is_function<_Ret __fastcall(_Types...) volatile & noexcept> : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __stdcall(_Types...) volatile & noexcept> : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __vectorcall(_Types...) volatile & noexcept> : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __cdecl(_Types...) const volatile & noexcept> : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; };  template <class _Ret, class... _Types> struct _Is_function<_Ret __fastcall(_Types...) const volatile & noexcept> : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __stdcall(_Types...) const volatile & noexcept> : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __vectorcall(_Types...) const volatile & noexcept> : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __cdecl(_Types...)  && noexcept> : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; };  template <class _Ret, class... _Types> struct _Is_function<_Ret __fastcall(_Types...)  && noexcept> : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __stdcall(_Types...)  && noexcept> : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __vectorcall(_Types...)  && noexcept> : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __cdecl(_Types...) const && noexcept> : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; };  template <class _Ret, class... _Types> struct _Is_function<_Ret __fastcall(_Types...) const && noexcept> : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __stdcall(_Types...) const && noexcept> : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __vectorcall(_Types...) const && noexcept> : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __cdecl(_Types...) volatile && noexcept> : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; };  template <class _Ret, class... _Types> struct _Is_function<_Ret __fastcall(_Types...) volatile && noexcept> : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __stdcall(_Types...) volatile && noexcept> : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __vectorcall(_Types...) volatile && noexcept> : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __cdecl(_Types...) const volatile && noexcept> : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; };  template <class _Ret, class... _Types> struct _Is_function<_Ret __fastcall(_Types...) const volatile && noexcept> : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __stdcall(_Types...) const volatile && noexcept> : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret __vectorcall(_Types...) const volatile && noexcept> : _Arg_types<_Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; };
 
 
 
@@ -24003,14 +24003,14 @@ template <class _Ret, class... _Types> struct _Is_function<_Ret __cdecl(_Types..
 
 
 
-template <class _Ret, class... _Types> struct _Is_function<_Ret(_Types..., ...) > { using _Bool_type = true_type;  typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret(_Types..., ...) const> { using _Bool_type = true_type;  typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret(_Types..., ...) volatile> { using _Bool_type = true_type;  typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret(_Types..., ...) const volatile> { using _Bool_type = true_type;  typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret(_Types..., ...) &> { using _Bool_type = true_type;  typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret(_Types..., ...) const&> { using _Bool_type = true_type;  typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret(_Types..., ...) volatile&> { using _Bool_type = true_type;  typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret(_Types..., ...) const volatile&> { using _Bool_type = true_type;  typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret(_Types..., ...) &&> { using _Bool_type = true_type;  typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret(_Types..., ...) const&&> { using _Bool_type = true_type;  typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret(_Types..., ...) volatile&&> { using _Bool_type = true_type;  typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret(_Types..., ...) const volatile&&> { using _Bool_type = true_type;  typedef _Ret result_type; };
+template <class _Ret, class... _Types> struct _Is_function<_Ret(_Types..., ...) > { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret(_Types..., ...) const> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret(_Types..., ...) volatile> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret(_Types..., ...) const volatile> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret(_Types..., ...) &> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret(_Types..., ...) const&> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret(_Types..., ...) volatile&> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret(_Types..., ...) const volatile&> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret(_Types..., ...) &&> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret(_Types..., ...) const&&> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret(_Types..., ...) volatile&&> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret(_Types..., ...) const volatile&&> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret(_Types..., ...) noexcept> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret(_Types..., ...) const noexcept> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret(_Types..., ...) volatile noexcept> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret(_Types..., ...) const volatile noexcept> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret(_Types..., ...) &noexcept> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret(_Types..., ...) const& noexcept> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret(_Types..., ...) volatile& noexcept> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret(_Types..., ...) const volatile& noexcept> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret(_Types..., ...) &&noexcept> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret(_Types..., ...) const&& noexcept> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret(_Types..., ...) volatile&& noexcept> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; }; template <class _Ret, class... _Types> struct _Is_function<_Ret(_Types..., ...) const volatile&& noexcept> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; };
 
 
 template <class _Ty>
 struct is_function : _Is_function<_Ty>::_Bool_type {}; 
 
 template <class _Ty>
- constexpr bool is_function_v = _Is_function<_Ty>::_Bool_type::value;
+inline constexpr bool is_function_v = _Is_function<_Ty>::_Bool_type::value;
 
 
 template <class _Ty>
@@ -24028,7 +24028,7 @@ struct _Is_memfunptr {
 
 
 
-template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__cdecl _Arg0::*)(_Types...)   > : _Arg_types< _Arg0*, _Types...> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int , int&&>, _Ret(_Types...)>; };  template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__fastcall _Arg0::*)(_Types...)   > : _Arg_types< _Arg0*, _Types...> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int , int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__stdcall _Arg0::*)(_Types...)   > : _Arg_types< _Arg0*, _Types...> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int , int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__thiscall _Arg0::*)(_Types...)   > : _Arg_types< _Arg0*, _Types...> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int , int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__vectorcall _Arg0::*)(_Types...)   > : _Arg_types< _Arg0*, _Types...> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int , int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__cdecl _Arg0::*)(_Types...) const  > : _Arg_types<const _Arg0*, _Types...> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int , int&&>, _Ret(_Types...)>; };  template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__fastcall _Arg0::*)(_Types...) const  > : _Arg_types<const _Arg0*, _Types...> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int , int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__stdcall _Arg0::*)(_Types...) const  > : _Arg_types<const _Arg0*, _Types...> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int , int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__thiscall _Arg0::*)(_Types...) const  > : _Arg_types<const _Arg0*, _Types...> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int , int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__vectorcall _Arg0::*)(_Types...) const  > : _Arg_types<const _Arg0*, _Types...> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int , int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__cdecl _Arg0::*)(_Types...) volatile  > : _Arg_types<volatile _Arg0*, _Types...> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int , int&&>, _Ret(_Types...)>; };  template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__fastcall _Arg0::*)(_Types...) volatile  > : _Arg_types<volatile _Arg0*, _Types...> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int , int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__stdcall _Arg0::*)(_Types...) volatile  > : _Arg_types<volatile _Arg0*, _Types...> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int , int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__thiscall _Arg0::*)(_Types...) volatile  > : _Arg_types<volatile _Arg0*, _Types...> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int , int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__vectorcall _Arg0::*)(_Types...) volatile  > : _Arg_types<volatile _Arg0*, _Types...> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int , int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__cdecl _Arg0::*)(_Types...) const volatile  > : _Arg_types<const volatile _Arg0*, _Types...> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int , int&&>, _Ret(_Types...)>; };  template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__fastcall _Arg0::*)(_Types...) const volatile  > : _Arg_types<const volatile _Arg0*, _Types...> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int , int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__stdcall _Arg0::*)(_Types...) const volatile  > : _Arg_types<const volatile _Arg0*, _Types...> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int , int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__thiscall _Arg0::*)(_Types...) const volatile  > : _Arg_types<const volatile _Arg0*, _Types...> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int , int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__vectorcall _Arg0::*)(_Types...) const volatile  > : _Arg_types<const volatile _Arg0*, _Types...> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int , int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__cdecl _Arg0::*)(_Types...)  & > : _Arg_types< _Arg0*, _Types...> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &, int&&>, _Ret(_Types...)>; };  template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__fastcall _Arg0::*)(_Types...)  & > : _Arg_types< _Arg0*, _Types...> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__stdcall _Arg0::*)(_Types...)  & > : _Arg_types< _Arg0*, _Types...> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__thiscall _Arg0::*)(_Types...)  & > : _Arg_types< _Arg0*, _Types...> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__vectorcall _Arg0::*)(_Types...)  & > : _Arg_types< _Arg0*, _Types...> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__cdecl _Arg0::*)(_Types...) const & > : _Arg_types<const _Arg0*, _Types...> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &, int&&>, _Ret(_Types...)>; };  template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__fastcall _Arg0::*)(_Types...) const & > : _Arg_types<const _Arg0*, _Types...> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__stdcall _Arg0::*)(_Types...) const & > : _Arg_types<const _Arg0*, _Types...> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__thiscall _Arg0::*)(_Types...) const & > : _Arg_types<const _Arg0*, _Types...> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__vectorcall _Arg0::*)(_Types...) const & > : _Arg_types<const _Arg0*, _Types...> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__cdecl _Arg0::*)(_Types...) volatile & > : _Arg_types<volatile _Arg0*, _Types...> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &, int&&>, _Ret(_Types...)>; };  template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__fastcall _Arg0::*)(_Types...) volatile & > : _Arg_types<volatile _Arg0*, _Types...> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__stdcall _Arg0::*)(_Types...) volatile & > : _Arg_types<volatile _Arg0*, _Types...> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__thiscall _Arg0::*)(_Types...) volatile & > : _Arg_types<volatile _Arg0*, _Types...> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__vectorcall _Arg0::*)(_Types...) volatile & > : _Arg_types<volatile _Arg0*, _Types...> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__cdecl _Arg0::*)(_Types...) const volatile & > : _Arg_types<const volatile _Arg0*, _Types...> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &, int&&>, _Ret(_Types...)>; };  template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__fastcall _Arg0::*)(_Types...) const volatile & > : _Arg_types<const volatile _Arg0*, _Types...> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__stdcall _Arg0::*)(_Types...) const volatile & > : _Arg_types<const volatile _Arg0*, _Types...> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__thiscall _Arg0::*)(_Types...) const volatile & > : _Arg_types<const volatile _Arg0*, _Types...> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__vectorcall _Arg0::*)(_Types...) const volatile & > : _Arg_types<const volatile _Arg0*, _Types...> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__cdecl _Arg0::*)(_Types...)  && > : _Arg_types< _Arg0*, _Types...> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &&, int&&>, _Ret(_Types...)>; };  template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__fastcall _Arg0::*)(_Types...)  && > : _Arg_types< _Arg0*, _Types...> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &&, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__stdcall _Arg0::*)(_Types...)  && > : _Arg_types< _Arg0*, _Types...> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &&, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__thiscall _Arg0::*)(_Types...)  && > : _Arg_types< _Arg0*, _Types...> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &&, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__vectorcall _Arg0::*)(_Types...)  && > : _Arg_types< _Arg0*, _Types...> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &&, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__cdecl _Arg0::*)(_Types...) const && > : _Arg_types<const _Arg0*, _Types...> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &&, int&&>, _Ret(_Types...)>; };  template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__fastcall _Arg0::*)(_Types...) const && > : _Arg_types<const _Arg0*, _Types...> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &&, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__stdcall _Arg0::*)(_Types...) const && > : _Arg_types<const _Arg0*, _Types...> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &&, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__thiscall _Arg0::*)(_Types...) const && > : _Arg_types<const _Arg0*, _Types...> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &&, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__vectorcall _Arg0::*)(_Types...) const && > : _Arg_types<const _Arg0*, _Types...> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &&, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__cdecl _Arg0::*)(_Types...) volatile && > : _Arg_types<volatile _Arg0*, _Types...> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &&, int&&>, _Ret(_Types...)>; };  template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__fastcall _Arg0::*)(_Types...) volatile && > : _Arg_types<volatile _Arg0*, _Types...> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &&, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__stdcall _Arg0::*)(_Types...) volatile && > : _Arg_types<volatile _Arg0*, _Types...> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &&, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__thiscall _Arg0::*)(_Types...) volatile && > : _Arg_types<volatile _Arg0*, _Types...> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &&, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__vectorcall _Arg0::*)(_Types...) volatile && > : _Arg_types<volatile _Arg0*, _Types...> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &&, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__cdecl _Arg0::*)(_Types...) const volatile && > : _Arg_types<const volatile _Arg0*, _Types...> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &&, int&&>, _Ret(_Types...)>; };  template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__fastcall _Arg0::*)(_Types...) const volatile && > : _Arg_types<const volatile _Arg0*, _Types...> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &&, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__stdcall _Arg0::*)(_Types...) const volatile && > : _Arg_types<const volatile _Arg0*, _Types...> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &&, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__thiscall _Arg0::*)(_Types...) const volatile && > : _Arg_types<const volatile _Arg0*, _Types...> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &&, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__vectorcall _Arg0::*)(_Types...) const volatile && > : _Arg_types<const volatile _Arg0*, _Types...> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &&, int&&>, _Ret(_Types...)>; };
+template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__cdecl _Arg0::*)(_Types...)   > : _Arg_types< _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int , int&&>, _Ret(_Types...)>; };  template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__fastcall _Arg0::*)(_Types...)   > : _Arg_types< _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int , int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__stdcall _Arg0::*)(_Types...)   > : _Arg_types< _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int , int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__thiscall _Arg0::*)(_Types...)   > : _Arg_types< _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int , int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__vectorcall _Arg0::*)(_Types...)   > : _Arg_types< _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int , int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__cdecl _Arg0::*)(_Types...) const  > : _Arg_types<const _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int , int&&>, _Ret(_Types...)>; };  template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__fastcall _Arg0::*)(_Types...) const  > : _Arg_types<const _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int , int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__stdcall _Arg0::*)(_Types...) const  > : _Arg_types<const _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int , int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__thiscall _Arg0::*)(_Types...) const  > : _Arg_types<const _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int , int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__vectorcall _Arg0::*)(_Types...) const  > : _Arg_types<const _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int , int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__cdecl _Arg0::*)(_Types...) volatile  > : _Arg_types<volatile _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int , int&&>, _Ret(_Types...)>; };  template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__fastcall _Arg0::*)(_Types...) volatile  > : _Arg_types<volatile _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int , int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__stdcall _Arg0::*)(_Types...) volatile  > : _Arg_types<volatile _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int , int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__thiscall _Arg0::*)(_Types...) volatile  > : _Arg_types<volatile _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int , int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__vectorcall _Arg0::*)(_Types...) volatile  > : _Arg_types<volatile _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int , int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__cdecl _Arg0::*)(_Types...) const volatile  > : _Arg_types<const volatile _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int , int&&>, _Ret(_Types...)>; };  template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__fastcall _Arg0::*)(_Types...) const volatile  > : _Arg_types<const volatile _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int , int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__stdcall _Arg0::*)(_Types...) const volatile  > : _Arg_types<const volatile _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int , int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__thiscall _Arg0::*)(_Types...) const volatile  > : _Arg_types<const volatile _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int , int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__vectorcall _Arg0::*)(_Types...) const volatile  > : _Arg_types<const volatile _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int , int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__cdecl _Arg0::*)(_Types...)  & > : _Arg_types< _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &, int&&>, _Ret(_Types...)>; };  template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__fastcall _Arg0::*)(_Types...)  & > : _Arg_types< _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__stdcall _Arg0::*)(_Types...)  & > : _Arg_types< _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__thiscall _Arg0::*)(_Types...)  & > : _Arg_types< _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__vectorcall _Arg0::*)(_Types...)  & > : _Arg_types< _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__cdecl _Arg0::*)(_Types...) const & > : _Arg_types<const _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &, int&&>, _Ret(_Types...)>; };  template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__fastcall _Arg0::*)(_Types...) const & > : _Arg_types<const _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__stdcall _Arg0::*)(_Types...) const & > : _Arg_types<const _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__thiscall _Arg0::*)(_Types...) const & > : _Arg_types<const _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__vectorcall _Arg0::*)(_Types...) const & > : _Arg_types<const _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__cdecl _Arg0::*)(_Types...) volatile & > : _Arg_types<volatile _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &, int&&>, _Ret(_Types...)>; };  template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__fastcall _Arg0::*)(_Types...) volatile & > : _Arg_types<volatile _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__stdcall _Arg0::*)(_Types...) volatile & > : _Arg_types<volatile _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__thiscall _Arg0::*)(_Types...) volatile & > : _Arg_types<volatile _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__vectorcall _Arg0::*)(_Types...) volatile & > : _Arg_types<volatile _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__cdecl _Arg0::*)(_Types...) const volatile & > : _Arg_types<const volatile _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &, int&&>, _Ret(_Types...)>; };  template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__fastcall _Arg0::*)(_Types...) const volatile & > : _Arg_types<const volatile _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__stdcall _Arg0::*)(_Types...) const volatile & > : _Arg_types<const volatile _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__thiscall _Arg0::*)(_Types...) const volatile & > : _Arg_types<const volatile _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__vectorcall _Arg0::*)(_Types...) const volatile & > : _Arg_types<const volatile _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__cdecl _Arg0::*)(_Types...)  && > : _Arg_types< _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &&, int&&>, _Ret(_Types...)>; };  template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__fastcall _Arg0::*)(_Types...)  && > : _Arg_types< _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &&, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__stdcall _Arg0::*)(_Types...)  && > : _Arg_types< _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &&, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__thiscall _Arg0::*)(_Types...)  && > : _Arg_types< _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &&, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__vectorcall _Arg0::*)(_Types...)  && > : _Arg_types< _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &&, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__cdecl _Arg0::*)(_Types...) const && > : _Arg_types<const _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &&, int&&>, _Ret(_Types...)>; };  template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__fastcall _Arg0::*)(_Types...) const && > : _Arg_types<const _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &&, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__stdcall _Arg0::*)(_Types...) const && > : _Arg_types<const _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &&, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__thiscall _Arg0::*)(_Types...) const && > : _Arg_types<const _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &&, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__vectorcall _Arg0::*)(_Types...) const && > : _Arg_types<const _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &&, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__cdecl _Arg0::*)(_Types...) volatile && > : _Arg_types<volatile _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &&, int&&>, _Ret(_Types...)>; };  template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__fastcall _Arg0::*)(_Types...) volatile && > : _Arg_types<volatile _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &&, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__stdcall _Arg0::*)(_Types...) volatile && > : _Arg_types<volatile _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &&, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__thiscall _Arg0::*)(_Types...) volatile && > : _Arg_types<volatile _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &&, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__vectorcall _Arg0::*)(_Types...) volatile && > : _Arg_types<volatile _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &&, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__cdecl _Arg0::*)(_Types...) const volatile && > : _Arg_types<const volatile _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &&, int&&>, _Ret(_Types...)>; };  template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__fastcall _Arg0::*)(_Types...) const volatile && > : _Arg_types<const volatile _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &&, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__stdcall _Arg0::*)(_Types...) const volatile && > : _Arg_types<const volatile _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &&, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__thiscall _Arg0::*)(_Types...) const volatile && > : _Arg_types<const volatile _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &&, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__vectorcall _Arg0::*)(_Types...) const volatile && > : _Arg_types<const volatile _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &&, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__cdecl _Arg0::*)(_Types...)   noexcept> : _Arg_types< _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int , int&&>, _Ret(_Types...)>; };  template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__fastcall _Arg0::*)(_Types...)   noexcept> : _Arg_types< _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int , int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__stdcall _Arg0::*)(_Types...)   noexcept> : _Arg_types< _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int , int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__thiscall _Arg0::*)(_Types...)   noexcept> : _Arg_types< _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int , int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__vectorcall _Arg0::*)(_Types...)   noexcept> : _Arg_types< _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int , int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__cdecl _Arg0::*)(_Types...) const  noexcept> : _Arg_types<const _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int , int&&>, _Ret(_Types...)>; };  template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__fastcall _Arg0::*)(_Types...) const  noexcept> : _Arg_types<const _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int , int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__stdcall _Arg0::*)(_Types...) const  noexcept> : _Arg_types<const _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int , int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__thiscall _Arg0::*)(_Types...) const  noexcept> : _Arg_types<const _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int , int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__vectorcall _Arg0::*)(_Types...) const  noexcept> : _Arg_types<const _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int , int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__cdecl _Arg0::*)(_Types...) volatile  noexcept> : _Arg_types<volatile _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int , int&&>, _Ret(_Types...)>; };  template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__fastcall _Arg0::*)(_Types...) volatile  noexcept> : _Arg_types<volatile _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int , int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__stdcall _Arg0::*)(_Types...) volatile  noexcept> : _Arg_types<volatile _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int , int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__thiscall _Arg0::*)(_Types...) volatile  noexcept> : _Arg_types<volatile _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int , int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__vectorcall _Arg0::*)(_Types...) volatile  noexcept> : _Arg_types<volatile _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int , int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__cdecl _Arg0::*)(_Types...) const volatile  noexcept> : _Arg_types<const volatile _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int , int&&>, _Ret(_Types...)>; };  template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__fastcall _Arg0::*)(_Types...) const volatile  noexcept> : _Arg_types<const volatile _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int , int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__stdcall _Arg0::*)(_Types...) const volatile  noexcept> : _Arg_types<const volatile _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int , int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__thiscall _Arg0::*)(_Types...) const volatile  noexcept> : _Arg_types<const volatile _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int , int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__vectorcall _Arg0::*)(_Types...) const volatile  noexcept> : _Arg_types<const volatile _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int , int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__cdecl _Arg0::*)(_Types...)  & noexcept> : _Arg_types< _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &, int&&>, _Ret(_Types...)>; };  template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__fastcall _Arg0::*)(_Types...)  & noexcept> : _Arg_types< _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__stdcall _Arg0::*)(_Types...)  & noexcept> : _Arg_types< _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__thiscall _Arg0::*)(_Types...)  & noexcept> : _Arg_types< _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__vectorcall _Arg0::*)(_Types...)  & noexcept> : _Arg_types< _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__cdecl _Arg0::*)(_Types...) const & noexcept> : _Arg_types<const _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &, int&&>, _Ret(_Types...)>; };  template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__fastcall _Arg0::*)(_Types...) const & noexcept> : _Arg_types<const _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__stdcall _Arg0::*)(_Types...) const & noexcept> : _Arg_types<const _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__thiscall _Arg0::*)(_Types...) const & noexcept> : _Arg_types<const _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__vectorcall _Arg0::*)(_Types...) const & noexcept> : _Arg_types<const _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__cdecl _Arg0::*)(_Types...) volatile & noexcept> : _Arg_types<volatile _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &, int&&>, _Ret(_Types...)>; };  template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__fastcall _Arg0::*)(_Types...) volatile & noexcept> : _Arg_types<volatile _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__stdcall _Arg0::*)(_Types...) volatile & noexcept> : _Arg_types<volatile _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__thiscall _Arg0::*)(_Types...) volatile & noexcept> : _Arg_types<volatile _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__vectorcall _Arg0::*)(_Types...) volatile & noexcept> : _Arg_types<volatile _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__cdecl _Arg0::*)(_Types...) const volatile & noexcept> : _Arg_types<const volatile _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &, int&&>, _Ret(_Types...)>; };  template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__fastcall _Arg0::*)(_Types...) const volatile & noexcept> : _Arg_types<const volatile _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__stdcall _Arg0::*)(_Types...) const volatile & noexcept> : _Arg_types<const volatile _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__thiscall _Arg0::*)(_Types...) const volatile & noexcept> : _Arg_types<const volatile _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__vectorcall _Arg0::*)(_Types...) const volatile & noexcept> : _Arg_types<const volatile _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__cdecl _Arg0::*)(_Types...)  && noexcept> : _Arg_types< _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &&, int&&>, _Ret(_Types...)>; };  template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__fastcall _Arg0::*)(_Types...)  && noexcept> : _Arg_types< _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &&, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__stdcall _Arg0::*)(_Types...)  && noexcept> : _Arg_types< _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &&, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__thiscall _Arg0::*)(_Types...)  && noexcept> : _Arg_types< _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &&, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__vectorcall _Arg0::*)(_Types...)  && noexcept> : _Arg_types< _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &&, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__cdecl _Arg0::*)(_Types...) const && noexcept> : _Arg_types<const _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &&, int&&>, _Ret(_Types...)>; };  template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__fastcall _Arg0::*)(_Types...) const && noexcept> : _Arg_types<const _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &&, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__stdcall _Arg0::*)(_Types...) const && noexcept> : _Arg_types<const _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &&, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__thiscall _Arg0::*)(_Types...) const && noexcept> : _Arg_types<const _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &&, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__vectorcall _Arg0::*)(_Types...) const && noexcept> : _Arg_types<const _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &&, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__cdecl _Arg0::*)(_Types...) volatile && noexcept> : _Arg_types<volatile _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &&, int&&>, _Ret(_Types...)>; };  template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__fastcall _Arg0::*)(_Types...) volatile && noexcept> : _Arg_types<volatile _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &&, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__stdcall _Arg0::*)(_Types...) volatile && noexcept> : _Arg_types<volatile _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &&, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__thiscall _Arg0::*)(_Types...) volatile && noexcept> : _Arg_types<volatile _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &&, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__vectorcall _Arg0::*)(_Types...) volatile && noexcept> : _Arg_types<volatile _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &&, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__cdecl _Arg0::*)(_Types...) const volatile && noexcept> : _Arg_types<const volatile _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &&, int&&>, _Ret(_Types...)>; };  template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__fastcall _Arg0::*)(_Types...) const volatile && noexcept> : _Arg_types<const volatile _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &&, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__stdcall _Arg0::*)(_Types...) const volatile && noexcept> : _Arg_types<const volatile _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &&, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__thiscall _Arg0::*)(_Types...) const volatile && noexcept> : _Arg_types<const volatile _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &&, int&&>, _Ret(_Types...)>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (__vectorcall _Arg0::*)(_Types...) const volatile && noexcept> : _Arg_types<const volatile _Arg0*, _Types...> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<!is_same_v<int &&, int&&>, _Ret(_Types...)>; };
 
 
 
@@ -24041,12 +24041,12 @@ template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (_
 
 
 
-template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (_Arg0::*)(_Types..., ...) > { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<false>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (_Arg0::*)(_Types..., ...) const> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<false>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (_Arg0::*)(_Types..., ...) volatile> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<false>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (_Arg0::*)(_Types..., ...) const volatile> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<false>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (_Arg0::*)(_Types..., ...) &> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<false>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (_Arg0::*)(_Types..., ...) const&> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<false>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (_Arg0::*)(_Types..., ...) volatile&> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<false>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (_Arg0::*)(_Types..., ...) const volatile&> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<false>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (_Arg0::*)(_Types..., ...) &&> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<false>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (_Arg0::*)(_Types..., ...) const&&> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<false>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (_Arg0::*)(_Types..., ...) volatile&&> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<false>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (_Arg0::*)(_Types..., ...) const volatile&&> { using _Bool_type = true_type;  typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<false>; };
+template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (_Arg0::*)(_Types..., ...) > { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<false>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (_Arg0::*)(_Types..., ...) const> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<false>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (_Arg0::*)(_Types..., ...) volatile> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<false>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (_Arg0::*)(_Types..., ...) const volatile> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<false>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (_Arg0::*)(_Types..., ...) &> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<false>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (_Arg0::*)(_Types..., ...) const&> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<false>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (_Arg0::*)(_Types..., ...) volatile&> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<false>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (_Arg0::*)(_Types..., ...) const volatile&> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<false>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (_Arg0::*)(_Types..., ...) &&> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<false>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (_Arg0::*)(_Types..., ...) const&&> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<false>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (_Arg0::*)(_Types..., ...) volatile&&> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<false>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (_Arg0::*)(_Types..., ...) const volatile&&> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<false>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (_Arg0::*)(_Types..., ...) noexcept> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<false>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (_Arg0::*)(_Types..., ...) const noexcept> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<false>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (_Arg0::*)(_Types..., ...) volatile noexcept> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<false>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (_Arg0::*)(_Types..., ...) const volatile noexcept> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<false>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (_Arg0::*)(_Types..., ...) &noexcept> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<false>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (_Arg0::*)(_Types..., ...) const& noexcept> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<false>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (_Arg0::*)(_Types..., ...) volatile& noexcept> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<false>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (_Arg0::*)(_Types..., ...) const volatile& noexcept> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<false>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (_Arg0::*)(_Types..., ...) &&noexcept> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<false>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (_Arg0::*)(_Types..., ...) const&& noexcept> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<false>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (_Arg0::*)(_Types..., ...) volatile&& noexcept> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<false>; }; template <class _Ret, class _Arg0, class... _Types> struct _Is_memfunptr<_Ret (_Arg0::*)(_Types..., ...) const volatile&& noexcept> { using _Bool_type = true_type; [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ret result_type; using _Class_type = _Arg0; using _Guide_type = enable_if<false>; };
 
 
 
 template <class _Ty>
- constexpr bool is_void_v = is_same_v<remove_cv_t<_Ty>, void>;
+inline constexpr bool is_void_v = is_same_v<remove_cv_t<_Ty>, void>;
 
 template <class _Ty>
 struct is_void : bool_constant<is_void_v<_Ty>> {};
@@ -24208,13 +24208,13 @@ using add_pointer_t = typename _Add_pointer<_Ty>::type;
 
 
 template <class>
- constexpr bool is_array_v = false; 
+inline constexpr bool is_array_v = false; 
 
 template <class _Ty, size_t _Nx>
- constexpr bool is_array_v<_Ty[_Nx]> = true;
+inline constexpr bool is_array_v<_Ty[_Nx]> = true;
 
 template <class _Ty>
- constexpr bool is_array_v<_Ty[]> = true;
+inline constexpr bool is_array_v<_Ty[]> = true;
 
 template <class _Ty>
 struct is_array : bool_constant<is_array_v<_Ty>> {};
@@ -24243,33 +24243,33 @@ struct is_array : bool_constant<is_array_v<_Ty>> {};
 
 
 template <class>
- constexpr bool is_lvalue_reference_v = false; 
+inline constexpr bool is_lvalue_reference_v = false; 
 
 template <class _Ty>
- constexpr bool is_lvalue_reference_v<_Ty&> = true;
+inline constexpr bool is_lvalue_reference_v<_Ty&> = true;
 
 template <class _Ty>
 struct is_lvalue_reference : bool_constant<is_lvalue_reference_v<_Ty>> {};
 
 
 template <class>
- constexpr bool is_rvalue_reference_v = false; 
+inline constexpr bool is_rvalue_reference_v = false; 
 
 template <class _Ty>
- constexpr bool is_rvalue_reference_v<_Ty&&> = true;
+inline constexpr bool is_rvalue_reference_v<_Ty&&> = true;
 
 template <class _Ty>
 struct is_rvalue_reference : bool_constant<is_rvalue_reference_v<_Ty>> {};
 
 
 template <class>
- constexpr bool is_reference_v = false; 
+inline constexpr bool is_reference_v = false; 
 
 template <class _Ty>
- constexpr bool is_reference_v<_Ty&> = true;
+inline constexpr bool is_reference_v<_Ty&> = true;
 
 template <class _Ty>
- constexpr bool is_reference_v<_Ty&&> = true;
+inline constexpr bool is_reference_v<_Ty&&> = true;
 
 template <class _Ty>
 struct is_reference : bool_constant<is_reference_v<_Ty>> {};
@@ -24287,7 +24287,7 @@ struct _Is_member_object_pointer<_Ty1 _Ty2::*, false> {
 };
 
 template <class _Ty>
- constexpr bool is_member_object_pointer_v = 
+inline constexpr bool is_member_object_pointer_v = 
     _Is_member_object_pointer<remove_cv_t<_Ty>>::value;
 
 template <class _Ty>
@@ -24295,7 +24295,7 @@ struct is_member_object_pointer : bool_constant<is_member_object_pointer_v<_Ty>>
 
 
 template <class _Ty>
- constexpr bool is_member_function_pointer_v = 
+inline constexpr bool is_member_function_pointer_v = 
     _Is_memfunptr<remove_cv_t<_Ty>>::_Bool_type::value;
 
 template <class _Ty>
@@ -24303,26 +24303,26 @@ struct is_member_function_pointer : bool_constant<is_member_function_pointer_v<_
 
 
 template <class>
- constexpr bool is_pointer_v = false; 
+inline constexpr bool is_pointer_v = false; 
 
 template <class _Ty>
- constexpr bool is_pointer_v<_Ty*> = true;
+inline constexpr bool is_pointer_v<_Ty*> = true;
 
 template <class _Ty>
- constexpr bool is_pointer_v<_Ty* const> = true;
+inline constexpr bool is_pointer_v<_Ty* const> = true;
 
 template <class _Ty>
- constexpr bool is_pointer_v<_Ty* volatile> = true;
+inline constexpr bool is_pointer_v<_Ty* volatile> = true;
 
 template <class _Ty>
- constexpr bool is_pointer_v<_Ty* const volatile> = true;
+inline constexpr bool is_pointer_v<_Ty* const volatile> = true;
 
 template <class _Ty>
 struct is_pointer : bool_constant<is_pointer_v<_Ty>> {};
 
 
 template <class _Ty>
- constexpr bool is_null_pointer_v =
+inline constexpr bool is_null_pointer_v =
     is_same_v<remove_cv_t<_Ty>, nullptr_t>; 
 
 template <class _Ty>
@@ -24333,25 +24333,25 @@ template <class _Ty>
 struct is_union : bool_constant<__is_union(_Ty)> {}; 
 
 template <class _Ty>
- constexpr bool is_union_v = __is_union(_Ty);
+inline constexpr bool is_union_v = __is_union(_Ty);
 
 
 template <class _Ty>
 struct is_class : bool_constant<__is_class(_Ty)> {}; 
 
 template <class _Ty>
- constexpr bool is_class_v = __is_class(_Ty);
+inline constexpr bool is_class_v = __is_class(_Ty);
 
 
 template <class _Ty>
- constexpr bool is_fundamental_v = is_arithmetic_v<_Ty> || is_void_v<_Ty> || is_null_pointer_v<_Ty>;
+inline constexpr bool is_fundamental_v = is_arithmetic_v<_Ty> || is_void_v<_Ty> || is_null_pointer_v<_Ty>;
 
 template <class _Ty>
 struct is_fundamental : bool_constant<is_fundamental_v<_Ty>> {}; 
 
 
 template <class _Ty>
- constexpr bool is_object_v = !is_function_v<_Ty> && !is_reference_v<_Ty> && !is_void_v<_Ty>;
+inline constexpr bool is_object_v = !is_function_v<_Ty> && !is_reference_v<_Ty> && !is_void_v<_Ty>;
 
 template <class _Ty>
 struct is_object : bool_constant<is_object_v<_Ty>> {}; 
@@ -24363,32 +24363,32 @@ struct is_convertible : bool_constant<__is_convertible_to(_From, _To)> {
 };
 
 template <class _From, class _To>
- constexpr bool is_convertible_v = __is_convertible_to(_From, _To);
+inline constexpr bool is_convertible_v = __is_convertible_to(_From, _To);
 
 
 template <class _Ty>
 struct is_enum : bool_constant<__is_enum(_Ty)> {}; 
 
 template <class _Ty>
- constexpr bool is_enum_v = __is_enum(_Ty);
+inline constexpr bool is_enum_v = __is_enum(_Ty);
 
 
 template <class _Ty>
 struct is_compound : bool_constant<!is_fundamental_v<_Ty>> {}; 
 
 template <class _Ty>
- constexpr bool is_compound_v = !is_fundamental_v<_Ty>;
+inline constexpr bool is_compound_v = !is_fundamental_v<_Ty>;
 
 
 template <class _Ty>
- constexpr bool is_member_pointer_v = is_member_object_pointer_v<_Ty> || is_member_function_pointer_v<_Ty>;
+inline constexpr bool is_member_pointer_v = is_member_object_pointer_v<_Ty> || is_member_function_pointer_v<_Ty>;
 
 template <class _Ty>
 struct is_member_pointer : bool_constant<is_member_pointer_v<_Ty>> {}; 
 
 
 template <class _Ty>
- constexpr bool is_scalar_v = 
+inline constexpr bool is_scalar_v = 
     is_arithmetic_v<_Ty> || is_enum_v<_Ty> || is_pointer_v<_Ty> || is_member_pointer_v<_Ty> || is_null_pointer_v<_Ty>;
 
 template <class _Ty>
@@ -24396,20 +24396,20 @@ struct is_scalar : bool_constant<is_scalar_v<_Ty>> {};
 
 
 template <class>
- constexpr bool is_const_v = false; 
+inline constexpr bool is_const_v = false; 
 
 template <class _Ty>
- constexpr bool is_const_v<const _Ty> = true;
+inline constexpr bool is_const_v<const _Ty> = true;
 
 template <class _Ty>
 struct is_const : bool_constant<is_const_v<_Ty>> {};
 
 
 template <class>
- constexpr bool is_volatile_v = false; 
+inline constexpr bool is_volatile_v = false; 
 
 template <class _Ty>
- constexpr bool is_volatile_v<volatile _Ty> = true;
+inline constexpr bool is_volatile_v<volatile _Ty> = true;
 
 template <class _Ty>
 struct is_volatile : bool_constant<is_volatile_v<_Ty>> {};
@@ -24419,52 +24419,52 @@ template <class _Ty>
 struct  is_pod : bool_constant<__is_pod(_Ty)> {}; 
 
 template <class _Ty>
-  constexpr bool is_pod_v = __is_pod(_Ty);
+ inline constexpr bool is_pod_v = __is_pod(_Ty);
 
 
 template <class _Ty>
 struct is_empty : bool_constant<__is_empty(_Ty)> {}; 
 
 template <class _Ty>
- constexpr bool is_empty_v = __is_empty(_Ty);
+inline constexpr bool is_empty_v = __is_empty(_Ty);
 
 
 template <class _Ty>
 struct is_polymorphic : bool_constant<__is_polymorphic(_Ty)> {}; 
 
 template <class _Ty>
- constexpr bool is_polymorphic_v = __is_polymorphic(_Ty);
+inline constexpr bool is_polymorphic_v = __is_polymorphic(_Ty);
 
 
 template <class _Ty>
 struct is_abstract : bool_constant<__is_abstract(_Ty)> {}; 
 
 template <class _Ty>
- constexpr bool is_abstract_v = __is_abstract(_Ty);
+inline constexpr bool is_abstract_v = __is_abstract(_Ty);
 
 
 template <class _Ty>
 struct is_final : bool_constant<__is_final(_Ty)> {}; 
 
 template <class _Ty>
- constexpr bool is_final_v = __is_final(_Ty);
+inline constexpr bool is_final_v = __is_final(_Ty);
 
 
 template <class _Ty>
 struct is_standard_layout : bool_constant<__is_standard_layout(_Ty)> {}; 
 
 template <class _Ty>
- constexpr bool is_standard_layout_v = __is_standard_layout(_Ty);
+inline constexpr bool is_standard_layout_v = __is_standard_layout(_Ty);
 
 
 
 template <class _Ty>
-struct  is_literal_type : bool_constant<__is_literal_type(_Ty)> {
+struct [[deprecated("warning STL4013: " "std::is_literal_type and std::is_literal_type_v are deprecated in C++17. " "You can define _SILENCE_CXX17_IS_LITERAL_TYPE_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] is_literal_type : bool_constant<__is_literal_type(_Ty)> {
     
 };
 
 template <class _Ty>
-  constexpr bool is_literal_type_v = __is_literal_type(_Ty);
+[[deprecated("warning STL4013: " "std::is_literal_type and std::is_literal_type_v are deprecated in C++17. " "You can define _SILENCE_CXX17_IS_LITERAL_TYPE_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] inline constexpr bool is_literal_type_v = __is_literal_type(_Ty);
 #line 576 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\type_traits"
 
 
@@ -24475,7 +24475,7 @@ struct is_trivial : bool_constant<__is_trivially_constructible(_Ty) && __is_triv
 };
 
 template <class _Ty>
- constexpr bool is_trivial_v = __is_trivially_constructible(_Ty) && __is_trivially_copyable(_Ty);
+inline constexpr bool is_trivial_v = __is_trivially_constructible(_Ty) && __is_trivially_copyable(_Ty);
 
 
 
@@ -24491,7 +24491,7 @@ struct is_trivially_copyable : bool_constant<__is_trivially_copyable(_Ty)> {
 };
 
 template <class _Ty>
- constexpr bool is_trivially_copyable_v = __is_trivially_copyable(_Ty);
+inline constexpr bool is_trivially_copyable_v = __is_trivially_copyable(_Ty);
 
 
 template <class _Ty>
@@ -24500,24 +24500,24 @@ struct has_virtual_destructor : bool_constant<__has_virtual_destructor(_Ty)> {
 };
 
 template <class _Ty>
- constexpr bool has_virtual_destructor_v = __has_virtual_destructor(_Ty);
+inline constexpr bool has_virtual_destructor_v = __has_virtual_destructor(_Ty);
 
 
 
+template <class _Ty>
+struct has_unique_object_representations : bool_constant<__has_unique_object_representations(_Ty)> {
+    
+};
+
+template <class _Ty>
+inline constexpr bool has_unique_object_representations_v = __has_unique_object_representations(_Ty);
 
 
+template <class _Ty>
+struct is_aggregate : bool_constant<__is_aggregate(_Ty)> {}; 
 
-
-
-
-
-
-
-
-
-
-
-
+template <class _Ty>
+inline constexpr bool is_aggregate_v = __is_aggregate(_Ty);
 #line 629 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\type_traits"
 
 
@@ -24528,7 +24528,7 @@ struct is_constructible : bool_constant<__is_constructible(_Ty, _Args...)> {
 };
 
 template <class _Ty, class... _Args>
- constexpr bool is_constructible_v = __is_constructible(_Ty, _Args...);
+inline constexpr bool is_constructible_v = __is_constructible(_Ty, _Args...);
 
 
 template <class _Ty>
@@ -24537,7 +24537,7 @@ struct is_copy_constructible : bool_constant<__is_constructible(_Ty, add_lvalue_
 };
 
 template <class _Ty>
- constexpr bool is_copy_constructible_v = __is_constructible(_Ty, add_lvalue_reference_t<const _Ty>);
+inline constexpr bool is_copy_constructible_v = __is_constructible(_Ty, add_lvalue_reference_t<const _Ty>);
 
 
 template <class _Ty>
@@ -24546,7 +24546,7 @@ struct is_default_constructible : bool_constant<__is_constructible(_Ty)> {
 };
 
 template <class _Ty>
- constexpr bool is_default_constructible_v = __is_constructible(_Ty);
+inline constexpr bool is_default_constructible_v = __is_constructible(_Ty);
 
 
 template <class _Ty, class = void>
@@ -24568,14 +24568,14 @@ struct is_move_constructible : bool_constant<__is_constructible(_Ty, _Ty)> {
 };
 
 template <class _Ty>
- constexpr bool is_move_constructible_v = __is_constructible(_Ty, _Ty);
+inline constexpr bool is_move_constructible_v = __is_constructible(_Ty, _Ty);
 
 
 template <class _To, class _From>
 struct is_assignable : bool_constant<__is_assignable(_To, _From)> {}; 
 
 template <class _To, class _From>
- constexpr bool is_assignable_v = __is_assignable(_To, _From);
+inline constexpr bool is_assignable_v = __is_assignable(_To, _From);
 
 
 template <class _Ty>
@@ -24585,7 +24585,7 @@ struct is_copy_assignable
 };
 
 template <class _Ty>
- constexpr bool is_copy_assignable_v = __is_assignable(
+inline constexpr bool is_copy_assignable_v = __is_assignable(
     add_lvalue_reference_t<_Ty>, add_lvalue_reference_t<const _Ty>);
 
 
@@ -24595,7 +24595,7 @@ struct _Is_copy_assignable_no_precondition_check
           add_lvalue_reference_t<_Ty>, add_lvalue_reference_t<const _Ty>)> {};
 
 template <class _Ty>
- constexpr bool _Is_copy_assignable_unchecked_v = __is_assignable_no_precondition_check(
+inline constexpr bool _Is_copy_assignable_unchecked_v = __is_assignable_no_precondition_check(
     add_lvalue_reference_t<_Ty>, add_lvalue_reference_t<const _Ty>);
 
 
@@ -24612,7 +24612,7 @@ struct is_move_assignable : bool_constant<__is_assignable(add_lvalue_reference_t
 };
 
 template <class _Ty>
- constexpr bool is_move_assignable_v = __is_assignable(add_lvalue_reference_t<_Ty>, _Ty);
+inline constexpr bool is_move_assignable_v = __is_assignable(add_lvalue_reference_t<_Ty>, _Ty);
 
 
 template <class _Ty>
@@ -24620,7 +24620,7 @@ struct _Is_move_assignable_no_precondition_check
     : bool_constant<__is_assignable_no_precondition_check(add_lvalue_reference_t<_Ty>, _Ty)> {};
 
 template <class _Ty>
- constexpr bool _Is_move_assignable_unchecked_v = __is_assignable_no_precondition_check(
+inline constexpr bool _Is_move_assignable_unchecked_v = __is_assignable_no_precondition_check(
     add_lvalue_reference_t<_Ty>, _Ty);
 
 
@@ -24637,7 +24637,7 @@ struct is_destructible : bool_constant<__is_destructible(_Ty)> {
 };
 
 template <class _Ty>
- constexpr bool is_destructible_v = __is_destructible(_Ty);
+inline constexpr bool is_destructible_v = __is_destructible(_Ty);
 
 
 
@@ -24647,7 +24647,7 @@ struct is_trivially_constructible : bool_constant<__is_trivially_constructible(_
 };
 
 template <class _Ty, class... _Args>
- constexpr bool is_trivially_constructible_v = __is_trivially_constructible(_Ty, _Args...);
+inline constexpr bool is_trivially_constructible_v = __is_trivially_constructible(_Ty, _Args...);
 
 
 template <class _Ty>
@@ -24657,7 +24657,7 @@ struct is_trivially_copy_constructible
 };
 
 template <class _Ty>
- constexpr bool is_trivially_copy_constructible_v = __is_trivially_constructible(
+inline constexpr bool is_trivially_copy_constructible_v = __is_trivially_constructible(
     _Ty, add_lvalue_reference_t<const _Ty>);
 
 
@@ -24667,7 +24667,7 @@ struct is_trivially_default_constructible : bool_constant<__is_trivially_constru
 };
 
 template <class _Ty>
- constexpr bool is_trivially_default_constructible_v = __is_trivially_constructible(_Ty);
+inline constexpr bool is_trivially_default_constructible_v = __is_trivially_constructible(_Ty);
 
 
 template <class _Ty>
@@ -24676,7 +24676,7 @@ struct is_trivially_move_constructible : bool_constant<__is_trivially_constructi
 };
 
 template <class _Ty>
- constexpr bool is_trivially_move_constructible_v = __is_trivially_constructible(_Ty, _Ty);
+inline constexpr bool is_trivially_move_constructible_v = __is_trivially_constructible(_Ty, _Ty);
 
 
 template <class _To, class _From>
@@ -24685,7 +24685,7 @@ struct is_trivially_assignable : bool_constant<__is_trivially_assignable(_To, _F
 };
 
 template <class _To, class _From>
- constexpr bool is_trivially_assignable_v = __is_trivially_assignable(_To, _From);
+inline constexpr bool is_trivially_assignable_v = __is_trivially_assignable(_To, _From);
 
 
 template <class _Ty>
@@ -24695,7 +24695,7 @@ struct is_trivially_copy_assignable
 };
 
 template <class _Ty>
- constexpr bool is_trivially_copy_assignable_v = __is_trivially_assignable(
+inline constexpr bool is_trivially_copy_assignable_v = __is_trivially_assignable(
     add_lvalue_reference_t<_Ty>, add_lvalue_reference_t<const _Ty>);
 
 
@@ -24705,7 +24705,7 @@ struct is_trivially_move_assignable : bool_constant<__is_trivially_assignable(ad
 };
 
 template <class _Ty>
- constexpr bool is_trivially_move_assignable_v = __is_trivially_assignable(add_lvalue_reference_t<_Ty>, _Ty);
+inline constexpr bool is_trivially_move_assignable_v = __is_trivially_assignable(add_lvalue_reference_t<_Ty>, _Ty);
 
 
 template <class _Ty>
@@ -24714,7 +24714,7 @@ struct is_trivially_destructible : bool_constant<__is_trivially_destructible(_Ty
 };
 
 template <class _Ty>
- constexpr bool is_trivially_destructible_v = __is_trivially_destructible(_Ty);
+inline constexpr bool is_trivially_destructible_v = __is_trivially_destructible(_Ty);
 
 
 
@@ -24724,7 +24724,7 @@ struct is_nothrow_constructible : bool_constant<__is_nothrow_constructible(_Ty, 
 };
 
 template <class _Ty, class... _Args>
- constexpr bool is_nothrow_constructible_v = __is_nothrow_constructible(_Ty, _Args...);
+inline constexpr bool is_nothrow_constructible_v = __is_nothrow_constructible(_Ty, _Args...);
 
 
 template <class _Ty>
@@ -24735,7 +24735,7 @@ struct is_nothrow_copy_constructible
 };
 
 template <class _Ty>
- constexpr bool is_nothrow_copy_constructible_v = __is_nothrow_constructible(
+inline constexpr bool is_nothrow_copy_constructible_v = __is_nothrow_constructible(
     _Ty, add_lvalue_reference_t<const _Ty>);
 
 
@@ -24745,7 +24745,7 @@ struct is_nothrow_default_constructible : bool_constant<__is_nothrow_constructib
 };
 
 template <class _Ty>
- constexpr bool is_nothrow_default_constructible_v = __is_nothrow_constructible(_Ty);
+inline constexpr bool is_nothrow_default_constructible_v = __is_nothrow_constructible(_Ty);
 
 
 template <class _Ty>
@@ -24754,7 +24754,7 @@ struct is_nothrow_move_constructible : bool_constant<__is_nothrow_constructible(
 };
 
 template <class _Ty>
- constexpr bool is_nothrow_move_constructible_v = __is_nothrow_constructible(_Ty, _Ty);
+inline constexpr bool is_nothrow_move_constructible_v = __is_nothrow_constructible(_Ty, _Ty);
 
 
 template <class _To, class _From>
@@ -24763,7 +24763,7 @@ struct is_nothrow_assignable : bool_constant<__is_nothrow_assignable(_To, _From)
 };
 
 template <class _To, class _From>
- constexpr bool is_nothrow_assignable_v = __is_nothrow_assignable(_To, _From);
+inline constexpr bool is_nothrow_assignable_v = __is_nothrow_assignable(_To, _From);
 
 
 template <class _Ty>
@@ -24773,7 +24773,7 @@ struct is_nothrow_copy_assignable
 };
 
 template <class _Ty>
- constexpr bool is_nothrow_copy_assignable_v = __is_nothrow_assignable(
+inline constexpr bool is_nothrow_copy_assignable_v = __is_nothrow_assignable(
     add_lvalue_reference_t<_Ty>, add_lvalue_reference_t<const _Ty>);
 
 
@@ -24783,7 +24783,7 @@ struct is_nothrow_move_assignable : bool_constant<__is_nothrow_assignable(add_lv
 };
 
 template <class _Ty>
- constexpr bool is_nothrow_move_assignable_v = __is_nothrow_assignable(add_lvalue_reference_t<_Ty>, _Ty);
+inline constexpr bool is_nothrow_move_assignable_v = __is_nothrow_assignable(add_lvalue_reference_t<_Ty>, _Ty);
 
 
 template <class _Ty>
@@ -24793,7 +24793,7 @@ struct is_nothrow_destructible : bool_constant<__is_nothrow_destructible(_Ty)> {
 };
 
 template <class _Ty>
- constexpr bool is_nothrow_destructible_v = __is_nothrow_destructible(_Ty);
+inline constexpr bool is_nothrow_destructible_v = __is_nothrow_destructible(_Ty);
 
 
 template <class _Ty, bool = is_integral_v<_Ty>>
@@ -24815,18 +24815,18 @@ template <class _Ty>
 struct is_signed : bool_constant<_Sign_base<_Ty>::_Signed> {}; 
 
 template <class _Ty>
- constexpr bool is_signed_v = _Sign_base<_Ty>::_Signed;
+inline constexpr bool is_signed_v = _Sign_base<_Ty>::_Signed;
 
 
 template <class _Ty>
 struct is_unsigned : bool_constant<_Sign_base<_Ty>::_Unsigned> {}; 
 
 template <class _Ty>
- constexpr bool is_unsigned_v = _Sign_base<_Ty>::_Unsigned;
+inline constexpr bool is_unsigned_v = _Sign_base<_Ty>::_Unsigned;
 
 
 template <class _Ty>
- constexpr bool _Is_nonbool_integral = is_integral_v<_Ty> && !is_same_v<remove_cv_t<_Ty>, bool>;
+inline constexpr bool _Is_nonbool_integral = is_integral_v<_Ty> && !is_same_v<remove_cv_t<_Ty>, bool>;
 
 
 template <bool>
@@ -24942,7 +24942,7 @@ template <class _Ty>
 struct alignment_of : integral_constant<size_t, alignof(_Ty)> {}; 
 
 template <class _Ty>
- constexpr size_t alignment_of_v = alignof(_Ty);
+inline constexpr size_t alignment_of_v = alignof(_Ty);
 
 
 template <class _Ty, size_t _Len>
@@ -25057,29 +25057,29 @@ using underlying_type_t = typename _Underlying_type<_Ty>::type;
 
 
 template <class _Ty>
- constexpr size_t rank_v = 0; 
+inline constexpr size_t rank_v = 0; 
 
 template <class _Ty, size_t _Nx>
- constexpr size_t rank_v<_Ty[_Nx]> = rank_v<_Ty> + 1;
+inline constexpr size_t rank_v<_Ty[_Nx]> = rank_v<_Ty> + 1;
 
 template <class _Ty>
- constexpr size_t rank_v<_Ty[]> = rank_v<_Ty> + 1;
+inline constexpr size_t rank_v<_Ty[]> = rank_v<_Ty> + 1;
 
 template <class _Ty>
 struct rank : integral_constant<size_t, rank_v<_Ty>> {};
 
 
 template <class _Ty, unsigned int _Ix = 0>
- constexpr size_t extent_v = 0; 
+inline constexpr size_t extent_v = 0; 
 
 template <class _Ty, size_t _Nx>
- constexpr size_t extent_v<_Ty[_Nx], 0> = _Nx;
+inline constexpr size_t extent_v<_Ty[_Nx], 0> = _Nx;
 
 template <class _Ty, unsigned int _Ix, size_t _Nx>
- constexpr size_t extent_v<_Ty[_Nx], _Ix> = extent_v<_Ty, _Ix - 1>;
+inline constexpr size_t extent_v<_Ty[_Nx], _Ix> = extent_v<_Ty, _Ix - 1>;
 
 template <class _Ty, unsigned int _Ix>
- constexpr size_t extent_v<_Ty[], _Ix> = extent_v<_Ty, _Ix - 1>;
+inline constexpr size_t extent_v<_Ty[], _Ix> = extent_v<_Ty, _Ix - 1>;
 
 template <class _Ty, unsigned int _Ix = 0>
 struct extent : integral_constant<size_t, extent_v<_Ty, _Ix>> {};
@@ -25091,7 +25091,7 @@ struct is_base_of : bool_constant<__is_base_of(_Base, _Derived)> {
 };
 
 template <class _Base, class _Derived>
- constexpr bool is_base_of_v = __is_base_of(_Base, _Derived);
+inline constexpr bool is_base_of_v = __is_base_of(_Base, _Derived);
 
 
 template <class _Ty>
@@ -25334,9 +25334,9 @@ using _Identity_t = typename _Identity<_Ty>::type;
 
 
 template <class _Type, template <class...> class _Template>
- constexpr bool _Is_specialization_v = false; 
+inline constexpr bool _Is_specialization_v = false; 
 template <template <class...> class _Template, class... _Types>
- constexpr bool _Is_specialization_v<_Template<_Types...>, _Template> = true;
+inline constexpr bool _Is_specialization_v<_Template<_Types...>, _Template> = true;
 
 template <class _Type, template <class...> class _Template>
 struct _Is_specialization : bool_constant<_Is_specialization_v<_Type, _Template>> {};
@@ -25484,13 +25484,13 @@ template <class _Callable, class _Ty1, class _Removed_cvref>
 struct _Invoker1<_Callable, _Ty1, _Removed_cvref, false, false> : _Invoker_functor {};
 
 template <class _Callable>
-inline auto invoke(_Callable&& _Obj) noexcept(noexcept(static_cast<_Callable&&>(_Obj)()))
+constexpr auto invoke(_Callable&& _Obj) noexcept(noexcept(static_cast<_Callable&&>(_Obj)()))
     -> decltype(static_cast<_Callable&&>(_Obj)()) {
     return static_cast<_Callable&&>(_Obj)();
 }
 
 template <class _Callable, class _Ty1, class... _Types2>
-inline auto invoke(_Callable&& _Obj, _Ty1&& _Arg1, _Types2&&... _Args2) noexcept(
+constexpr auto invoke(_Callable&& _Obj, _Ty1&& _Arg1, _Types2&&... _Args2) noexcept(
     noexcept(_Invoker1<_Callable, _Ty1>::_Call(
         static_cast<_Callable&&>(_Obj), static_cast<_Ty1&&>(_Arg1), static_cast<_Types2&&>(_Args2)...)))
     -> decltype(_Invoker1<_Callable, _Ty1>::_Call(
@@ -25568,7 +25568,7 @@ template <class _To>
 void _Implicitly_convert_to(_To) noexcept; 
 
 template <class _From, class _To, bool = is_convertible_v<_From, _To>, bool = is_void_v<_To>>
- constexpr bool _Is_nothrow_convertible_v = noexcept(_Implicitly_convert_to<_To>(::std:: declval<_From>()));
+inline constexpr bool _Is_nothrow_convertible_v = noexcept(_Implicitly_convert_to<_To>(::std:: declval<_From>()));
 
 
 
@@ -25577,10 +25577,10 @@ template <class _From, class _To, bool = is_convertible_v<_From, _To>, bool = is
 #pragma warning(pop)
 
 template <class _From, class _To, bool _IsVoid>
- constexpr bool _Is_nothrow_convertible_v<_From, _To, false, _IsVoid> = false;
+inline constexpr bool _Is_nothrow_convertible_v<_From, _To, false, _IsVoid> = false;
 
 template <class _From, class _To>
- constexpr bool _Is_nothrow_convertible_v<_From, _To, true, true> = true;
+inline constexpr bool _Is_nothrow_convertible_v<_From, _To, true, true> = true;
 
 template <class _From, class _To>
 struct _Is_nothrow_convertible : bool_constant<_Is_nothrow_convertible_v<_From, _To>> {
@@ -25659,7 +25659,7 @@ using _Select_invoke_traits = conditional_t<sizeof...(_Args) == 0, _Invoke_trait
 
 
 template <class _Fty>
-struct  result_of { 
+struct [[deprecated("warning STL4014: " "std::result_of and std::result_of_t are deprecated in C++17. " "They are superseded by std::invoke_result and std::invoke_result_t. " "You can define _SILENCE_CXX17_RESULT_OF_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] result_of { 
     static_assert(_Always_false<_Fty>, "result_of<CallableType> is invalid; use "
                                        "result_of<CallableType(zero or more argument types)> instead.");
 };
@@ -25670,12 +25670,12 @@ struct  result_of {
 
 
 
-template <class _Callable, class... _Args> struct  result_of<_Callable __cdecl(_Args...)> : _Select_invoke_traits<_Callable, _Args...> { };  template <class _Callable, class... _Args> struct  result_of<_Callable __fastcall(_Args...)> : _Select_invoke_traits<_Callable, _Args...> { }; template <class _Callable, class... _Args> struct  result_of<_Callable __stdcall(_Args...)> : _Select_invoke_traits<_Callable, _Args...> { }; template <class _Callable, class... _Args> struct  result_of<_Callable __vectorcall(_Args...)> : _Select_invoke_traits<_Callable, _Args...> { };
+template <class _Callable, class... _Args> struct [[deprecated("warning STL4014: " "std::result_of and std::result_of_t are deprecated in C++17. " "They are superseded by std::invoke_result and std::invoke_result_t. " "You can define _SILENCE_CXX17_RESULT_OF_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] result_of<_Callable __cdecl(_Args...)> : _Select_invoke_traits<_Callable, _Args...> { };  template <class _Callable, class... _Args> struct [[deprecated("warning STL4014: " "std::result_of and std::result_of_t are deprecated in C++17. " "They are superseded by std::invoke_result and std::invoke_result_t. " "You can define _SILENCE_CXX17_RESULT_OF_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] result_of<_Callable __fastcall(_Args...)> : _Select_invoke_traits<_Callable, _Args...> { }; template <class _Callable, class... _Args> struct [[deprecated("warning STL4014: " "std::result_of and std::result_of_t are deprecated in C++17. " "They are superseded by std::invoke_result and std::invoke_result_t. " "You can define _SILENCE_CXX17_RESULT_OF_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] result_of<_Callable __stdcall(_Args...)> : _Select_invoke_traits<_Callable, _Args...> { }; template <class _Callable, class... _Args> struct [[deprecated("warning STL4014: " "std::result_of and std::result_of_t are deprecated in C++17. " "They are superseded by std::invoke_result and std::invoke_result_t. " "You can define _SILENCE_CXX17_RESULT_OF_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] result_of<_Callable __vectorcall(_Args...)> : _Select_invoke_traits<_Callable, _Args...> { };
 
 
 __pragma(warning(push)) __pragma(warning(disable : 4996))
 template <class _Ty>
-using result_of_t  = typename result_of<_Ty>::type;
+using result_of_t [[deprecated("warning STL4014: " "std::result_of and std::result_of_t are deprecated in C++17. " "They are superseded by std::invoke_result and std::invoke_result_t. " "You can define _SILENCE_CXX17_RESULT_OF_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] = typename result_of<_Ty>::type;
 __pragma(warning(pop))
 #line 1788 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\type_traits"
 
@@ -25692,50 +25692,50 @@ struct _Is_invocable_r : _Is_invocable_r_<_Rx, _Callable, _Args...> {
 
 
 
+template <class _Callable, class... _Args>
+struct invoke_result : _Select_invoke_traits<_Callable, _Args...> {
+    
+};
+
+template <class _Callable, class... _Args>
+using invoke_result_t = typename _Select_invoke_traits<_Callable, _Args...>::type;
 
 
+template <class _Callable, class... _Args>
+struct is_invocable : _Select_invoke_traits<_Callable, _Args...>::_Is_invocable {
+    
+};
+
+template <class _Callable, class... _Args>
+inline constexpr bool is_invocable_v = _Select_invoke_traits<_Callable, _Args...>::_Is_invocable::value;
 
 
+template <class _Callable, class... _Args>
+struct is_nothrow_invocable : _Select_invoke_traits<_Callable, _Args...>::_Is_nothrow_invocable {
+    
+};
+
+template <class _Callable, class... _Args>
+inline constexpr bool is_nothrow_invocable_v = _Select_invoke_traits<_Callable, _Args...>::_Is_nothrow_invocable::value;
 
 
+template <class _Rx, class _Callable, class... _Args>
+struct is_invocable_r : _Is_invocable_r_<_Rx, _Callable, _Args...> {
+    
+};
+
+template <class _Rx, class _Callable, class... _Args>
+inline constexpr bool is_invocable_r_v = _Is_invocable_r_<_Rx, _Callable, _Args...>::value;
 
 
+template <class _Rx, class _Callable, class... _Args>
+struct is_nothrow_invocable_r : _Select_invoke_traits<_Callable, _Args...>::template _Is_nothrow_invocable_r<_Rx> {
+    
+};
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+template <class _Rx, class _Callable, class... _Args>
+inline constexpr bool is_nothrow_invocable_r_v =
+    _Select_invoke_traits<_Callable, _Args...>::template _Is_nothrow_invocable_r<_Rx>::value;
 #line 1847 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\type_traits"
 
 
@@ -25752,7 +25752,7 @@ struct _Weak_result_type {};
 __pragma(warning(push)) __pragma(warning(disable : 4996))
 template <class _Ty>
 struct _Weak_result_type<_Ty, void_t<typename _Ty::result_type>> { 
-     typedef typename _Ty::result_type result_type;
+    [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef typename _Ty::result_type result_type;
 };
 __pragma(warning(pop))
 
@@ -25763,7 +25763,7 @@ __pragma(warning(push)) __pragma(warning(disable : 4996))
 template <class _Ty>
 struct _Weak_argument_type<_Ty, void_t<typename _Ty::argument_type>>
     : _Weak_result_type<_Ty> { 
-     typedef typename _Ty::argument_type argument_type;
+    [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef typename _Ty::argument_type argument_type;
 };
 __pragma(warning(pop))
 
@@ -25775,8 +25775,8 @@ template <class _Ty>
 struct _Weak_binary_args<_Ty, void_t<typename _Ty::first_argument_type,
                                   typename _Ty::second_argument_type>>
     : _Weak_argument_type<_Ty> { 
-     typedef typename _Ty::first_argument_type first_argument_type;
-     typedef typename _Ty::second_argument_type second_argument_type;
+    [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef typename _Ty::first_argument_type first_argument_type;
+    [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef typename _Ty::second_argument_type second_argument_type;
 };
 __pragma(warning(pop))
 
@@ -25841,8 +25841,8 @@ public:
 };
 
 
-
-
+template <class _Ty>
+reference_wrapper(_Ty&) -> reference_wrapper<_Ty>;
 #line 1954 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\type_traits"
 
 
@@ -25904,9 +25904,9 @@ struct _Is_nothrow_swappable;
 
 
 
+template <class _Ty, enable_if_t<is_move_constructible_v<_Ty> && is_move_assignable_v<_Ty>, int> = 0>
 
-#line 2016 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\type_traits"
-template <class _Ty, int _Enabled = 0>
+
 #line 2018 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\type_traits"
 inline void swap(_Ty&, _Ty&) noexcept(is_nothrow_move_constructible_v<_Ty>&& is_nothrow_move_assignable_v<_Ty>);
 
@@ -25959,41 +25959,41 @@ struct _Is_nothrow_swappable
 
 
 
+template <class _Ty1, class _Ty2>
+struct is_swappable_with : _Is_swappable_with<_Ty1, _Ty2>::type {
+    
+    
+};
+
+template <class _Ty1, class _Ty2>
+inline constexpr bool is_swappable_with_v =
+    conjunction_v<_Swappable_with_helper<_Ty1, _Ty2>, _Swappable_with_helper<_Ty2, _Ty1>>;
 
 
+template <class _Ty>
+struct is_swappable : _Is_swappable<_Ty>::type {}; 
+
+template <class _Ty>
+inline constexpr bool is_swappable_v = _Is_swappable<_Ty>::value;
 
 
+template <class _Ty1, class _Ty2>
+struct is_nothrow_swappable_with : _Is_nothrow_swappable_with<_Ty1, _Ty2>::type {
+    
+    
+};
+
+template <class _Ty1, class _Ty2>
+inline constexpr bool is_nothrow_swappable_with_v = _Is_nothrow_swappable_with<_Ty1, _Ty2>::value;
 
 
+template <class _Ty>
+struct is_nothrow_swappable : _Is_nothrow_swappable<_Ty>::type {
+    
+};
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+template <class _Ty>
+inline constexpr bool is_nothrow_swappable_v = _Is_nothrow_swappable<_Ty>::value;
 #line 2105 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\type_traits"
 
 
@@ -26008,7 +26008,7 @@ namespace _Has_ADL_swap_detail {
 using _Has_ADL_swap_detail::_Has_ADL_swap;
 
 template <class _Ty>
- constexpr bool _Is_trivially_swappable_v = conjunction_v<is_trivially_destructible<_Ty>,
+inline constexpr bool _Is_trivially_swappable_v = conjunction_v<is_trivially_destructible<_Ty>,
     is_trivially_move_constructible<_Ty>, is_trivially_move_assignable<_Ty>, negation<_Has_ADL_swap<_Ty>>>;
 
 template <class _Ty>
@@ -26067,8 +26067,8 @@ struct _Is_trivially_swappable : bool_constant<_Is_trivially_swappable_v<_Ty>> {
 
 
 #line 2177 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\type_traits"
- constexpr size_t _FNV_offset_basis = 2166136261U;
- constexpr size_t _FNV_prime        = 16777619U;
+inline constexpr size_t _FNV_offset_basis = 2166136261U;
+inline constexpr size_t _FNV_prime        = 16777619U;
 #line 2180 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\type_traits"
 
 [[nodiscard]] inline size_t _Fnv1a_append_bytes(size_t _Val, const unsigned char* const _First,
@@ -26118,8 +26118,8 @@ struct hash;
 
 template <class _Kty, bool _Enabled>
 struct _Conditionally_enabled_hash { 
-     typedef _Kty argument_type;
-     typedef size_t result_type;
+    [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Kty argument_type;
+    [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef size_t result_type;
 
     [[nodiscard]] size_t operator()(const _Kty& _Keyval) const
         noexcept(noexcept(hash<_Kty>::_Do_hash(_Keyval)))  {
@@ -26149,8 +26149,8 @@ struct hash
 
 template <>
 struct hash<float> {
-     typedef float argument_type;
-     typedef size_t result_type;
+    [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef float argument_type;
+    [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef size_t result_type;
     [[nodiscard]] size_t operator()(const float _Keyval) const noexcept {
         return _Hash_representation(_Keyval == 0.0F ? 0.0F : _Keyval); 
     }
@@ -26158,8 +26158,8 @@ struct hash<float> {
 
 template <>
 struct hash<double> {
-     typedef double argument_type;
-     typedef size_t result_type;
+    [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef double argument_type;
+    [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef size_t result_type;
     [[nodiscard]] size_t operator()(const double _Keyval) const noexcept {
         return _Hash_representation(_Keyval == 0.0 ? 0.0 : _Keyval); 
     }
@@ -26167,8 +26167,8 @@ struct hash<double> {
 
 template <>
 struct hash<long double> {
-     typedef long double argument_type;
-     typedef size_t result_type;
+    [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef long double argument_type;
+    [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef size_t result_type;
     [[nodiscard]] size_t operator()(const long double _Keyval) const noexcept {
         return _Hash_representation(_Keyval == 0.0L ? 0.0L : _Keyval); 
     }
@@ -26176,8 +26176,8 @@ struct hash<long double> {
 
 template <>
 struct hash<nullptr_t> {
-     typedef nullptr_t argument_type;
-     typedef size_t result_type;
+    [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef nullptr_t argument_type;
+    [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef size_t result_type;
     [[nodiscard]] size_t operator()(nullptr_t) const noexcept {
         void* _Null{};
         return _Hash_representation(_Null);
@@ -26193,70 +26193,70 @@ struct _Is_nothrow_hashable<_Kty, void_t<decltype(hash<_Kty>{}(::std:: declval<c
     : bool_constant<noexcept(hash<_Kty>{}(::std:: declval<const _Kty&>()))> {};
 
 
-__pragma(warning(push)) __pragma(warning(disable : 4996))
-namespace [[deprecated( "warning STL4002: " "The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can " "define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.")]] tr1 {
-    using ::std:: add_const;
-    using ::std:: add_cv;
-    using ::std:: add_pointer;
-    using ::std:: add_volatile;
-    using ::std:: aligned_storage;
-    using ::std:: alignment_of;
-    using ::std:: conditional;
-    using ::std:: decay;
-    using ::std:: enable_if;
-    using ::std:: extent;
-    using ::std:: false_type;
-    using ::std:: has_virtual_destructor;
-    using ::std:: integral_constant;
-    using ::std:: is_abstract;
-    using ::std:: is_arithmetic;
-    using ::std:: is_array;
-    using ::std:: is_base_of;
-    using ::std:: is_class;
-    using ::std:: is_compound;
-    using ::std:: is_const;
-    using ::std:: is_convertible;
-    using ::std:: is_empty;
-    using ::std:: is_enum;
-    using ::std:: is_floating_point;
-    using ::std:: is_function;
-    using ::std:: is_fundamental;
-    using ::std:: is_integral;
-    using ::std:: is_member_function_pointer;
-    using ::std:: is_member_object_pointer;
-    using ::std:: is_member_pointer;
-    using ::std:: is_object;
-    using ::std:: is_pod;
-    using ::std:: is_pointer;
-    using ::std:: is_polymorphic;
-    using ::std:: is_reference;
-    using ::std:: is_same;
-    using ::std:: is_scalar;
-    using ::std:: is_signed;
-    using ::std:: is_union;
-    using ::std:: is_unsigned;
-    using ::std:: is_void;
-    using ::std:: is_volatile;
-    using ::std:: make_signed;
-    using ::std:: make_unsigned;
-    using ::std:: rank;
-    using ::std:: remove_all_extents;
-    using ::std:: remove_const;
-    using ::std:: remove_cv;
-    using ::std:: remove_extent;
-    using ::std:: remove_pointer;
-    using ::std:: remove_reference;
-    using ::std:: remove_volatile;
-    using ::std:: true_type;
-    using ::std:: cref;
-    using ::std:: ref;
-    using ::std:: reference_wrapper;
 
-    using ::std:: result_of;
-#line 2364 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\type_traits"
-    using ::std:: hash;
-} 
-__pragma(warning(pop))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #line 2368 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\type_traits"
 
 }
@@ -26281,7 +26281,7 @@ __pragma(warning(pop))
 
 #pragma pack(push, 8)
 #pragma warning(push, 3)
-#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294  4984 5053 )
+#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294   5053 )
 
 
 
@@ -26357,9 +26357,9 @@ inline void swap(_Ty (&_Left)[_Size], _Ty (&_Right)[_Size]) noexcept(_Is_nothrow
 }
 
 
+template <class _Ty, enable_if_t<is_move_constructible_v<_Ty> && is_move_assignable_v<_Ty>, int> _Enabled>
 
-#line 102 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\utility"
-template <class _Ty, int _Enabled>
+
 #line 104 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\utility"
 inline void swap(_Ty& _Left, _Ty& _Right) noexcept(
     is_nothrow_move_constructible_v<_Ty>&& is_nothrow_move_assignable_v<_Ty>) {
@@ -26379,7 +26379,7 @@ struct piecewise_construct_t {
     explicit piecewise_construct_t() = default;
 };
 
- constexpr piecewise_construct_t piecewise_construct{};
+inline constexpr piecewise_construct_t piecewise_construct{};
 
 
 template <class...>
@@ -26588,8 +26588,8 @@ struct pair {
 };
 
 
-
-
+template <class _Ty1, class _Ty2>
+pair(_Ty1, _Ty2) -> pair<_Ty1, _Ty2>;
 #line 334 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\utility"
 
 template <class _Ty1, class _Ty2, enable_if_t<_Is_swappable<_Ty1>::value && _Is_swappable<_Ty2>::value, int> = 0>
@@ -26695,7 +26695,7 @@ template <class _Tuple>
 struct  tuple_size<const volatile _Tuple> : _Tuple_size_sfinae<_Tuple> {}; 
 
 template <class _Ty>
- constexpr size_t tuple_size_v = tuple_size<_Ty>::value;
+inline constexpr size_t tuple_size_v = tuple_size<_Ty>::value;
 
 template <size_t _Index, class _Tuple>
 struct tuple_element;
@@ -26872,24 +26872,24 @@ void as_const(const _Ty&&) = delete;
 
 
 
+struct in_place_t { 
+    explicit in_place_t() = default;
+};
+inline constexpr in_place_t in_place{};
 
+template <class>
+struct in_place_type_t { 
+    explicit in_place_type_t() = default;
+};
+template <class _Ty>
+inline constexpr in_place_type_t<_Ty> in_place_type{};
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+template <size_t>
+struct in_place_index_t { 
+    explicit in_place_index_t() = default;
+};
+template <size_t _Idx>
+inline constexpr in_place_index_t<_Idx> in_place_index{};
 #line 634 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\utility"
 
 
@@ -27007,11 +27007,11 @@ void as_const(const _Ty&&) = delete;
 #line 748 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\utility"
 
 
-namespace [[deprecated( "warning STL4002: " "The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can " "define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.")]] tr1 {
-    using ::std:: get;
-    using ::std:: tuple_element;
-    using ::std:: tuple_size;
-} 
+
+
+
+
+
 #line 756 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\utility"
 
 }
@@ -27026,7 +27026,7 @@ namespace [[deprecated( "warning STL4002: " "The non-Standard std::tr1 namespace
 
 #pragma pack(push, 8)
 #pragma warning(push, 3)
-#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294  4984 5053 )
+#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294   5053 )
 
 
 
@@ -27207,7 +27207,7 @@ struct _Ref_fn {
 };
 
 template <class _Fn>
- constexpr bool
+inline constexpr bool
     _Pass_functor_by_value_v = sizeof(_Fn) <= sizeof(void*)
                                && conjunction_v<is_trivially_copy_constructible<_Fn>, is_trivially_destructible<_Fn>>;
 
@@ -28144,10 +28144,10 @@ using _Iter_cat_t = typename iterator_traits<_Iter>::iterator_category;
 
 
 template <class _Ty, class = void>
- constexpr bool _Is_iterator_v = false;
+inline constexpr bool _Is_iterator_v = false;
 
 template <class _Ty>
- constexpr bool _Is_iterator_v<_Ty, void_t<_Iter_cat_t<_Ty>>> = true;
+inline constexpr bool _Is_iterator_v<_Ty, void_t<_Iter_cat_t<_Ty>>> = true;
 
 
 template <class _Ty>
@@ -28155,19 +28155,19 @@ struct _Is_iterator : bool_constant<_Is_iterator_v<_Ty>> {};
 
 
 template <class _Iter>
- constexpr bool _Is_input_iter_v = is_convertible_v<_Iter_cat_t<_Iter>, input_iterator_tag>;
+inline constexpr bool _Is_input_iter_v = is_convertible_v<_Iter_cat_t<_Iter>, input_iterator_tag>;
 
 
 template <class _Iter>
- constexpr bool _Is_fwd_iter_v = is_convertible_v<_Iter_cat_t<_Iter>, forward_iterator_tag>;
+inline constexpr bool _Is_fwd_iter_v = is_convertible_v<_Iter_cat_t<_Iter>, forward_iterator_tag>;
 
 
 template <class _Iter>
- constexpr bool _Is_bidi_iter_v = is_convertible_v<_Iter_cat_t<_Iter>, bidirectional_iterator_tag>;
+inline constexpr bool _Is_bidi_iter_v = is_convertible_v<_Iter_cat_t<_Iter>, bidirectional_iterator_tag>;
 
 
 template <class _Iter>
- constexpr bool _Is_random_iter_v = is_convertible_v<_Iter_cat_t<_Iter>, random_access_iterator_tag>;
+inline constexpr bool _Is_random_iter_v = is_convertible_v<_Iter_cat_t<_Iter>, random_access_iterator_tag>;
 
 
 template <class, class = void>
@@ -28183,17 +28183,17 @@ constexpr void _Verify_range(const _Ty* const _First, const _Ty* const _Last) no
 #line 1174 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xutility"
 
 template <class _Iter, class = void>
- constexpr bool _Allow_inheriting_unwrap_v = true;
+inline constexpr bool _Allow_inheriting_unwrap_v = true;
 
 template <class _Iter>
- constexpr bool _Allow_inheriting_unwrap_v<_Iter, void_t<typename _Iter::_Prevent_inheriting_unwrap>> =
+inline constexpr bool _Allow_inheriting_unwrap_v<_Iter, void_t<typename _Iter::_Prevent_inheriting_unwrap>> =
     is_same_v<_Iter, typename _Iter::_Prevent_inheriting_unwrap>;
 
 template <class _Iter, class _Sentinel = _Iter, class = void>
- constexpr bool _Range_verifiable_v = false;
+inline constexpr bool _Range_verifiable_v = false;
 
 template <class _Iter, class _Sentinel>
- constexpr bool _Range_verifiable_v<_Iter, _Sentinel,
+inline constexpr bool _Range_verifiable_v<_Iter, _Sentinel,
     void_t<decltype(_Verify_range(::std:: declval<const _Iter&>(), ::std:: declval<const _Sentinel&>()))>> =
     _Allow_inheriting_unwrap_v<_Iter>;
 
@@ -28227,10 +28227,10 @@ constexpr void _Adl_verify_range(const _Iter& _First, const _Sentinel& _Last) {
 
 
 template <class _Iter, class = void>
- constexpr bool _Unwrappable_v = false;
+inline constexpr bool _Unwrappable_v = false;
 
 template <class _Iter>
- constexpr bool _Unwrappable_v<_Iter,
+inline constexpr bool _Unwrappable_v<_Iter,
     void_t<decltype(::std:: declval<_Remove_cvref_t<_Iter>&>()._Seek_to(::std:: declval<_Iter>()._Unwrapped()))>> =
     _Allow_inheriting_unwrap_v<_Remove_cvref_t<_Iter>>;
 
@@ -28270,15 +28270,15 @@ using _Unwrapped_t = _Remove_cvref_t<decltype(_Get_unwrapped(::std:: declval<_It
 
 
 template <class _Iter, class = bool>
- constexpr bool _Do_unwrap_when_unverified_v = false;
+inline constexpr bool _Do_unwrap_when_unverified_v = false;
 
 template <class _Iter>
- constexpr bool
+inline constexpr bool
     _Do_unwrap_when_unverified_v<_Iter, decltype(static_cast<bool>(_Iter::_Unwrap_when_unverified))> =
         static_cast<bool>(_Iter::_Unwrap_when_unverified);
 
 template <class _Iter>
- constexpr bool _Unwrappable_for_unverified_v =
+inline constexpr bool _Unwrappable_for_unverified_v =
     _Unwrappable_v<_Iter>&& _Do_unwrap_when_unverified_v<_Remove_cvref_t<_Iter>>;
 
 
@@ -28323,21 +28323,21 @@ struct _Distance_unknown {
 };
 
 template <class _Diff>
- constexpr auto _Max_possible_v = _Diff{static_cast<make_unsigned_t<_Diff>>(-1) >> 1};
+inline constexpr auto _Max_possible_v = _Diff{static_cast<make_unsigned_t<_Diff>>(-1) >> 1};
 
 template <class _Diff>
- constexpr auto _Min_possible_v = _Diff{-_Max_possible_v<_Diff> - 1};
+inline constexpr auto _Min_possible_v = _Diff{-_Max_possible_v<_Diff> - 1};
 
 template <class _Iter, class = void>
- constexpr bool _Offset_verifiable_v = false;
+inline constexpr bool _Offset_verifiable_v = false;
 
 template <class _Iter>
- constexpr bool
+inline constexpr bool
     _Offset_verifiable_v<_Iter, void_t<decltype(::std:: declval<const _Iter&>()._Verify_offset(_Iter_diff_t<_Iter>{}))>> =
         true;
 
 template <class _Iter>
- constexpr bool _Unwrappable_for_offset_v =
+inline constexpr bool _Unwrappable_for_offset_v =
     _Unwrappable_v<_Iter>&& _Offset_verifiable_v<_Remove_cvref_t<_Iter>>;
 
 
@@ -28414,10 +28414,10 @@ using _Unwrapped_n_t =
 
 
 template <class _Iter, class _UIter, class = void>
- constexpr bool _Wrapped_seekable_v = false;
+inline constexpr bool _Wrapped_seekable_v = false;
 
 template <class _Iter, class _UIter>
- constexpr bool
+inline constexpr bool
     _Wrapped_seekable_v<_Iter, _UIter, void_t<decltype(::std:: declval<_Iter&>()._Seek_to(::std:: declval<_UIter>()))>> =
         true;
 
@@ -28449,37 +28449,37 @@ constexpr void _Seek_wrapped(_Iter& _It, _UIter&& _UIt) {
 
 
 
+template <class _Ty, class = void>
+struct _Is_allocator : false_type {}; 
+
+template <class _Ty>
+struct _Is_allocator<_Ty, void_t<typename _Ty::value_type, decltype(::std:: declval<_Ty&>().deallocate(
+                                                               ::std:: declval<_Ty&>().allocate(size_t{1}), size_t{1}))>>
+    : true_type {}; 
+
+
+template <class _Iter>
+using _Guide_key_t = remove_const_t<typename iterator_traits<_Iter>::value_type::first_type>;
+
+template <class _Iter>
+using _Guide_val_t = typename iterator_traits<_Iter>::value_type::second_type;
+
+template <class _Iter>
+using _Guide_pair_t = pair<add_const_t<typename iterator_traits<_Iter>::value_type::first_type>,
+    typename iterator_traits<_Iter>::value_type::second_type>;
+
+
+template <class _Ty>
+struct is_execution_policy : false_type {};
+
+template <class _Ty>
+inline constexpr bool is_execution_policy_v = is_execution_policy<_Ty>::value;
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+template <class _ExPo>
+using _Enable_if_execution_policy_t = typename remove_reference_t<_ExPo>::_Standard_execution_policy;
 
 
 
@@ -28648,7 +28648,7 @@ constexpr void _Debug_order_set_unchecked(_InIt _First, _InIt _Last, _Pr&& _Pred
 
 
 template <class _InIt, class _Diff>
-inline void advance(_InIt& _Where, _Diff _Off) { 
+constexpr void advance(_InIt& _Where, _Diff _Off) { 
     if constexpr (_Is_random_iter_v<_InIt>) {
         _Where += _Off;
     } else {
@@ -28728,7 +28728,7 @@ inline void advance(_InIt& _Where, _Diff _Off) {
 
 
 template <class _InIt>
-[[nodiscard]] inline _Iter_diff_t<_InIt> distance(_InIt _First, _InIt _Last) {
+[[nodiscard]] constexpr _Iter_diff_t<_InIt> distance(_InIt _First, _InIt _Last) {
     if constexpr (_Is_random_iter_v<_InIt>) {
         return _Last - _First; 
     } else {
@@ -28778,7 +28778,7 @@ constexpr _InIt _Next_iter(_InIt _First) {
 
 
 template <class _InIt>
-[[nodiscard]] inline _InIt next(_InIt _First, _Iter_diff_t<_InIt> _Off = 1) { 
+[[nodiscard]] constexpr _InIt next(_InIt _First, _Iter_diff_t<_InIt> _Off = 1) { 
     static_assert(_Is_input_iter_v<_InIt>, "next requires input iterator");
 
     ::std:: advance(_First, _Off);
@@ -28793,7 +28793,7 @@ constexpr _BidIt _Prev_iter(_BidIt _First) {
 
 
 template <class _BidIt>
-[[nodiscard]] inline _BidIt prev(_BidIt _First, _Iter_diff_t<_BidIt> _Off = 1) { 
+[[nodiscard]] constexpr _BidIt prev(_BidIt _First, _Iter_diff_t<_BidIt> _Off = 1) { 
     static_assert(_Is_bidi_iter_v<_BidIt>, "prev requires bidirectional iterator");
 
     ::std:: advance(_First, -_Off);
@@ -28834,9 +28834,9 @@ public:
     template <class>
     friend class reverse_iterator;
 
-    inline reverse_iterator() = default;
+    constexpr reverse_iterator() = default;
 
-    inline explicit reverse_iterator(_BidIt _Right) noexcept(
+    constexpr explicit reverse_iterator(_BidIt _Right) noexcept(
         is_nothrow_move_constructible_v<_BidIt>) 
         : current(::std:: move(_Right)) {}
 
@@ -28846,7 +28846,7 @@ public:
 
 
 
-    inline reverse_iterator(const reverse_iterator<_Other>& _Right) noexcept(
+    constexpr reverse_iterator(const reverse_iterator<_Other>& _Right) noexcept(
         is_nothrow_constructible_v<_BidIt, const _Other&>) 
         : current(_Right.current) {}
 
@@ -28856,17 +28856,17 @@ public:
 
 
 
-    inline reverse_iterator& operator=(const reverse_iterator<_Other>& _Right) {
+    constexpr reverse_iterator& operator=(const reverse_iterator<_Other>& _Right) {
         current = _Right.current;
         return *this;
     }
     
 
-    [[nodiscard]] inline _BidIt base() const {
+    [[nodiscard]] constexpr _BidIt base() const {
         return current;
     }
 
-    [[nodiscard]] inline reference operator*() const {
+    [[nodiscard]] constexpr reference operator*() const {
         _BidIt _Tmp = current;
         return *--_Tmp;
     }
@@ -28883,7 +28883,7 @@ public:
 
 
 
-    [[nodiscard]] inline pointer operator->() const {
+    [[nodiscard]] constexpr pointer operator->() const {
         _BidIt _Tmp = current;
         --_Tmp;
 
@@ -28898,47 +28898,47 @@ public:
     }
 #line 1891 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xutility"
 
-    inline reverse_iterator& operator++() {
+    constexpr reverse_iterator& operator++() {
         --current;
         return *this;
     }
 
-    inline reverse_iterator operator++(int) {
+    constexpr reverse_iterator operator++(int) {
         reverse_iterator _Tmp = *this;
         --current;
         return _Tmp;
     }
 
-    inline reverse_iterator& operator--() {
+    constexpr reverse_iterator& operator--() {
         ++current;
         return *this;
     }
 
-    inline reverse_iterator operator--(int) {
+    constexpr reverse_iterator operator--(int) {
         reverse_iterator _Tmp = *this;
         ++current;
         return _Tmp;
     }
 
-    [[nodiscard]] inline reverse_iterator operator+(const difference_type _Off) const {
+    [[nodiscard]] constexpr reverse_iterator operator+(const difference_type _Off) const {
         return reverse_iterator(current - _Off);
     }
 
-    inline reverse_iterator& operator+=(const difference_type _Off) {
+    constexpr reverse_iterator& operator+=(const difference_type _Off) {
         current -= _Off;
         return *this;
     }
 
-    [[nodiscard]] inline reverse_iterator operator-(const difference_type _Off) const {
+    [[nodiscard]] constexpr reverse_iterator operator-(const difference_type _Off) const {
         return reverse_iterator(current + _Off);
     }
 
-    inline reverse_iterator& operator-=(const difference_type _Off) {
+    constexpr reverse_iterator& operator-=(const difference_type _Off) {
         current += _Off;
         return *this;
     }
 
-    [[nodiscard]] inline reference operator[](const difference_type _Off) const {
+    [[nodiscard]] constexpr reference operator[](const difference_type _Off) const {
         return current[static_cast<difference_type>(-_Off - 1)];
     }
 
@@ -29001,7 +29001,7 @@ protected:
 
 
 template <class _BidIt1, class _BidIt2>
-[[nodiscard]] inline bool operator==(const reverse_iterator<_BidIt1>& _Left, const reverse_iterator<_BidIt2>& _Right)
+[[nodiscard]] constexpr bool operator==(const reverse_iterator<_BidIt1>& _Left, const reverse_iterator<_BidIt2>& _Right)
 
 
 
@@ -29012,7 +29012,7 @@ template <class _BidIt1, class _BidIt2>
 { return _Left._Get_current() == _Right._Get_current(); }
 
 template <class _BidIt1, class _BidIt2>
-[[nodiscard]] inline bool operator!=(const reverse_iterator<_BidIt1>& _Left, const reverse_iterator<_BidIt2>& _Right)
+[[nodiscard]] constexpr bool operator!=(const reverse_iterator<_BidIt1>& _Left, const reverse_iterator<_BidIt2>& _Right)
 
 
 
@@ -29023,7 +29023,7 @@ template <class _BidIt1, class _BidIt2>
 { return _Left._Get_current() != _Right._Get_current(); }
 
 template <class _BidIt1, class _BidIt2>
-[[nodiscard]] inline bool operator<(const reverse_iterator<_BidIt1>& _Left, const reverse_iterator<_BidIt2>& _Right)
+[[nodiscard]] constexpr bool operator<(const reverse_iterator<_BidIt1>& _Left, const reverse_iterator<_BidIt2>& _Right)
 
 
 
@@ -29034,7 +29034,7 @@ template <class _BidIt1, class _BidIt2>
 { return _Left._Get_current() > _Right._Get_current(); }
 
 template <class _BidIt1, class _BidIt2>
-[[nodiscard]] inline bool operator>(const reverse_iterator<_BidIt1>& _Left, const reverse_iterator<_BidIt2>& _Right)
+[[nodiscard]] constexpr bool operator>(const reverse_iterator<_BidIt1>& _Left, const reverse_iterator<_BidIt2>& _Right)
 
 
 
@@ -29045,7 +29045,7 @@ template <class _BidIt1, class _BidIt2>
 { return _Left._Get_current() < _Right._Get_current(); }
 
 template <class _BidIt1, class _BidIt2>
-[[nodiscard]] inline bool operator<=(const reverse_iterator<_BidIt1>& _Left, const reverse_iterator<_BidIt2>& _Right)
+[[nodiscard]] constexpr bool operator<=(const reverse_iterator<_BidIt1>& _Left, const reverse_iterator<_BidIt2>& _Right)
 
 
 
@@ -29056,7 +29056,7 @@ template <class _BidIt1, class _BidIt2>
 { return _Left._Get_current() >= _Right._Get_current(); }
 
 template <class _BidIt1, class _BidIt2>
-[[nodiscard]] inline bool operator>=(const reverse_iterator<_BidIt1>& _Left, const reverse_iterator<_BidIt2>& _Right)
+[[nodiscard]] constexpr bool operator>=(const reverse_iterator<_BidIt1>& _Left, const reverse_iterator<_BidIt2>& _Right)
 
 
 
@@ -29075,20 +29075,20 @@ template <class _BidIt1, class _BidIt2>
 #line 2067 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xutility"
 
 template <class _BidIt1, class _BidIt2>
-[[nodiscard]] inline auto operator-(const reverse_iterator<_BidIt1>& _Left, const reverse_iterator<_BidIt2>& _Right)
+[[nodiscard]] constexpr auto operator-(const reverse_iterator<_BidIt1>& _Left, const reverse_iterator<_BidIt2>& _Right)
     -> decltype(_Right._Get_current() - _Left._Get_current()) {
     return _Right._Get_current() - _Left._Get_current();
 }
 
 template <class _BidIt>
-[[nodiscard]] inline reverse_iterator<_BidIt> operator+(
+[[nodiscard]] constexpr reverse_iterator<_BidIt> operator+(
     typename reverse_iterator<_BidIt>::difference_type _Off, const reverse_iterator<_BidIt>& _Right) {
     return _Right + _Off;
 }
 
 
 template <class _BidIt>
-[[nodiscard]] inline reverse_iterator<_BidIt> make_reverse_iterator(_BidIt _Iter) noexcept(
+[[nodiscard]] constexpr reverse_iterator<_BidIt> make_reverse_iterator(_BidIt _Iter) noexcept(
     is_nothrow_move_constructible_v<_BidIt>)  {
     return reverse_iterator<_BidIt>(::std:: move(_Iter));
 }
@@ -29103,22 +29103,22 @@ template <class _BidIt>
 
 
 template <class _Container>
-[[nodiscard]] inline auto begin(_Container& _Cont) -> decltype(_Cont.begin()) {
+[[nodiscard]] constexpr auto begin(_Container& _Cont) -> decltype(_Cont.begin()) {
     return _Cont.begin();
 }
 
 template <class _Container>
-[[nodiscard]] inline auto begin(const _Container& _Cont) -> decltype(_Cont.begin()) {
+[[nodiscard]] constexpr auto begin(const _Container& _Cont) -> decltype(_Cont.begin()) {
     return _Cont.begin();
 }
 
 template <class _Container>
-[[nodiscard]] inline auto end(_Container& _Cont) -> decltype(_Cont.end()) {
+[[nodiscard]] constexpr auto end(_Container& _Cont) -> decltype(_Cont.end()) {
     return _Cont.end();
 }
 
 template <class _Container>
-[[nodiscard]] inline auto end(const _Container& _Cont) -> decltype(_Cont.end()) {
+[[nodiscard]] constexpr auto end(const _Container& _Cont) -> decltype(_Cont.end()) {
     return _Cont.end();
 }
 
@@ -29147,53 +29147,53 @@ template <class _Container>
 
 
 template <class _Container>
-[[nodiscard]] inline auto rbegin(_Container& _Cont) -> decltype(_Cont.rbegin()) {
+[[nodiscard]] constexpr auto rbegin(_Container& _Cont) -> decltype(_Cont.rbegin()) {
     return _Cont.rbegin();
 }
 
 template <class _Container>
-[[nodiscard]] inline auto rbegin(const _Container& _Cont) -> decltype(_Cont.rbegin()) {
+[[nodiscard]] constexpr auto rbegin(const _Container& _Cont) -> decltype(_Cont.rbegin()) {
     return _Cont.rbegin();
 }
 
 template <class _Container>
-[[nodiscard]] inline auto rend(_Container& _Cont) -> decltype(_Cont.rend()) {
+[[nodiscard]] constexpr auto rend(_Container& _Cont) -> decltype(_Cont.rend()) {
     return _Cont.rend();
 }
 
 template <class _Container>
-[[nodiscard]] inline auto rend(const _Container& _Cont) -> decltype(_Cont.rend()) {
+[[nodiscard]] constexpr auto rend(const _Container& _Cont) -> decltype(_Cont.rend()) {
     return _Cont.rend();
 }
 
 template <class _Ty, size_t _Size>
-[[nodiscard]] inline reverse_iterator<_Ty*> rbegin(_Ty (&_Array)[_Size]) {
+[[nodiscard]] constexpr reverse_iterator<_Ty*> rbegin(_Ty (&_Array)[_Size]) {
     return reverse_iterator<_Ty*>(_Array + _Size);
 }
 
 template <class _Ty, size_t _Size>
-[[nodiscard]] inline reverse_iterator<_Ty*> rend(_Ty (&_Array)[_Size]) {
+[[nodiscard]] constexpr reverse_iterator<_Ty*> rend(_Ty (&_Array)[_Size]) {
     return reverse_iterator<_Ty*>(_Array);
 }
 
 template <class _Elem>
-[[nodiscard]] inline reverse_iterator<const _Elem*> rbegin(initializer_list<_Elem> _Ilist) {
+[[nodiscard]] constexpr reverse_iterator<const _Elem*> rbegin(initializer_list<_Elem> _Ilist) {
     return reverse_iterator<const _Elem*>(_Ilist.end());
 }
 
 template <class _Elem>
-[[nodiscard]] inline reverse_iterator<const _Elem*> rend(initializer_list<_Elem> _Ilist) {
+[[nodiscard]] constexpr reverse_iterator<const _Elem*> rend(initializer_list<_Elem> _Ilist) {
     return reverse_iterator<const _Elem*>(_Ilist.begin());
 }
 
 
 template <class _Container>
-[[nodiscard]] inline auto crbegin(const _Container& _Cont) -> decltype(::std:: rbegin(_Cont)) {
+[[nodiscard]] constexpr auto crbegin(const _Container& _Cont) -> decltype(::std:: rbegin(_Cont)) {
     return ::std:: rbegin(_Cont);
 }
 
 template <class _Container>
-[[nodiscard]] inline auto crend(const _Container& _Cont) -> decltype(::std:: rend(_Cont)) {
+[[nodiscard]] constexpr auto crend(const _Container& _Cont) -> decltype(::std:: rend(_Cont)) {
     return ::std:: rend(_Cont);
 }
 
@@ -30734,9 +30734,9 @@ public:
         conditional_t<is_reference_v<_Iter_ref_t<_Iter>>, remove_reference_t<_Iter_ref_t<_Iter>>&&, _Iter_ref_t<_Iter>>;
 #line 3727 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xutility"
 
-    inline move_iterator() = default;
+    constexpr move_iterator() = default;
 
-    inline explicit move_iterator(_Iter _Right) noexcept(is_nothrow_move_constructible_v<_Iter>) 
+    constexpr explicit move_iterator(_Iter _Right) noexcept(is_nothrow_move_constructible_v<_Iter>) 
         : current(::std:: move(_Right)) {}
 
     
@@ -30745,7 +30745,7 @@ public:
 
 
 
-    inline move_iterator(const move_iterator<_Other>& _Right) noexcept(
+    constexpr move_iterator(const move_iterator<_Other>& _Right) noexcept(
         is_nothrow_constructible_v<_Iter, const _Other&>) 
         : current(_Right.base()) {}
 
@@ -30755,7 +30755,7 @@ public:
 
 
 
-    inline move_iterator& operator=(const move_iterator<_Other>& _Right) noexcept(
+    constexpr move_iterator& operator=(const move_iterator<_Other>& _Right) noexcept(
         is_nothrow_assignable_v<_Iter&, const _Other&>)  {
         current = _Right.base();
         return *this;
@@ -30770,12 +30770,12 @@ public:
 
 
 
-    [[nodiscard]] inline iterator_type base() const {
+    [[nodiscard]] constexpr iterator_type base() const {
         return current;
     }
 #line 3768 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xutility"
 
-    [[nodiscard]] inline reference operator*() const {
+    [[nodiscard]] constexpr reference operator*() const {
 
 
 
@@ -30783,16 +30783,16 @@ public:
 #line 3775 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xutility"
     }
 
-    [[nodiscard]]  inline pointer operator->() const {
+    [[nodiscard]]  constexpr pointer operator->() const {
         return current;
     }
 
-    inline move_iterator& operator++() {
+    constexpr move_iterator& operator++() {
         ++current;
         return *this;
     }
 
-    inline auto operator++(int) {
+    constexpr auto operator++(int) {
 
 
 
@@ -30806,12 +30806,12 @@ public:
 
     }
 
-    inline move_iterator& operator--() {
+    constexpr move_iterator& operator--() {
         --current;
         return *this;
     }
 
-    inline move_iterator operator--(int) {
+    constexpr move_iterator operator--(int) {
         move_iterator _Tmp = *this;
         --current;
         return _Tmp;
@@ -30829,25 +30829,25 @@ public:
         return current != _Sentinel;
     }
 
-    [[nodiscard]] inline move_iterator operator+(const difference_type _Off) const {
+    [[nodiscard]] constexpr move_iterator operator+(const difference_type _Off) const {
         return move_iterator(current + _Off);
     }
 
-    inline move_iterator& operator+=(const difference_type _Off) {
+    constexpr move_iterator& operator+=(const difference_type _Off) {
         current += _Off;
         return *this;
     }
 
-    [[nodiscard]] inline move_iterator operator-(const difference_type _Off) const {
+    [[nodiscard]] constexpr move_iterator operator-(const difference_type _Off) const {
         return move_iterator(current - _Off);
     }
 
-    inline move_iterator& operator-=(const difference_type _Off) {
+    constexpr move_iterator& operator-=(const difference_type _Off) {
         current -= _Off;
         return *this;
     }
 
-    [[nodiscard]] inline reference operator[](const difference_type _Off) const {
+    [[nodiscard]] constexpr reference operator[](const difference_type _Off) const {
 
 
 
@@ -30928,7 +30928,7 @@ protected:
 };
 
 template <class _Iter1, class _Iter2>
-[[nodiscard]] inline bool operator==(const move_iterator<_Iter1>& _Left, const move_iterator<_Iter2>& _Right)
+[[nodiscard]] constexpr bool operator==(const move_iterator<_Iter1>& _Left, const move_iterator<_Iter2>& _Right)
 
 
 
@@ -30940,13 +30940,13 @@ template <class _Iter1, class _Iter2>
 
 
 template <class _Iter1, class _Iter2>
-[[nodiscard]] inline bool operator!=(const move_iterator<_Iter1>& _Left, const move_iterator<_Iter2>& _Right) {
+[[nodiscard]] constexpr bool operator!=(const move_iterator<_Iter1>& _Left, const move_iterator<_Iter2>& _Right) {
     return !(_Left == _Right);
 }
 #line 3938 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xutility"
 
 template <class _Iter1, class _Iter2>
-[[nodiscard]] inline bool operator<(const move_iterator<_Iter1>& _Left, const move_iterator<_Iter2>& _Right)
+[[nodiscard]] constexpr bool operator<(const move_iterator<_Iter1>& _Left, const move_iterator<_Iter2>& _Right)
 
 
 
@@ -30957,7 +30957,7 @@ template <class _Iter1, class _Iter2>
 { return _Left.base() < _Right.base(); }
 
 template <class _Iter1, class _Iter2>
-[[nodiscard]] inline bool operator>(const move_iterator<_Iter1>& _Left, const move_iterator<_Iter2>& _Right)
+[[nodiscard]] constexpr bool operator>(const move_iterator<_Iter1>& _Left, const move_iterator<_Iter2>& _Right)
 
 
 
@@ -30966,7 +30966,7 @@ template <class _Iter1, class _Iter2>
 { return _Right < _Left; }
 
 template <class _Iter1, class _Iter2>
-[[nodiscard]] inline bool operator<=(const move_iterator<_Iter1>& _Left, const move_iterator<_Iter2>& _Right)
+[[nodiscard]] constexpr bool operator<=(const move_iterator<_Iter1>& _Left, const move_iterator<_Iter2>& _Right)
 
 
 
@@ -30975,7 +30975,7 @@ template <class _Iter1, class _Iter2>
 { return !(_Right < _Left); }
 
 template <class _Iter1, class _Iter2>
-[[nodiscard]] inline bool operator>=(const move_iterator<_Iter1>& _Left, const move_iterator<_Iter2>& _Right)
+[[nodiscard]] constexpr bool operator>=(const move_iterator<_Iter1>& _Left, const move_iterator<_Iter2>& _Right)
 
 
 
@@ -30992,13 +30992,13 @@ template <class _Iter1, class _Iter2>
 #line 3984 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xutility"
 
 template <class _Iter1, class _Iter2>
-[[nodiscard]] inline auto operator-(const move_iterator<_Iter1>& _Left, const move_iterator<_Iter2>& _Right)
+[[nodiscard]] constexpr auto operator-(const move_iterator<_Iter1>& _Left, const move_iterator<_Iter2>& _Right)
     -> decltype(_Left.base() - _Right.base()) {
     return _Left.base() - _Right.base();
 }
 
 template <class _Iter>
-[[nodiscard]] inline move_iterator<_Iter> operator+(
+[[nodiscard]] constexpr move_iterator<_Iter> operator+(
     typename move_iterator<_Iter>::difference_type _Off, const move_iterator<_Iter>& _Right)
 
 
@@ -31011,7 +31011,7 @@ template <class _Iter>
 
 
 template <class _Iter>
-[[nodiscard]] inline move_iterator<_Iter> make_move_iterator(_Iter _It) { 
+[[nodiscard]] constexpr move_iterator<_Iter> make_move_iterator(_Iter _It) { 
     return move_iterator<_Iter>(::std:: move(_It));
 }
 
@@ -31189,14 +31189,14 @@ inline _OutIt copy(_InIt _First, _InIt _Last, _OutIt _Dest) {
 }
 
 
-
-
-
-
-
-
-
-
+template <class _ExPo, class _FwdIt1, class _FwdIt2, _Enable_if_execution_policy_t<_ExPo> = 0>
+_FwdIt2 copy(_ExPo&&, _FwdIt1 _First, _FwdIt1 _Last, _FwdIt2 _Dest) noexcept  {
+    
+    
+    static_assert(_Is_fwd_iter_v<_FwdIt1>, "Parallel algorithms require forward iterators or stronger.");
+    static_assert(_Is_fwd_iter_v<_FwdIt2>, "Parallel algorithms require forward iterators or stronger.");
+    return ::std:: copy(_First, _Last, _Dest);
+}
 #line 4192 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xutility"
 
 
@@ -31278,14 +31278,14 @@ inline _OutIt copy_n(_InIt _First, _Diff _Count_raw, _OutIt _Dest) {
 #line 4270 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xutility"
 
 
-
-
-
-
-
-
-
-
+template <class _ExPo, class _FwdIt1, class _Diff, class _FwdIt2, _Enable_if_execution_policy_t<_ExPo> = 0>
+_FwdIt2 copy_n(_ExPo&&, _FwdIt1 _First, _Diff _Count_raw, _FwdIt2 _Dest) noexcept  {
+    
+    
+    static_assert(_Is_fwd_iter_v<_FwdIt1>, "Parallel algorithms require forward iterators or stronger.");
+    static_assert(_Is_fwd_iter_v<_FwdIt2>, "Parallel algorithms require forward iterators or stronger.");
+    return ::std:: copy_n(_First, _Count_raw, _Dest);
+}
 #line 4281 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xutility"
 
 
@@ -31359,12 +31359,12 @@ inline _BidIt2 copy_backward(_BidIt1 _First, _BidIt1 _Last, _BidIt2 _Dest) {
 #line 4351 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xutility"
 
 
-
-
-
-
-
-
+template <class _ExPo, class _BidIt1, class _BidIt2, _Enable_if_execution_policy_t<_ExPo> = 0>
+_BidIt2 copy_backward(_ExPo&&, _BidIt1 _First, _BidIt1 _Last, _BidIt2 _Dest) noexcept  {
+    
+    
+    return ::std:: copy_backward(_First, _Last, _Dest);
+}
 #line 4360 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xutility"
 
 
@@ -31425,14 +31425,14 @@ inline _OutIt move(_InIt _First, _InIt _Last, _OutIt _Dest) {
 }
 
 
-
-
-
-
-
-
-
-
+template <class _ExPo, class _FwdIt1, class _FwdIt2, _Enable_if_execution_policy_t<_ExPo> = 0>
+_FwdIt2 move(_ExPo&&, _FwdIt1 _First, _FwdIt1 _Last, _FwdIt2 _Dest) noexcept  {
+    
+    
+    static_assert(_Is_fwd_iter_v<_FwdIt1>, "Parallel algorithms require forward iterators or stronger.");
+    static_assert(_Is_fwd_iter_v<_FwdIt2>, "Parallel algorithms require forward iterators or stronger.");
+    return ::std:: move(_First, _Last, _Dest);
+}
 #line 4428 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xutility"
 
 
@@ -31494,12 +31494,12 @@ inline _BidIt2 move_backward(_BidIt1 _First, _BidIt1 _Last, _BidIt2 _Dest) {
 }
 
 
-
-
-
-
-
-
+template <class _ExPo, class _BidIt1, class _BidIt2, _Enable_if_execution_policy_t<_ExPo> = 0>
+_BidIt2 move_backward(_ExPo&&, _BidIt1 _First, _BidIt1 _Last, _BidIt2 _Dest) noexcept  {
+    
+    
+    return ::std:: move_backward(_First, _Last, _Dest);
+}
 #line 4495 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xutility"
 
 
@@ -31524,20 +31524,20 @@ template <class _Ty>
 struct _Is_character_or_byte : _Is_character<_Ty>::type {};
 
 
-
-
-
+template <>
+struct _Is_character_or_byte<byte> : true_type {};
+#line 4521 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xutility"
 
 
 template <class _FwdIt, class _Ty, bool = is_pointer_v<_FwdIt>>
- constexpr bool _Fill_memset_is_safe = conjunction_v<
+inline constexpr bool _Fill_memset_is_safe = conjunction_v<
     disjunction<conjunction<_Is_character_or_byte<_Unwrap_enum_t<_Ty>>,
                     _Is_character_or_byte<_Unwrap_enum_t<_Iter_value_t<_FwdIt>>>>,
         conjunction<is_same<bool, _Unwrap_enum_t<_Ty>>, is_same<bool, _Unwrap_enum_t<_Iter_value_t<_FwdIt>>>>>,
     is_assignable<_Iter_ref_t<_FwdIt>, const _Ty&>>;
 
 template <class _FwdIt, class _Ty>
- constexpr bool _Fill_memset_is_safe<_FwdIt, _Ty, false> = false;
+inline constexpr bool _Fill_memset_is_safe<_FwdIt, _Ty, false> = false;
 
 
 template <class _FwdIt, class _Ty>
@@ -31584,13 +31584,13 @@ inline void fill(const _FwdIt _First, const _FwdIt _Last, const _Ty& _Val) {
 #line 4576 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xutility"
 
 
-
-
-
-
-
-
-
+template <class _ExPo, class _FwdIt, class _Ty, _Enable_if_execution_policy_t<_ExPo> = 0>
+void fill(_ExPo&&, _FwdIt _First, _FwdIt _Last, const _Ty& _Val) noexcept  {
+    
+    
+    static_assert(_Is_fwd_iter_v<_FwdIt>, "Parallel algorithms require forward iterators or stronger.");
+    return ::std:: fill(_First, _Last, _Val);
+}
 #line 4586 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xutility"
 
 
@@ -31656,13 +31656,13 @@ inline _OutIt fill_n(_OutIt _Dest, const _Diff _Count_raw, const _Ty& _Val) {
 #line 4648 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xutility"
 
 
-
-
-
-
-
-
-
+template <class _ExPo, class _FwdIt, class _Diff, class _Ty, _Enable_if_execution_policy_t<_ExPo> = 0>
+_FwdIt fill_n(_ExPo&&, _FwdIt _Dest, _Diff _Count_raw, const _Ty& _Val) noexcept  {
+    
+    
+    static_assert(_Is_fwd_iter_v<_FwdIt>, "Parallel algorithms require forward iterators or stronger.");
+    return ::std:: fill_n(_Dest, _Count_raw, _Val);
+}
 #line 4658 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xutility"
 
 
@@ -31693,9 +31693,9 @@ struct _Equal_memcmp_is_safe_helper<_Elem1*, _Elem2*, equal_to<>>
     : is_same<remove_cv_t<_Elem1>, remove_cv_t<_Elem2>>::type {}; 
 
 
-
-
-
+template <>
+struct _Equal_memcmp_is_safe_helper<byte, byte, equal_to<>> : true_type {}; 
+#line 4690 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xutility"
 
 template <class _Elem>
 struct _Equal_memcmp_is_safe_helper<_Elem, _Elem, equal_to<_Elem>>
@@ -31784,9 +31784,9 @@ template <class _InIt1, class _InIt2, class _Pr>
 #line 4776 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xutility"
 
 
-
-
-
+template <class _ExPo, class _FwdIt1, class _FwdIt2, class _Pr, _Enable_if_execution_policy_t<_ExPo> = 0>
+[[nodiscard]] bool equal(_ExPo&& _Exec, const _FwdIt1 _First1, const _FwdIt1 _Last1, const _FwdIt2 _First2,
+    _Pr _Pred) noexcept; 
 #line 4782 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xutility"
 
 template <class _InIt1, class _InIt2>
@@ -31796,12 +31796,12 @@ template <class _InIt1, class _InIt2>
 }
 
 
-
-
-
-
-
-
+template <class _ExPo, class _FwdIt1, class _FwdIt2, _Enable_if_execution_policy_t<_ExPo> = 0>
+[[nodiscard]] bool equal(_ExPo&& _Exec, const _FwdIt1 _First1, const _FwdIt1 _Last1, const _FwdIt2 _First2) noexcept
+ {
+    
+    return ::std:: equal(::std:: forward<_ExPo>(_Exec), _First1, _Last1, _First2, equal_to<>());
+}
 #line 4797 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xutility"
 
 
@@ -31885,9 +31885,9 @@ template <class _InIt1, class _InIt2, class _Pr>
 #line 4877 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xutility"
 
 
-
-
-
+template <class _ExPo, class _FwdIt1, class _FwdIt2, class _Pr, _Enable_if_execution_policy_t<_ExPo> = 0>
+[[nodiscard]] bool equal(_ExPo&& _Exec, const _FwdIt1 _First1, const _FwdIt1 _Last1, const _FwdIt2 _First2,
+    const _FwdIt2 _Last2, _Pr _Pred) noexcept; 
 #line 4883 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xutility"
 
 template <class _InIt1, class _InIt2>
@@ -31898,12 +31898,12 @@ template <class _InIt1, class _InIt2>
 }
 
 
-
-
-
-
-
-
+template <class _ExPo, class _FwdIt1, class _FwdIt2, _Enable_if_execution_policy_t<_ExPo> = 0>
+[[nodiscard]] bool equal(_ExPo&& _Exec, const _FwdIt1 _First1, const _FwdIt1 _Last1, const _FwdIt2 _First2,
+    const _FwdIt2 _Last2) noexcept  {
+    
+    return ::std:: equal(::std:: forward<_ExPo>(_Exec), _First1, _Last1, _First2, _Last2, equal_to<>());
+}
 #line 4899 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xutility"
 
 
@@ -31922,16 +31922,16 @@ struct _Lex_compare_check_element_types_helper<_Elem1, _Elem2, void>
 };
 
 
+template <>
+struct _Lex_compare_check_element_types_helper<byte, byte, byte> : true_type {
+    
+};
 
-
-
-
-
-
-
-
-
-
+template <>
+struct _Lex_compare_check_element_types_helper<byte, byte, void> : true_type {
+    
+};
+#line 4926 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xutility"
 
 template <class _Memcmp_pr>
 struct _Lex_compare_optimize {
@@ -32013,25 +32013,25 @@ template <class _InIt1, class _InIt2>
 }
 
 
+template <class _ExPo, class _FwdIt1, class _FwdIt2, class _Pr, _Enable_if_execution_policy_t<_ExPo> = 0>
+[[nodiscard]] bool lexicographical_compare(
+    _ExPo&&, _FwdIt1 _First1, _FwdIt1 _Last1, _FwdIt2 _First2, _FwdIt2 _Last2, _Pr _Pred) noexcept  {
+    
+    
+    static_assert(_Is_fwd_iter_v<_FwdIt1>, "Parallel algorithms require forward iterators or stronger.");
+    static_assert(_Is_fwd_iter_v<_FwdIt2>, "Parallel algorithms require forward iterators or stronger.");
+    return ::std:: lexicographical_compare(_First1, _Last1, _First2, _Last2, _Pass_fn(_Pred));
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+template <class _ExPo, class _FwdIt1, class _FwdIt2, _Enable_if_execution_policy_t<_ExPo> = 0>
+[[nodiscard]] bool lexicographical_compare(
+    _ExPo&&, _FwdIt1 _First1, _FwdIt1 _Last1, _FwdIt2 _First2, _FwdIt2 _Last2) noexcept  {
+    
+    
+    static_assert(_Is_fwd_iter_v<_FwdIt1>, "Parallel algorithms require forward iterators or stronger.");
+    static_assert(_Is_fwd_iter_v<_FwdIt2>, "Parallel algorithms require forward iterators or stronger.");
+    return ::std:: lexicographical_compare(_First1, _Last1, _First2, _Last2);
+}
 #line 5027 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xutility"
 
 
@@ -32184,8 +32184,8 @@ template <class _InIt, class _Ty>
 }
 
 
-
-
+template <class _ExPo, class _FwdIt, class _Ty, _Enable_if_execution_policy_t<_ExPo> = 0>
+[[nodiscard]] _FwdIt find(_ExPo&& _Exec, _FwdIt _First, const _FwdIt _Last, const _Ty& _Val) noexcept; 
 #line 5181 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xutility"
 
 
@@ -32207,9 +32207,9 @@ template <class _InIt, class _Ty>
 }
 
 
-
-
-
+template <class _ExPo, class _FwdIt, class _Ty, _Enable_if_execution_policy_t<_ExPo> = 0>
+[[nodiscard]] _Iter_diff_t<_FwdIt> count(
+    _ExPo&& _Exec, const _FwdIt _First, const _FwdIt _Last, const _Ty& _Val) noexcept; 
 #line 5205 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xutility"
 
 
@@ -32514,12 +32514,12 @@ inline void reverse(const _BidIt _First, const _BidIt _Last) {
 #line 5506 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xutility"
 
 
-
-
-
-
-
-
+template <class _ExPo, class _BidIt, _Enable_if_execution_policy_t<_ExPo> = 0>
+void reverse(_ExPo&&, _BidIt _First, _BidIt _Last) noexcept  {
+    
+    
+    return ::std:: reverse(_First, _Last);
+}
 #line 5515 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xutility"
 
 
@@ -32658,12 +32658,12 @@ inline _FwdIt rotate(_FwdIt _First, _FwdIt _Mid, _FwdIt _Last) {
 #line 5650 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xutility"
 
 
-
-
-
-
-
-
+template <class _ExPo, class _FwdIt, _Enable_if_execution_policy_t<_ExPo> = 0>
+_FwdIt rotate(_ExPo&&, _FwdIt _First, _FwdIt _Mid, _FwdIt _Last) noexcept  {
+    
+    
+    return ::std:: rotate(_First, _Mid, _Last);
+}
 #line 5659 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xutility"
 
 
@@ -32821,7 +32821,7 @@ struct allocator_arg_t {
     explicit allocator_arg_t() = default;
 };
 
- constexpr allocator_arg_t allocator_arg{};
+inline constexpr allocator_arg_t allocator_arg{};
 
 [[noreturn]]  void __cdecl _Xbad_alloc();
 [[noreturn]]  void __cdecl _Xinvalid_argument(  const char*);
@@ -32837,11 +32837,11 @@ struct uses_allocator : _Has_allocator_type<_Ty, _Alloc>::type {
 };
 
 template <class _Ty, class _Alloc>
- constexpr bool uses_allocator_v = uses_allocator<_Ty, _Alloc>::value;
+inline constexpr bool uses_allocator_v = uses_allocator<_Ty, _Alloc>::value;
 
 
 template <class _Category, class _Ty, class _Diff = ptrdiff_t, class _Pointer = _Ty*, class _Reference = _Ty&>
-struct  iterator { 
+struct [[deprecated( "warning STL4015: " "The std::iterator class template (used as a base class to provide typedefs) is deprecated in C++17. " "(The <iterator> header is NOT deprecated.) The C++ Standard has never required user-defined iterators to " "derive from std::iterator. To fix this warning, stop deriving from std::iterator and start providing " "publicly accessible typedefs named iterator_category, value_type, difference_type, pointer, and reference. " "Note that value_type is required to be non-const, even for constant iterators. " "You can define _SILENCE_CXX17_ITERATOR_BASE_CLASS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] iterator { 
     using iterator_category = _Category;
     using value_type        = _Ty;
     using difference_type   = _Diff;
@@ -32859,7 +32859,7 @@ struct  iterator {
 
 #pragma pack(push, 8)
 #pragma warning(push, 3)
-#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294  4984 5053 )
+#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294   5053 )
 
 
 
@@ -33771,7 +33771,7 @@ template <class _Ptr>
 
 #pragma pack(push, 8)
 #pragma warning(push, 3)
-#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294  4984 5053 )
+#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294   5053 )
 
 
 
@@ -33844,7 +33844,7 @@ void __stdcall __std_system_error_deallocate_message(char* _Str) noexcept;
 
 #pragma pack(push, 8)
 #pragma warning(push, 3)
-#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294  4984 5053 )
+#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294   5053 )
 
 
 
@@ -33852,7 +33852,7 @@ void __stdcall __std_system_error_deallocate_message(char* _Str) noexcept;
 namespace std {
 
 
-  bool __cdecl uncaught_exception() noexcept;
+[[deprecated("warning STL4006: " "std::uncaught_exception() is deprecated in C++17. " "It is superseded by std::uncaught_exceptions(), plural. " "You can define _SILENCE_CXX17_UNCAUGHT_EXCEPTION_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]]  bool __cdecl uncaught_exception() noexcept;
 #line 26 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\exception"
  int __cdecl uncaught_exceptions() noexcept;
 
@@ -34337,16 +34337,16 @@ using ::terminate_handler;
 #line 47 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\exception"
 
 
-using ::unexpected;
 
 
-using ::set_unexpected;
-using ::unexpected_handler;
 
-[[nodiscard]] inline unexpected_handler __cdecl get_unexpected() noexcept { 
-    return _get_unexpected();
-}
-#line 59 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\exception"
+
+
+
+
+
+
+
 #line 60 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\exception"
 
 }
@@ -34894,7 +34894,7 @@ typedef unsigned long long uintmax_t;
 
 #pragma pack(push, 8)
 #pragma warning(push, 3)
-#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294  4984 5053 )
+#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294   5053 )
 
 
 
@@ -34933,39 +34933,39 @@ using :: uintmax_t;
 using :: uintptr_t;
 
 
-namespace [[deprecated( "warning STL4002: " "The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can " "define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.")]] tr1 {
-    using :: int8_t;
-    using :: int16_t;
-    using :: int32_t;
-    using :: int64_t;
-    using :: uint8_t;
-    using :: uint16_t;
-    using :: uint32_t;
-    using :: uint64_t;
 
-    using :: int_least8_t;
-    using :: int_least16_t;
-    using :: int_least32_t;
-    using :: int_least64_t;
-    using :: uint_least8_t;
-    using :: uint_least16_t;
-    using :: uint_least32_t;
-    using :: uint_least64_t;
 
-    using :: int_fast8_t;
-    using :: int_fast16_t;
-    using :: int_fast32_t;
-    using :: int_fast64_t;
-    using :: uint_fast8_t;
-    using :: uint_fast16_t;
-    using :: uint_fast32_t;
-    using :: uint_fast64_t;
 
-    using :: intmax_t;
-    using :: intptr_t;
-    using :: uintmax_t;
-    using :: uintptr_t;
-} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #line 89 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\cstdint"
 }
 
@@ -35419,7 +35419,7 @@ __declspec(dllimport) int __cdecl __fpe_flt_rounds(void);
 
 #pragma pack(push, 8)
 #pragma warning(push, 3)
-#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294  4984 5053 )
+#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294   5053 )
 
 
 
@@ -36456,7 +36456,7 @@ public:
 
 #pragma pack(push, 8)
 #pragma warning(push, 3)
-#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294  4984 5053 )
+#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294   5053 )
 
 
 
@@ -36472,19 +36472,19 @@ namespace std {
 
 
 
+template <class _Ty>
+[[nodiscard]] constexpr _Ty* launder(_Ty* _Ptr) noexcept {
+    static_assert(!is_function_v<_Ty> && !is_void_v<_Ty>,
+        "N4727 21.6.4 [ptr.launder]/3: The program is ill-formed if T is a function type or cv void.");
+    return __builtin_launder(_Ptr);
+}
 
 
+inline constexpr size_t hardware_constructive_interference_size = 64;
+inline constexpr size_t hardware_destructive_interference_size  = 64;
 
 
-
-
-
-
-
-
-
-
-
+#line 45 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\new"
 
 #line 47 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\new"
 
@@ -36803,7 +36803,7 @@ constexpr void * __cdecl __builtin_assume_aligned(const void *, size_t, ...) noe
 
 #pragma pack(push, 8)
 #pragma warning(push, 3)
-#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294  4984 5053 )
+#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294   5053 )
 
 
 
@@ -36906,7 +36906,7 @@ template <class _Integral, class _Ty>
 
 #pragma pack(push, 8)
 #pragma warning(push, 3)
-#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294  4984 5053 )
+#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294   5053 )
 
 
 
@@ -36936,7 +36936,7 @@ struct _Tidy_deallocate_guard {
 
 
 template <class _Keycmp, class _Lhs, class _Rhs>
- constexpr bool _Nothrow_compare = noexcept(
+inline constexpr bool _Nothrow_compare = noexcept(
     static_cast<bool>(::std:: declval<const _Keycmp&>()(::std:: declval<const _Lhs&>(), ::std:: declval<const _Rhs&>())));
 
 
@@ -36956,7 +36956,7 @@ template <size_t _Ty_size>
 
 
 template <class _Ty>
- constexpr size_t _New_alignof = (::std:: max)(alignof(_Ty),
+inline constexpr size_t _New_alignof = (::std:: max)(alignof(_Ty),
     static_cast<size_t>(8u) 
 );
 
@@ -36967,10 +36967,10 @@ struct _Default_allocate_traits {
     }
 
 
-
-
-
-
+    __declspec(allocator) static void* _Allocate_aligned(const size_t _Bytes, const size_t _Align) {
+        return ::operator new (_Bytes, align_val_t{_Align});
+    }
+#line 85 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xmemory"
 };
 
 constexpr bool _Is_pow_2(const size_t _Value) noexcept {
@@ -37044,37 +37044,37 @@ inline void _Adjust_manually_vector_aligned(void*& _Ptr, size_t& _Bytes) {
 
 
 
+template <size_t _Align, class _Traits = _Default_allocate_traits,
+    enable_if_t<(_Align > 8u), int> = 0>
+__declspec(allocator) void* _Allocate(const size_t _Bytes) {
+    
+    if (_Bytes == 0) {
+        return nullptr;
+    }
 
+    size_t _Passed_align = _Align;
 
+    if (_Bytes >= _Big_allocation_threshold) {
+        
+        _Passed_align = (::std:: max)(_Align, _Big_allocation_alignment);
+    }
+#line 173 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xmemory"
 
+    return _Traits::_Allocate_aligned(_Bytes, _Passed_align);
+}
 
+template <size_t _Align, enable_if_t<(_Align > 8u), int> = 0>
+void _Deallocate(void* _Ptr, const size_t _Bytes) noexcept {
+    
+    size_t _Passed_align = _Align;
 
+    if (_Bytes >= _Big_allocation_threshold) { 
+        _Passed_align = (::std:: max)(_Align, _Big_allocation_alignment);
+    }
+#line 186 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xmemory"
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    ::operator delete (_Ptr, _Bytes, align_val_t{_Passed_align});
+}
 
 
 
@@ -37082,7 +37082,7 @@ inline void _Adjust_manually_vector_aligned(void*& _Ptr, size_t& _Bytes) {
 #line 194 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xmemory"
 
 template <size_t _Align, class _Traits = _Default_allocate_traits,
-    enable_if_t<(!0 || _Align <= 8u), int> = 0>
+    enable_if_t<(!1 || _Align <= 8u), int> = 0>
 __declspec(allocator) void* _Allocate(const size_t _Bytes) {
     
 
@@ -37098,7 +37098,7 @@ __declspec(allocator) void* _Allocate(const size_t _Bytes) {
     return nullptr;
 }
 
-template <size_t _Align, enable_if_t<(!0 || _Align <= 8u), int> = 0>
+template <size_t _Align, enable_if_t<(!1 || _Align <= 8u), int> = 0>
 void _Deallocate(void* _Ptr, size_t _Bytes) noexcept {
     
 
@@ -37629,7 +37629,7 @@ using _Maybe_rebind_alloc_t =
 
 
 template <class _Alloc> 
- constexpr bool _Is_simple_alloc_v = is_same_v<typename allocator_traits<_Alloc>::size_type, size_t>&&
+inline constexpr bool _Is_simple_alloc_v = is_same_v<typename allocator_traits<_Alloc>::size_type, size_t>&&
     is_same_v<typename allocator_traits<_Alloc>::difference_type, ptrdiff_t>&&
         is_same_v<typename allocator_traits<_Alloc>::pointer, typename _Alloc::value_type*>&&
             is_same_v<typename allocator_traits<_Alloc>::const_pointer, const typename _Alloc::value_type*>;
@@ -37656,11 +37656,11 @@ public:
 
     using value_type = _Ty;
 
-     typedef _Ty* pointer;
-     typedef const _Ty* const_pointer;
+    [[deprecated("warning STL4010: " "Various members of std::allocator are deprecated in C++17. " "Use std::allocator_traits instead of accessing these members directly. " "You can define _SILENCE_CXX17_OLD_ALLOCATOR_MEMBERS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ty* pointer;
+    [[deprecated("warning STL4010: " "Various members of std::allocator are deprecated in C++17. " "Use std::allocator_traits instead of accessing these members directly. " "You can define _SILENCE_CXX17_OLD_ALLOCATOR_MEMBERS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef const _Ty* const_pointer;
 
-     typedef _Ty& reference;
-     typedef const _Ty& const_reference;
+    [[deprecated("warning STL4010: " "Various members of std::allocator are deprecated in C++17. " "Use std::allocator_traits instead of accessing these members directly. " "You can define _SILENCE_CXX17_OLD_ALLOCATOR_MEMBERS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef _Ty& reference;
+    [[deprecated("warning STL4010: " "Various members of std::allocator are deprecated in C++17. " "Use std::allocator_traits instead of accessing these members directly. " "You can define _SILENCE_CXX17_OLD_ALLOCATOR_MEMBERS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef const _Ty& const_reference;
 
     using size_type       = size_t;
     using difference_type = ptrdiff_t;
@@ -37669,15 +37669,15 @@ public:
     using is_always_equal                        = true_type;
 
     template <class _Other>
-    struct  rebind {
+    struct [[deprecated("warning STL4010: " "Various members of std::allocator are deprecated in C++17. " "Use std::allocator_traits instead of accessing these members directly. " "You can define _SILENCE_CXX17_OLD_ALLOCATOR_MEMBERS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] rebind {
         using other = allocator<_Other>;
     };
 
-     [[nodiscard]] _Ty* address(_Ty& _Val) const noexcept {
+    [[deprecated("warning STL4010: " "Various members of std::allocator are deprecated in C++17. " "Use std::allocator_traits instead of accessing these members directly. " "You can define _SILENCE_CXX17_OLD_ALLOCATOR_MEMBERS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] [[nodiscard]] _Ty* address(_Ty& _Val) const noexcept {
         return ::std:: addressof(_Val);
     }
 
-     [[nodiscard]] const _Ty* address(const _Ty& _Val) const noexcept {
+    [[deprecated("warning STL4010: " "Various members of std::allocator are deprecated in C++17. " "Use std::allocator_traits instead of accessing these members directly. " "You can define _SILENCE_CXX17_OLD_ALLOCATOR_MEMBERS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] [[nodiscard]] const _Ty* address(const _Ty& _Val) const noexcept {
         return ::std:: addressof(_Val);
     }
 
@@ -37696,22 +37696,22 @@ public:
         return static_cast<_Ty*>(_Allocate<_New_alignof<_Ty>>(_Get_size_of_n<sizeof(_Ty)>(_Count)));
     }
 
-     [[nodiscard]] __declspec(allocator) _Ty* allocate(
+    [[deprecated("warning STL4010: " "Various members of std::allocator are deprecated in C++17. " "Use std::allocator_traits instead of accessing these members directly. " "You can define _SILENCE_CXX17_OLD_ALLOCATOR_MEMBERS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] [[nodiscard]] __declspec(allocator) _Ty* allocate(
         __declspec(guard(overflow)) const size_t _Count, const void*) {
         return allocate(_Count);
     }
 
     template <class _Objty, class... _Types>
-     void construct(_Objty* const _Ptr, _Types&&... _Args) {
+    [[deprecated("warning STL4010: " "Various members of std::allocator are deprecated in C++17. " "Use std::allocator_traits instead of accessing these members directly. " "You can define _SILENCE_CXX17_OLD_ALLOCATOR_MEMBERS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] void construct(_Objty* const _Ptr, _Types&&... _Args) {
         ::new (const_cast<void*>(static_cast<const volatile void*>(_Ptr))) _Objty(::std:: forward<_Types>(_Args)...);
     }
 
     template <class _Uty>
-     void destroy(_Uty* const _Ptr) {
+    [[deprecated("warning STL4010: " "Various members of std::allocator are deprecated in C++17. " "Use std::allocator_traits instead of accessing these members directly. " "You can define _SILENCE_CXX17_OLD_ALLOCATOR_MEMBERS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] void destroy(_Uty* const _Ptr) {
         _Ptr->~_Uty();
     }
 
-     [[nodiscard]] size_t max_size() const noexcept {
+    [[deprecated("warning STL4010: " "Various members of std::allocator are deprecated in C++17. " "Use std::allocator_traits instead of accessing these members directly. " "You can define _SILENCE_CXX17_OLD_ALLOCATOR_MEMBERS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] [[nodiscard]] size_t max_size() const noexcept {
         return static_cast<size_t>(-1) / sizeof(_Ty);
     }
 };
@@ -37721,8 +37721,8 @@ template <>
 class allocator<void> {
 public:
     using value_type = void;
-     typedef void* pointer;
-     typedef const void* const_pointer;
+    [[deprecated("warning STL4010: " "Various members of std::allocator are deprecated in C++17. " "Use std::allocator_traits instead of accessing these members directly. " "You can define _SILENCE_CXX17_OLD_ALLOCATOR_MEMBERS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef void* pointer;
+    [[deprecated("warning STL4010: " "Various members of std::allocator are deprecated in C++17. " "Use std::allocator_traits instead of accessing these members directly. " "You can define _SILENCE_CXX17_OLD_ALLOCATOR_MEMBERS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef const void* const_pointer;
 
     using size_type       = size_t;
     using difference_type = ptrdiff_t;
@@ -37731,7 +37731,7 @@ public:
     using is_always_equal                        = true_type;
 
     template <class _Other>
-    struct  rebind {
+    struct [[deprecated("warning STL4010: " "Various members of std::allocator are deprecated in C++17. " "Use std::allocator_traits instead of accessing these members directly. " "You can define _SILENCE_CXX17_OLD_ALLOCATOR_MEMBERS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] rebind {
         using other = allocator<_Other>;
     };
 };
@@ -37748,9 +37748,9 @@ template <class _Ty, class _Other>
 
 
 
-
-
-
+template <class _Alloc>
+using _Guide_size_type_t =
+    typename allocator_traits<conditional_t<_Is_allocator<_Alloc>::value, _Alloc, allocator<int>>>::size_type;
 #line 866 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xmemory"
 
 
@@ -38275,10 +38275,10 @@ pair<_Ty*, ptrdiff_t> _Get_temporary_buffer(ptrdiff_t _Count) noexcept {
             const auto _Size = static_cast<size_t>(_Count) * sizeof(_Ty);
             void* _Pbuf;
 
-
-
-
-
+            if constexpr (alignof(_Ty) > 8u) {
+                _Pbuf = ::operator new (_Size, align_val_t{alignof(_Ty)}, nothrow);
+            } else
+#line 1393 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xmemory"
             {
                 _Pbuf = ::operator new(_Size, nothrow);
             }
@@ -38296,10 +38296,10 @@ pair<_Ty*, ptrdiff_t> _Get_temporary_buffer(ptrdiff_t _Count) noexcept {
 template <class _Ty>
 void _Return_temporary_buffer(_Ty* const _Pbuf) noexcept {
 
-
-
-
-
+    if constexpr (alignof(_Ty) > 8u) {
+        ::operator delete (_Pbuf, align_val_t{alignof(_Ty)});
+    } else
+#line 1414 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xmemory"
     {
         ::operator delete(_Pbuf);
     }
@@ -38695,7 +38695,7 @@ void uninitialized_fill(const _NoThrowFwdIt _First, const _NoThrowFwdIt _Last, c
 
 
 template <class _NoThrowFwdIt>
- constexpr bool _Use_memset_value_construct_v = conjunction_v<is_pointer<_NoThrowFwdIt>,
+inline constexpr bool _Use_memset_value_construct_v = conjunction_v<is_pointer<_NoThrowFwdIt>,
     is_scalar<_Iter_value_t<_NoThrowFwdIt>>, negation<is_volatile<remove_reference_t<_Iter_ref_t<_NoThrowFwdIt>>>>,
     negation<is_member_pointer<_Iter_value_t<_NoThrowFwdIt>>>>;
 
@@ -38798,13 +38798,13 @@ _NoThrowFwdIt _Uninitialized_value_construct_n_unchecked1(_NoThrowFwdIt _UFirst,
 
 
 template <class _Ty>
- [[nodiscard]] pair<_Ty*, ptrdiff_t> get_temporary_buffer(ptrdiff_t _Count) noexcept {
+[[deprecated("warning STL4012: " "std::get_temporary_buffer() and std::return_temporary_buffer() are deprecated in C++17. " "You can define _SILENCE_CXX17_TEMPORARY_BUFFER_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] [[nodiscard]] pair<_Ty*, ptrdiff_t> get_temporary_buffer(ptrdiff_t _Count) noexcept {
     return _Get_temporary_buffer<_Ty>(_Count);
 }
 
 
 template <class _Ty>
- void return_temporary_buffer(_Ty* _Pbuf) {
+[[deprecated("warning STL4012: " "std::get_temporary_buffer() and std::return_temporary_buffer() are deprecated in C++17. " "You can define _SILENCE_CXX17_TEMPORARY_BUFFER_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] void return_temporary_buffer(_Ty* _Pbuf) {
     _Return_temporary_buffer(_Pbuf);
 }
 #line 1922 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xmemory"
@@ -38985,12 +38985,1289 @@ typename _Container::size_type _Erase_nodes_if(_Container& _Cont, _Pr _Pred) {
 #line 15 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
 
 
+#line 1 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xpolymorphic_allocator.h"
 
+
+
+
+
+#pragma once
+
+
+
+
+#line 1 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\tuple"
+
+
+
+
+
+#pragma once
+
+
+
+
+
+
+
+
+#pragma pack(push, 8)
+#pragma warning(push, 3)
+#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294   5053 )
+
+
+
+
+namespace std {
+
+
+template <bool _Same, class _Dest, class... _Srcs>
+inline constexpr bool _Tuple_conditional_explicit_v0 = false;
+
+template <class... _Dests, class... _Srcs>
+inline constexpr bool _Tuple_conditional_explicit_v0<true, tuple<_Dests...>, _Srcs...> =
+    !conjunction_v<is_convertible<_Srcs, _Dests>...>;
+
+template <class _Dest, class... _Srcs>
+inline constexpr bool _Tuple_conditional_explicit_v =
+    _Tuple_conditional_explicit_v0<tuple_size_v<_Dest> == sizeof...(_Srcs), _Dest, _Srcs...>;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#line 62 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\tuple"
+
+
+template <bool _Same, class _Dest, class... _Srcs>
+inline constexpr bool _Tuple_constructible_v0 = false;
+
+template <class... _Dests, class... _Srcs>
+inline constexpr bool _Tuple_constructible_v0<true, tuple<_Dests...>, _Srcs...> =
+    conjunction_v<is_constructible<_Dests, _Srcs>...>;
+
+template <class _Dest, class... _Srcs>
+inline constexpr bool _Tuple_constructible_v =
+    _Tuple_constructible_v0<tuple_size_v<_Dest> == sizeof...(_Srcs), _Dest, _Srcs...>;
+
+template <class _Dest, class... _Srcs>
+struct _Tuple_constructible_val : bool_constant<_Tuple_constructible_v<_Dest, _Srcs...>> {};
+
+
+template <bool _Same, class _Dest, class... _Srcs>
+inline constexpr bool _Tuple_nothrow_constructible_v0 = false;
+
+template <class... _Dests, class... _Srcs>
+inline constexpr bool _Tuple_nothrow_constructible_v0<true, tuple<_Dests...>, _Srcs...> =
+    conjunction_v<is_nothrow_constructible<_Dests, _Srcs>...>;
+
+template <class _Dest, class... _Srcs>
+inline constexpr bool _Tuple_nothrow_constructible_v =
+    _Tuple_nothrow_constructible_v0<tuple_size_v<_Dest> == sizeof...(_Srcs), _Dest, _Srcs...>;
+
+
+template <bool _Same, class _Dest, class... _Srcs>
+inline constexpr bool _Tuple_assignable_v0 = false;
+
+template <class... _Dests, class... _Srcs>
+inline constexpr bool _Tuple_assignable_v0<true, tuple<_Dests...>, _Srcs...> =
+    conjunction_v<is_assignable<_Dests&, _Srcs>...>; 
+
+template <class _Dest, class... _Srcs>
+inline constexpr bool _Tuple_assignable_v =
+    _Tuple_assignable_v0<tuple_size_v<_Dest> == sizeof...(_Srcs), _Dest, _Srcs...>;
+
+template <class _Dest, class... _Srcs>
+struct _Tuple_assignable_val : bool_constant<_Tuple_assignable_v<_Dest, _Srcs...>> {};
+
+
+template <bool _Same, class _Dest, class... _Srcs>
+inline constexpr bool _Tuple_nothrow_assignable_v0 = false;
+
+template <class... _Dests, class... _Srcs>
+inline constexpr bool _Tuple_nothrow_assignable_v0<true, tuple<_Dests...>, _Srcs...> =
+    conjunction_v<is_nothrow_assignable<_Dests&, _Srcs>...>; 
+
+template <class _Dest, class... _Srcs>
+inline constexpr bool _Tuple_nothrow_assignable_v =
+    _Tuple_nothrow_assignable_v0<tuple_size_v<_Dest> == sizeof...(_Srcs), _Dest, _Srcs...>;
+
+
+
+template <class _Myself, class... _Other>
+struct _Tuple_convert_copy_val : true_type {};
+
+template <class _This, class _Uty>
+struct _Tuple_convert_copy_val<tuple<_This>, _Uty>
+    : bool_constant<!disjunction_v<is_same<_This, _Uty>, is_constructible<_This, const tuple<_Uty>&>,
+          is_convertible<const tuple<_Uty>&, _This>>> {};
+
+
+
+template <class _Myself, class... _Other>
+struct _Tuple_convert_move_val : true_type {};
+
+template <class _This, class _Uty>
+struct _Tuple_convert_move_val<tuple<_This>, _Uty>
+    : bool_constant<!disjunction_v<is_same<_This, _Uty>, is_constructible<_This, tuple<_Uty>>,
+          is_convertible<tuple<_Uty>, _This>>> {};
+
+
+
+template <class _Myself, class _This2, class... _Rest2>
+struct _Tuple_perfect_val : true_type {};
+
+template <class _Myself, class _This2>
+struct _Tuple_perfect_val<_Myself, _This2>
+    : bool_constant<!is_same_v<_Myself, remove_const_t<remove_reference_t<_This2>>>> {};
+
+
+struct _Ignore { 
+    template <class _Ty>
+    constexpr const _Ignore& operator=(const _Ty&) const noexcept  {
+        
+        return *this;
+    }
+};
+
+inline constexpr _Ignore ignore{};
+
+
+template <class _Ty>
+struct _Tuple_val { 
+    constexpr _Tuple_val() : _Val() {}
+
+    template <class _Other>
+    constexpr _Tuple_val(_Other&& _Arg) : _Val(::std:: forward<_Other>(_Arg)) {}
+
+    template <class _Alloc, class... _Other, enable_if_t<!uses_allocator_v<_Ty, _Alloc>, int> = 0>
+    _Tuple_val(const _Alloc&, allocator_arg_t, _Other&&... _Arg) : _Val(::std:: forward<_Other>(_Arg)...) {}
+
+    template <class _Alloc, class... _Other,
+        enable_if_t<conjunction_v<uses_allocator<_Ty, _Alloc>,
+                        is_constructible<_Ty, allocator_arg_t, const _Alloc&, _Other...>>,
+            int> = 0>
+    _Tuple_val(const _Alloc& _Al, allocator_arg_t, _Other&&... _Arg)
+        : _Val(allocator_arg, _Al, ::std:: forward<_Other>(_Arg)...) {}
+
+    template <class _Alloc, class... _Other,
+        enable_if_t<conjunction_v<uses_allocator<_Ty, _Alloc>,
+                        negation<is_constructible<_Ty, allocator_arg_t, const _Alloc&, _Other...>>>,
+            int> = 0>
+    _Tuple_val(const _Alloc& _Al, allocator_arg_t, _Other&&... _Arg) : _Val(::std:: forward<_Other>(_Arg)..., _Al) {}
+
+    _Ty _Val;
+};
+
+
+struct _Exact_args_t {
+    explicit _Exact_args_t() = default;
+}; 
+
+struct _Unpack_tuple_t {
+    explicit _Unpack_tuple_t() = default;
+}; 
+
+struct _Alloc_exact_args_t {
+    explicit _Alloc_exact_args_t() = default;
+}; 
+
+struct _Alloc_unpack_tuple_t {
+    explicit _Alloc_unpack_tuple_t() = default;
+}; 
+
+template <class... _Types>
+class tuple;
+
+template <>
+class tuple<> { 
+public:
+    constexpr tuple() noexcept  {}
+
+    constexpr tuple(const tuple&) noexcept  {} 
+
+    template <class _Alloc>
+    tuple(allocator_arg_t, const _Alloc&) noexcept  {}
+
+    template <class _Alloc>
+    tuple(allocator_arg_t, const _Alloc&, const tuple&) noexcept  {}
+
+    template <class _Tag, enable_if_t<is_same_v<_Tag, _Exact_args_t>, int> = 0>
+    constexpr tuple(_Tag) noexcept  {}
+
+    template <class _Tag, class _Alloc, enable_if_t<is_same_v<_Tag, _Alloc_exact_args_t>, int> = 0>
+    tuple(_Tag, const _Alloc&) noexcept  {}
+
+    constexpr tuple& operator=(const tuple&) = default;
+
+    void swap(tuple&) noexcept {}
+
+    constexpr bool _Equals(const tuple&) const noexcept {
+        return true;
+    }
+
+    constexpr bool _Less(const tuple&) const noexcept {
+        return false;
+    }
+};
+
+template <class _This, class... _Rest>
+class tuple<_This, _Rest...> : private tuple<_Rest...> { 
+public:
+    using _This_type = _This;
+    using _Mybase    = tuple<_Rest...>;
+
+    template <class _Tag, class _This2, class... _Rest2, enable_if_t<is_same_v<_Tag, _Exact_args_t>, int> = 0>
+    constexpr tuple(_Tag, _This2&& _This_arg, _Rest2&&... _Rest_arg)
+        : _Mybase(_Exact_args_t{}, ::std:: forward<_Rest2>(_Rest_arg)...), _Myfirst(::std:: forward<_This2>(_This_arg)) {}
+
+    template <class _Tag, class _Tpl, size_t... _Indices, enable_if_t<is_same_v<_Tag, _Unpack_tuple_t>, int> = 0>
+    constexpr tuple(_Tag, _Tpl&& _Right, index_sequence<_Indices...>);
+
+    template <class _Tag, class _Tpl, enable_if_t<is_same_v<_Tag, _Unpack_tuple_t>, int> = 0>
+    constexpr tuple(_Tag, _Tpl&& _Right)
+        : tuple(_Unpack_tuple_t{}, ::std:: forward<_Tpl>(_Right),
+            make_index_sequence<tuple_size_v<remove_reference_t<_Tpl>>>{}) {}
+
+    template <class _Tag, class _Alloc, class _This2, class... _Rest2,
+        enable_if_t<is_same_v<_Tag, _Alloc_exact_args_t>, int> = 0>
+    tuple(_Tag, const _Alloc& _Al, _This2&& _This_arg, _Rest2&&... _Rest_arg)
+        : _Mybase(_Alloc_exact_args_t{}, _Al, ::std:: forward<_Rest2>(_Rest_arg)...),
+          _Myfirst(_Al, allocator_arg, ::std:: forward<_This2>(_This_arg)) {}
+
+    template <class _Tag, class _Alloc, class _Tpl, size_t... _Indices,
+        enable_if_t<is_same_v<_Tag, _Alloc_unpack_tuple_t>, int> = 0>
+    tuple(_Tag, const _Alloc& _Al, _Tpl&& _Right, index_sequence<_Indices...>);
+
+    template <class _Tag, class _Alloc, class _Tpl, enable_if_t<is_same_v<_Tag, _Alloc_unpack_tuple_t>, int> = 0>
+    tuple(_Tag, const _Alloc& _Al, _Tpl&& _Right)
+        : tuple(_Alloc_unpack_tuple_t{}, _Al, ::std:: forward<_Tpl>(_Right),
+            make_index_sequence<tuple_size_v<remove_reference_t<_Tpl>>>{}) {}
+
+
+    template <class _This2                                                                                    = _This,
+        enable_if_t<conjunction_v<is_default_constructible<_This2>, is_default_constructible<_Rest>...>, int> = 0>
+    constexpr explicit(
+        !conjunction_v<_Is_implicitly_default_constructible<_This2>, _Is_implicitly_default_constructible<_Rest>...>)
+        tuple() noexcept(conjunction_v<is_nothrow_default_constructible<_This2>,
+            is_nothrow_default_constructible<_Rest>...>) 
+        : _Mybase(), _Myfirst() {}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#line 295 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\tuple"
+
+
+    template <class _This2 = _This, enable_if_t<_Tuple_constructible_v<tuple, const _This2&, const _Rest&...>, int> = 0>
+    constexpr explicit(_Tuple_conditional_explicit_v<tuple, const _This2&, const _Rest&...>) tuple(
+        const _This& _This_arg, const _Rest&... _Rest_arg) noexcept(conjunction_v<is_nothrow_copy_constructible<_This2>,
+        is_nothrow_copy_constructible<_Rest>...>) 
+        : tuple(_Exact_args_t{}, _This_arg, _Rest_arg...) {}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#line 317 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\tuple"
+
+
+    template <class _This2, class... _Rest2,
+        enable_if_t<conjunction_v<_Tuple_perfect_val<tuple, _This2, _Rest2...>,
+                        _Tuple_constructible_val<tuple, _This2, _Rest2...>>,
+            int> = 0>
+    constexpr explicit(_Tuple_conditional_explicit_v<tuple, _This2, _Rest2...>) tuple(_This2&& _This_arg,
+        _Rest2&&... _Rest_arg) noexcept(_Tuple_nothrow_constructible_v<tuple, _This2, _Rest2...>) 
+        : tuple(_Exact_args_t{}, ::std:: forward<_This2>(_This_arg), ::std:: forward<_Rest2>(_Rest_arg)...) {}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#line 343 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\tuple"
+
+    tuple(const tuple&) = default;
+    tuple(tuple&&)      = default;
+
+
+    template <class... _Other, enable_if_t<conjunction_v<_Tuple_constructible_val<tuple, const _Other&...>,
+                                               _Tuple_convert_copy_val<tuple, _Other...>>,
+                                   int> = 0>
+    constexpr explicit(_Tuple_conditional_explicit_v<tuple, const _Other&...>)
+        tuple(const tuple<_Other...>& _Right) noexcept(
+            _Tuple_nothrow_constructible_v<tuple, const _Other&...>) 
+        : tuple(_Unpack_tuple_t{}, _Right) {}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#line 370 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\tuple"
+
+
+    template <class... _Other, enable_if_t<conjunction_v<_Tuple_constructible_val<tuple, _Other...>,
+                                               _Tuple_convert_move_val<tuple, _Other...>>,
+                                   int> = 0>
+    constexpr explicit(_Tuple_conditional_explicit_v<tuple, _Other...>)
+        tuple(tuple<_Other...>&& _Right) noexcept(_Tuple_nothrow_constructible_v<tuple, _Other...>) 
+        : tuple(_Unpack_tuple_t{}, ::std:: move(_Right)) {}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#line 393 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\tuple"
+
+
+    template <class _First, class _Second,
+        enable_if_t<_Tuple_constructible_v<tuple, const _First&, const _Second&>, int> = 0>
+    constexpr explicit(_Tuple_conditional_explicit_v<tuple, const _First&, const _Second&>)
+        tuple(const pair<_First, _Second>& _Right) noexcept(
+            _Tuple_nothrow_constructible_v<tuple, const _First&, const _Second&>) 
+        : tuple(_Unpack_tuple_t{}, _Right) {}
+
+
+
+
+
+
+
+
+
+
+
+
+#line 414 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\tuple"
+
+
+    template <class _First, class _Second, enable_if_t<_Tuple_constructible_v<tuple, _First, _Second>, int> = 0>
+    constexpr explicit(_Tuple_conditional_explicit_v<tuple, _First, _Second>) tuple(
+        pair<_First, _Second>&& _Right) noexcept(_Tuple_nothrow_constructible_v<tuple, _First, _Second>) 
+        : tuple(_Unpack_tuple_t{}, ::std:: move(_Right)) {}
+
+
+
+
+
+
+
+
+
+
+#line 431 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\tuple"
+
+
+    template <class _Alloc, class _This2 = _This,
+        enable_if_t<conjunction_v<is_default_constructible<_This2>, is_default_constructible<_Rest>...>, int> = 0>
+    explicit(
+        !conjunction_v<_Is_implicitly_default_constructible<_This2>, _Is_implicitly_default_constructible<_Rest>...>)
+        tuple(allocator_arg_t, const _Alloc& _Al)
+        : _Mybase(allocator_arg, _Al), _Myfirst(_Al, allocator_arg) {}
+
+
+
+
+
+
+
+
+
+
+
+
+
+#line 453 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\tuple"
+
+
+    template <class _Alloc, class _This2 = _This,
+        enable_if_t<_Tuple_constructible_v<tuple, const _This2&, const _Rest&...>, int> = 0>
+    explicit(_Tuple_conditional_explicit_v<tuple, const _This2&, const _Rest&...>)
+        tuple(allocator_arg_t, const _Alloc& _Al, const _This& _This_arg, const _Rest&... _Rest_arg)
+        : tuple(_Alloc_exact_args_t{}, _Al, _This_arg, _Rest_arg...) {}
+
+
+
+
+
+
+
+
+
+
+#line 471 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\tuple"
+
+
+    template <class _Alloc, class _This2, class... _Rest2,
+        enable_if_t<conjunction_v<_Tuple_perfect_val<tuple, _This2, _Rest2...>,
+                        _Tuple_constructible_val<tuple, _This2, _Rest2...>>,
+            int> = 0>
+    explicit(_Tuple_conditional_explicit_v<tuple, _This2, _Rest2...>)
+        tuple(allocator_arg_t, const _Alloc& _Al, _This2&& _This_arg, _Rest2&&... _Rest_arg)
+        : tuple(_Alloc_exact_args_t{}, _Al, ::std:: forward<_This2>(_This_arg), ::std:: forward<_Rest2>(_Rest_arg)...) {}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#line 495 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\tuple"
+
+    template <class _Alloc, class _This2 = _This,
+        enable_if_t<_Tuple_constructible_v<tuple, const _This2&, const _Rest&...>, int> = 0>
+    tuple(allocator_arg_t, const _Alloc& _Al, const tuple& _Right) : tuple(_Alloc_unpack_tuple_t{}, _Al, _Right) {}
+
+    template <class _Alloc, class _This2 = _This, enable_if_t<_Tuple_constructible_v<tuple, _This2, _Rest...>, int> = 0>
+    tuple(allocator_arg_t, const _Alloc& _Al, tuple&& _Right)
+        : tuple(_Alloc_unpack_tuple_t{}, _Al, ::std:: move(_Right)) {}
+
+
+    template <class _Alloc, class... _Other,
+        enable_if_t<
+            conjunction_v<_Tuple_constructible_val<tuple, const _Other&...>, _Tuple_convert_copy_val<tuple, _Other...>>,
+            int> = 0>
+    explicit(_Tuple_conditional_explicit_v<tuple, const _Other&...>)
+        tuple(allocator_arg_t, const _Alloc& _Al, const tuple<_Other...>& _Right)
+        : tuple(_Alloc_unpack_tuple_t{}, _Al, _Right) {}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#line 527 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\tuple"
+
+
+    template <class _Alloc, class... _Other,
+        enable_if_t<
+            conjunction_v<_Tuple_constructible_val<tuple, _Other...>, _Tuple_convert_move_val<tuple, _Other...>>, int> =
+            0>
+    explicit(_Tuple_conditional_explicit_v<tuple, _Other...>)
+        tuple(allocator_arg_t, const _Alloc& _Al, tuple<_Other...>&& _Right)
+        : tuple(_Alloc_unpack_tuple_t{}, _Al, ::std:: move(_Right)) {}
+
+
+
+
+
+
+
+
+
+
+
+
+#line 549 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\tuple"
+
+
+    template <class _Alloc, class _First, class _Second,
+        enable_if_t<_Tuple_constructible_v<tuple, const _First&, const _Second&>, int> = 0>
+    explicit(_Tuple_conditional_explicit_v<tuple, const _First&, const _Second&>)
+        tuple(allocator_arg_t, const _Alloc& _Al, const pair<_First, _Second>& _Right)
+        : tuple(_Alloc_unpack_tuple_t{}, _Al, _Right) {}
+
+
+
+
+
+
+
+
+
+
+#line 567 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\tuple"
+
+
+    template <class _Alloc, class _First, class _Second,
+        enable_if_t<_Tuple_constructible_v<tuple, _First, _Second>, int> = 0>
+    explicit(_Tuple_conditional_explicit_v<tuple, _First, _Second>)
+        tuple(allocator_arg_t, const _Alloc& _Al, pair<_First, _Second>&& _Right)
+        : tuple(_Alloc_unpack_tuple_t{}, _Al, ::std:: move(_Right)) {}
+
+
+
+
+
+
+
+
+
+
+#line 585 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\tuple"
+
+    tuple& operator=(const volatile tuple&) = delete;
+
+    template <class _Myself = tuple, class _This2 = _This,
+        enable_if_t<conjunction_v<_Is_copy_assignable_no_precondition_check<_This2>,
+                        _Is_copy_assignable_no_precondition_check<_Rest>...>,
+            int> = 0>
+    tuple& operator=(_Identity_t<const _Myself&> _Right) noexcept(
+        conjunction_v<is_nothrow_copy_assignable<_This2>, is_nothrow_copy_assignable<_Rest>...>)  {
+        _Myfirst._Val = _Right._Myfirst._Val;
+        _Get_rest()   = _Right._Get_rest();
+        return *this;
+    }
+
+    template <class _Myself = tuple, class _This2 = _This,
+        enable_if_t<conjunction_v<_Is_move_assignable_no_precondition_check<_This2>,
+                        _Is_move_assignable_no_precondition_check<_Rest>...>,
+            int> = 0>
+    tuple& operator=(_Identity_t<_Myself&&> _Right) noexcept(
+        conjunction_v<is_nothrow_move_assignable<_This2>, is_nothrow_move_assignable<_Rest>...>) {
+        _Myfirst._Val = ::std:: forward<_This>(_Right._Myfirst._Val);
+        _Get_rest()   = ::std:: forward<_Mybase>(_Right._Get_rest());
+        return *this;
+    }
+
+    template <class... _Other, enable_if_t<conjunction_v<negation<is_same<tuple, tuple<_Other...>>>,
+                                               _Tuple_assignable_val<tuple, const _Other&...>>,
+                                   int> = 0>
+    tuple& operator=(const tuple<_Other...>& _Right) noexcept(
+        _Tuple_nothrow_assignable_v<tuple, const _Other&...>)  {
+        _Myfirst._Val = _Right._Myfirst._Val;
+        _Get_rest()   = _Right._Get_rest();
+        return *this;
+    }
+
+    template <class... _Other,
+        enable_if_t<conjunction_v<negation<is_same<tuple, tuple<_Other...>>>, _Tuple_assignable_val<tuple, _Other...>>,
+            int> = 0>
+    tuple& operator=(tuple<_Other...>&& _Right) noexcept(
+        _Tuple_nothrow_assignable_v<tuple, _Other...>)  {
+        _Myfirst._Val = ::std:: forward<typename tuple<_Other...>::_This_type>(_Right._Myfirst._Val);
+        _Get_rest()   = ::std:: forward<typename tuple<_Other...>::_Mybase>(_Right._Get_rest());
+        return *this;
+    }
+
+    template <class _First, class _Second,
+        enable_if_t<_Tuple_assignable_v<tuple, const _First&, const _Second&>, int> = 0>
+    tuple& operator=(const pair<_First, _Second>& _Right) noexcept(
+        _Tuple_nothrow_assignable_v<tuple, const _First&, const _Second&>)  {
+        _Myfirst._Val             = _Right.first;
+        _Get_rest()._Myfirst._Val = _Right.second;
+        return *this;
+    }
+
+    template <class _First, class _Second, enable_if_t<_Tuple_assignable_v<tuple, _First, _Second>, int> = 0>
+    tuple& operator=(pair<_First, _Second>&& _Right) noexcept(
+        _Tuple_nothrow_assignable_v<tuple, _First, _Second>)  {
+        _Myfirst._Val             = ::std:: forward<_First>(_Right.first);
+        _Get_rest()._Myfirst._Val = ::std:: forward<_Second>(_Right.second);
+        return *this;
+    }
+
+    void swap(tuple& _Right) noexcept(conjunction_v<_Is_nothrow_swappable<_This>, _Is_nothrow_swappable<_Rest>...>) {
+        _Swap_adl(_Myfirst._Val, _Right._Myfirst._Val);
+        _Mybase::swap(_Right._Get_rest());
+    }
+
+    _Mybase& _Get_rest() noexcept { 
+        return *this;
+    }
+
+    constexpr const _Mybase& _Get_rest() const noexcept { 
+        return *this;
+    }
+
+    template <class... _Other>
+    constexpr bool _Equals(const tuple<_Other...>& _Right) const {
+        return _Myfirst._Val == _Right._Myfirst._Val && _Mybase::_Equals(_Right._Get_rest());
+    }
+
+    template <class... _Other>
+    constexpr bool _Less(const tuple<_Other...>& _Right) const {
+        return _Myfirst._Val < _Right._Myfirst._Val
+               || (!(_Right._Myfirst._Val < _Myfirst._Val) && _Mybase::_Less(_Right._Get_rest()));
+    }
+
+    template <size_t _Index, class... _Types>
+    friend constexpr tuple_element_t<_Index, tuple<_Types...>>& get(tuple<_Types...>& _Tuple) noexcept;
+
+    template <size_t _Index, class... _Types>
+    friend constexpr const tuple_element_t<_Index, tuple<_Types...>>& get(const tuple<_Types...>& _Tuple) noexcept;
+
+    template <size_t _Index, class... _Types>
+    friend constexpr tuple_element_t<_Index, tuple<_Types...>>&& get(tuple<_Types...>&& _Tuple) noexcept;
+
+    template <size_t _Index, class... _Types>
+    friend constexpr const tuple_element_t<_Index, tuple<_Types...>>&& get(const tuple<_Types...>&& _Tuple) noexcept;
+
+    template <class _Ty, class... _Types>
+    friend constexpr _Ty& get(tuple<_Types...>& _Tuple) noexcept;
+
+    template <class _Ty, class... _Types>
+    friend constexpr const _Ty& get(const tuple<_Types...>& _Tuple) noexcept;
+
+    template <class _Ty, class... _Types>
+    friend constexpr _Ty&& get(tuple<_Types...>&& _Tuple) noexcept;
+
+    template <class _Ty, class... _Types>
+    friend constexpr const _Ty&& get(const tuple<_Types...>&& _Tuple) noexcept;
+
+    _Tuple_val<_This> _Myfirst; 
+};
+
+
+template <class... _Types>
+tuple(_Types...) -> tuple<_Types...>;
+
+template <class _Ty1, class _Ty2>
+tuple(pair<_Ty1, _Ty2>) -> tuple<_Ty1, _Ty2>;
+
+template <class _Alloc, class... _Types>
+tuple(allocator_arg_t, _Alloc, _Types...) -> tuple<_Types...>;
+
+template <class _Alloc, class _Ty1, class _Ty2>
+tuple(allocator_arg_t, _Alloc, pair<_Ty1, _Ty2>) -> tuple<_Ty1, _Ty2>;
+
+template <class _Alloc, class... _Types>
+tuple(allocator_arg_t, _Alloc, tuple<_Types...>) -> tuple<_Types...>;
+#line 714 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\tuple"
+
+
+template <class... _Types1, class... _Types2>
+[[nodiscard]] constexpr bool operator==(const tuple<_Types1...>& _Left, const tuple<_Types2...>& _Right) {
+    static_assert(sizeof...(_Types1) == sizeof...(_Types2), "cannot compare tuples of different sizes");
+    return _Left._Equals(_Right);
+}
+
+template <class... _Types1, class... _Types2>
+[[nodiscard]] constexpr bool operator!=(const tuple<_Types1...>& _Left, const tuple<_Types2...>& _Right) {
+    return !(_Left == _Right);
+}
+
+template <class... _Types1, class... _Types2>
+[[nodiscard]] constexpr bool operator<(const tuple<_Types1...>& _Left, const tuple<_Types2...>& _Right) {
+    static_assert(sizeof...(_Types1) == sizeof...(_Types2), "cannot compare tuples of different sizes");
+    return _Left._Less(_Right);
+}
+
+template <class... _Types1, class... _Types2>
+[[nodiscard]] constexpr bool operator>=(const tuple<_Types1...>& _Left, const tuple<_Types2...>& _Right) {
+    return !(_Left < _Right);
+}
+
+template <class... _Types1, class... _Types2>
+[[nodiscard]] constexpr bool operator>(const tuple<_Types1...>& _Left, const tuple<_Types2...>& _Right) {
+    return _Right < _Left;
+}
+
+template <class... _Types1, class... _Types2>
+[[nodiscard]] constexpr bool operator<=(const tuple<_Types1...>& _Left, const tuple<_Types2...>& _Right) {
+    return !(_Right < _Left);
+}
+
+template <class... _Types, enable_if_t<conjunction_v<_Is_swappable<_Types>...>, int> = 0>
+void swap(tuple<_Types...>& _Left, tuple<_Types...>& _Right) noexcept(noexcept(_Left.swap(_Right))) {
+    return _Left.swap(_Right);
+}
+
+
+
+template <class _Ty, class _Tuple>
+struct _Tuple_element {}; 
+
+template <class _This, class... _Rest>
+struct _Tuple_element<_This, tuple<_This, _Rest...>> { 
+    static_assert(!_Is_any_of_v<_This, _Rest...>, "duplicate type T in get<T>(tuple)");
+    using _Ttype = tuple<_This, _Rest...>;
+};
+
+template <class _Ty, class _This, class... _Rest>
+struct _Tuple_element<_Ty, tuple<_This, _Rest...>> { 
+    using _Ttype = typename _Tuple_element<_Ty, tuple<_Rest...>>::_Ttype;
+};
+
+
+template <size_t _Index, class... _Types>
+[[nodiscard]] constexpr tuple_element_t<_Index, tuple<_Types...>>& get(tuple<_Types...>& _Tuple) noexcept {
+    using _Ttype = typename tuple_element<_Index, tuple<_Types...>>::_Ttype;
+    return static_cast<_Ttype&>(_Tuple)._Myfirst._Val;
+}
+
+template <size_t _Index, class... _Types>
+[[nodiscard]] constexpr const tuple_element_t<_Index, tuple<_Types...>>& get(const tuple<_Types...>& _Tuple) noexcept {
+    using _Ttype = typename tuple_element<_Index, tuple<_Types...>>::_Ttype;
+    return static_cast<const _Ttype&>(_Tuple)._Myfirst._Val;
+}
+
+template <size_t _Index, class... _Types>
+[[nodiscard]] constexpr tuple_element_t<_Index, tuple<_Types...>>&& get(tuple<_Types...>&& _Tuple) noexcept {
+    using _Ty    = tuple_element_t<_Index, tuple<_Types...>>;
+    using _Ttype = typename tuple_element<_Index, tuple<_Types...>>::_Ttype;
+    return static_cast<_Ty&&>(static_cast<_Ttype&>(_Tuple)._Myfirst._Val);
+}
+
+template <size_t _Index, class... _Types>
+[[nodiscard]] constexpr const tuple_element_t<_Index, tuple<_Types...>>&& get(const tuple<_Types...>&& _Tuple) noexcept {
+    using _Ty    = tuple_element_t<_Index, tuple<_Types...>>;
+    using _Ttype = typename tuple_element<_Index, tuple<_Types...>>::_Ttype;
+    return static_cast<const _Ty&&>(static_cast<const _Ttype&>(_Tuple)._Myfirst._Val);
+}
+
+
+template <class _Ty, class... _Types>
+[[nodiscard]] constexpr _Ty& get(tuple<_Types...>& _Tuple) noexcept {
+    using _Ttype = typename _Tuple_element<_Ty, tuple<_Types...>>::_Ttype;
+    return static_cast<_Ttype&>(_Tuple)._Myfirst._Val;
+}
+
+template <class _Ty, class... _Types>
+[[nodiscard]] constexpr const _Ty& get(const tuple<_Types...>& _Tuple) noexcept {
+    using _Ttype = typename _Tuple_element<_Ty, tuple<_Types...>>::_Ttype;
+    return static_cast<const _Ttype&>(_Tuple)._Myfirst._Val;
+}
+
+template <class _Ty, class... _Types>
+[[nodiscard]] constexpr _Ty&& get(tuple<_Types...>&& _Tuple) noexcept {
+    using _Ttype = typename _Tuple_element<_Ty, tuple<_Types...>>::_Ttype;
+    return static_cast<_Ty&&>(static_cast<_Ttype&>(_Tuple)._Myfirst._Val);
+}
+
+template <class _Ty, class... _Types>
+[[nodiscard]] constexpr const _Ty&& get(const tuple<_Types...>&& _Tuple) noexcept {
+    using _Ttype = typename _Tuple_element<_Ty, tuple<_Types...>>::_Ttype;
+    return static_cast<const _Ty&&>(static_cast<const _Ttype&>(_Tuple)._Myfirst._Val);
+}
+
+
+template <class _This, class... _Rest>
+template <class _Tag, class _Tpl, size_t... _Indices, enable_if_t<is_same_v<_Tag, _Unpack_tuple_t>, int>>
+constexpr tuple<_This, _Rest...>::tuple(_Tag, _Tpl&& _Right, index_sequence<_Indices...>)
+    : tuple(_Exact_args_t{}, ::std:: get<_Indices>(::std:: forward<_Tpl>(_Right))...) {}
+
+template <class _This, class... _Rest>
+template <class _Tag, class _Alloc, class _Tpl, size_t... _Indices,
+    enable_if_t<is_same_v<_Tag, _Alloc_unpack_tuple_t>, int>>
+tuple<_This, _Rest...>::tuple(_Tag, const _Alloc& _Al, _Tpl&& _Right, index_sequence<_Indices...>)
+    : tuple(_Alloc_exact_args_t{}, _Al, ::std:: get<_Indices>(::std:: forward<_Tpl>(_Right))...) {}
+
+
+template <class... _Types>
+[[nodiscard]] constexpr tuple<_Unrefwrap_t<_Types>...> make_tuple(_Types&&... _Args) { 
+    using _Ttype = tuple<_Unrefwrap_t<_Types>...>;
+    return _Ttype(::std:: forward<_Types>(_Args)...);
+}
+
+
+template <class... _Types>
+[[nodiscard]] constexpr tuple<_Types&...> tie(_Types&... _Args) noexcept { 
+    using _Ttype = tuple<_Types&...>;
+    return _Ttype(_Args...);
+}
+
+
+template <class... _Types>
+[[nodiscard]] constexpr tuple<_Types&&...> forward_as_tuple(_Types&&... _Args) noexcept { 
+    return tuple<_Types&&...>(::std:: forward<_Types>(_Args)...);
+}
+
+
+template <class _Seq_type1, class _Seq_type2>
+struct _Cat_sequences;
+
+template <size_t... _Indexes1, size_t... _Indexes2>
+struct _Cat_sequences<index_sequence<_Indexes1...>,
+    index_sequence<_Indexes2...>> { 
+    using type = index_sequence<_Indexes1..., _Indexes2...>;
+};
+
+
+template <class _Ty, size_t _Size>
+class array;
+
+template <size_t _Idx, class _Ty, size_t _Size>
+[[nodiscard]] constexpr _Ty& get(array<_Ty, _Size>& _Arr) noexcept;
+
+template <size_t _Idx, class _Ty, size_t _Size>
+[[nodiscard]] constexpr const _Ty& get(const array<_Ty, _Size>& _Arr) noexcept;
+
+template <size_t _Idx, class _Ty, size_t _Size>
+[[nodiscard]] constexpr _Ty&& get(array<_Ty, _Size>&& _Arr) noexcept;
+
+template <size_t _Idx, class _Ty, size_t _Size>
+[[nodiscard]] constexpr const _Ty&& get(const array<_Ty, _Size>&& _Arr) noexcept;
+
+
+template <class _Ty, class... _For_array>
+struct _View_as_tuple { 
+    static_assert(_Always_false<_Ty>, "Unsupported tuple_cat arguments.");
+};
+
+template <class... _Types>
+struct _View_as_tuple<tuple<_Types...>> { 
+    using type = tuple<_Types...>;
+};
+
+template <class _Ty1, class _Ty2>
+struct _View_as_tuple<pair<_Ty1, _Ty2>> { 
+    using type = tuple<_Ty1, _Ty2>;
+};
+
+template <class _Ty, class... _Types>
+struct _View_as_tuple<array<_Ty, 0>, _Types...> { 
+    using type = tuple<_Types...>;
+};
+
+template <class _Ty, size_t _Size, class... _Types>
+struct _View_as_tuple<array<_Ty, _Size>, _Types...>
+    : _View_as_tuple<array<_Ty, _Size - 1>, _Ty, _Types...> { 
+};
+
+
+template <size_t _Nx, class _Ty>
+struct _Repeat_for : integral_constant<size_t, _Nx> {}; 
+
+
+template <class _Ret, class _Kx_arg, class _Ix_arg, size_t _Ix_next, class... _Tuples>
+struct _Tuple_cat2 { 
+    static_assert(sizeof...(_Tuples) == 0, "Unsupported tuple_cat arguments.");
+    using type        = _Ret;
+    using _Kx_arg_seq = _Kx_arg;
+    using _Ix_arg_seq = _Ix_arg;
+};
+
+template <class... _Types1, class _Kx_arg, size_t... _Ix, size_t _Ix_next, class... _Types2, class... _Rest>
+struct _Tuple_cat2<tuple<_Types1...>, _Kx_arg, index_sequence<_Ix...>, _Ix_next, tuple<_Types2...>, _Rest...>
+    : _Tuple_cat2<tuple<_Types1..., _Types2...>, typename _Cat_sequences<_Kx_arg, index_sequence_for<_Types2...>>::type,
+          index_sequence<_Ix..., _Repeat_for<_Ix_next, _Types2>::value...>, _Ix_next + 1,
+          _Rest...> { 
+};
+
+template <class... _Tuples>
+struct _Tuple_cat1 : _Tuple_cat2<tuple<>, index_sequence<>, index_sequence<>, 0,
+                         typename _View_as_tuple<decay_t<_Tuples>>::type...> { 
+                                                                               
+};
+
+template <class _Ret, size_t... _Kx, size_t... _Ix, class _Ty>
+constexpr _Ret _Tuple_cat(index_sequence<_Kx...>, index_sequence<_Ix...>, _Ty&& _Arg) { 
+    return _Ret(::std:: get<_Kx>(::std:: get<_Ix>(::std:: forward<_Ty>(_Arg)))...);
+}
+
+template <class... _Tuples>
+[[nodiscard]] constexpr typename _Tuple_cat1<_Tuples...>::type tuple_cat(_Tuples&&... _Tpls) { 
+    using _Cat1 = _Tuple_cat1<_Tuples...>;
+    return _Tuple_cat<typename _Cat1::type>(typename _Cat1::_Kx_arg_seq(), typename _Cat1::_Ix_arg_seq(),
+        ::std:: forward_as_tuple(::std:: forward<_Tuples>(_Tpls)...));
+}
+
+
+
+template <class _Callable, class _Tuple, size_t... _Indices>
+constexpr decltype(auto) _Apply_impl(
+    _Callable&& _Obj, _Tuple&& _Tpl, index_sequence<_Indices...>) { 
+    return ::std:: invoke(::std:: forward<_Callable>(_Obj), ::std:: get<_Indices>(::std:: forward<_Tuple>(_Tpl))...);
+}
+
+template <class _Callable, class _Tuple>
+constexpr decltype(auto) apply(_Callable&& _Obj, _Tuple&& _Tpl) { 
+    return _Apply_impl(::std:: forward<_Callable>(_Obj), ::std:: forward<_Tuple>(_Tpl),
+        make_index_sequence<tuple_size_v<remove_reference_t<_Tuple>>>{});
+}
+
+
+template <class _Ty, class _Tuple, size_t... _Indices>
+constexpr _Ty _Make_from_tuple_impl(
+    _Tuple&& _Tpl, index_sequence<_Indices...>) { 
+    return _Ty(::std:: get<_Indices>(::std:: forward<_Tuple>(_Tpl))...);
+}
+
+template <class _Ty, class _Tuple>
+[[nodiscard]] constexpr _Ty make_from_tuple(_Tuple&& _Tpl) { 
+    return _Make_from_tuple_impl<_Ty>(
+        ::std:: forward<_Tuple>(_Tpl), make_index_sequence<tuple_size_v<remove_reference_t<_Tuple>>>{});
+}
+#line 970 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\tuple"
+
+
+template <class _Ty1, class _Ty2>
+template <class _Tuple1, class _Tuple2, size_t... _Indexes1, size_t... _Indexes2>
+pair<_Ty1, _Ty2>::pair(_Tuple1& _Val1, _Tuple2& _Val2, index_sequence<_Indexes1...>, index_sequence<_Indexes2...>)
+    : first(::std:: get<_Indexes1>(::std:: move(_Val1))...), second(::std:: get<_Indexes2>(::std:: move(_Val2))...) {}
+
+
+template <class _Ty1, class _Ty2>
+template <class... _Types1, class... _Types2>
+pair<_Ty1, _Ty2>::pair(piecewise_construct_t, tuple<_Types1...> _Val1, tuple<_Types2...> _Val2)
+    : pair(_Val1, _Val2, index_sequence_for<_Types1...>{}, index_sequence_for<_Types2...>{}) {}
+
+
+template <class... _Types, class _Alloc>
+struct uses_allocator<tuple<_Types...>, _Alloc> : true_type {}; 
+
+
+
+
+
+
+
+
+
+
+#line 997 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\tuple"
+
+}
+
+
+
+#pragma warning(pop)
+#pragma pack(pop)
+#line 1005 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\tuple"
+#line 1006 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\tuple"
+#line 12 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xpolymorphic_allocator.h"
+
+
+
+
+#pragma pack(push, 8)
+#pragma warning(push, 3)
+#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294   5053 )
+
+
+
+
+namespace std {
+
+
+template <class _Ty, class _Outer_alloc, class _Inner_alloc, class... _Types>
+void _Uses_allocator_construct2(
+    true_type, _Ty* const _Ptr, _Outer_alloc& _Outer, _Inner_alloc& _Inner, _Types&&... _Args) {
+    
+    allocator_traits<_Outer_alloc>::construct(_Outer, _Ptr, allocator_arg, _Inner, ::std:: forward<_Types>(_Args)...);
+}
+
+template <class _Ty, class _Outer_alloc, class _Inner_alloc, class... _Types>
+void _Uses_allocator_construct2(
+    false_type, _Ty* const _Ptr, _Outer_alloc& _Outer, _Inner_alloc& _Inner, _Types&&... _Args) {
+    
+    static_assert(is_constructible_v<_Ty, _Types..., _Inner_alloc&>,
+        "N4700 23.10.7.2 [allocator.uses.construction]/1 requires "
+        "is_constructible_v<T, Args..., Alloc&> when uses_allocator_v<T, Alloc> is true and "
+        "is_constructible_v<T, allocator_arg_t, Alloc&, Args...> is false");
+    allocator_traits<_Outer_alloc>::construct(_Outer, _Ptr, ::std:: forward<_Types>(_Args)..., _Inner);
+}
+
+template <class _Ty, class _Outer_alloc, class _Inner_alloc, class... _Types>
+void _Uses_allocator_construct1(
+    true_type, _Ty* const _Ptr, _Outer_alloc& _Outer, _Inner_alloc& _Inner, _Types&&... _Args) {
+    
+    
+    using _IsConstructible = typename is_constructible<_Ty, allocator_arg_t, _Inner_alloc&, _Types...>::type;
+    _Uses_allocator_construct2(_IsConstructible{}, _Ptr, _Outer, _Inner, ::std:: forward<_Types>(_Args)...);
+}
+
+template <class _Ty, class _Outer_alloc, class _Inner_alloc, class... _Types>
+void _Uses_allocator_construct1(false_type, _Ty* const _Ptr, _Outer_alloc& _Outer, _Inner_alloc&, _Types&&... _Args) {
+    
+    static_assert(is_constructible_v<_Ty, _Types...>,
+        "N4700 23.10.7.2 [allocator.uses.construction]/1 requires "
+        "is_constructible_v<T, Args...> when uses_allocator_v<T, Alloc> is false");
+    allocator_traits<_Outer_alloc>::construct(_Outer, _Ptr, ::std:: forward<_Types>(_Args)...);
+}
+
+template <class _Ty, class _Outer_alloc, class _Inner_alloc, class... _Types,
+    enable_if_t<!_Is_specialization_v<_Ty, pair>, int> = 0>
+void _Uses_allocator_construct(_Ty* const _Ptr, _Outer_alloc& _Outer, _Inner_alloc& _Inner, _Types&&... _Args) {
+    
+    _Uses_allocator_construct1(uses_allocator<_Ty, _Inner_alloc>(), _Ptr, _Outer, _Inner,
+        ::std:: forward<_Types>(_Args)...); 
+}
+
+template <class _Alloc, class... _Types>
+auto _Uses_allocator_piecewise2(true_type, _Alloc& _Al, tuple<_Types...>&& _Tuple) {
+    return ::std:: tuple_cat(tuple<allocator_arg_t, _Alloc&>(allocator_arg, _Al), ::std:: move(_Tuple));
+}
+
+template <class _Alloc, class... _Types>
+auto _Uses_allocator_piecewise2(false_type, _Alloc& _Al, tuple<_Types...>&& _Tuple) {
+    return ::std:: tuple_cat(::std:: move(_Tuple), tuple<_Alloc&>(_Al));
+}
+
+template <class _Ty, class _Alloc, class... _Types>
+auto _Uses_allocator_piecewise(true_type, _Alloc& _Al, tuple<_Types...>&& _Tuple) {
+    return _Uses_allocator_piecewise2(
+        is_constructible<_Ty, allocator_arg_t, _Alloc&, _Types...>(), _Al, ::std:: move(_Tuple));
+}
+
+template <class, class _Alloc, class... _Types>
+tuple<_Types...>&& _Uses_allocator_piecewise(false_type, _Alloc&, tuple<_Types...>&& _Tuple) {
+    return ::std:: move(_Tuple);
+}
+
+template <class _Ty1, class _Ty2, class _Outer_alloc, class _Inner_alloc, class... _Types1, class... _Types2>
+void _Uses_allocator_construct_pair(pair<_Ty1, _Ty2>* const _Ptr, _Outer_alloc& _Outer, _Inner_alloc& _Inner,
+    tuple<_Types1...>&& _Val1, tuple<_Types2...>&& _Val2) {
+    
+    allocator_traits<_Outer_alloc>::construct(_Outer, _Ptr, piecewise_construct,
+        _Uses_allocator_piecewise<_Ty1>(uses_allocator<_Ty1, _Inner_alloc>(), _Inner, ::std:: move(_Val1)),
+        _Uses_allocator_piecewise<_Ty2>(uses_allocator<_Ty2, _Inner_alloc>(), _Inner, ::std:: move(_Val2)));
+}
+
+template <class _Ty1, class _Ty2, class _Outer_alloc, class _Inner_alloc, class... _Types1, class... _Types2>
+void _Uses_allocator_construct(pair<_Ty1, _Ty2>* const _Ptr, _Outer_alloc& _Outer, _Inner_alloc& _Inner,
+    piecewise_construct_t, tuple<_Types1...> _Val1, tuple<_Types2...> _Val2) {
+    
+    _Uses_allocator_construct_pair(_Ptr, _Outer, _Inner, ::std:: move(_Val1), ::std:: move(_Val2));
+}
+
+template <class _Ty1, class _Ty2, class _Outer_alloc, class _Inner_alloc>
+void _Uses_allocator_construct(pair<_Ty1, _Ty2>* const _Ptr, _Outer_alloc& _Outer, _Inner_alloc& _Inner) {
+    
+    _Uses_allocator_construct_pair(_Ptr, _Outer, _Inner, tuple<>{}, tuple<>{});
+}
+
+template <class _Ty1, class _Ty2, class _Outer_alloc, class _Inner_alloc, class _Uty, class _Vty>
+void _Uses_allocator_construct(
+    pair<_Ty1, _Ty2>* const _Ptr, _Outer_alloc& _Outer, _Inner_alloc& _Inner, _Uty&& _Arg1, _Vty&& _Arg2) {
+    
+    _Uses_allocator_construct_pair(_Ptr, _Outer, _Inner, ::std:: forward_as_tuple(::std:: forward<_Uty>(_Arg1)),
+        ::std:: forward_as_tuple(::std:: forward<_Vty>(_Arg2)));
+}
+
+template <class _Ty1, class _Ty2, class _Outer_alloc, class _Inner_alloc, class _Uty, class _Vty>
+void _Uses_allocator_construct(
+    pair<_Ty1, _Ty2>* const _Ptr, _Outer_alloc& _Outer, _Inner_alloc& _Inner, const pair<_Uty, _Vty>& _Pair) {
+    
+    _Uses_allocator_construct_pair(
+        _Ptr, _Outer, _Inner, ::std:: forward_as_tuple(_Pair.first), ::std:: forward_as_tuple(_Pair.second));
+}
+
+template <class _Ty1, class _Ty2, class _Outer_alloc, class _Inner_alloc, class _Uty, class _Vty>
+void _Uses_allocator_construct(
+    pair<_Ty1, _Ty2>* const _Ptr, _Outer_alloc& _Outer, _Inner_alloc& _Inner, pair<_Uty, _Vty>&& _Pair) {
+    
+    _Uses_allocator_construct_pair(_Ptr, _Outer, _Inner, ::std:: forward_as_tuple(::std:: forward<_Uty>(_Pair.first)),
+        ::std:: forward_as_tuple(::std:: forward<_Vty>(_Pair.second)));
+}
+
+
+namespace pmr {
+
+    
+    class __declspec(novtable) memory_resource {
+    public:
+        virtual ~memory_resource() noexcept {}
+
+        [[nodiscard]] __declspec(allocator) void* allocate(__declspec(guard(overflow)) const size_t _Bytes,
+            const size_t _Align = alignof(max_align_t)) { 
+            do { if (_Is_pow_2(_Align)) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xpolymorphic_allocator.h", 147, 0, "%s", "memory_resource::allocate(): Alignment must be a power of two.")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"memory_resource::allocate(): Alignment must be a power of two.\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xpolymorphic_allocator.h", 147, 0); } while (false); } ; } while (false);
+            return do_allocate(_Bytes, _Align);
+        }
+
+        void deallocate(void* const _Ptr, const size_t _Bytes, const size_t _Align = alignof(max_align_t)) {
+            
+            do { if (_Is_pow_2(_Align)) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xpolymorphic_allocator.h", 153, 0, "%s", "memory_resource::deallocate(): Alignment must be a power of two.")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"memory_resource::deallocate(): Alignment must be a power of two.\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xpolymorphic_allocator.h", 153, 0); } while (false); } ; } while (false);
+            return do_deallocate(_Ptr, _Bytes, _Align);
+        }
+
+        [[nodiscard]] bool is_equal(const memory_resource& _That) const noexcept {
+            
+            return do_is_equal(_That);
+        }
+
+    private:
+        virtual void* do_allocate(size_t _Bytes, size_t _Align)               = 0;
+        virtual void do_deallocate(void* _Ptr, size_t _Bytes, size_t _Align)  = 0;
+        virtual bool do_is_equal(const memory_resource& _That) const noexcept = 0;
+    };
+
+    [[nodiscard]] inline bool operator==(const memory_resource& _Left, const memory_resource& _Right) noexcept {
+        return &_Left == &_Right || _Left.is_equal(_Right);
+    }
+
+    [[nodiscard]] inline bool operator!=(const memory_resource& _Left, const memory_resource& _Right) noexcept {
+        return !(_Left == _Right);
+    }
+
+    
+    extern "C"  memory_resource* __cdecl _Aligned_get_default_resource() noexcept;
+    extern "C"  memory_resource* __cdecl _Unaligned_get_default_resource() noexcept;
+
+    [[nodiscard]] inline memory_resource* get_default_resource() noexcept {
+
+        return _Aligned_get_default_resource();
+
+
+#line 186 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xpolymorphic_allocator.h"
+    }
+
+    
+    template <class _Ty>
+    class polymorphic_allocator {
+    public:
+        template <class>
+        friend class polymorphic_allocator;
+
+        using value_type = _Ty;
+
+        polymorphic_allocator() noexcept = default;
+
+         polymorphic_allocator(memory_resource* const _Resource_) noexcept 
+            : _Resource{_Resource_} { 
+            do { if (_Resource) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xpolymorphic_allocator.h", 202, 0, "%s", "Cannot initialize polymorphic_allocator with null resource (N4810 20.12.3.1 " "[mem.poly.allocator.ctor]/2)")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"Cannot initialize polymorphic_allocator with null resource (N4810 20.12.3.1 \" \"[mem.poly.allocator.ctor]/2)\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xpolymorphic_allocator.h", 202, 0); } while (false); } ; } while (false);
+#line 203 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xpolymorphic_allocator.h"
+        }
+
+        polymorphic_allocator(const polymorphic_allocator&) = default;
+
+        template <class _Uty>
+        polymorphic_allocator(const polymorphic_allocator<_Uty>& _That) noexcept
+            : _Resource{_That._Resource} {} 
+
+        polymorphic_allocator& operator=(const polymorphic_allocator&) = delete;
+
+        [[nodiscard]] __declspec(allocator) _Ty* allocate(__declspec(guard(overflow)) const size_t _Count) {
+            
+            void* const _Vp = _Resource->allocate(_Get_size_of_n<sizeof(_Ty)>(_Count), alignof(_Ty));
+            return static_cast<_Ty*>(_Vp);
+        }
+
+        void deallocate(_Ty* const _Ptr, const size_t _Count) noexcept  {
+            
+            
+            _Resource->deallocate(_Ptr, _Count * sizeof(_Ty), alignof(_Ty));
+        }
+
+        template <class _Uty, class... _Types>
+        void construct(_Uty* const _Ptr, _Types&&... _Args) {
+            
+            allocator<char> _Al{};
+            _Uses_allocator_construct(_Ptr, _Al, *this, ::std:: forward<_Types>(_Args)...);
+        }
+
+        [[nodiscard]] polymorphic_allocator select_on_container_copy_construction() const noexcept  {
+            
+            return {};
+        }
+
+        [[nodiscard]] memory_resource* resource() const noexcept  {
+            
+            return _Resource;
+        }
+
+    private:
+        memory_resource* _Resource = ::std:: pmr::get_default_resource();
+    };
+
+    template <class _Ty1, class _Ty2>
+    [[nodiscard]] bool operator==(
+        const polymorphic_allocator<_Ty1>& _Left, const polymorphic_allocator<_Ty2>& _Right) noexcept {
+        
+        return *_Left.resource() == *_Right.resource();
+    }
+
+    template <class _Ty1, class _Ty2>
+    [[nodiscard]] bool operator!=(
+        const polymorphic_allocator<_Ty1>& _Left, const polymorphic_allocator<_Ty2>& _Right) noexcept {
+        return !(_Left == _Right);
+    }
+
+} 
+
+#line 262 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xpolymorphic_allocator.h"
+
+}
+
+
+
+#pragma warning(pop)
+#pragma pack(pop)
+#line 270 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xpolymorphic_allocator.h"
+#line 271 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xpolymorphic_allocator.h"
+#line 18 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
 #line 19 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
 
 #pragma pack(push, 8)
 #pragma warning(push, 3)
-#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294  4984 5053 )
+#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294   5053 )
 
 
 
@@ -39005,7 +40282,7 @@ struct _Char_traits {
     using off_type   = streamoff;
     using state_type = _Mbstatet;
 
-    [[nodiscard]] static inline int compare(  const _Elem* _First1,
+    [[nodiscard]] static constexpr int compare(  const _Elem* _First1,
           const _Elem* _First2, size_t _Count) noexcept  {
         
         for (; 0 < _Count; --_Count, ++_First1, ++_First2) {
@@ -39017,7 +40294,7 @@ struct _Char_traits {
         return 0;
     }
 
-    [[nodiscard]] static inline size_t length(  const _Elem* _First) noexcept  {
+    [[nodiscard]] static constexpr size_t length(  const _Elem* _First) noexcept  {
         
         size_t _Count = 0;
         while (*_First != _Elem()) {
@@ -39041,7 +40318,7 @@ struct _Char_traits {
         return copy(_First1, _First2, _Count);
     }
 
-    [[nodiscard]] static inline const _Elem* find(
+    [[nodiscard]] static constexpr const _Elem* find(
           const _Elem* _First, size_t _Count, const _Elem& _Ch) noexcept  {
         
         for (; 0 < _Count; --_Count, ++_First) {
@@ -39070,7 +40347,7 @@ struct _Char_traits {
         return _First;
     }
 
-    static inline void assign(_Elem& _Left, const _Elem& _Right) noexcept {
+    static constexpr void assign(_Elem& _Left, const _Elem& _Right) noexcept {
         _Left = _Right;
     }
 
@@ -39112,31 +40389,31 @@ struct _WChar_traits {
     using off_type   = streamoff;
     using state_type = mbstate_t;
 
-    [[nodiscard]] static inline int compare(  const _Elem* const _First1,
+    [[nodiscard]] static constexpr int compare(  const _Elem* const _First1,
           const _Elem* const _First2, const size_t _Count) noexcept  {
         
 
+        if constexpr (is_same_v<_Elem, wchar_t>) {
+            return __builtin_wmemcmp(_First1, _First2, _Count);
+        } else {
+            return _Char_traits<_Elem, unsigned short>::compare(_First1, _First2, _Count);
+        }
 
 
 
-
-
-#line 154 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
-        return :: wmemcmp(
-            reinterpret_cast<const wchar_t*>(_First1), reinterpret_cast<const wchar_t*>(_First2), _Count);
 #line 157 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
     }
 
-    [[nodiscard]] static inline size_t length(  const _Elem* _First) noexcept  {
+    [[nodiscard]] static constexpr size_t length(  const _Elem* _First) noexcept  {
         
 
+        if constexpr (is_same_v<_Elem, wchar_t>) {
+            return __builtin_wcslen(_First);
+        } else {
+            return _Char_traits<_Elem, unsigned short>::length(_First);
+        }
 
 
-
-
-
-#line 168 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
-        return :: wcslen(reinterpret_cast<const wchar_t*>(_First));
 #line 170 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
     }
 
@@ -39155,17 +40432,17 @@ struct _WChar_traits {
         return copy(_First1, _First2, _Count);
     }
 
-    [[nodiscard]] static inline const _Elem* find(
+    [[nodiscard]] static constexpr const _Elem* find(
           const _Elem* _First, const size_t _Count, const _Elem& _Ch) noexcept  {
         
 
+        if constexpr (is_same_v<_Elem, wchar_t>) {
+            return __builtin_wmemchr(_First, _Ch, _Count);
+        } else {
+            return _Char_traits<_Elem, unsigned short>::find(_First, _Count, _Ch);
+        }
 
 
-
-
-
-#line 197 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
-        return reinterpret_cast<const _Elem*>(:: wmemchr(reinterpret_cast<const wchar_t*>(_First), _Ch, _Count));
 #line 199 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
     }
 
@@ -39182,7 +40459,7 @@ struct _WChar_traits {
         return reinterpret_cast<_Elem*>(:: wmemset(reinterpret_cast<wchar_t*>(_First), _Ch, _Count));
     }
 
-    static inline void assign(_Elem& _Left, const _Elem& _Right) noexcept {
+    static constexpr void assign(_Elem& _Left, const _Elem& _Right) noexcept {
         _Left = _Right;
     }
 
@@ -39256,7 +40533,7 @@ struct _Narrow_char_traits {
     using off_type   = streamoff;
     using state_type = mbstate_t;
 
-    [[nodiscard]] static inline int compare(  const _Elem* const _First1,
+    [[nodiscard]] static constexpr int compare(  const _Elem* const _First1,
           const _Elem* const _First2, const size_t _Count) noexcept  {
         
 
@@ -39264,16 +40541,16 @@ struct _Narrow_char_traits {
 
 
 
+#line 297 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
+        {
+            return __builtin_memcmp(_First1, _First2, _Count);
+        }
 
 
-
-
-#line 301 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
-        return :: memcmp(_First1, _First2, _Count);
 #line 303 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
     }
 
-    [[nodiscard]] static inline size_t length(  const _Elem* const _First) noexcept  {
+    [[nodiscard]] static constexpr size_t length(  const _Elem* const _First) noexcept  {
         
 
 
@@ -39285,11 +40562,11 @@ struct _Narrow_char_traits {
 
 
 
+        {
+            return __builtin_strlen(_First);
+        }
 
 
-
-#line 321 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
-        return :: strlen(reinterpret_cast<const char*>(_First));
 #line 323 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
     }
 
@@ -39307,7 +40584,7 @@ struct _Narrow_char_traits {
         return copy(_First1, _First2, _Count);
     }
 
-    [[nodiscard]] static inline const _Elem* find(  const _Elem* const _First, const size_t _Count,
+    [[nodiscard]] static constexpr const _Elem* find(  const _Elem* const _First, const size_t _Count,
         const _Elem& _Ch) noexcept  {
         
 
@@ -39320,11 +40597,11 @@ struct _Narrow_char_traits {
 
 
 
+        {
+            return __builtin_char_memchr(_First, _Ch, _Count);
+        }
 
 
-
-#line 356 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
-        return static_cast<const _Elem*>(:: memchr(_First, _Ch, _Count));
 #line 358 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
     }
 
@@ -39340,7 +40617,7 @@ struct _Narrow_char_traits {
         return static_cast<_Elem*>(:: memset(_First, _Ch, _Count));
     }
 
-    static inline void assign(_Elem& _Left, const _Elem& _Right) noexcept {
+    static constexpr void assign(_Elem& _Left, const _Elem& _Right) noexcept {
         _Left = _Right;
     }
 
@@ -39858,89 +41135,248 @@ constexpr size_t _Traits_rfind_not_ch(  const _Traits_ptr_t<_Traits> _Haystack,
 
 
 
+template <class _Elem, class _Traits = char_traits<_Elem>>
+class basic_string_view;
 
+template <class _Traits>
+class _String_view_iterator {
+public:
 
 
 
+    using iterator_category = random_access_iterator_tag;
+    using value_type        = typename _Traits::char_type;
+    using difference_type   = ptrdiff_t;
+    using pointer           = const value_type*;
+    using reference         = const value_type&;
 
+    constexpr _String_view_iterator() noexcept = default;
 
+private:
+    friend basic_string_view<value_type, _Traits>;
 
 
+    constexpr _String_view_iterator(const pointer _Data, const size_t _Size, const size_t _Off) noexcept
+        : _Mydata(_Data), _Mysize(_Size), _Myoff(_Off) {}
 
 
+#line 916 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
 
+public:
+    [[nodiscard]] constexpr reference operator*() const noexcept {
 
+        do { if (_Mydata) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring", 920, 0, "%s", "cannot dereference value-initialized string_view iterator")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"cannot dereference value-initialized string_view iterator\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring", 920, 0); } while (false); } ; } while (false);
+        do { if (_Myoff < _Mysize) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring", 921, 0, "%s", "cannot dereference end string_view iterator")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"cannot dereference end string_view iterator\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring", 921, 0); } while (false); } ; } while (false);
+        return _Mydata[_Myoff];
 
 
+#line 926 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
+    }
 
+    [[nodiscard]] constexpr pointer operator->() const noexcept {
 
+        do { if (_Mydata) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring", 930, 0, "%s", "cannot dereference value-initialized string_view iterator")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"cannot dereference value-initialized string_view iterator\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring", 930, 0); } while (false); } ; } while (false);
+        do { if (_Myoff < _Mysize) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring", 931, 0, "%s", "cannot dereference end string_view iterator")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"cannot dereference end string_view iterator\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring", 931, 0); } while (false); } ; } while (false);
+        return _Mydata + _Myoff;
 
 
+#line 936 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
+    }
 
+    constexpr _String_view_iterator& operator++() noexcept {
 
+        do { if (_Mydata) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring", 940, 0, "%s", "cannot increment value-initialized string_view iterator")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"cannot increment value-initialized string_view iterator\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring", 940, 0); } while (false); } ; } while (false);
+        do { if (_Myoff < _Mysize) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring", 941, 0, "%s", "cannot increment string_view iterator past end")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"cannot increment string_view iterator past end\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring", 941, 0); } while (false); } ; } while (false);
+        ++_Myoff;
 
 
+#line 946 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
+        return *this;
+    }
 
+    constexpr _String_view_iterator operator++(int) noexcept {
+        _String_view_iterator _Tmp{*this};
+        ++*this;
+        return _Tmp;
+    }
 
+    constexpr _String_view_iterator& operator--() noexcept {
 
+        do { if (_Mydata) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring", 957, 0, "%s", "cannot decrement value-initialized string_view iterator")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"cannot decrement value-initialized string_view iterator\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring", 957, 0); } while (false); } ; } while (false);
+        do { if (_Myoff != 0) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring", 958, 0, "%s", "cannot decrement string_view iterator before begin")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"cannot decrement string_view iterator before begin\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring", 958, 0); } while (false); } ; } while (false);
+        --_Myoff;
 
 
+#line 963 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
+        return *this;
+    }
 
+    constexpr _String_view_iterator operator--(int) noexcept {
+        _String_view_iterator _Tmp{*this};
+        --*this;
+        return _Tmp;
+    }
 
+    constexpr void _Verify_offset(const difference_type _Off) const noexcept {
 
+        if (_Off != 0) {
+            do { if (_Mydata) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring", 975, 0, "%s", "cannot seek value-initialized string_view iterator")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"cannot seek value-initialized string_view iterator\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring", 975, 0); } while (false); } ; } while (false);
+        }
 
+        if (_Off < 0) {
+#pragma warning(suppress : 4146) 
+            do { if (_Myoff >= -static_cast<size_t>(_Off)) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring", 980, 0, "%s", "cannot seek string_view iterator before begin")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"cannot seek string_view iterator before begin\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring", 980, 0); } while (false); } ; } while (false);
+        }
 
+        if (_Off > 0) {
+            do { if (_Mysize - _Myoff >= static_cast<size_t>(_Off)) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring", 984, 0, "%s", "cannot seek string_view iterator after end")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"cannot seek string_view iterator after end\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring", 984, 0); } while (false); } ; } while (false);
+        }
 
 
+#line 989 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
+    }
 
+    constexpr _String_view_iterator& operator+=(const difference_type _Off) noexcept {
 
+        _Verify_offset(_Off);
+        _Myoff += _Off;
 
 
+#line 998 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
 
+        return *this;
+    }
 
+    [[nodiscard]] constexpr _String_view_iterator operator+(const difference_type _Off) const noexcept {
+        _String_view_iterator _Tmp{*this};
+        _Tmp += _Off;
+        return _Tmp;
+    }
 
+    constexpr _String_view_iterator& operator-=(const difference_type _Off) noexcept {
 
+        if (_Off != 0) {
+            do { if (_Mydata) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring", 1011, 0, "%s", "cannot seek value-initialized string_view iterator")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"cannot seek value-initialized string_view iterator\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring", 1011, 0); } while (false); } ; } while (false);
+        }
 
+        if (_Off > 0) {
+            do { if (_Myoff >= static_cast<size_t>(_Off)) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring", 1015, 0, "%s", "cannot seek string_view iterator before begin")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"cannot seek string_view iterator before begin\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring", 1015, 0); } while (false); } ; } while (false);
+        }
 
+        if (_Off < 0) {
+#pragma warning(suppress : 4146) 
+            do { if (_Mysize - _Myoff >= -static_cast<size_t>(_Off)) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring", 1020, 0, "%s", "cannot seek string_view iterator after end")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"cannot seek string_view iterator after end\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring", 1020, 0); } while (false); } ; } while (false);
+        }
 
+        _Myoff -= _Off;
 
 
+#line 1027 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
 
+        return *this;
+    }
 
+    [[nodiscard]] constexpr _String_view_iterator operator-(const difference_type _Off) const noexcept {
+        _String_view_iterator _Tmp{*this};
+        _Tmp -= _Off;
+        return _Tmp;
+    }
 
+    [[nodiscard]] constexpr difference_type operator-(const _String_view_iterator& _Right) const noexcept {
 
+        do { if (_Mydata == _Right._Mydata && _Mysize == _Right._Mysize) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring", 1040, 0, "%s", "cannot subtract incompatible string_view iterators")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"cannot subtract incompatible string_view iterators\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring", 1040, 0); } while (false); } ; } while (false);
+#line 1041 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
+        return static_cast<difference_type>(_Myoff - _Right._Myoff);
 
 
+#line 1045 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
+    }
 
+    [[nodiscard]] constexpr reference operator[](const difference_type _Off) const noexcept {
+        return *(*this + _Off);
+    }
 
+    [[nodiscard]] constexpr bool operator==(const _String_view_iterator& _Right) const noexcept {
 
+        do { if (_Mydata == _Right._Mydata && _Mysize == _Right._Mysize) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring", 1054, 0, "%s", "cannot compare incompatible string_view iterators for equality")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"cannot compare incompatible string_view iterators for equality\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring", 1054, 0); } while (false); } ; } while (false);
+#line 1055 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
+        return _Myoff == _Right._Myoff;
 
 
+#line 1059 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
+    }
 
+    [[nodiscard]] constexpr bool operator!=(const _String_view_iterator& _Right) const noexcept {
+        return !(*this == _Right);
+    }
 
+    [[nodiscard]] constexpr bool operator<(const _String_view_iterator& _Right) const noexcept {
 
+        do { if (_Mydata == _Right._Mydata && _Mysize == _Right._Mysize) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring", 1068, 0, "%s", "cannot compare incompatible string_view iterators")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"cannot compare incompatible string_view iterators\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring", 1068, 0); } while (false); } ; } while (false);
+#line 1069 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
+        return _Myoff < _Right._Myoff;
 
 
+#line 1073 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
+    }
 
+    [[nodiscard]] constexpr bool operator>(const _String_view_iterator& _Right) const noexcept {
+        return _Right < *this;
+    }
 
+    [[nodiscard]] constexpr bool operator<=(const _String_view_iterator& _Right) const noexcept {
+        return !(_Right < *this);
+    }
 
+    [[nodiscard]] constexpr bool operator>=(const _String_view_iterator& _Right) const noexcept {
+        return !(*this < _Right);
+    }
 
 
+    friend constexpr void _Verify_range(const _String_view_iterator& _First, const _String_view_iterator& _Last) {
+        do { if (_First._Mydata == _Last._Mydata && _First._Mysize == _Last._Mysize) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring", 1090, 0, "%s", "string_view iterators in range are from different views")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"string_view iterators in range are from different views\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring", 1090, 0); } while (false); } ; } while (false);
+#line 1091 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
+        do { if (_First._Myoff <= _Last._Myoff) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring", 1091, 0, "%s", "string_view iterator range transposed")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"string_view iterator range transposed\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring", 1091, 0); } while (false); } ; } while (false);
+    }
+#line 1094 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
 
+    using _Prevent_inheriting_unwrap = _String_view_iterator;
 
+    [[nodiscard]] constexpr pointer _Unwrapped() const noexcept {
 
+        return _Mydata + _Myoff;
 
 
+#line 1103 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
+    }
 
+    static constexpr bool _Unwrap_when_unverified = 2 == 0;
 
+    constexpr void _Seek_to(pointer _It) noexcept {
 
+        _Myoff = static_cast<size_t>(_It - _Mydata);
 
 
+#line 1113 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
+    }
 
+private:
 
+    pointer _Mydata = nullptr;
+    size_t _Mysize  = 0;
+    size_t _Myoff   = 0;
 
 
+#line 1123 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
+};
 
+template <class _Traits>
+[[nodiscard]] constexpr _String_view_iterator<_Traits> operator+(
+    const typename _String_view_iterator<_Traits>::difference_type _Off,
+    _String_view_iterator<_Traits> _Right) noexcept {
+    _Right += _Off;
+    return _Right;
+}
 
 
 
@@ -39953,59 +41389,223 @@ constexpr size_t _Traits_rfind_not_ch(  const _Traits_ptr_t<_Traits> _Haystack,
 
 
 
+#line 1145 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
 
 
 
+template <class _Elem, class _Traits>
+class basic_string_view { 
+public:
+    static_assert(is_same_v<_Elem, typename _Traits::char_type>,
+        "Bad char_traits for basic_string_view; "
+        "N4659 24.4.2 [string.view.template]/1 \"the type traits::char_type shall name the same type as charT.\"");
 
+    using traits_type            = _Traits;
+    using value_type             = _Elem;
+    using pointer                = _Elem*;
+    using const_pointer          = const _Elem*;
+    using reference              = _Elem&;
+    using const_reference        = const _Elem&;
+    using const_iterator         = _String_view_iterator<_Traits>;
+    using iterator               = const_iterator;
+    using const_reverse_iterator = ::std:: reverse_iterator<const_iterator>;
+    using reverse_iterator       = const_reverse_iterator;
+    using size_type              = size_t;
+    using difference_type        = ptrdiff_t;
 
+    static constexpr auto npos{static_cast<size_type>(-1)};
 
+    constexpr basic_string_view() noexcept : _Mydata(), _Mysize(0) {}
 
+    constexpr basic_string_view(const basic_string_view&) noexcept = default;
+    constexpr basic_string_view& operator=(const basic_string_view&) noexcept = default;
 
+     constexpr basic_string_view(  const const_pointer _Ntcts) noexcept 
+        : _Mydata(_Ntcts), _Mysize(_Traits::length(_Ntcts)) {}
 
+    constexpr basic_string_view(
+          const const_pointer _Cts, const size_type _Count) noexcept 
+        : _Mydata(_Cts), _Mysize(_Count) {
 
+        do { if (_Count == 0 || _Cts) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring", 1182, 0, "%s", "non-zero size null string_view")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"non-zero size null string_view\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring", 1182, 0); } while (false); } ; } while (false);
+#line 1184 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
+    }
 
+    [[nodiscard]] constexpr const_iterator begin() const noexcept {
 
+        return const_iterator(_Mydata, _Mysize, 0);
 
 
+#line 1192 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
+    }
 
+    [[nodiscard]] constexpr const_iterator end() const noexcept {
 
+        return const_iterator(_Mydata, _Mysize, _Mysize);
 
 
+#line 1200 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
+    }
 
+    [[nodiscard]] constexpr const_iterator cbegin() const noexcept {
+        return begin();
+    }
 
+    [[nodiscard]] constexpr const_iterator cend() const noexcept {
+        return end();
+    }
 
+    [[nodiscard]] constexpr const_reverse_iterator rbegin() const noexcept {
+        return const_reverse_iterator{end()};
+    }
 
+    [[nodiscard]] constexpr const_reverse_iterator rend() const noexcept {
+        return const_reverse_iterator{begin()};
+    }
 
+    [[nodiscard]] constexpr const_reverse_iterator crbegin() const noexcept {
+        return rbegin();
+    }
 
+    [[nodiscard]] constexpr const_reverse_iterator crend() const noexcept {
+        return rend();
+    }
 
+    constexpr const_pointer _Unchecked_begin() const noexcept {
+        return _Mydata;
+    }
 
+    constexpr const_pointer _Unchecked_end() const noexcept {
+        return _Mydata + _Mysize;
+    }
 
+    [[nodiscard]] constexpr size_type size() const noexcept {
+        return _Mysize;
+    }
 
+    [[nodiscard]] constexpr size_type length() const noexcept {
+        return _Mysize;
+    }
 
+    [[nodiscard]] constexpr bool empty() const noexcept {
+        return _Mysize == 0;
+    }
 
+    [[nodiscard]] constexpr const_pointer data() const noexcept {
+        return _Mydata;
+    }
 
+    [[nodiscard]] constexpr size_type max_size() const noexcept {
+        
+        
+        return (::std:: min)(static_cast<size_t>(2147483647i32), static_cast<size_t>(-1) / sizeof(_Elem));
+    }
 
+    [[nodiscard]] constexpr const_reference operator[](const size_type _Off) const noexcept  {
 
+        do { if (_Off < _Mysize) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring", 1258, 0, "%s", "string_view subscript out of range")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"string_view subscript out of range\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring", 1258, 0); } while (false); } ; } while (false);
+#line 1260 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
+        return _Mydata[_Off];
+    }
 
+    [[nodiscard]] constexpr const_reference at(const size_type _Off) const {
+        
+        _Check_offset_exclusive(_Off);
+        return _Mydata[_Off];
+    }
 
+    [[nodiscard]] constexpr const_reference front() const noexcept  {
 
+        do { if (_Mysize != 0) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring", 1271, 0, "%s", "cannot call front on empty string_view")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"cannot call front on empty string_view\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring", 1271, 0); } while (false); } ; } while (false);
+#line 1273 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
+        return _Mydata[0];
+    }
 
+    [[nodiscard]] constexpr const_reference back() const noexcept  {
 
+        do { if (_Mysize != 0) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring", 1278, 0, "%s", "cannot call back on empty string_view")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"cannot call back on empty string_view\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring", 1278, 0); } while (false); } ; } while (false);
+#line 1280 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
+        return _Mydata[_Mysize - 1];
+    }
 
+    constexpr void remove_prefix(const size_type _Count) noexcept  {
 
+        do { if (_Mysize >= _Count) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring", 1285, 0, "%s", "cannot remove prefix longer than total size")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"cannot remove prefix longer than total size\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring", 1285, 0); } while (false); } ; } while (false);
+#line 1287 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
+        _Mydata += _Count;
+        _Mysize -= _Count;
+    }
 
+    constexpr void remove_suffix(const size_type _Count) noexcept  {
 
+        do { if (_Mysize >= _Count) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring", 1293, 0, "%s", "cannot remove suffix longer than total size")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"cannot remove suffix longer than total size\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring", 1293, 0); } while (false); } ; } while (false);
+#line 1295 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
+        _Mysize -= _Count;
+    }
 
+    constexpr void swap(basic_string_view& _Other) noexcept {
+        const basic_string_view _Tmp{_Other}; 
+        _Other = *this;
+        *this  = _Tmp;
+    }
 
+    constexpr size_type copy(  _Elem* const _Ptr, size_type _Count, const size_type _Off = 0) const {
+        
+        _Check_offset(_Off);
+        _Count = _Clamp_suffix_size(_Off, _Count);
+        _Traits::copy(_Ptr, _Mydata + _Off, _Count);
+        return _Count;
+    }
 
+      constexpr size_type _Copy_s(  _Elem* const _Dest,
+        const size_type _Dest_size, size_type _Count, const size_type _Off = 0) const {
+        
+        _Check_offset(_Off);
+        _Count = _Clamp_suffix_size(_Off, _Count);
+        _Traits::_Copy_s(_Dest, _Dest_size, _Mydata + _Off, _Count);
+        return _Count;
+    }
 
+    [[nodiscard]] constexpr basic_string_view substr(const size_type _Off = 0, size_type _Count = npos) const {
+        
+        _Check_offset(_Off);
+        _Count = _Clamp_suffix_size(_Off, _Count);
+        return basic_string_view(_Mydata + _Off, _Count);
+    }
 
+    constexpr bool _Equal(const basic_string_view _Right) const noexcept {
+        return _Traits_equal<_Traits>(_Mydata, _Mysize, _Right._Mydata, _Right._Mysize);
+    }
 
+    [[nodiscard]] constexpr int compare(const basic_string_view _Right) const noexcept {
+        return _Traits_compare<_Traits>(_Mydata, _Mysize, _Right._Mydata, _Right._Mysize);
+    }
 
+    [[nodiscard]] constexpr int compare(const size_type _Off, const size_type _N0, const basic_string_view _Right) const {
+        
+        return substr(_Off, _N0).compare(_Right);
+    }
 
+    [[nodiscard]] constexpr int compare(const size_type _Off, const size_type _N0, const basic_string_view _Right,
+        const size_type _Roff, const size_type _Count) const {
+        
+        return substr(_Off, _N0).compare(_Right.substr(_Roff, _Count));
+    }
 
+    [[nodiscard]] constexpr int compare(  const _Elem* const _Ptr) const { 
+        return compare(basic_string_view(_Ptr));
+    }
 
+    [[nodiscard]] constexpr int compare(const size_type _Off, const size_type _N0,   const _Elem* const _Ptr) const {
+        
+        return substr(_Off, _N0).compare(basic_string_view(_Ptr));
+    }
 
+    [[nodiscard]] constexpr int compare(const size_type _Off, const size_type _N0,
+          const _Elem* const _Ptr, const size_type _Count) const {
+        
+        return substr(_Off, _N0).compare(basic_string_view(_Ptr, _Count));
+    }
 
 
 
@@ -40039,36 +41639,182 @@ constexpr size_t _Traits_rfind_not_ch(  const _Traits_ptr_t<_Traits> _Haystack,
 
 
 
+#line 1395 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
 
+    [[nodiscard]] constexpr size_type find(const basic_string_view _Right, const size_type _Off = 0) const noexcept {
+        
+        return _Traits_find<_Traits>(_Mydata, _Mysize, _Off, _Right._Mydata, _Right._Mysize);
+    }
 
+    [[nodiscard]] constexpr size_type find(const _Elem _Ch, const size_type _Off = 0) const noexcept {
+        
+        return _Traits_find_ch<_Traits>(_Mydata, _Mysize, _Off, _Ch);
+    }
 
+    [[nodiscard]] constexpr size_type find(  const _Elem* const _Ptr, const size_type _Off,
+        const size_type _Count) const noexcept  {
+        
+        return _Traits_find<_Traits>(_Mydata, _Mysize, _Off, _Ptr, _Count);
+    }
 
+    [[nodiscard]] constexpr size_type find(  const _Elem* const _Ptr, const size_type _Off = 0) const noexcept
+     {
+        
+        return _Traits_find<_Traits>(_Mydata, _Mysize, _Off, _Ptr, _Traits::length(_Ptr));
+    }
 
+    [[nodiscard]] constexpr size_type rfind(const basic_string_view _Right, const size_type _Off = npos) const noexcept {
+        
+        return _Traits_rfind<_Traits>(_Mydata, _Mysize, _Off, _Right._Mydata, _Right._Mysize);
+    }
 
+    [[nodiscard]] constexpr size_type rfind(const _Elem _Ch, const size_type _Off = npos) const noexcept {
+        
+        return _Traits_rfind_ch<_Traits>(_Mydata, _Mysize, _Off, _Ch);
+    }
 
+    [[nodiscard]] constexpr size_type rfind(  const _Elem* const _Ptr, const size_type _Off,
+        const size_type _Count) const noexcept  {
+        
+        return _Traits_rfind<_Traits>(_Mydata, _Mysize, _Off, _Ptr, _Count);
+    }
 
+    [[nodiscard]] constexpr size_type rfind(  const _Elem* const _Ptr, const size_type _Off = npos) const noexcept
+     {
+        
+        return _Traits_rfind<_Traits>(_Mydata, _Mysize, _Off, _Ptr, _Traits::length(_Ptr));
+    }
 
+    [[nodiscard]] constexpr size_type find_first_of(const basic_string_view _Right,
+        const size_type _Off = 0) const noexcept { 
+        return _Traits_find_first_of<_Traits>(
+            _Mydata, _Mysize, _Off, _Right._Mydata, _Right._Mysize, _Is_specialization<_Traits, char_traits>{});
+    }
 
+    [[nodiscard]] constexpr size_type find_first_of(const _Elem _Ch, const size_type _Off = 0) const noexcept {
+        
+        return _Traits_find_ch<_Traits>(_Mydata, _Mysize, _Off, _Ch);
+    }
 
+    [[nodiscard]] constexpr size_type find_first_of(  const _Elem* const _Ptr, const size_type _Off,
+        const size_type _Count) const noexcept  {
+        
+        return _Traits_find_first_of<_Traits>(
+            _Mydata, _Mysize, _Off, _Ptr, _Count, _Is_specialization<_Traits, char_traits>{});
+    }
 
+    [[nodiscard]] constexpr size_type find_first_of(
+          const _Elem* const _Ptr, const size_type _Off = 0) const noexcept  {
+        
+        return _Traits_find_first_of<_Traits>(
+            _Mydata, _Mysize, _Off, _Ptr, _Traits::length(_Ptr), _Is_specialization<_Traits, char_traits>{});
+    }
 
+    [[nodiscard]] constexpr size_type find_last_of(const basic_string_view _Right,
+        const size_type _Off = npos) const noexcept { 
+        return _Traits_find_last_of<_Traits>(
+            _Mydata, _Mysize, _Off, _Right._Mydata, _Right._Mysize, _Is_specialization<_Traits, char_traits>{});
+    }
 
+    [[nodiscard]] constexpr size_type find_last_of(const _Elem _Ch, const size_type _Off = npos) const noexcept {
+        
+        return _Traits_rfind_ch<_Traits>(_Mydata, _Mysize, _Off, _Ch);
+    }
 
+    [[nodiscard]] constexpr size_type find_last_of(  const _Elem* const _Ptr, const size_type _Off,
+        const size_type _Count) const noexcept  {
+        
+        return _Traits_find_last_of<_Traits>(
+            _Mydata, _Mysize, _Off, _Ptr, _Count, _Is_specialization<_Traits, char_traits>{});
+    }
 
+    [[nodiscard]] constexpr size_type find_last_of(
+          const _Elem* const _Ptr, const size_type _Off = npos) const noexcept  {
+        
+        return _Traits_find_last_of<_Traits>(
+            _Mydata, _Mysize, _Off, _Ptr, _Traits::length(_Ptr), _Is_specialization<_Traits, char_traits>{});
+    }
 
+    [[nodiscard]] constexpr size_type find_first_not_of(const basic_string_view _Right,
+        const size_type _Off = 0) const noexcept { 
+        return _Traits_find_first_not_of<_Traits>(
+            _Mydata, _Mysize, _Off, _Right._Mydata, _Right._Mysize, _Is_specialization<_Traits, char_traits>{});
+    }
 
+    [[nodiscard]] constexpr size_type find_first_not_of(const _Elem _Ch, const size_type _Off = 0) const noexcept {
+        
+        return _Traits_find_not_ch<_Traits>(_Mydata, _Mysize, _Off, _Ch);
+    }
 
+    [[nodiscard]] constexpr size_type find_first_not_of(  const _Elem* const _Ptr, const size_type _Off,
+        const size_type _Count) const noexcept  {
+        
+        return _Traits_find_first_not_of<_Traits>(
+            _Mydata, _Mysize, _Off, _Ptr, _Count, _Is_specialization<_Traits, char_traits>{});
+    }
 
+    [[nodiscard]] constexpr size_type find_first_not_of(
+          const _Elem* const _Ptr, const size_type _Off = 0) const noexcept  {
+        
+        return _Traits_find_first_not_of<_Traits>(
+            _Mydata, _Mysize, _Off, _Ptr, _Traits::length(_Ptr), _Is_specialization<_Traits, char_traits>{});
+    }
 
+    [[nodiscard]] constexpr size_type find_last_not_of(const basic_string_view _Right,
+        const size_type _Off = npos) const noexcept { 
+        return _Traits_find_last_not_of<_Traits>(
+            _Mydata, _Mysize, _Off, _Right._Mydata, _Right._Mysize, _Is_specialization<_Traits, char_traits>{});
+    }
 
+    [[nodiscard]] constexpr size_type find_last_not_of(const _Elem _Ch, const size_type _Off = npos) const noexcept {
+        
+        return _Traits_rfind_not_ch<_Traits>(_Mydata, _Mysize, _Off, _Ch);
+    }
 
+    [[nodiscard]] constexpr size_type find_last_not_of(  const _Elem* const _Ptr, const size_type _Off,
+        const size_type _Count) const noexcept  {
+        
+        return _Traits_find_last_not_of<_Traits>(
+            _Mydata, _Mysize, _Off, _Ptr, _Count, _Is_specialization<_Traits, char_traits>{});
+    }
 
+    [[nodiscard]] constexpr size_type find_last_not_of(
+          const _Elem* const _Ptr, const size_type _Off = npos) const noexcept  {
+        
+        return _Traits_find_last_not_of<_Traits>(
+            _Mydata, _Mysize, _Off, _Ptr, _Traits::length(_Ptr), _Is_specialization<_Traits, char_traits>{});
+    }
 
+    [[nodiscard]] constexpr bool _Starts_with(const basic_string_view _View) const noexcept {
+        return _Mysize >= _View._Mysize && _Traits::compare(_Mydata, _View._Mydata, _View._Mysize) == 0;
+    }
 
+private:
+    constexpr void _Check_offset(const size_type _Off) const { 
+        if (_Mysize < _Off) {
+            _Xran();
+        }
+    }
 
+    constexpr void _Check_offset_exclusive(const size_type _Off) const {
+        
+        if (_Mysize <= _Off) {
+            _Xran();
+        }
+    }
 
+    constexpr size_type _Clamp_suffix_size(const size_type _Off, const size_type _Size) const noexcept {
+        
+        return (::std:: min)(_Size, _Mysize - _Off);
+    }
 
+    [[noreturn]] static void _Xran() {
+        _Xout_of_range("invalid string_view position");
+    }
 
+    const_pointer _Mydata;
+    size_type _Mysize;
+};
 
 
 
@@ -40080,48 +41826,163 @@ constexpr size_t _Traits_rfind_not_ch(  const _Traits_ptr_t<_Traits> _Haystack,
 
 
 
+template <class _Elem, class _Traits>
+[[nodiscard]] constexpr bool operator==(
+    const basic_string_view<_Elem, _Traits> _Lhs, const basic_string_view<_Elem, _Traits> _Rhs) noexcept {
+    return _Lhs._Equal(_Rhs);
+}
 
+template <class _Elem, class _Traits, int = 1> 
+[[nodiscard]] constexpr bool operator==(
+    const _Identity_t<basic_string_view<_Elem, _Traits>> _Lhs, const basic_string_view<_Elem, _Traits> _Rhs) noexcept {
+    return _Lhs._Equal(_Rhs);
+}
 
+template <class _Elem, class _Traits, int = 2> 
+[[nodiscard]] constexpr bool operator==(
+    const basic_string_view<_Elem, _Traits> _Lhs, const _Identity_t<basic_string_view<_Elem, _Traits>> _Rhs) noexcept {
+    return _Lhs._Equal(_Rhs);
+}
 
 
 
+template <class _Elem, class _Traits>
+[[nodiscard]] constexpr bool operator!=(
+    const basic_string_view<_Elem, _Traits> _Lhs, const basic_string_view<_Elem, _Traits> _Rhs) noexcept {
+    return !_Lhs._Equal(_Rhs);
+}
 
+template <class _Elem, class _Traits, int = 1> 
+[[nodiscard]] constexpr bool operator!=(
+    const _Identity_t<basic_string_view<_Elem, _Traits>> _Lhs, const basic_string_view<_Elem, _Traits> _Rhs) noexcept {
+    return !_Lhs._Equal(_Rhs);
+}
 
+template <class _Elem, class _Traits, int = 2> 
+[[nodiscard]] constexpr bool operator!=(
+    const basic_string_view<_Elem, _Traits> _Lhs, const _Identity_t<basic_string_view<_Elem, _Traits>> _Rhs) noexcept {
+    return !_Lhs._Equal(_Rhs);
+}
 
 
 
+template <class _Elem, class _Traits>
+[[nodiscard]] constexpr bool operator<(
+    const basic_string_view<_Elem, _Traits> _Lhs, const basic_string_view<_Elem, _Traits> _Rhs) noexcept {
+    return _Lhs.compare(_Rhs) < 0;
+}
 
+template <class _Elem, class _Traits, int = 1> 
+[[nodiscard]] constexpr bool operator<(
+    const _Identity_t<basic_string_view<_Elem, _Traits>> _Lhs, const basic_string_view<_Elem, _Traits> _Rhs) noexcept {
+    return _Lhs.compare(_Rhs) < 0;
+}
 
+template <class _Elem, class _Traits, int = 2> 
+[[nodiscard]] constexpr bool operator<(
+    const basic_string_view<_Elem, _Traits> _Lhs, const _Identity_t<basic_string_view<_Elem, _Traits>> _Rhs) noexcept {
+    return _Lhs.compare(_Rhs) < 0;
+}
 
 
 
+template <class _Elem, class _Traits>
+[[nodiscard]] constexpr bool operator>(
+    const basic_string_view<_Elem, _Traits> _Lhs, const basic_string_view<_Elem, _Traits> _Rhs) noexcept {
+    return _Lhs.compare(_Rhs) > 0;
+}
 
+template <class _Elem, class _Traits, int = 1> 
+[[nodiscard]] constexpr bool operator>(
+    const _Identity_t<basic_string_view<_Elem, _Traits>> _Lhs, const basic_string_view<_Elem, _Traits> _Rhs) noexcept {
+    return _Lhs.compare(_Rhs) > 0;
+}
 
+template <class _Elem, class _Traits, int = 2> 
+[[nodiscard]] constexpr bool operator>(
+    const basic_string_view<_Elem, _Traits> _Lhs, const _Identity_t<basic_string_view<_Elem, _Traits>> _Rhs) noexcept {
+    return _Lhs.compare(_Rhs) > 0;
+}
 
 
 
+template <class _Elem, class _Traits>
+[[nodiscard]] constexpr bool operator<=(
+    const basic_string_view<_Elem, _Traits> _Lhs, const basic_string_view<_Elem, _Traits> _Rhs) noexcept {
+    return _Lhs.compare(_Rhs) <= 0;
+}
 
+template <class _Elem, class _Traits, int = 1> 
+[[nodiscard]] constexpr bool operator<=(
+    const _Identity_t<basic_string_view<_Elem, _Traits>> _Lhs, const basic_string_view<_Elem, _Traits> _Rhs) noexcept {
+    return _Lhs.compare(_Rhs) <= 0;
+}
 
+template <class _Elem, class _Traits, int = 2> 
+[[nodiscard]] constexpr bool operator<=(
+    const basic_string_view<_Elem, _Traits> _Lhs, const _Identity_t<basic_string_view<_Elem, _Traits>> _Rhs) noexcept {
+    return _Lhs.compare(_Rhs) <= 0;
+}
 
 
 
+template <class _Elem, class _Traits>
+[[nodiscard]] constexpr bool operator>=(
+    const basic_string_view<_Elem, _Traits> _Lhs, const basic_string_view<_Elem, _Traits> _Rhs) noexcept {
+    return _Lhs.compare(_Rhs) >= 0;
+}
 
+template <class _Elem, class _Traits, int = 1> 
+[[nodiscard]] constexpr bool operator>=(
+    const _Identity_t<basic_string_view<_Elem, _Traits>> _Lhs, const basic_string_view<_Elem, _Traits> _Rhs) noexcept {
+    return _Lhs.compare(_Rhs) >= 0;
+}
 
+template <class _Elem, class _Traits, int = 2> 
+[[nodiscard]] constexpr bool operator>=(
+    const basic_string_view<_Elem, _Traits> _Lhs, const _Identity_t<basic_string_view<_Elem, _Traits>> _Rhs) noexcept {
+    return _Lhs.compare(_Rhs) >= 0;
+}
 
 
 
+using string_view = basic_string_view<char>;
 
 
 
+using u16string_view = basic_string_view<char16_t>;
+using u32string_view = basic_string_view<char32_t>;
+using wstring_view   = basic_string_view<wchar_t>;
 
 
 
+template <class _Elem, class _Traits>
+struct hash<basic_string_view<_Elem, _Traits>> {
+    [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef basic_string_view<_Elem, _Traits> argument_type;
+    [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef size_t result_type;
 
+    [[nodiscard]] size_t operator()(const basic_string_view<_Elem, _Traits> _Keyval) const noexcept {
+        return _Hash_array_representation(_Keyval.data(), _Keyval.size());
+    }
+};
 
+template <class _Elem, class _Traits>
+basic_ostream<_Elem, _Traits>& operator<<(
+    basic_ostream<_Elem, _Traits>& _Ostr, const basic_string_view<_Elem, _Traits> _Str) {
+    return _Insert_string(_Ostr, _Str.data(), _Str.size());
+}
 
 
 
+inline namespace literals {
+    inline namespace string_view_literals {
+        [[nodiscard]] constexpr string_view operator"" sv(const char* _Str, size_t _Len) noexcept {
+            return string_view(_Str, _Len);
+        }
 
+        [[nodiscard]] constexpr wstring_view operator"" sv(const wchar_t* _Str, size_t _Len) noexcept {
+            return wstring_view(_Str, _Len);
+        }
 
 
 
@@ -40129,599 +41990,15 @@ constexpr size_t _Traits_rfind_not_ch(  const _Traits_ptr_t<_Traits> _Haystack,
 
 
 
+        [[nodiscard]] constexpr u16string_view operator"" sv(const char16_t* _Str, size_t _Len) noexcept {
+            return u16string_view(_Str, _Len);
+        }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+        [[nodiscard]] constexpr u32string_view operator"" sv(const char32_t* _Str, size_t _Len) noexcept {
+            return u32string_view(_Str, _Len);
+        }
+    } 
+} 
 #line 1755 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
 
 
@@ -41184,7 +42461,7 @@ private:
         _String_iter_types<_Elem, typename _Alty_traits::size_type, typename _Alty_traits::difference_type,
             typename _Alty_traits::pointer, typename _Alty_traits::const_pointer, _Elem&, const _Elem&>>>;
 
-    static_assert(!0 || is_same_v<_Elem, typename _Alloc::value_type>,
+    static_assert(!1 || is_same_v<_Elem, typename _Alloc::value_type>,
         "basic_string<T, Traits, Allocator>" " requires that Allocator's value_type match " "T" " (See N4659 26.2.1 [container.requirements.general]/16 allocator_type)" " Either fix the allocator value_type or define _ENFORCE_MATCHING_ALLOCATORS=0" " to suppress this diagnostic.");
 
     static_assert(is_same_v<_Elem, typename _Traits::char_type>,
@@ -41232,11 +42509,11 @@ private:
     using _Is_elem_cptr = bool_constant<_Is_any_of_v<_Iter, const _Elem* const, _Elem* const, const _Elem*, _Elem*>>;
 
 
-
-
-
-
-
+    template <class _StringViewIsh>
+    using _Is_string_view_ish =
+        enable_if_t<conjunction_v<is_convertible<const _StringViewIsh&, basic_string_view<_Elem, _Traits>>,
+                        negation<is_convertible<const _StringViewIsh&, const _Elem*>>>,
+            int>;
 #line 2270 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
 
 public:
@@ -41312,7 +42589,7 @@ public:
     }
 
 
-
+    template <class _Alloc2 = _Alloc, enable_if_t<_Is_allocator<_Alloc2>::value, int> = 0>
 #line 2346 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
     basic_string(  const _Elem* const _Ptr, const _Alloc& _Al) : _Mypair(_One_then_variadic_args_t{}, _Al) {
         auto&& _Alproxy = static_cast<_Rebind_alloc_t<_Alty, _Container_proxy>>(_Getal());
@@ -41332,7 +42609,7 @@ public:
     }
 
 
-
+    template <class _Alloc2 = _Alloc, enable_if_t<_Is_allocator<_Alloc2>::value, int> = 0>
 #line 2366 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
     basic_string(__declspec(guard(overflow)) const size_type _Count, const _Elem _Ch, const _Alloc& _Al)
         : _Mypair(_One_then_variadic_args_t{}, _Al) { 
@@ -41503,26 +42780,26 @@ public:
     }
 
 
+    template <class _StringViewIsh, _Is_string_view_ish<_StringViewIsh> = 0>
+    explicit basic_string(const _StringViewIsh& _Right, const _Alloc& _Al = _Alloc())
+        : _Mypair(_One_then_variadic_args_t{}, _Al) {
+        auto&& _Alproxy = static_cast<_Rebind_alloc_t<_Alty, _Container_proxy>>(_Getal());
+        _Container_proxy_ptr<_Alty> _Proxy(_Alproxy, _Mypair._Myval2);
+        _Tidy_init();
+        assign(_Right);
+        _Proxy._Release();
+    }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    template <class _StringViewIsh, _Is_string_view_ish<_StringViewIsh> = 0>
+    basic_string(
+        const _StringViewIsh& _Right, const size_type _Roff, const size_type _Count, const _Alloc& _Al = _Alloc())
+        : _Mypair(_One_then_variadic_args_t{}, _Al) { 
+        auto&& _Alproxy = static_cast<_Rebind_alloc_t<_Alty, _Container_proxy>>(_Getal());
+        _Container_proxy_ptr<_Alty> _Proxy(_Alproxy, _Mypair._Myval2);
+        _Tidy_init();
+        assign(_Right, _Roff, _Count);
+        _Proxy._Release();
+    }
 #line 2556 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
 
 private:
@@ -41761,10 +43038,10 @@ public:
     }
 
 
-
-
-
-
+    template <class _StringViewIsh, _Is_string_view_ish<_StringViewIsh> = 0>
+    basic_string& operator=(const _StringViewIsh& _Right) {
+        return assign(_Right);
+    }
 #line 2798 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
 
     basic_string& operator=(  const _Elem* const _Ptr) {
@@ -41784,10 +43061,10 @@ public:
     }
 
 
-
-
-
-
+    template <class _StringViewIsh, _Is_string_view_ish<_StringViewIsh> = 0>
+    basic_string& operator+=(const _StringViewIsh& _Right) {
+        return append(_Right);
+    }
 #line 2821 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
 
     basic_string& operator+=(  const _Elem* const _Ptr) { 
@@ -41811,18 +43088,18 @@ public:
     }
 
 
+    template <class _StringViewIsh, _Is_string_view_ish<_StringViewIsh> = 0>
+    basic_string& append(const _StringViewIsh& _Right) {
+        const basic_string_view<_Elem, _Traits> _As_view = _Right;
+        return append(_As_view.data(), _Convert_size<size_type>(_As_view.size()));
+    }
 
-
-
-
-
-
-
-
-
-
-
-
+    template <class _StringViewIsh, _Is_string_view_ish<_StringViewIsh> = 0>
+    basic_string& append(const _StringViewIsh& _Right, const size_type _Roff, const size_type _Count = npos) {
+        
+        basic_string_view<_Elem, _Traits> _As_view = _Right;
+        return append(_As_view.substr(_Roff, _Count));
+    }
 #line 2856 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
 
     basic_string& append(  const _Elem* const _Ptr, __declspec(guard(overflow)) const size_type _Count) {
@@ -41918,18 +43195,18 @@ public:
     }
 
 
+    template <class _StringViewIsh, _Is_string_view_ish<_StringViewIsh> = 0>
+    basic_string& assign(const _StringViewIsh& _Right) {
+        const basic_string_view<_Elem, _Traits> _As_view = _Right;
+        return assign(_As_view.data(), _Convert_size<size_type>(_As_view.size()));
+    }
 
-
-
-
-
-
-
-
-
-
-
-
+    template <class _StringViewIsh, _Is_string_view_ish<_StringViewIsh> = 0>
+    basic_string& assign(const _StringViewIsh& _Right, const size_type _Roff, const size_type _Count = npos) {
+        
+        basic_string_view<_Elem, _Traits> _As_view = _Right;
+        return assign(_As_view.substr(_Roff, _Count));
+    }
 #line 2963 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
 
     basic_string& assign(  const _Elem* const _Ptr, __declspec(guard(overflow)) const size_type _Count) {
@@ -42031,18 +43308,18 @@ public:
     }
 
 
+    template <class _StringViewIsh, _Is_string_view_ish<_StringViewIsh> = 0>
+    basic_string& insert(const size_type _Off, const _StringViewIsh& _Right) { 
+        const basic_string_view<_Elem, _Traits> _As_view = _Right;
+        return insert(_Off, _As_view.data(), _Convert_size<size_type>(_As_view.size()));
+    }
 
-
-
-
-
-
-
-
-
-
-
-
+    template <class _StringViewIsh, _Is_string_view_ish<_StringViewIsh> = 0>
+    basic_string& insert(const size_type _Off, const _StringViewIsh& _Right, const size_type _Roff,
+        const size_type _Count = npos) { 
+        basic_string_view<_Elem, _Traits> _As_view = _Right;
+        return insert(_Off, _As_view.substr(_Roff, _Count));
+    }
 #line 3076 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
 
     basic_string& insert(
@@ -42232,20 +43509,20 @@ public:
     }
 
 
+    template <class _StringViewIsh, _Is_string_view_ish<_StringViewIsh> = 0>
+    basic_string& replace(const size_type _Off, const size_type _N0, const _StringViewIsh& _Right) {
+        
+        basic_string_view<_Elem, _Traits> _As_view = _Right;
+        return replace(_Off, _N0, _As_view.data(), _Convert_size<size_type>(_As_view.size()));
+    }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+    template <class _StringViewIsh, _Is_string_view_ish<_StringViewIsh> = 0>
+    basic_string& replace(const size_type _Off, const size_type _N0, const _StringViewIsh& _Right,
+        const size_type _Roff, const size_type _Count = npos) {
+        
+        basic_string_view<_Elem, _Traits> _As_view = _Right;
+        return replace(_Off, _N0, _As_view.substr(_Roff, _Count));
+    }
 #line 3279 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
 
     basic_string& replace(
@@ -42356,16 +43633,16 @@ public:
     }
 
 
+    template <class _StringViewIsh, _Is_string_view_ish<_StringViewIsh> = 0>
+    basic_string& replace(const const_iterator _First, const const_iterator _Last, const _StringViewIsh& _Right) {
+        
+        _Adl_verify_range(_First, _Last);
 
-
-
-
-
-
-
-
-
-
+        do { if (_First._Getcont() == ::std:: addressof(_Mypair._Myval2)) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring", 3393, 0, "%s", "string iterators incompatible")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"string iterators incompatible\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring", 3393, 0); } while (false); } ; } while (false);
+#line 3395 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
+        return replace(static_cast<size_type>(_Unfancy(_First._Ptr) - _Mypair._Myval2._Myptr()),
+            static_cast<size_type>(_Last._Ptr - _First._Ptr), _Right);
+    }
 #line 3399 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
 
     basic_string& replace(const const_iterator _First, const const_iterator _Last,
@@ -42569,10 +43846,10 @@ public:
     }
 
 
-
-
-
-
+     operator basic_string_view<_Elem, _Traits>() const noexcept {
+        
+        return basic_string_view<_Elem, _Traits>(_Mypair._Myval2._Myptr(), _Mypair._Myval2._Mysize);
+    }
 #line 3606 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
 
     void push_back(const _Elem _Ch) { 
@@ -42644,9 +43921,9 @@ public:
     }
 
 
-
-
-
+    [[nodiscard]]   _Elem* data() noexcept {
+        return _Mypair._Myval2._Myptr();
+    }
 #line 3680 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
 
     [[nodiscard]] size_type length() const noexcept {
@@ -42824,13 +44101,13 @@ public:
     }
 
 
-
-
-
-
-
-
-
+    template <class _StringViewIsh, _Is_string_view_ish<_StringViewIsh> = 0>
+    [[nodiscard]] size_type find(const _StringViewIsh& _Right, const size_type _Off = 0) const {
+        
+        basic_string_view<_Elem, _Traits> _As_view = _Right;
+        return static_cast<size_type>(_Traits_find<_Traits>(
+            _Mypair._Myval2._Myptr(), _Mypair._Myval2._Mysize, _Off, _As_view.data(), _As_view.size()));
+    }
 #line 3864 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
 
     [[nodiscard]] size_type find(const basic_string& _Right, const size_type _Off = 0) const noexcept {
@@ -42860,13 +44137,13 @@ public:
     }
 
 
-
-
-
-
-
-
-
+    template <class _StringViewIsh, _Is_string_view_ish<_StringViewIsh> = 0>
+    [[nodiscard]] size_type rfind(const _StringViewIsh& _Right, const size_type _Off = npos) const {
+        
+        basic_string_view<_Elem, _Traits> _As_view = _Right;
+        return static_cast<size_type>(_Traits_rfind<_Traits>(
+            _Mypair._Myval2._Myptr(), _Mypair._Myval2._Mysize, _Off, _As_view.data(), _As_view.size()));
+    }
 #line 3900 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
 
     [[nodiscard]] size_type rfind(const basic_string& _Right, const size_type _Off = npos) const noexcept {
@@ -42896,13 +44173,13 @@ public:
     }
 
 
-
-
-
-
-
-
-
+    template <class _StringViewIsh, _Is_string_view_ish<_StringViewIsh> = 0>
+    [[nodiscard]] size_type find_first_of(const _StringViewIsh& _Right, const size_type _Off = 0) const {
+        
+        basic_string_view<_Elem, _Traits> _As_view = _Right;
+        return static_cast<size_type>(_Traits_find_first_of<_Traits>(_Mypair._Myval2._Myptr(), _Mypair._Myval2._Mysize,
+            _Off, _As_view.data(), _As_view.size(), _Is_specialization<_Traits, char_traits>{}));
+    }
 #line 3936 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
 
     [[nodiscard]] size_type find_first_of(const basic_string& _Right, const size_type _Off = 0) const noexcept {
@@ -42933,13 +44210,13 @@ public:
     }
 
 
-
-
-
-
-
-
-
+    template <class _StringViewIsh, _Is_string_view_ish<_StringViewIsh> = 0>
+    [[nodiscard]] size_type find_last_of(const _StringViewIsh& _Right, const size_type _Off = npos) const {
+        
+        basic_string_view<_Elem, _Traits> _As_view = _Right;
+        return static_cast<size_type>(_Traits_find_last_of<_Traits>(_Mypair._Myval2._Myptr(), _Mypair._Myval2._Mysize,
+            _Off, _As_view.data(), _As_view.size(), _Is_specialization<_Traits, char_traits>{}));
+    }
 #line 3973 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
 
     [[nodiscard]] size_type find_last_of(const basic_string& _Right, size_type _Off = npos) const noexcept {
@@ -42970,14 +44247,14 @@ public:
     }
 
 
-
-
-
-
-
-
-
-
+    template <class _StringViewIsh, _Is_string_view_ish<_StringViewIsh> = 0>
+    [[nodiscard]] size_type find_first_not_of(const _StringViewIsh& _Right, const size_type _Off = 0) const {
+        
+        basic_string_view<_Elem, _Traits> _As_view = _Right;
+        return static_cast<size_type>(
+            _Traits_find_first_not_of<_Traits>(_Mypair._Myval2._Myptr(), _Mypair._Myval2._Mysize, _Off, _As_view.data(),
+                _As_view.size(), _Is_specialization<_Traits, char_traits>{}));
+    }
 #line 4011 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
 
     [[nodiscard]] size_type find_first_not_of(const basic_string& _Right, const size_type _Off = 0) const noexcept {
@@ -43009,14 +44286,14 @@ public:
     }
 
 
-
-
-
-
-
-
-
-
+    template <class _StringViewIsh, _Is_string_view_ish<_StringViewIsh> = 0>
+    [[nodiscard]] size_type find_last_not_of(const _StringViewIsh& _Right, const size_type _Off = npos) const {
+        
+        basic_string_view<_Elem, _Traits> _As_view = _Right;
+        return static_cast<size_type>(
+            _Traits_find_last_not_of<_Traits>(_Mypair._Myval2._Myptr(), _Mypair._Myval2._Mysize, _Off, _As_view.data(),
+                _As_view.size(), _Is_specialization<_Traits, char_traits>{}));
+    }
 #line 4050 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
 
     [[nodiscard]] size_type find_last_not_of(const basic_string& _Right, const size_type _Off = npos) const noexcept {
@@ -43048,9 +44325,9 @@ public:
     }
 
 
-
-
-
+    [[nodiscard]] bool _Starts_with(const basic_string_view<_Elem, _Traits> _Right) const noexcept {
+        return basic_string_view<_Elem, _Traits>(*this)._Starts_with(_Right);
+    }
 #line 4084 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
 
     [[nodiscard]] basic_string substr(const size_type _Off = 0, const size_type _Count = npos) const {
@@ -43068,32 +44345,32 @@ public:
     }
 
 
+    template <class _StringViewIsh, _Is_string_view_ish<_StringViewIsh> = 0>
+    [[nodiscard]] int compare(const _StringViewIsh& _Right) const { 
+        basic_string_view<_Elem, _Traits> _As_view = _Right;
+        return _Traits_compare<_Traits>(
+            _Mypair._Myval2._Myptr(), _Mypair._Myval2._Mysize, _As_view.data(), _As_view.size());
+    }
 
+    template <class _StringViewIsh, _Is_string_view_ish<_StringViewIsh> = 0>
+    [[nodiscard]] int compare(const size_type _Off, const size_type _N0, const _StringViewIsh& _Right) const {
+        
+        basic_string_view<_Elem, _Traits> _As_view = _Right;
+        _Mypair._Myval2._Check_offset(_Off);
+        return _Traits_compare<_Traits>(_Mypair._Myval2._Myptr() + _Off, _Mypair._Myval2._Clamp_suffix_size(_Off, _N0),
+            _As_view.data(), _As_view.size());
+    }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    template <class _StringViewIsh, _Is_string_view_ish<_StringViewIsh> = 0>
+    [[nodiscard]] int compare(const size_type _Off, const size_type _N0, const _StringViewIsh& _Right,
+        const size_type _Roff, const size_type _Count = npos) const {
+        
+        basic_string_view<_Elem, _Traits> _As_view = _Right;
+        _Mypair._Myval2._Check_offset(_Off);
+        const auto _With_substr = _As_view.substr(_Roff, _Count);
+        return _Traits_compare<_Traits>(_Mypair._Myval2._Myptr() + _Off, _Mypair._Myval2._Clamp_suffix_size(_Off, _N0),
+            _With_substr.data(), _With_substr.size());
+    }
 #line 4127 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
 
     [[nodiscard]] int compare(const basic_string& _Right) const noexcept { 
@@ -43304,20 +44581,20 @@ private:
 };
 
 
+template <class _Iter, class _Alloc = allocator<_Iter_value_t<_Iter>>,
+    enable_if_t<conjunction_v<_Is_iterator<_Iter>, _Is_allocator<_Alloc>>, int> = 0>
+basic_string(_Iter, _Iter, _Alloc = _Alloc())
+    -> basic_string<_Iter_value_t<_Iter>, char_traits<_Iter_value_t<_Iter>>, _Alloc>;
 
+template <class _Elem, class _Traits, class _Alloc = allocator<_Elem>,
+    enable_if_t<_Is_allocator<_Alloc>::value, int> = 0>
+explicit basic_string(basic_string_view<_Elem, _Traits>, const _Alloc& = _Alloc())
+    -> basic_string<_Elem, _Traits, _Alloc>;
 
-
-
-
-
-
-
-
-
-
-
-
-
+template <class _Elem, class _Traits, class _Alloc = allocator<_Elem>,
+    enable_if_t<_Is_allocator<_Alloc>::value, int> = 0>
+basic_string(basic_string_view<_Elem, _Traits>, _Guide_size_type_t<_Alloc>, _Guide_size_type_t<_Alloc>,
+    const _Alloc& = _Alloc()) -> basic_string<_Elem, _Traits, _Alloc>;
 #line 4351 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
 
 template <class _Elem, class _Traits, class _Alloc>
@@ -43540,8 +44817,8 @@ using u32string = basic_string<char32_t, char_traits<char32_t>, allocator<char32
 
 template <class _Elem, class _Traits, class _Alloc>
 struct hash<basic_string<_Elem, _Traits, _Alloc>> {
-     typedef basic_string<_Elem, _Traits, _Alloc> argument_type;
-     typedef size_t result_type;
+    [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef basic_string<_Elem, _Traits, _Alloc> argument_type;
+    [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef size_t result_type;
 
     [[nodiscard]] size_t operator()(const basic_string<_Elem, _Traits, _Alloc>& _Keyval) const noexcept {
         return _Hash_array_representation(_Keyval.c_str(), _Keyval.size());
@@ -43652,18 +44929,18 @@ inline namespace literals {
 #line 4685 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
 
 
+namespace pmr {
+    template <class _Elem, class _Traits = char_traits<_Elem>>
+    using basic_string = ::std:: basic_string<_Elem, _Traits, polymorphic_allocator<_Elem>>;
+
+    using string = basic_string<char>;
 
 
 
-
-
-
-
-
-
-
-
-
+    using u16string = basic_string<char16_t>;
+    using u32string = basic_string<char32_t>;
+    using wstring   = basic_string<wchar_t>;
+} 
 #line 4700 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xstring"
 }
 
@@ -43677,7 +44954,7 @@ inline namespace literals {
 
 #pragma pack(push, 8)
 #pragma warning(push, 3)
-#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294  4984 5053 )
+#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294   5053 )
 
 
 
@@ -43860,7 +45137,7 @@ public:
 
 #pragma pack(push, 8)
 #pragma warning(push, 3)
-#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294  4984 5053 )
+#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294   5053 )
 
 
 
@@ -43915,7 +45192,7 @@ union _Immortalizer_impl {
 
 #pragma pack(push, 8)
 #pragma warning(push, 3)
-#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294  4984 5053 )
+#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294   5053 )
 
 
 
@@ -44037,7 +45314,7 @@ enum class errc {
 
 #pragma pack(push, 8)
 #pragma warning(push, 3)
-#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294  4984 5053 )
+#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294   5053 )
 
 
 
@@ -45176,7 +46453,7 @@ struct _Atomic_integral<_Ty, 8> : _Atomic_storage<_Ty> {
 
 
 template <size_t _TypeSize>
- constexpr bool _Is_always_lock_free = _TypeSize <= 8 && (_TypeSize & (_TypeSize - 1)) == 0;
+inline constexpr bool _Is_always_lock_free = _TypeSize <= 8 && (_TypeSize & (_TypeSize - 1)) == 0;
 
 
 
@@ -45188,10 +46465,10 @@ template <size_t _TypeSize>
 #line 1172 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\atomic"
 
 template <class _Ty, bool _Is_lock_free = _Is_always_lock_free<sizeof(_Ty)>>
- constexpr bool _Deprecate_non_lock_free_volatile = true;
+inline constexpr bool _Deprecate_non_lock_free_volatile = true;
 
 template <class _Ty>
-  constexpr bool _Deprecate_non_lock_free_volatile<_Ty, false> = true;
+ inline constexpr bool _Deprecate_non_lock_free_volatile<_Ty, false> = true;
 
 
 template <class _Ty>
@@ -45536,7 +46813,7 @@ public:
     atomic& operator=(const atomic&) = delete;
 
 
-
+    static constexpr bool is_always_lock_free = _Is_always_lock_free<sizeof(_Ty)>;
 #line 1524 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\atomic"
 
 
@@ -45672,8 +46949,8 @@ public:
 };
 
 
-
-
+template <class _Ty>
+atomic(_Ty) -> atomic<_Ty>;
 #line 1661 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\atomic"
 
 
@@ -46161,7 +47438,7 @@ inline void atomic_flag_clear_explicit(volatile atomic_flag* _Flag, memory_order
 
 #pragma pack(push, 8)
 #pragma warning(push, 3)
-#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294  4984 5053 )
+#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294   5053 )
 
 
 
@@ -46180,7 +47457,7 @@ template <>
 struct is_error_code_enum<io_errc> : true_type {};
 
 template <class _Ty>
- constexpr bool is_error_code_enum_v = is_error_code_enum<_Ty>::value;
+inline constexpr bool is_error_code_enum_v = is_error_code_enum<_Ty>::value;
 
 
 template <class _Enum>
@@ -46190,7 +47467,7 @@ template <>
 struct is_error_condition_enum<errc> : true_type {};
 
 template <class _Ty>
- constexpr bool is_error_condition_enum_v = is_error_condition_enum<_Ty>::value;
+inline constexpr bool is_error_condition_enum_v = is_error_condition_enum<_Ty>::value;
 
 class error_code;
 class error_condition;
@@ -46502,8 +47779,8 @@ private:
 
 template <>
 struct hash<error_code> {
-     typedef error_code argument_type;
-     typedef size_t result_type;
+    [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef error_code argument_type;
+    [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef size_t result_type;
 
     [[nodiscard]] size_t operator()(const error_code& _Keyval) const noexcept {
         return hash<int>{}(_Keyval.value());
@@ -46512,8 +47789,8 @@ struct hash<error_code> {
 
 template <>
 struct hash<error_condition> {
-     typedef error_condition argument_type;
-     typedef size_t result_type;
+    [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef error_condition argument_type;
+    [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef size_t result_type;
 
     [[nodiscard]] size_t operator()(const error_condition& _Keyval) const noexcept {
         return hash<int>{}(_Keyval.value());
@@ -46781,7 +48058,7 @@ template <class _Ty>
 
 #pragma pack(push, 8)
 #pragma warning(push, 3)
-#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294  4984 5053 )
+#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294   5053 )
 
 
 
@@ -47051,7 +48328,7 @@ constexpr int _Small_object_num_ptrs = 6 + 16 / sizeof(void*);
 
 #pragma pack(push, 8)
 #pragma warning(push, 3)
-#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294  4984 5053 )
+#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294   5053 )
 
 
 
@@ -47117,43 +48394,43 @@ _NoThrowFwdIt uninitialized_copy_n(const _InIt _First, const _Diff _Count_raw, _
 
 
 
+template <class _InIt, class _NoThrowFwdIt>
+_NoThrowFwdIt uninitialized_move(const _InIt _First, const _InIt _Last, _NoThrowFwdIt _Dest) {
+    
+    _Adl_verify_range(_First, _Last);
+    const auto _UFirst = _Get_unwrapped(_First);
+    const auto _ULast  = _Get_unwrapped(_Last);
+    const auto _UDest  = _Get_unwrapped_n(_Dest, _Idl_distance<_InIt>(_UFirst, _ULast));
+    _Seek_wrapped(_Dest, _Uninitialized_move_unchecked(_UFirst, _ULast, _UDest));
+    return _Dest;
+}
 
 
+template <class _InIt, class _Diff, class _NoThrowFwdIt>
+pair<_InIt, _NoThrowFwdIt> uninitialized_move_n(_InIt _First, const _Diff _Count_raw, _NoThrowFwdIt _Dest) {
+    
+    _Algorithm_int_t<_Diff> _Count = _Count_raw;
+    if (0 < _Count) {
+        auto _UFirst = _Get_unwrapped_n(_First, _Count);
+        auto _UDest  = _Get_unwrapped_n(_Dest, _Count);
+        if constexpr (_Ptr_move_cat<decltype(_UFirst), decltype(_UDest)>::_Really_trivial) {
+            _UDest = _Copy_memmove(_UFirst, _UFirst + _Count, _UDest);
+            _UFirst += _Count;
+        } else {
+            _Uninitialized_backout<decltype(_UDest)> _Backout{_UDest};
+            for (; 0 < _Count; --_Count, (void) ++_UFirst) {
+                _Backout._Emplace_back(::std:: move(*_UFirst));
+            }
 
+            _UDest = _Backout._Release();
+        }
 
+        _Seek_wrapped(_Dest, _UDest);
+        _Seek_wrapped(_First, _UFirst);
+    }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    return {_First, _Dest};
+}
 #line 127 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\memory"
 
 
@@ -47232,110 +48509,110 @@ _NoThrowFwdIt uninitialized_fill_n(_NoThrowFwdIt _First, const _Diff _Count_raw,
 
 
 
+template <class _Ty>
+void destroy_at(_Ty* const _Location) noexcept  {
+    _Location->~_Ty();
+}
+
+
+template <class _NoThrowFwdIt>
+void destroy(const _NoThrowFwdIt _First, const _NoThrowFwdIt _Last) { 
+    _Adl_verify_range(_First, _Last);
+    _Destroy_range(_Get_unwrapped(_First), _Get_unwrapped(_Last));
+}
+
+
+template <class _NoThrowFwdIt, class _Diff>
+_NoThrowFwdIt destroy_n(_NoThrowFwdIt _First, const _Diff _Count_raw) {
+    
+    _Algorithm_int_t<_Diff> _Count = _Count_raw;
+    if (0 < _Count) {
+        auto _UFirst = _Get_unwrapped_n(_First, _Count);
+        if constexpr (is_trivially_destructible_v<_Iter_value_t<_NoThrowFwdIt>>) {
+            ::std:: advance(_UFirst, _Count);
+        } else {
+            do {
+                _Destroy_in_place(*_UFirst);
+                ++_UFirst;
+                --_Count;
+            } while (0 < _Count);
+        }
+
+        _Seek_wrapped(_First, _UFirst);
+    }
+
+    return _First;
+}
+
+
+template <class _NoThrowFwdIt>
+void uninitialized_default_construct(const _NoThrowFwdIt _First, const _NoThrowFwdIt _Last) {
+    
+    using _Ty = _Iter_value_t<_NoThrowFwdIt>;
+    _Adl_verify_range(_First, _Last);
+    if constexpr (!is_trivially_default_constructible_v<_Ty>) {
+        const auto _ULast = _Get_unwrapped(_Last);
+        _Uninitialized_backout _Backout{_Get_unwrapped(_First)};
+        for (; _Backout._Last != _ULast; ++_Backout._Last) {
+            ::new (static_cast<void*>(_Unfancy(_Backout._Last))) _Ty;
+        }
+
+        _Backout._Release();
+    }
+}
+
+
+template <class _NoThrowFwdIt, class _Diff>
+_NoThrowFwdIt uninitialized_default_construct_n(_NoThrowFwdIt _First, const _Diff _Count_raw) {
+    
+    using _Ty                      = _Iter_value_t<_NoThrowFwdIt>;
+    _Algorithm_int_t<_Diff> _Count = _Count_raw;
+    if (0 < _Count) {
+        if constexpr (is_trivially_default_constructible_v<_Ty>) {
+            ::std:: advance(_First, _Count);
+        } else {
+            _Uninitialized_backout _Backout{_Get_unwrapped_n(_First, _Count)};
+            for (; 0 < _Count; ++_Backout._Last, (void) --_Count) {
+                ::new (static_cast<void*>(_Unfancy(_Backout._Last))) _Ty;
+            }
+
+            _Seek_wrapped(_First, _Backout._Release());
+        }
+    }
+
+    return _First;
+}
+
+
+template <class _NoThrowFwdIt>
+void uninitialized_value_construct(const _NoThrowFwdIt _First, const _NoThrowFwdIt _Last) {
+    
+    _Adl_verify_range(_First, _Last);
+    const auto _UFirst = _Get_unwrapped(_First);
+    const auto _ULast  = _Get_unwrapped(_Last);
+    if constexpr (_Use_memset_value_construct_v<_Unwrapped_t<const _NoThrowFwdIt&>>) {
+        _Zero_range(_UFirst, _ULast);
+    } else {
+        _Uninitialized_backout _Backout{_UFirst};
+        while (_Backout._Last != _ULast) {
+            _Backout._Emplace_back();
+        }
+
+        _Backout._Release();
+    }
+}
+
+
+template <class _NoThrowFwdIt, class _Diff>
+_NoThrowFwdIt uninitialized_value_construct_n(_NoThrowFwdIt _First, const _Diff _Count_raw) {
+    
+    _Algorithm_int_t<_Diff> _Count = _Count_raw;
+    if (0 < _Count) {
+        _Seek_wrapped(_First, _Uninitialized_value_construct_n_unchecked1(_Get_unwrapped_n(_First, _Count), _Count));
+    }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    return _First;
+}
 
 #line 310 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\memory"
 
@@ -47343,7 +48620,7 @@ _NoThrowFwdIt uninitialized_fill_n(_NoThrowFwdIt _First, const _Diff _Count_raw,
 
 
 template <class _OutIt, class _Ty>
-class  raw_storage_iterator { 
+class [[deprecated("warning STL4011: " "std::raw_storage_iterator is deprecated in C++17. " "Consider using the std::uninitialized_copy() family of algorithms instead. " "You can define _SILENCE_CXX17_RAW_STORAGE_ITERATOR_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] raw_storage_iterator { 
 public:
     using iterator_category = output_iterator_tag;
     using value_type        = void;
@@ -47390,112 +48667,112 @@ private:
 
 
 
-template <class _Ty>
-class auto_ptr;
 
-template <class _Ty>
-struct auto_ptr_ref { 
-    explicit auto_ptr_ref(_Ty* _Right) : _Ref(_Right) {}
 
-    _Ty* _Ref; 
-};
 
-template <class _Ty>
-class auto_ptr { 
-public:
-    using element_type = _Ty;
 
-    explicit auto_ptr(_Ty* _Ptr = nullptr) noexcept : _Myptr(_Ptr) {}
 
-    auto_ptr(auto_ptr& _Right) noexcept : _Myptr(_Right.release()) {}
 
-    auto_ptr(auto_ptr_ref<_Ty> _Right) noexcept {
-        _Ty* _Ptr   = _Right._Ref;
-        _Right._Ref = nullptr; 
-        _Myptr      = _Ptr; 
-    }
 
-    template <class _Other>
-    operator auto_ptr<_Other>() noexcept { 
-        return auto_ptr<_Other>(*this);
-    }
 
-    template <class _Other>
-    operator auto_ptr_ref<_Other>() noexcept { 
-        _Other* _Cvtptr = _Myptr; 
-        auto_ptr_ref<_Other> _Ans(_Cvtptr);
-        _Myptr = nullptr; 
-        return _Ans;
-    }
 
-    template <class _Other>
-    auto_ptr& operator=(auto_ptr<_Other>& _Right) noexcept {
-        reset(_Right.release());
-        return *this;
-    }
 
-    template <class _Other>
-    auto_ptr(auto_ptr<_Other>& _Right) noexcept : _Myptr(_Right.release()) {}
 
-    auto_ptr& operator=(auto_ptr& _Right) noexcept {
-        reset(_Right.release());
-        return *this;
-    }
 
-    auto_ptr& operator=(auto_ptr_ref<_Ty> _Right) noexcept {
-        _Ty* _Ptr   = _Right._Ref;
-        _Right._Ref = 0; 
-        reset(_Ptr); 
-        return *this;
-    }
 
-    ~auto_ptr() noexcept {
-        delete _Myptr;
-    }
 
-    [[nodiscard]] _Ty& operator*() const noexcept {
 
-        do { if (_Myptr) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\memory", 427, 0, "%s", "auto_ptr not dereferenceable")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"auto_ptr not dereferenceable\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\memory", 427, 0); } while (false); } ; } while (false);
-#line 429 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\memory"
 
-        return *get();
-    }
 
-    [[nodiscard]] _Ty* operator->() const noexcept {
 
-        do { if (_Myptr) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\memory", 435, 0, "%s", "auto_ptr not dereferenceable")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"auto_ptr not dereferenceable\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\memory", 435, 0); } while (false); } ; } while (false);
-#line 437 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\memory"
 
-        return get();
-    }
 
-    [[nodiscard]] _Ty* get() const noexcept {
-        return _Myptr;
-    }
 
-    _Ty* release() noexcept {
-        _Ty* _Tmp = _Myptr;
-        _Myptr    = nullptr;
-        return _Tmp;
-    }
 
-    void reset(_Ty* _Ptr = nullptr) noexcept { 
-        if (_Ptr != _Myptr) {
-            delete _Myptr;
-        }
 
-        _Myptr = _Ptr;
-    }
 
-private:
-    _Ty* _Myptr; 
-};
 
-template <>
-class auto_ptr<void> {
-public:
-    using element_type = void;
-};
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #line 469 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\memory"
 
 
@@ -47941,7 +49218,7 @@ public:
     using typename _Mybase::element_type;
 
 
-
+    using weak_type = weak_ptr<_Ty>;
 #line 915 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\memory"
 
     constexpr shared_ptr() noexcept = default;
@@ -48033,12 +49310,12 @@ public:
     }
 
 
-    template <class _Ty2, enable_if_t<is_convertible_v<_Ty2*, _Ty*>, int> = 0>
-    shared_ptr(auto_ptr<_Ty2>&& _Other) { 
-        _Ty2* _Px = _Other.get();
-        _Set_ptr_rep_and_enable_shared(_Px, new _Ref_count<_Ty2>(_Px));
-        _Other.release();
-    }
+
+
+
+
+
+
 #line 1012 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\memory"
 
     template <class _Ux, class _Dx,
@@ -48087,11 +49364,11 @@ public:
     }
 
 
-    template <class _Ty2>
-    shared_ptr& operator=(auto_ptr<_Ty2>&& _Right) {
-        shared_ptr(::std:: move(_Right)).swap(*this);
-        return *this;
-    }
+
+
+
+
+
 #line 1065 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\memory"
 
     template <class _Ux, class _Dx>
@@ -48141,7 +49418,7 @@ public:
     }
 
 
-     [[nodiscard]] bool unique() const noexcept {
+    [[deprecated("warning STL4016: " "std::shared_ptr::unique() is deprecated in C++17. " "You can define _SILENCE_CXX17_SHARED_PTR_UNIQUE_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] [[nodiscard]] bool unique() const noexcept {
         
         return this->use_count() == 1;
     }
@@ -48254,11 +49531,11 @@ private:
 };
 
 
+template <class _Ty>
+shared_ptr(weak_ptr<_Ty>) -> shared_ptr<_Ty>;
 
-
-
-
-
+template <class _Ty, class _Dx>
+shared_ptr(unique_ptr<_Ty, _Dx>) -> shared_ptr<_Ty>;
 #line 1232 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\memory"
 
 template <class _Ty1, class _Ty2>
@@ -49361,8 +50638,8 @@ public:
 };
 
 
-
-
+template <class _Ty>
+weak_ptr(shared_ptr<_Ty>) -> weak_ptr<_Ty>;
 #line 2336 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\memory"
 
 template <class _Ty>
@@ -49509,9 +50786,9 @@ public:
         : _Mypair(_One_then_variadic_args_t{}, ::std:: forward<_Dx2>(_Right.get_deleter()), _Right.release()) {}
 
 
-    template <class _Ty2,
-        enable_if_t<conjunction_v<is_convertible<_Ty2*, _Ty*>, is_same<_Dx, default_delete<_Ty>>>, int> = 0>
-    unique_ptr(auto_ptr<_Ty2>&& _Right) noexcept : _Mypair(_Zero_then_variadic_args_t{}, _Right.release()) {}
+
+
+
 #line 2485 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\memory"
 
     template <class _Ty2, class _Dx2,
@@ -49876,9 +51153,9 @@ struct owner_less;
 
 template <class _Ty>
 struct owner_less<shared_ptr<_Ty>> {
-     typedef shared_ptr<_Ty> first_argument_type;
-     typedef shared_ptr<_Ty> second_argument_type;
-     typedef bool result_type;
+    [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef shared_ptr<_Ty> first_argument_type;
+    [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef shared_ptr<_Ty> second_argument_type;
+    [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef bool result_type;
 
     [[nodiscard]] bool operator()(const shared_ptr<_Ty>& _Left, const shared_ptr<_Ty>& _Right) const noexcept {
         return _Left.owner_before(_Right);
@@ -49895,9 +51172,9 @@ struct owner_less<shared_ptr<_Ty>> {
 
 template <class _Ty>
 struct owner_less<weak_ptr<_Ty>> {
-     typedef weak_ptr<_Ty> first_argument_type;
-     typedef weak_ptr<_Ty> second_argument_type;
-     typedef bool result_type;
+    [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef weak_ptr<_Ty> first_argument_type;
+    [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef weak_ptr<_Ty> second_argument_type;
+    [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef bool result_type;
 
     [[nodiscard]] bool operator()(const weak_ptr<_Ty>& _Left, const weak_ptr<_Ty>& _Right) const noexcept {
         return _Left.owner_before(_Right);
@@ -49949,8 +51226,8 @@ struct hash<unique_ptr<_Ty, _Dx>> : _Conditionally_enabled_hash<unique_ptr<_Ty, 
 
 template <class _Ty>
 struct hash<shared_ptr<_Ty>> {
-     typedef shared_ptr<_Ty> argument_type;
-     typedef size_t result_type;
+    [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef shared_ptr<_Ty> argument_type;
+    [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef size_t result_type;
 
     [[nodiscard]] size_t operator()(const shared_ptr<_Ty>& _Keyval) const noexcept {
         return hash<typename shared_ptr<_Ty>::element_type*>()(_Keyval.get());
@@ -50336,19 +51613,19 @@ template <class _Ty>
 #line 3306 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\memory"
 
 
-namespace [[deprecated( "warning STL4002: " "The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can " "define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.")]] tr1 {
-    using ::std:: allocate_shared;
-    using ::std:: bad_weak_ptr;
-    using ::std:: const_pointer_cast;
-    using ::std:: dynamic_pointer_cast;
-    using ::std:: enable_shared_from_this;
-    using ::std:: get_deleter;
-    using ::std:: make_shared;
-    using ::std:: shared_ptr;
-    using ::std:: static_pointer_cast;
-    using ::std:: swap;
-    using ::std:: weak_ptr;
-} 
+
+
+
+
+
+
+
+
+
+
+
+
+
 #line 3322 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\memory"
 
 }
@@ -50374,7 +51651,7 @@ namespace [[deprecated( "warning STL4002: " "The non-Standard std::tr1 namespace
 
 #pragma pack(push, 8)
 #pragma warning(push, 3)
-#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294  4984 5053 )
+#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294   5053 )
 
 
 
@@ -50936,7 +52213,7 @@ struct tm;
 
 #pragma pack(push, 8)
 #pragma warning(push, 3)
-#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294  4984 5053 )
+#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294   5053 )
 
 
 
@@ -51075,7 +52352,7 @@ __declspec(dllimport) void* __cdecl _W_Gettnames();
 
 #pragma pack(push, 8)
 #pragma warning(push, 3)
-#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294  4984 5053 )
+#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294   5053 )
 
 
 
@@ -51433,7 +52710,7 @@ inline size_t __cdecl _LStrxfrm(    wchar_t* _First1,
 
 #pragma pack(push, 8)
 #pragma warning(push, 3)
-#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294  4984 5053 )
+#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294   5053 )
 
 
 
@@ -54695,7 +55972,7 @@ template class __declspec(dllimport) codecvt<char, char, mbstate_t>;
 
 #pragma pack(push, 8)
 #pragma warning(push, 3)
-#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294  4984 5053 )
+#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294   5053 )
 
 
 
@@ -54858,8 +56135,8 @@ public:
     using seekdir  = int;
 
 
-    using streamoff = ::std:: streamoff;
-    using streampos = ::std:: streampos;
+
+
 #line 183 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xiosbase"
 
     enum event { 
@@ -54871,9 +56148,9 @@ public:
     using event_callback = void(__cdecl*)(event, ios_base&, int);
 
 
-    using io_state  = unsigned int;
-    using open_mode = unsigned int;
-    using seek_dir  = unsigned int;
+
+
+
 #line 197 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xiosbase"
 
     
@@ -54948,9 +56225,9 @@ public:
     }
 
 
-    void  clear(io_state _State) { 
-        clear(static_cast<iostate>(_State));
-    }
+
+
+
 #line 274 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xiosbase"
 
     [[nodiscard]] iostate  rdstate() const {
@@ -54967,9 +56244,9 @@ public:
     }
 
 
-    void  setstate(io_state _State) { 
-        setstate(static_cast<iostate>(_State));
-    }
+
+
+
 #line 293 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xiosbase"
 
     [[nodiscard]] bool  good() const {
@@ -54998,9 +56275,9 @@ public:
     }
 
 
-    void  exceptions(io_state _State) { 
-        exceptions(static_cast<iostate>(_State));
-    }
+
+
+
 #line 324 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xiosbase"
 
     [[nodiscard]] fmtflags  flags() const {
@@ -55252,7 +56529,7 @@ public:
 
 #pragma pack(push, 8)
 #pragma warning(push, 3)
-#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294  4984 5053 )
+#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294   5053 )
 
 
 
@@ -55320,10 +56597,10 @@ public:
     }
 
 
-    pos_type  pubseekoff(off_type _Off, ios_base::seek_dir _Way,
-        ios_base::open_mode _Mode) { 
-        return pubseekoff(_Off, static_cast<ios_base::seekdir>(_Way), static_cast<ios_base::openmode>(_Mode));
-    }
+
+
+
+
 #line 88 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\streambuf"
 
     pos_type  pubseekpos(pos_type _Pos,
@@ -55332,10 +56609,10 @@ public:
     }
 
 
-    pos_type  pubseekpos(pos_type _Pos,
-        ios_base::open_mode _Mode) { 
-        return seekpos(_Pos, static_cast<ios_base::openmode>(_Mode));
-    }
+
+
+
+
 #line 100 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\streambuf"
 
     basic_streambuf*  pubsetbuf(_Elem* _Buffer,
@@ -55390,13 +56667,13 @@ public:
     }
 
 
-    void  stossc() { 
-        if (0 < _Gnavail()) {
-            _Gninc();
-        } else {
-            uflow();
-        }
-    }
+
+
+
+
+
+
+
 #line 161 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\streambuf"
 
     int_type  sungetc() { 
@@ -55658,7 +56935,7 @@ template class __declspec(dllimport) basic_streambuf<wchar_t, char_traits<wchar_
 
 #pragma pack(push, 8)
 #pragma warning(push, 3)
-#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294  4984 5053 )
+#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294   5053 )
 
 
 
@@ -57239,7 +58516,7 @@ template class __declspec(dllimport) num_put<wchar_t, ostreambuf_iterator<wchar_
 
 #pragma pack(push, 8)
 #pragma warning(push, 3)
-#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294  4984 5053 )
+#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294   5053 )
 
 
 
@@ -57270,9 +58547,9 @@ public:
     }
 
 
-    void  clear(io_state _State) { 
-        clear(static_cast<iostate>(_State));
-    }
+
+
+
 #line 50 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\ios"
 
     void  setstate(
@@ -57281,9 +58558,9 @@ public:
     }
 
 
-    void  setstate(io_state _State) { 
-        setstate(static_cast<iostate>(_State));
-    }
+
+
+
 #line 61 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\ios"
 
     basic_ios&  copyfmt(const basic_ios& _Right) { 
@@ -57531,9 +58808,9 @@ inline ios_base& __cdecl uppercase(ios_base& _Iosbase) {
 }
 
 
-namespace [[deprecated( "warning STL4002: " "The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can " "define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.")]] tr1 {
-    using ::std:: hexfloat;
-}
+
+
+
 #line 311 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\ios"
 
 }
@@ -57548,7 +58825,7 @@ namespace [[deprecated( "warning STL4002: " "The non-Standard std::tr1 namespace
 
 #pragma pack(push, 8)
 #pragma warning(push, 3)
-#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294  4984 5053 )
+#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294   5053 )
 
 
 
@@ -57993,10 +59270,10 @@ public:
     }
 
 
-
-
-
-
+    template <class = void> 
+    basic_ostream& operator<<(nullptr_t) { 
+        return *this << "nullptr";
+    }
 #line 465 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\ostream"
 
     basic_ostream&  operator<<(_Mysb* _Strbuf) { 
@@ -58550,7 +59827,7 @@ basic_ostream<_Elem, _Traits>& operator<<(basic_ostream<_Elem, _Traits>& _Ostr,
 
 #pragma pack(push, 8)
 #pragma warning(push, 3)
-#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294  4984 5053 )
+#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294   5053 )
 
 
 
@@ -59458,7 +60735,7 @@ basic_istream<_Elem, _Traits>& __cdecl ws(basic_istream<_Elem, _Traits>& _Istr) 
 
 #pragma pack(push, 8)
 #pragma warning(push, 3)
-#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294  4984 5053 )
+#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294   5053 )
 
 
 
@@ -59523,6 +60800,1931 @@ private:
 #line 78 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\iostream"
 #line 2 "D:\\C++\\Books\\A Tour of C++ 2nd Edition\\ATourOfCPlusPlus\\ATourOfCPlusPlus\\main.cpp"
 
+#line 1 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\variant"
+
+
+
+
+
+#pragma once
+
+
+
+
+
+
+
+#line 15 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\variant"
+
+
+
+
+
+#line 1 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xsmf_control.h"
+
+
+
+
+
+#pragma once
+
+
+
+
+
+
+
+#pragma pack(push, 8)
+#pragma warning(push, 3)
+#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294   5053 )
+
+
+
+
+namespace std {
+
+
+template <class _Base>
+struct _Non_trivial_copy : _Base { 
+    using _Base::_Base;
+
+    _Non_trivial_copy() = default;
+    _Non_trivial_copy(const _Non_trivial_copy& _That) noexcept(
+        noexcept(_Base::_Construct_from(static_cast<const _Base&>(_That)))) {
+        _Base::_Construct_from(static_cast<const _Base&>(_That));
+    }
+    _Non_trivial_copy(_Non_trivial_copy&&) = default;
+    _Non_trivial_copy& operator=(const _Non_trivial_copy&) = default;
+    _Non_trivial_copy& operator=(_Non_trivial_copy&&) = default;
+};
+
+template <class _Base, class... _Types>
+using _SMF_control_copy = conditional_t<
+    conjunction_v<is_copy_constructible<_Types>..., negation<conjunction<is_trivially_copy_constructible<_Types>...>>>,
+    _Non_trivial_copy<_Base>, _Base>;
+
+
+
+template <class _Base, class... _Types>
+struct _Non_trivial_move : _SMF_control_copy<_Base, _Types...> { 
+    using _Mybase = _SMF_control_copy<_Base, _Types...>;
+    using _Mybase::_Mybase;
+
+    _Non_trivial_move()                         = default;
+    _Non_trivial_move(const _Non_trivial_move&) = default;
+    _Non_trivial_move(_Non_trivial_move&& _That) noexcept(
+        noexcept(_Mybase::_Construct_from(static_cast<_Base&&>(_That)))) {
+        _Mybase::_Construct_from(static_cast<_Base&&>(_That));
+    }
+    _Non_trivial_move& operator=(const _Non_trivial_move&) = default;
+    _Non_trivial_move& operator=(_Non_trivial_move&&) = default;
+};
+
+template <class _Base, class... _Types>
+using _SMF_control_move = conditional_t<
+    conjunction_v<is_move_constructible<_Types>..., negation<conjunction<is_trivially_move_constructible<_Types>...>>>,
+    _Non_trivial_move<_Base, _Types...>, _SMF_control_copy<_Base, _Types...>>;
+
+
+
+template <class _Base, class... _Types>
+struct _Non_trivial_copy_assign : _SMF_control_move<_Base, _Types...> { 
+    using _Mybase = _SMF_control_move<_Base, _Types...>;
+    using _Mybase::_Mybase;
+
+    _Non_trivial_copy_assign()                                = default;
+    _Non_trivial_copy_assign(const _Non_trivial_copy_assign&) = default;
+    _Non_trivial_copy_assign(_Non_trivial_copy_assign&&)      = default;
+
+    _Non_trivial_copy_assign& operator=(const _Non_trivial_copy_assign& _That) noexcept(
+        noexcept(_Mybase::_Assign_from(static_cast<const _Base&>(_That)))) {
+        _Mybase::_Assign_from(static_cast<const _Base&>(_That));
+        return *this;
+    }
+    _Non_trivial_copy_assign& operator=(_Non_trivial_copy_assign&&) = default;
+};
+
+template <class _Base, class... _Types>
+struct _Deleted_copy_assign : _SMF_control_move<_Base, _Types...> { 
+    using _Mybase = _SMF_control_move<_Base, _Types...>;
+    using _Mybase::_Mybase;
+
+    _Deleted_copy_assign()                            = default;
+    _Deleted_copy_assign(const _Deleted_copy_assign&) = default;
+    _Deleted_copy_assign(_Deleted_copy_assign&&)      = default;
+    _Deleted_copy_assign& operator=(const _Deleted_copy_assign&) = delete;
+    _Deleted_copy_assign& operator=(_Deleted_copy_assign&&) = default;
+};
+
+template <class _Base, class... _Types>
+using _SMF_control_copy_assign =
+    conditional_t<conjunction_v<is_trivially_destructible<_Types>..., is_trivially_copy_constructible<_Types>...,
+                      is_trivially_copy_assignable<_Types>...>,
+        _SMF_control_move<_Base, _Types...>,
+        conditional_t<conjunction_v<is_copy_constructible<_Types>..., is_copy_assignable<_Types>...>,
+            _Non_trivial_copy_assign<_Base, _Types...>, _Deleted_copy_assign<_Base, _Types...>>>;
+
+
+
+template <class _Base, class... _Types>
+struct _Non_trivial_move_assign : _SMF_control_copy_assign<_Base, _Types...> { 
+    using _Mybase = _SMF_control_copy_assign<_Base, _Types...>;
+    using _Mybase::_Mybase;
+
+    _Non_trivial_move_assign()                                = default;
+    _Non_trivial_move_assign(const _Non_trivial_move_assign&) = default;
+    _Non_trivial_move_assign(_Non_trivial_move_assign&&)      = default;
+    _Non_trivial_move_assign& operator=(const _Non_trivial_move_assign&) = default;
+
+    _Non_trivial_move_assign& operator=(_Non_trivial_move_assign&& _That) noexcept(
+        noexcept(_Mybase::_Assign_from(static_cast<_Base&&>(_That)))) {
+        _Mybase::_Assign_from(static_cast<_Base&&>(_That));
+        return *this;
+    }
+};
+
+template <class _Base, class... _Types>
+struct _Deleted_move_assign : _SMF_control_copy_assign<_Base, _Types...> { 
+    using _Mybase = _SMF_control_copy_assign<_Base, _Types...>;
+    using _Mybase::_Mybase;
+
+    _Deleted_move_assign()                            = default;
+    _Deleted_move_assign(const _Deleted_move_assign&) = default;
+    _Deleted_move_assign(_Deleted_move_assign&&)      = default;
+    _Deleted_move_assign& operator=(const _Deleted_move_assign&) = default;
+    _Deleted_move_assign& operator=(_Deleted_move_assign&&) = delete;
+};
+
+template <class _Base, class... _Types>
+using _SMF_control_move_assign =
+    conditional_t<conjunction_v<is_trivially_destructible<_Types>..., is_trivially_move_constructible<_Types>...,
+                      is_trivially_move_assignable<_Types>...>,
+        _SMF_control_copy_assign<_Base, _Types...>,
+        conditional_t<conjunction_v<is_move_constructible<_Types>..., is_move_assignable<_Types>...>,
+            _Non_trivial_move_assign<_Base, _Types...>, _Deleted_move_assign<_Base, _Types...>>>;
+
+
+
+template <class _Base, class... _Types>
+using _SMF_control = _SMF_control_move_assign<_Base, _Types...>;
+
+}
+
+
+
+#pragma warning(pop)
+#pragma pack(pop)
+
+#line 156 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xsmf_control.h"
+#line 157 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\xsmf_control.h"
+#line 21 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\variant"
+
+
+#pragma pack(push, 8)
+#pragma warning(push, 3)
+#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294   5053 )
+
+
+
+
+
+
+
+
+#line 35 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\variant"
+
+namespace std {
+
+
+template <class...>
+struct _All_same : true_type {};
+template <class _First, class... _Rest>
+struct _All_same<_First, _Rest...> : bool_constant<conjunction_v<is_same<_First, _Rest>...>> {}; 
+
+template <class _To, class... _From>
+struct _Convertible_from_all : bool_constant<conjunction_v<is_convertible<_From, _To>...>> {
+    
+};
+
+
+template <class...>
+struct _Meta_list {}; 
+struct _Meta_nil {};
+
+
+template <class _List>
+struct _Meta_front_;
+template <class _List>
+using _Meta_front =
+    
+    typename _Meta_front_<_List>::type;
+
+template <template <class...> class _List, class _First, class... _Rest>
+struct _Meta_front_<_List<_First, _Rest...>> {
+    using type = _First;
+};
+
+
+template <class _List>
+struct _Meta_pop_front_;
+template <class _List>
+using _Meta_pop_front =
+    
+    typename _Meta_pop_front_<_List>::type;
+
+template <template <class...> class _List, class _First, class... _Rest>
+struct _Meta_pop_front_<_List<_First, _Rest...>> {
+    using type = _List<_Rest...>;
+};
+
+
+template <class _List, class _Ty>
+struct _Meta_push_front_;
+template <class _List, class _Ty>
+using _Meta_push_front =
+    
+    typename _Meta_push_front_<_List, _Ty>::type;
+
+template <template <class...> class _List, class... _Types, class _Ty>
+struct _Meta_push_front_<_List<_Types...>, _Ty> {
+    using type = _List<_Ty, _Types...>;
+};
+
+
+template <class _Void, template <class...> class _Fn, class... _Args>
+struct _Meta_quote_helper_;
+template <template <class...> class _Fn, class... _Args>
+struct _Meta_quote_helper_<void_t<_Fn<_Args...>>, _Fn, _Args...> {
+    using type = _Fn<_Args...>;
+};
+template <template <class...> class _Fn>
+struct _Meta_quote { 
+    template <class... _Types>
+    using _Invoke = typename _Meta_quote_helper_<void, _Fn, _Types...>::type;
+};
+
+
+template <class _Fn, class... _Args>
+using _Meta_invoke = 
+    typename _Fn::template _Invoke<_Args...>;
+
+
+template <class _Fn, class... _Args>
+struct _Meta_bind_back { 
+    template <class... _Types>
+    using _Invoke = _Meta_invoke<_Fn, _Types..., _Args...>;
+};
+
+
+template <class _Fn, class _List>
+struct _Meta_apply_;
+template <class _Fn, class _List>
+using _Meta_apply =
+    
+    typename _Meta_apply_<_Fn, _List>::type;
+
+template <class _Fn, template <class...> class _List, class... _Types>
+struct _Meta_apply_<_Fn,
+    _List<_Types...>> { 
+    using type = _Meta_invoke<_Fn, _Types...>;
+};
+
+template <class _Fn, class _Ty, _Ty... _Idxs>
+struct _Meta_apply_<_Fn,
+    integer_sequence<_Ty, _Idxs...>> { 
+    using type = _Meta_invoke<_Fn, integral_constant<_Ty, _Idxs>...>;
+};
+
+
+template <class _Fn, class _List>
+struct _Meta_transform_;
+template <class _Fn, class _List>
+using _Meta_transform =
+    
+    typename _Meta_transform_<_Fn, _List>::type;
+
+template <template <class...> class _List, class _Fn, class... _Types>
+struct _Meta_transform_<_Fn, _List<_Types...>> {
+    using type = _List<_Meta_invoke<_Fn, _Types>...>;
+};
+
+
+template <class, class, template <class...> class>
+struct _Meta_repeat_n_c_;
+template <size_t _Count, class _Ty, template <class...> class _Continue>
+using _Meta_repeat_n_c =
+    
+    typename _Meta_repeat_n_c_<_Ty, make_index_sequence<_Count>, _Continue>::type;
+
+template <class _Ty, size_t>
+using _Meta_repeat_first_helper = _Ty;
+
+template <class _Ty, size_t... _Idxs, template <class...> class _Continue>
+struct _Meta_repeat_n_c_<_Ty, index_sequence<_Idxs...>, _Continue> {
+    using type = _Continue<_Meta_repeat_first_helper<_Ty, _Idxs>...>;
+};
+
+
+template <class _List, size_t _Idx, class = void>
+struct _Meta_at_;
+template <class _List, size_t _Idx>
+using _Meta_at_c =
+    
+    typename _Meta_at_<_List, _Idx>::type;
+
+
+
+
+
+
+
+template <class... _VoidPtrs>
+struct _Meta_at_impl {
+    template <class _Ty, class... _Types>
+    static _Ty _Eval(_VoidPtrs..., _Ty*, _Types*...); 
+};
+
+template <class _Ty>
+constexpr _Identity<_Ty>* _Type_as_pointer() {
+    return nullptr;
+}
+
+template <template <class...> class _List, class... _Types, size_t _Idx>
+struct _Meta_at_<_List<_Types...>, _Idx, enable_if_t<(_Idx < sizeof...(_Types))>> {
+    using type =
+        typename decltype(_Meta_repeat_n_c<_Idx, void*, _Meta_at_impl>::_Eval(_Type_as_pointer<_Types>()...))::type;
+};
+#line 198 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\variant"
+
+
+inline constexpr auto _Meta_npos = ~size_t{0};
+
+template <class _List, class _Ty>
+struct _Meta_find_index_ {
+    using type = integral_constant<size_t, _Meta_npos>;
+};
+template <class _List, class _Ty>
+using _Meta_find_index =
+    
+    typename _Meta_find_index_<_List, _Ty>::type;
+
+constexpr size_t _Meta_find_index_i_(const bool* const _Ptr, const size_t _Count,
+    size_t _Idx = 0) { 
+    for (; _Idx < _Count; ++_Idx) {
+        if (_Ptr[_Idx]) {
+            return _Idx;
+        }
+    }
+
+    return _Meta_npos;
+}
+
+template <template <class...> class _List, class _First, class... _Rest, class _Ty>
+struct _Meta_find_index_<_List<_First, _Rest...>, _Ty> {
+    static constexpr bool _Bools[] = {is_same_v<_First, _Ty>, is_same_v<_Rest, _Ty>...};
+    using type                     = integral_constant<size_t, _Meta_find_index_i_(_Bools, 1 + sizeof...(_Rest))>;
+};
+
+
+template <class _List, class _Ty>
+struct _Meta_find_unique_index_ {
+    using type = integral_constant<size_t, _Meta_npos>;
+};
+template <class _List, class _Ty>
+using _Meta_find_unique_index =
+    
+    typename _Meta_find_unique_index_<_List, _Ty>::type;
+
+constexpr size_t _Meta_find_unique_index_i_2(const bool* const _Ptr, const size_t _Count,
+    const size_t
+        _First) { 
+    return _First != _Meta_npos && _Meta_find_index_i_(_Ptr, _Count, _First + 1) == _Meta_npos ? _First : _Meta_npos;
+}
+
+constexpr size_t _Meta_find_unique_index_i_(const bool* const _Ptr,
+    const size_t _Count) { 
+    return _Meta_find_unique_index_i_2(_Ptr, _Count, _Meta_find_index_i_(_Ptr, _Count));
+}
+
+template <template <class...> class _List, class _First, class... _Rest, class _Ty>
+struct _Meta_find_unique_index_<_List<_First, _Rest...>, _Ty> {
+    using type = integral_constant<size_t,
+        _Meta_find_unique_index_i_(_Meta_find_index_<_List<_First, _Rest...>, _Ty>::_Bools, 1 + sizeof...(_Rest))>;
+};
+
+
+template <class>
+struct _Meta_as_list_;
+template <class _Ty>
+using _Meta_as_list =
+    
+    typename _Meta_as_list_<_Ty>::type;
+
+template <template <class...> class _List, class... _Types>
+struct _Meta_as_list_<_List<_Types...>> { 
+                                          
+    using type = _Meta_list<_Types...>;
+};
+
+template <class _Ty, _Ty... _Idxs>
+struct _Meta_as_list_<integer_sequence<_Ty, _Idxs...>> { 
+                                                         
+    using type = _Meta_list<integral_constant<_Ty, _Idxs>...>;
+};
+
+
+template <class _List>
+struct _Meta_as_integer_sequence_;
+template <class _List>
+using _Meta_as_integer_sequence =
+    
+    typename _Meta_as_integer_sequence_<_List>::type;
+
+template <template <class...> class _List, class _Ty, _Ty... _Idxs>
+struct _Meta_as_integer_sequence_<_List<integral_constant<_Ty, _Idxs>...>> {
+    using type = integer_sequence<_Ty, _Idxs...>;
+};
+
+
+template <class...>
+struct _Meta_concat_;
+template <class... _Types>
+using _Meta_concat =
+    
+    typename _Meta_concat_<_Types...>::type;
+
+template <template <class...> class _List>
+struct _Meta_concat_<_List<>> {
+    using type = _List<>;
+};
+
+template <template <class...> class _List, class... _Items1>
+struct _Meta_concat_<_List<_Items1...>> {
+    using type = _List<_Items1...>;
+};
+
+template <template <class...> class _List, class... _Items1, class... _Items2>
+struct _Meta_concat_<_List<_Items1...>, _List<_Items2...>> {
+    using type = _List<_Items1..., _Items2...>;
+};
+
+template <template <class...> class _List, class... _Items1, class... _Items2, class... _Items3>
+struct _Meta_concat_<_List<_Items1...>, _List<_Items2...>, _List<_Items3...>> {
+    using type = _List<_Items1..., _Items2..., _Items3...>;
+};
+
+template <template <class...> class _List, class... _Items1, class... _Items2, class... _Items3, class... _Rest>
+struct _Meta_concat_<_List<_Items1...>, _List<_Items2...>, _List<_Items3...>, _Rest...> {
+    using type = _Meta_concat<_List<_Items1..., _Items2..., _Items3...>, _Rest...>;
+};
+
+
+template <class _ListOfLists>
+using _Meta_join =
+    
+    _Meta_apply<_Meta_quote<_Meta_concat>, _ListOfLists>;
+
+
+template <class>
+struct _Meta_cartesian_product_;
+template <class _ListOfLists>
+using _Meta_cartesian_product =
+    
+    typename _Meta_cartesian_product_<_ListOfLists>::type;
+
+template <template <class...> class _List>
+struct _Meta_cartesian_product_<_List<>> {
+    using type = _List<>;
+};
+
+template <template <class...> class _List1, template <class...> class _List2, class... _Items>
+struct _Meta_cartesian_product_<_List1<_List2<_Items...>>> {
+    using type = _List1<_List2<_Items>...>;
+};
+
+template <template <class...> class _List1, class... _Items, template <class...> class _List2, class... _Lists>
+struct _Meta_cartesian_product_<_List1<_List2<_Items...>, _Lists...>> {
+    using type = _Meta_join<_List1<_Meta_transform<_Meta_bind_back<_Meta_quote<_Meta_push_front>, _Items>,
+        _Meta_cartesian_product<_List1<_Lists...>>>...>>;
+};
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+template <class... _Types>
+class variant;
+
+
+template <class _Ty>
+struct variant_size; 
+template <class _Ty>
+struct variant_size<const _Ty> : variant_size<_Ty>::type {};
+template <class _Ty>
+struct  variant_size<volatile _Ty> : variant_size<_Ty>::type {};
+template <class _Ty>
+struct  variant_size<const volatile _Ty> : variant_size<_Ty>::type {};
+template <class _Ty>
+inline constexpr size_t variant_size_v = variant_size<_Ty>::value;
+
+template <class... _Types>
+struct variant_size<variant<_Types...>> : integral_constant<size_t, sizeof...(_Types)> {};
+
+template <size_t _Idx, class _Ty>
+struct variant_alternative; 
+template <size_t _Idx, class _Ty>
+using variant_alternative_t = typename variant_alternative<_Idx, _Ty>::type;
+template <size_t _Idx, class _Ty>
+struct variant_alternative<_Idx, const _Ty> {
+    using type = add_const_t<variant_alternative_t<_Idx, _Ty>>;
+};
+template <size_t _Idx, class _Ty>
+struct  variant_alternative<_Idx, volatile _Ty> {
+    using type = add_volatile_t<variant_alternative_t<_Idx, _Ty>>;
+};
+template <size_t _Idx, class _Ty>
+struct  variant_alternative<_Idx, const volatile _Ty> {
+    using type = add_cv_t<variant_alternative_t<_Idx, _Ty>>;
+};
+template <size_t _Idx, class... _Types>
+struct variant_alternative<_Idx, variant<_Types...>> {
+    static_assert(_Idx < sizeof...(_Types), "variant index out of bounds");
+
+
+
+
+    using type = _Meta_at_c<variant<_Types...>, _Idx>;
+#line 418 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\variant"
+};
+
+inline constexpr size_t variant_npos = _Meta_npos;
+
+
+class bad_variant_access
+    : public exception { 
+public:
+    bad_variant_access() noexcept = default;
+
+    [[nodiscard]] virtual const char*  what() const noexcept override {
+        return "bad variant access";
+    }
+
+
+
+
+
+
+#line 438 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\variant"
+};
+
+[[noreturn]] inline void _Throw_bad_variant_access() {
+    throw bad_variant_access{};
+}
+
+template <bool _TrivialDestruction, class... _Types>
+class _Variant_storage_ {}; 
+
+
+template <class... _Types>
+using _Variant_storage = _Variant_storage_<conjunction_v<is_trivially_destructible<_Types>...>, _Types...>;
+
+template <class _First, class... _Rest>
+class _Variant_storage_<true, _First, _Rest...> { 
+public:
+    static constexpr size_t _Size = 1 + sizeof...(_Rest);
+    union {
+        remove_const_t<_First> _Head;
+        _Variant_storage<_Rest...> _Tail;
+    };
+
+    _Variant_storage_() noexcept {} 
+
+    template <class... _Types>
+    constexpr explicit _Variant_storage_(integral_constant<size_t, 0>, _Types&&... _Args) noexcept(
+        is_nothrow_constructible_v<_First, _Types...>)
+        : _Head(static_cast<_Types&&>(_Args)...) {} 
+
+    template <size_t _Idx, class... _Types, enable_if_t<(_Idx > 0), int> = 0>
+    constexpr explicit _Variant_storage_(integral_constant<size_t, _Idx>, _Types&&... _Args) noexcept(
+        is_nothrow_constructible_v<_Variant_storage<_Rest...>, integral_constant<size_t, _Idx - 1>, _Types...>)
+        : _Tail(integral_constant<size_t, _Idx - 1>{}, static_cast<_Types&&>(_Args)...) {} 
+
+    [[nodiscard]] constexpr _First& _Get() & noexcept {
+        return _Head;
+    }
+    [[nodiscard]] constexpr const _First& _Get() const& noexcept {
+        return _Head;
+    }
+    [[nodiscard]] constexpr _First&& _Get() && noexcept {
+        return ::std:: move(_Head);
+    }
+    [[nodiscard]] constexpr const _First&& _Get() const&& noexcept {
+        return ::std:: move(_Head);
+    }
+};
+
+template <class _First, class... _Rest>
+class _Variant_storage_<false, _First, _Rest...> { 
+public:
+    static constexpr size_t _Size = 1 + sizeof...(_Rest);
+    union {
+        remove_const_t<_First> _Head;
+        _Variant_storage<_Rest...> _Tail;
+    };
+
+    ~_Variant_storage_() noexcept { 
+                                    
+    }
+
+    _Variant_storage_() noexcept {} 
+
+    template <class... _Types>
+    constexpr explicit _Variant_storage_(integral_constant<size_t, 0>, _Types&&... _Args) noexcept(
+        is_nothrow_constructible_v<_First, _Types...>)
+        : _Head(static_cast<_Types&&>(_Args)...) {} 
+
+    template <size_t _Idx, class... _Types, enable_if_t<(_Idx > 0), int> = 0>
+    constexpr explicit _Variant_storage_(integral_constant<size_t, _Idx>, _Types&&... _Args) noexcept(
+        is_nothrow_constructible_v<_Variant_storage<_Rest...>, integral_constant<size_t, _Idx - 1>, _Types...>)
+        : _Tail(integral_constant<size_t, _Idx - 1>{}, static_cast<_Types&&>(_Args)...) {} 
+
+    _Variant_storage_(_Variant_storage_&&)      = default;
+    _Variant_storage_(const _Variant_storage_&) = default;
+    _Variant_storage_& operator=(_Variant_storage_&&) = default;
+    _Variant_storage_& operator=(const _Variant_storage_&) = default;
+
+    [[nodiscard]] constexpr _First& _Get() & noexcept {
+        return _Head;
+    }
+    [[nodiscard]] constexpr const _First& _Get() const& noexcept {
+        return _Head;
+    }
+    [[nodiscard]] constexpr _First&& _Get() && noexcept {
+        return ::std:: move(_Head);
+    }
+    [[nodiscard]] constexpr const _First&& _Get() const&& noexcept {
+        return ::std:: move(_Head);
+    }
+};
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+template <size_t _Idx, class _Storage>
+[[nodiscard]] constexpr decltype(auto) _Variant_raw_get(
+    _Storage&& _Obj) noexcept { 
+    if constexpr (_Idx == 0) {
+        return static_cast<_Storage&&>(_Obj)._Get();
+    } else if constexpr (_Idx == 1) {
+        return static_cast<_Storage&&>(_Obj)._Tail._Get();
+    } else if constexpr (_Idx == 2) {
+        return static_cast<_Storage&&>(_Obj)._Tail._Tail._Get();
+    } else if constexpr (_Idx == 3) {
+        return static_cast<_Storage&&>(_Obj)._Tail._Tail._Tail._Get();
+    } else if constexpr (_Idx == 4) {
+        return static_cast<_Storage&&>(_Obj)._Tail._Tail._Tail._Tail._Get();
+    } else if constexpr (_Idx == 5) {
+        return static_cast<_Storage&&>(_Obj)._Tail._Tail._Tail._Tail._Tail._Get();
+    } else if constexpr (_Idx == 6) {
+        return static_cast<_Storage&&>(_Obj)._Tail._Tail._Tail._Tail._Tail._Tail._Get();
+    } else if constexpr (_Idx == 7) {
+        return static_cast<_Storage&&>(_Obj)._Tail._Tail._Tail._Tail._Tail._Tail._Tail._Get();
+    } else if constexpr (_Idx < 16) {
+        return _Variant_raw_get<_Idx - 8>(
+            static_cast<_Storage&&>(_Obj)._Tail._Tail._Tail._Tail._Tail._Tail._Tail._Tail);
+    } else if constexpr (_Idx < 32) {
+        return _Variant_raw_get<_Idx - 16>(
+            static_cast<_Storage&&>(_Obj)
+                ._Tail._Tail._Tail._Tail._Tail._Tail._Tail._Tail._Tail._Tail._Tail._Tail._Tail._Tail._Tail._Tail);
+    } else if constexpr (_Idx < 64) {
+        return _Variant_raw_get<_Idx - 32>(
+            static_cast<_Storage&&>(_Obj)
+                ._Tail._Tail._Tail._Tail._Tail._Tail._Tail._Tail._Tail._Tail._Tail._Tail._Tail._Tail._Tail._Tail._Tail
+                ._Tail._Tail._Tail._Tail._Tail._Tail._Tail._Tail._Tail._Tail._Tail._Tail._Tail._Tail._Tail);
+    } else { 
+        return _Variant_raw_get<_Idx - 64>(
+            static_cast<_Storage&&>(_Obj)
+                ._Tail._Tail._Tail._Tail._Tail._Tail._Tail._Tail._Tail._Tail._Tail._Tail._Tail._Tail._Tail._Tail._Tail
+                ._Tail._Tail._Tail._Tail._Tail._Tail._Tail._Tail._Tail._Tail._Tail._Tail._Tail._Tail._Tail._Tail._Tail
+                ._Tail._Tail._Tail._Tail._Tail._Tail._Tail._Tail._Tail._Tail._Tail._Tail._Tail._Tail._Tail._Tail._Tail
+                ._Tail._Tail._Tail._Tail._Tail._Tail._Tail._Tail._Tail._Tail._Tail._Tail._Tail);
+    }
+}
+
+template <class _Ty, size_t _Tag>
+struct _Tagged { 
+    static constexpr size_t _Idx = _Tag;
+    _Ty _Val;
+};
+
+template <class _Storage, size_t _Idx>
+using _Variant_tagged_ref_t = _Tagged<decltype(_Variant_raw_get<_Idx>(::std:: declval<_Storage>()))&&, _Idx>;
+
+template <class _Fn, class _Storage>
+using _Variant_raw_visit_t = decltype(::std:: declval<_Fn>()(::std:: declval<_Variant_tagged_ref_t<_Storage, 0>>()));
+
+template <size_t _Idx, class _Fn, class _Storage>
+[[nodiscard]] constexpr _Variant_raw_visit_t<_Fn, _Storage> _Variant_raw_visit_dispatch(
+    _Fn&& _Func, _Storage&& _Var) noexcept(is_nothrow_invocable_v<_Fn, _Variant_tagged_ref_t<_Storage, _Idx>>) {
+    
+    return static_cast<_Fn&&>(_Func)(
+        _Variant_tagged_ref_t<_Storage, _Idx>{_Variant_raw_get<_Idx>(static_cast<_Storage&&>(_Var))});
+}
+
+template <class _Fn, class _Storage>
+[[nodiscard]] constexpr _Variant_raw_visit_t<_Fn, _Storage> _Variant_raw_visit_valueless(
+    _Fn&& _Func, _Storage&& _Obj) noexcept(is_nothrow_invocable_v<_Fn, _Tagged<_Storage&&, variant_npos>>) {
+    
+    return static_cast<_Fn&&>(_Func)(_Tagged<_Storage&&, variant_npos>{static_cast<_Storage&&>(_Obj)});
+}
+
+template <class _Fn, class _Storage, class _Indices = make_index_sequence<remove_reference_t<_Storage>::_Size>>
+inline constexpr bool _Variant_raw_visit_noexcept = false;
+
+template <class _Fn, class _Storage, size_t... _Idxs>
+inline constexpr bool _Variant_raw_visit_noexcept<_Fn, _Storage, index_sequence<_Idxs...>> =
+    conjunction_v<is_nothrow_invocable<_Fn, _Tagged<_Storage&&, variant_npos>>,
+        is_nothrow_invocable<_Fn, _Variant_tagged_ref_t<_Storage, _Idxs>>...>;
+
+template <class _Fn, class _Storage,
+    class _Indices = make_index_sequence<remove_reference_t<_Storage>::_Size>>
+struct _Variant_raw_dispatch_table1; 
+
+template <class _Fn, class _Storage, size_t... _Idxs>
+struct _Variant_raw_dispatch_table1<_Fn, _Storage,
+    index_sequence<_Idxs...>> { 
+    using _Dispatch_t = _Variant_raw_visit_t<_Fn, _Storage> (*)(_Fn&&, _Storage&&) noexcept(
+        _Variant_raw_visit_noexcept<_Fn, _Storage>);
+    static constexpr _Dispatch_t _Array[] = {
+        &_Variant_raw_visit_valueless<_Fn, _Storage>, &_Variant_raw_visit_dispatch<_Idxs, _Fn, _Storage>...};
+};
+
+template <int _Strategy>
+struct _Variant_raw_visit1;
+
+template <>
+struct _Variant_raw_visit1<-1> { 
+    template <class _Fn, class _Storage>
+    [[nodiscard]] static constexpr _Variant_raw_visit_t<_Fn, _Storage> _Visit(
+        size_t _Idx, _Fn&& _Func, _Storage&& _Obj) noexcept(_Variant_raw_visit_noexcept<_Fn, _Storage>) {
+        
+        constexpr size_t _Size = remove_reference_t<_Storage>::_Size;
+        static_assert(_Size > 256);
+        constexpr auto& _Array = _Variant_raw_dispatch_table1<_Fn, _Storage>::_Array;
+        return _Array[_Idx](static_cast<_Fn&&>(_Func), static_cast<_Storage&&>(_Obj));
+    }
+};
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+template <>
+struct _Variant_raw_visit1<1> {
+    template <class _Fn, class _Storage>
+    [[nodiscard]] static constexpr _Variant_raw_visit_t<_Fn, _Storage> _Visit(
+        size_t _Idx, _Fn&& _Func, _Storage&& _Obj) noexcept(_Variant_raw_visit_noexcept<_Fn, _Storage>) {
+        
+        constexpr size_t _Size = remove_reference_t<_Storage>::_Size; static_assert(((4) == 4 || _Size > (4) / 4) && _Size <= (4)); switch (_Idx) { case 0: return static_cast<_Fn&&>(_Func)(_Tagged<_Storage&&, variant_npos>{static_cast<_Storage&&>(_Obj)}); case (0) + 1: if constexpr ((0) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0)>{_Variant_raw_get<(0)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 1) + 1: if constexpr ((0 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 1)>{_Variant_raw_get<(0 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 2) + 1: if constexpr ((0 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 2)>{_Variant_raw_get<(0 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 3) + 1: if constexpr ((0 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 3)>{_Variant_raw_get<(0 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); default: __assume(false); };
+    }
+};
+
+template <>
+struct _Variant_raw_visit1<2> {
+    template <class _Fn, class _Storage>
+    [[nodiscard]] static constexpr _Variant_raw_visit_t<_Fn, _Storage> _Visit(
+        size_t _Idx, _Fn&& _Func, _Storage&& _Obj) noexcept(_Variant_raw_visit_noexcept<_Fn, _Storage>) {
+        
+        constexpr size_t _Size = remove_reference_t<_Storage>::_Size; static_assert(((16) == 4 || _Size > (16) / 4) && _Size <= (16)); switch (_Idx) { case 0: return static_cast<_Fn&&>(_Func)(_Tagged<_Storage&&, variant_npos>{static_cast<_Storage&&>(_Obj)}); case (0) + 1: if constexpr ((0) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0)>{_Variant_raw_get<(0)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 1) + 1: if constexpr ((0 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 1)>{_Variant_raw_get<(0 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 2) + 1: if constexpr ((0 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 2)>{_Variant_raw_get<(0 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 3) + 1: if constexpr ((0 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 3)>{_Variant_raw_get<(0 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 4) + 1: if constexpr ((0 + 4) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 4)>{_Variant_raw_get<(0 + 4)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 4 + 1) + 1: if constexpr ((0 + 4 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 4 + 1)>{_Variant_raw_get<(0 + 4 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 4 + 2) + 1: if constexpr ((0 + 4 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 4 + 2)>{_Variant_raw_get<(0 + 4 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 4 + 3) + 1: if constexpr ((0 + 4 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 4 + 3)>{_Variant_raw_get<(0 + 4 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 8) + 1: if constexpr ((0 + 8) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 8)>{_Variant_raw_get<(0 + 8)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 8 + 1) + 1: if constexpr ((0 + 8 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 8 + 1)>{_Variant_raw_get<(0 + 8 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 8 + 2) + 1: if constexpr ((0 + 8 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 8 + 2)>{_Variant_raw_get<(0 + 8 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 8 + 3) + 1: if constexpr ((0 + 8 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 8 + 3)>{_Variant_raw_get<(0 + 8 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 12) + 1: if constexpr ((0 + 12) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 12)>{_Variant_raw_get<(0 + 12)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 12 + 1) + 1: if constexpr ((0 + 12 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 12 + 1)>{_Variant_raw_get<(0 + 12 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 12 + 2) + 1: if constexpr ((0 + 12 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 12 + 2)>{_Variant_raw_get<(0 + 12 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 12 + 3) + 1: if constexpr ((0 + 12 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 12 + 3)>{_Variant_raw_get<(0 + 12 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); default: __assume(false); };
+    }
+};
+
+template <>
+struct _Variant_raw_visit1<3> {
+    template <class _Fn, class _Storage>
+    [[nodiscard]] static constexpr _Variant_raw_visit_t<_Fn, _Storage> _Visit(
+        size_t _Idx, _Fn&& _Func, _Storage&& _Obj) noexcept(_Variant_raw_visit_noexcept<_Fn, _Storage>) {
+        
+        constexpr size_t _Size = remove_reference_t<_Storage>::_Size; static_assert(((64) == 4 || _Size > (64) / 4) && _Size <= (64)); switch (_Idx) { case 0: return static_cast<_Fn&&>(_Func)(_Tagged<_Storage&&, variant_npos>{static_cast<_Storage&&>(_Obj)}); case (0) + 1: if constexpr ((0) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0)>{_Variant_raw_get<(0)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 1) + 1: if constexpr ((0 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 1)>{_Variant_raw_get<(0 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 2) + 1: if constexpr ((0 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 2)>{_Variant_raw_get<(0 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 3) + 1: if constexpr ((0 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 3)>{_Variant_raw_get<(0 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 4) + 1: if constexpr ((0 + 4) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 4)>{_Variant_raw_get<(0 + 4)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 4 + 1) + 1: if constexpr ((0 + 4 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 4 + 1)>{_Variant_raw_get<(0 + 4 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 4 + 2) + 1: if constexpr ((0 + 4 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 4 + 2)>{_Variant_raw_get<(0 + 4 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 4 + 3) + 1: if constexpr ((0 + 4 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 4 + 3)>{_Variant_raw_get<(0 + 4 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 8) + 1: if constexpr ((0 + 8) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 8)>{_Variant_raw_get<(0 + 8)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 8 + 1) + 1: if constexpr ((0 + 8 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 8 + 1)>{_Variant_raw_get<(0 + 8 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 8 + 2) + 1: if constexpr ((0 + 8 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 8 + 2)>{_Variant_raw_get<(0 + 8 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 8 + 3) + 1: if constexpr ((0 + 8 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 8 + 3)>{_Variant_raw_get<(0 + 8 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 12) + 1: if constexpr ((0 + 12) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 12)>{_Variant_raw_get<(0 + 12)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 12 + 1) + 1: if constexpr ((0 + 12 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 12 + 1)>{_Variant_raw_get<(0 + 12 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 12 + 2) + 1: if constexpr ((0 + 12 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 12 + 2)>{_Variant_raw_get<(0 + 12 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 12 + 3) + 1: if constexpr ((0 + 12 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 12 + 3)>{_Variant_raw_get<(0 + 12 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 16) + 1: if constexpr ((0 + 16) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 16)>{_Variant_raw_get<(0 + 16)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 16 + 1) + 1: if constexpr ((0 + 16 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 16 + 1)>{_Variant_raw_get<(0 + 16 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 16 + 2) + 1: if constexpr ((0 + 16 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 16 + 2)>{_Variant_raw_get<(0 + 16 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 16 + 3) + 1: if constexpr ((0 + 16 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 16 + 3)>{_Variant_raw_get<(0 + 16 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 16 + 4) + 1: if constexpr ((0 + 16 + 4) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 16 + 4)>{_Variant_raw_get<(0 + 16 + 4)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 16 + 4 + 1) + 1: if constexpr ((0 + 16 + 4 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 16 + 4 + 1)>{_Variant_raw_get<(0 + 16 + 4 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 16 + 4 + 2) + 1: if constexpr ((0 + 16 + 4 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 16 + 4 + 2)>{_Variant_raw_get<(0 + 16 + 4 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 16 + 4 + 3) + 1: if constexpr ((0 + 16 + 4 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 16 + 4 + 3)>{_Variant_raw_get<(0 + 16 + 4 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 16 + 8) + 1: if constexpr ((0 + 16 + 8) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 16 + 8)>{_Variant_raw_get<(0 + 16 + 8)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 16 + 8 + 1) + 1: if constexpr ((0 + 16 + 8 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 16 + 8 + 1)>{_Variant_raw_get<(0 + 16 + 8 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 16 + 8 + 2) + 1: if constexpr ((0 + 16 + 8 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 16 + 8 + 2)>{_Variant_raw_get<(0 + 16 + 8 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 16 + 8 + 3) + 1: if constexpr ((0 + 16 + 8 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 16 + 8 + 3)>{_Variant_raw_get<(0 + 16 + 8 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 16 + 12) + 1: if constexpr ((0 + 16 + 12) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 16 + 12)>{_Variant_raw_get<(0 + 16 + 12)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 16 + 12 + 1) + 1: if constexpr ((0 + 16 + 12 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 16 + 12 + 1)>{_Variant_raw_get<(0 + 16 + 12 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 16 + 12 + 2) + 1: if constexpr ((0 + 16 + 12 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 16 + 12 + 2)>{_Variant_raw_get<(0 + 16 + 12 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 16 + 12 + 3) + 1: if constexpr ((0 + 16 + 12 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 16 + 12 + 3)>{_Variant_raw_get<(0 + 16 + 12 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 32) + 1: if constexpr ((0 + 32) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 32)>{_Variant_raw_get<(0 + 32)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 32 + 1) + 1: if constexpr ((0 + 32 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 32 + 1)>{_Variant_raw_get<(0 + 32 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 32 + 2) + 1: if constexpr ((0 + 32 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 32 + 2)>{_Variant_raw_get<(0 + 32 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 32 + 3) + 1: if constexpr ((0 + 32 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 32 + 3)>{_Variant_raw_get<(0 + 32 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 32 + 4) + 1: if constexpr ((0 + 32 + 4) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 32 + 4)>{_Variant_raw_get<(0 + 32 + 4)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 32 + 4 + 1) + 1: if constexpr ((0 + 32 + 4 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 32 + 4 + 1)>{_Variant_raw_get<(0 + 32 + 4 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 32 + 4 + 2) + 1: if constexpr ((0 + 32 + 4 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 32 + 4 + 2)>{_Variant_raw_get<(0 + 32 + 4 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 32 + 4 + 3) + 1: if constexpr ((0 + 32 + 4 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 32 + 4 + 3)>{_Variant_raw_get<(0 + 32 + 4 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 32 + 8) + 1: if constexpr ((0 + 32 + 8) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 32 + 8)>{_Variant_raw_get<(0 + 32 + 8)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 32 + 8 + 1) + 1: if constexpr ((0 + 32 + 8 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 32 + 8 + 1)>{_Variant_raw_get<(0 + 32 + 8 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 32 + 8 + 2) + 1: if constexpr ((0 + 32 + 8 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 32 + 8 + 2)>{_Variant_raw_get<(0 + 32 + 8 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 32 + 8 + 3) + 1: if constexpr ((0 + 32 + 8 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 32 + 8 + 3)>{_Variant_raw_get<(0 + 32 + 8 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 32 + 12) + 1: if constexpr ((0 + 32 + 12) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 32 + 12)>{_Variant_raw_get<(0 + 32 + 12)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 32 + 12 + 1) + 1: if constexpr ((0 + 32 + 12 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 32 + 12 + 1)>{_Variant_raw_get<(0 + 32 + 12 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 32 + 12 + 2) + 1: if constexpr ((0 + 32 + 12 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 32 + 12 + 2)>{_Variant_raw_get<(0 + 32 + 12 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 32 + 12 + 3) + 1: if constexpr ((0 + 32 + 12 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 32 + 12 + 3)>{_Variant_raw_get<(0 + 32 + 12 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 48) + 1: if constexpr ((0 + 48) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 48)>{_Variant_raw_get<(0 + 48)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 48 + 1) + 1: if constexpr ((0 + 48 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 48 + 1)>{_Variant_raw_get<(0 + 48 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 48 + 2) + 1: if constexpr ((0 + 48 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 48 + 2)>{_Variant_raw_get<(0 + 48 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 48 + 3) + 1: if constexpr ((0 + 48 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 48 + 3)>{_Variant_raw_get<(0 + 48 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 48 + 4) + 1: if constexpr ((0 + 48 + 4) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 48 + 4)>{_Variant_raw_get<(0 + 48 + 4)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 48 + 4 + 1) + 1: if constexpr ((0 + 48 + 4 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 48 + 4 + 1)>{_Variant_raw_get<(0 + 48 + 4 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 48 + 4 + 2) + 1: if constexpr ((0 + 48 + 4 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 48 + 4 + 2)>{_Variant_raw_get<(0 + 48 + 4 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 48 + 4 + 3) + 1: if constexpr ((0 + 48 + 4 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 48 + 4 + 3)>{_Variant_raw_get<(0 + 48 + 4 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 48 + 8) + 1: if constexpr ((0 + 48 + 8) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 48 + 8)>{_Variant_raw_get<(0 + 48 + 8)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 48 + 8 + 1) + 1: if constexpr ((0 + 48 + 8 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 48 + 8 + 1)>{_Variant_raw_get<(0 + 48 + 8 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 48 + 8 + 2) + 1: if constexpr ((0 + 48 + 8 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 48 + 8 + 2)>{_Variant_raw_get<(0 + 48 + 8 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 48 + 8 + 3) + 1: if constexpr ((0 + 48 + 8 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 48 + 8 + 3)>{_Variant_raw_get<(0 + 48 + 8 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 48 + 12) + 1: if constexpr ((0 + 48 + 12) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 48 + 12)>{_Variant_raw_get<(0 + 48 + 12)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 48 + 12 + 1) + 1: if constexpr ((0 + 48 + 12 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 48 + 12 + 1)>{_Variant_raw_get<(0 + 48 + 12 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 48 + 12 + 2) + 1: if constexpr ((0 + 48 + 12 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 48 + 12 + 2)>{_Variant_raw_get<(0 + 48 + 12 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 48 + 12 + 3) + 1: if constexpr ((0 + 48 + 12 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 48 + 12 + 3)>{_Variant_raw_get<(0 + 48 + 12 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); default: __assume(false); };
+    }
+};
+
+template <>
+struct _Variant_raw_visit1<4> {
+    template <class _Fn, class _Storage>
+    [[nodiscard]] static constexpr _Variant_raw_visit_t<_Fn, _Storage> _Visit(
+        size_t _Idx, _Fn&& _Func, _Storage&& _Obj) noexcept(_Variant_raw_visit_noexcept<_Fn, _Storage>) {
+        
+        constexpr size_t _Size = remove_reference_t<_Storage>::_Size; static_assert(((256) == 4 || _Size > (256) / 4) && _Size <= (256)); switch (_Idx) { case 0: return static_cast<_Fn&&>(_Func)(_Tagged<_Storage&&, variant_npos>{static_cast<_Storage&&>(_Obj)}); case (0) + 1: if constexpr ((0) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0)>{_Variant_raw_get<(0)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 1) + 1: if constexpr ((0 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 1)>{_Variant_raw_get<(0 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 2) + 1: if constexpr ((0 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 2)>{_Variant_raw_get<(0 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 3) + 1: if constexpr ((0 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 3)>{_Variant_raw_get<(0 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 4) + 1: if constexpr ((0 + 4) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 4)>{_Variant_raw_get<(0 + 4)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 4 + 1) + 1: if constexpr ((0 + 4 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 4 + 1)>{_Variant_raw_get<(0 + 4 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 4 + 2) + 1: if constexpr ((0 + 4 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 4 + 2)>{_Variant_raw_get<(0 + 4 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 4 + 3) + 1: if constexpr ((0 + 4 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 4 + 3)>{_Variant_raw_get<(0 + 4 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 8) + 1: if constexpr ((0 + 8) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 8)>{_Variant_raw_get<(0 + 8)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 8 + 1) + 1: if constexpr ((0 + 8 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 8 + 1)>{_Variant_raw_get<(0 + 8 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 8 + 2) + 1: if constexpr ((0 + 8 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 8 + 2)>{_Variant_raw_get<(0 + 8 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 8 + 3) + 1: if constexpr ((0 + 8 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 8 + 3)>{_Variant_raw_get<(0 + 8 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 12) + 1: if constexpr ((0 + 12) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 12)>{_Variant_raw_get<(0 + 12)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 12 + 1) + 1: if constexpr ((0 + 12 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 12 + 1)>{_Variant_raw_get<(0 + 12 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 12 + 2) + 1: if constexpr ((0 + 12 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 12 + 2)>{_Variant_raw_get<(0 + 12 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 12 + 3) + 1: if constexpr ((0 + 12 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 12 + 3)>{_Variant_raw_get<(0 + 12 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 16) + 1: if constexpr ((0 + 16) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 16)>{_Variant_raw_get<(0 + 16)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 16 + 1) + 1: if constexpr ((0 + 16 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 16 + 1)>{_Variant_raw_get<(0 + 16 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 16 + 2) + 1: if constexpr ((0 + 16 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 16 + 2)>{_Variant_raw_get<(0 + 16 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 16 + 3) + 1: if constexpr ((0 + 16 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 16 + 3)>{_Variant_raw_get<(0 + 16 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 16 + 4) + 1: if constexpr ((0 + 16 + 4) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 16 + 4)>{_Variant_raw_get<(0 + 16 + 4)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 16 + 4 + 1) + 1: if constexpr ((0 + 16 + 4 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 16 + 4 + 1)>{_Variant_raw_get<(0 + 16 + 4 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 16 + 4 + 2) + 1: if constexpr ((0 + 16 + 4 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 16 + 4 + 2)>{_Variant_raw_get<(0 + 16 + 4 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 16 + 4 + 3) + 1: if constexpr ((0 + 16 + 4 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 16 + 4 + 3)>{_Variant_raw_get<(0 + 16 + 4 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 16 + 8) + 1: if constexpr ((0 + 16 + 8) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 16 + 8)>{_Variant_raw_get<(0 + 16 + 8)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 16 + 8 + 1) + 1: if constexpr ((0 + 16 + 8 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 16 + 8 + 1)>{_Variant_raw_get<(0 + 16 + 8 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 16 + 8 + 2) + 1: if constexpr ((0 + 16 + 8 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 16 + 8 + 2)>{_Variant_raw_get<(0 + 16 + 8 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 16 + 8 + 3) + 1: if constexpr ((0 + 16 + 8 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 16 + 8 + 3)>{_Variant_raw_get<(0 + 16 + 8 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 16 + 12) + 1: if constexpr ((0 + 16 + 12) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 16 + 12)>{_Variant_raw_get<(0 + 16 + 12)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 16 + 12 + 1) + 1: if constexpr ((0 + 16 + 12 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 16 + 12 + 1)>{_Variant_raw_get<(0 + 16 + 12 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 16 + 12 + 2) + 1: if constexpr ((0 + 16 + 12 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 16 + 12 + 2)>{_Variant_raw_get<(0 + 16 + 12 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 16 + 12 + 3) + 1: if constexpr ((0 + 16 + 12 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 16 + 12 + 3)>{_Variant_raw_get<(0 + 16 + 12 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 32) + 1: if constexpr ((0 + 32) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 32)>{_Variant_raw_get<(0 + 32)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 32 + 1) + 1: if constexpr ((0 + 32 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 32 + 1)>{_Variant_raw_get<(0 + 32 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 32 + 2) + 1: if constexpr ((0 + 32 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 32 + 2)>{_Variant_raw_get<(0 + 32 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 32 + 3) + 1: if constexpr ((0 + 32 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 32 + 3)>{_Variant_raw_get<(0 + 32 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 32 + 4) + 1: if constexpr ((0 + 32 + 4) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 32 + 4)>{_Variant_raw_get<(0 + 32 + 4)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 32 + 4 + 1) + 1: if constexpr ((0 + 32 + 4 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 32 + 4 + 1)>{_Variant_raw_get<(0 + 32 + 4 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 32 + 4 + 2) + 1: if constexpr ((0 + 32 + 4 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 32 + 4 + 2)>{_Variant_raw_get<(0 + 32 + 4 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 32 + 4 + 3) + 1: if constexpr ((0 + 32 + 4 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 32 + 4 + 3)>{_Variant_raw_get<(0 + 32 + 4 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 32 + 8) + 1: if constexpr ((0 + 32 + 8) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 32 + 8)>{_Variant_raw_get<(0 + 32 + 8)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 32 + 8 + 1) + 1: if constexpr ((0 + 32 + 8 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 32 + 8 + 1)>{_Variant_raw_get<(0 + 32 + 8 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 32 + 8 + 2) + 1: if constexpr ((0 + 32 + 8 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 32 + 8 + 2)>{_Variant_raw_get<(0 + 32 + 8 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 32 + 8 + 3) + 1: if constexpr ((0 + 32 + 8 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 32 + 8 + 3)>{_Variant_raw_get<(0 + 32 + 8 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 32 + 12) + 1: if constexpr ((0 + 32 + 12) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 32 + 12)>{_Variant_raw_get<(0 + 32 + 12)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 32 + 12 + 1) + 1: if constexpr ((0 + 32 + 12 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 32 + 12 + 1)>{_Variant_raw_get<(0 + 32 + 12 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 32 + 12 + 2) + 1: if constexpr ((0 + 32 + 12 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 32 + 12 + 2)>{_Variant_raw_get<(0 + 32 + 12 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 32 + 12 + 3) + 1: if constexpr ((0 + 32 + 12 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 32 + 12 + 3)>{_Variant_raw_get<(0 + 32 + 12 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 48) + 1: if constexpr ((0 + 48) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 48)>{_Variant_raw_get<(0 + 48)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 48 + 1) + 1: if constexpr ((0 + 48 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 48 + 1)>{_Variant_raw_get<(0 + 48 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 48 + 2) + 1: if constexpr ((0 + 48 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 48 + 2)>{_Variant_raw_get<(0 + 48 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 48 + 3) + 1: if constexpr ((0 + 48 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 48 + 3)>{_Variant_raw_get<(0 + 48 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 48 + 4) + 1: if constexpr ((0 + 48 + 4) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 48 + 4)>{_Variant_raw_get<(0 + 48 + 4)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 48 + 4 + 1) + 1: if constexpr ((0 + 48 + 4 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 48 + 4 + 1)>{_Variant_raw_get<(0 + 48 + 4 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 48 + 4 + 2) + 1: if constexpr ((0 + 48 + 4 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 48 + 4 + 2)>{_Variant_raw_get<(0 + 48 + 4 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 48 + 4 + 3) + 1: if constexpr ((0 + 48 + 4 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 48 + 4 + 3)>{_Variant_raw_get<(0 + 48 + 4 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 48 + 8) + 1: if constexpr ((0 + 48 + 8) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 48 + 8)>{_Variant_raw_get<(0 + 48 + 8)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 48 + 8 + 1) + 1: if constexpr ((0 + 48 + 8 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 48 + 8 + 1)>{_Variant_raw_get<(0 + 48 + 8 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 48 + 8 + 2) + 1: if constexpr ((0 + 48 + 8 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 48 + 8 + 2)>{_Variant_raw_get<(0 + 48 + 8 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 48 + 8 + 3) + 1: if constexpr ((0 + 48 + 8 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 48 + 8 + 3)>{_Variant_raw_get<(0 + 48 + 8 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 48 + 12) + 1: if constexpr ((0 + 48 + 12) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 48 + 12)>{_Variant_raw_get<(0 + 48 + 12)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 48 + 12 + 1) + 1: if constexpr ((0 + 48 + 12 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 48 + 12 + 1)>{_Variant_raw_get<(0 + 48 + 12 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 48 + 12 + 2) + 1: if constexpr ((0 + 48 + 12 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 48 + 12 + 2)>{_Variant_raw_get<(0 + 48 + 12 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 48 + 12 + 3) + 1: if constexpr ((0 + 48 + 12 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 48 + 12 + 3)>{_Variant_raw_get<(0 + 48 + 12 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 64) + 1: if constexpr ((0 + 64) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 64)>{_Variant_raw_get<(0 + 64)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 64 + 1) + 1: if constexpr ((0 + 64 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 64 + 1)>{_Variant_raw_get<(0 + 64 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 64 + 2) + 1: if constexpr ((0 + 64 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 64 + 2)>{_Variant_raw_get<(0 + 64 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 64 + 3) + 1: if constexpr ((0 + 64 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 64 + 3)>{_Variant_raw_get<(0 + 64 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 64 + 4) + 1: if constexpr ((0 + 64 + 4) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 64 + 4)>{_Variant_raw_get<(0 + 64 + 4)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 64 + 4 + 1) + 1: if constexpr ((0 + 64 + 4 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 64 + 4 + 1)>{_Variant_raw_get<(0 + 64 + 4 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 64 + 4 + 2) + 1: if constexpr ((0 + 64 + 4 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 64 + 4 + 2)>{_Variant_raw_get<(0 + 64 + 4 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 64 + 4 + 3) + 1: if constexpr ((0 + 64 + 4 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 64 + 4 + 3)>{_Variant_raw_get<(0 + 64 + 4 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 64 + 8) + 1: if constexpr ((0 + 64 + 8) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 64 + 8)>{_Variant_raw_get<(0 + 64 + 8)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 64 + 8 + 1) + 1: if constexpr ((0 + 64 + 8 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 64 + 8 + 1)>{_Variant_raw_get<(0 + 64 + 8 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 64 + 8 + 2) + 1: if constexpr ((0 + 64 + 8 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 64 + 8 + 2)>{_Variant_raw_get<(0 + 64 + 8 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 64 + 8 + 3) + 1: if constexpr ((0 + 64 + 8 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 64 + 8 + 3)>{_Variant_raw_get<(0 + 64 + 8 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 64 + 12) + 1: if constexpr ((0 + 64 + 12) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 64 + 12)>{_Variant_raw_get<(0 + 64 + 12)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 64 + 12 + 1) + 1: if constexpr ((0 + 64 + 12 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 64 + 12 + 1)>{_Variant_raw_get<(0 + 64 + 12 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 64 + 12 + 2) + 1: if constexpr ((0 + 64 + 12 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 64 + 12 + 2)>{_Variant_raw_get<(0 + 64 + 12 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 64 + 12 + 3) + 1: if constexpr ((0 + 64 + 12 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 64 + 12 + 3)>{_Variant_raw_get<(0 + 64 + 12 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 64 + 16) + 1: if constexpr ((0 + 64 + 16) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 64 + 16)>{_Variant_raw_get<(0 + 64 + 16)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 64 + 16 + 1) + 1: if constexpr ((0 + 64 + 16 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 64 + 16 + 1)>{_Variant_raw_get<(0 + 64 + 16 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 64 + 16 + 2) + 1: if constexpr ((0 + 64 + 16 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 64 + 16 + 2)>{_Variant_raw_get<(0 + 64 + 16 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 64 + 16 + 3) + 1: if constexpr ((0 + 64 + 16 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 64 + 16 + 3)>{_Variant_raw_get<(0 + 64 + 16 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 64 + 16 + 4) + 1: if constexpr ((0 + 64 + 16 + 4) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 64 + 16 + 4)>{_Variant_raw_get<(0 + 64 + 16 + 4)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 64 + 16 + 4 + 1) + 1: if constexpr ((0 + 64 + 16 + 4 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 64 + 16 + 4 + 1)>{_Variant_raw_get<(0 + 64 + 16 + 4 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 64 + 16 + 4 + 2) + 1: if constexpr ((0 + 64 + 16 + 4 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 64 + 16 + 4 + 2)>{_Variant_raw_get<(0 + 64 + 16 + 4 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 64 + 16 + 4 + 3) + 1: if constexpr ((0 + 64 + 16 + 4 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 64 + 16 + 4 + 3)>{_Variant_raw_get<(0 + 64 + 16 + 4 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 64 + 16 + 8) + 1: if constexpr ((0 + 64 + 16 + 8) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 64 + 16 + 8)>{_Variant_raw_get<(0 + 64 + 16 + 8)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 64 + 16 + 8 + 1) + 1: if constexpr ((0 + 64 + 16 + 8 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 64 + 16 + 8 + 1)>{_Variant_raw_get<(0 + 64 + 16 + 8 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 64 + 16 + 8 + 2) + 1: if constexpr ((0 + 64 + 16 + 8 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 64 + 16 + 8 + 2)>{_Variant_raw_get<(0 + 64 + 16 + 8 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 64 + 16 + 8 + 3) + 1: if constexpr ((0 + 64 + 16 + 8 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 64 + 16 + 8 + 3)>{_Variant_raw_get<(0 + 64 + 16 + 8 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 64 + 16 + 12) + 1: if constexpr ((0 + 64 + 16 + 12) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 64 + 16 + 12)>{_Variant_raw_get<(0 + 64 + 16 + 12)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 64 + 16 + 12 + 1) + 1: if constexpr ((0 + 64 + 16 + 12 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 64 + 16 + 12 + 1)>{_Variant_raw_get<(0 + 64 + 16 + 12 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 64 + 16 + 12 + 2) + 1: if constexpr ((0 + 64 + 16 + 12 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 64 + 16 + 12 + 2)>{_Variant_raw_get<(0 + 64 + 16 + 12 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 64 + 16 + 12 + 3) + 1: if constexpr ((0 + 64 + 16 + 12 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 64 + 16 + 12 + 3)>{_Variant_raw_get<(0 + 64 + 16 + 12 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 64 + 32) + 1: if constexpr ((0 + 64 + 32) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 64 + 32)>{_Variant_raw_get<(0 + 64 + 32)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 64 + 32 + 1) + 1: if constexpr ((0 + 64 + 32 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 64 + 32 + 1)>{_Variant_raw_get<(0 + 64 + 32 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 64 + 32 + 2) + 1: if constexpr ((0 + 64 + 32 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 64 + 32 + 2)>{_Variant_raw_get<(0 + 64 + 32 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 64 + 32 + 3) + 1: if constexpr ((0 + 64 + 32 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 64 + 32 + 3)>{_Variant_raw_get<(0 + 64 + 32 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 64 + 32 + 4) + 1: if constexpr ((0 + 64 + 32 + 4) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 64 + 32 + 4)>{_Variant_raw_get<(0 + 64 + 32 + 4)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 64 + 32 + 4 + 1) + 1: if constexpr ((0 + 64 + 32 + 4 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 64 + 32 + 4 + 1)>{_Variant_raw_get<(0 + 64 + 32 + 4 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 64 + 32 + 4 + 2) + 1: if constexpr ((0 + 64 + 32 + 4 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 64 + 32 + 4 + 2)>{_Variant_raw_get<(0 + 64 + 32 + 4 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 64 + 32 + 4 + 3) + 1: if constexpr ((0 + 64 + 32 + 4 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 64 + 32 + 4 + 3)>{_Variant_raw_get<(0 + 64 + 32 + 4 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 64 + 32 + 8) + 1: if constexpr ((0 + 64 + 32 + 8) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 64 + 32 + 8)>{_Variant_raw_get<(0 + 64 + 32 + 8)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 64 + 32 + 8 + 1) + 1: if constexpr ((0 + 64 + 32 + 8 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 64 + 32 + 8 + 1)>{_Variant_raw_get<(0 + 64 + 32 + 8 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 64 + 32 + 8 + 2) + 1: if constexpr ((0 + 64 + 32 + 8 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 64 + 32 + 8 + 2)>{_Variant_raw_get<(0 + 64 + 32 + 8 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 64 + 32 + 8 + 3) + 1: if constexpr ((0 + 64 + 32 + 8 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 64 + 32 + 8 + 3)>{_Variant_raw_get<(0 + 64 + 32 + 8 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 64 + 32 + 12) + 1: if constexpr ((0 + 64 + 32 + 12) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 64 + 32 + 12)>{_Variant_raw_get<(0 + 64 + 32 + 12)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 64 + 32 + 12 + 1) + 1: if constexpr ((0 + 64 + 32 + 12 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 64 + 32 + 12 + 1)>{_Variant_raw_get<(0 + 64 + 32 + 12 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 64 + 32 + 12 + 2) + 1: if constexpr ((0 + 64 + 32 + 12 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 64 + 32 + 12 + 2)>{_Variant_raw_get<(0 + 64 + 32 + 12 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 64 + 32 + 12 + 3) + 1: if constexpr ((0 + 64 + 32 + 12 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 64 + 32 + 12 + 3)>{_Variant_raw_get<(0 + 64 + 32 + 12 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 64 + 48) + 1: if constexpr ((0 + 64 + 48) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 64 + 48)>{_Variant_raw_get<(0 + 64 + 48)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 64 + 48 + 1) + 1: if constexpr ((0 + 64 + 48 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 64 + 48 + 1)>{_Variant_raw_get<(0 + 64 + 48 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 64 + 48 + 2) + 1: if constexpr ((0 + 64 + 48 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 64 + 48 + 2)>{_Variant_raw_get<(0 + 64 + 48 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 64 + 48 + 3) + 1: if constexpr ((0 + 64 + 48 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 64 + 48 + 3)>{_Variant_raw_get<(0 + 64 + 48 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 64 + 48 + 4) + 1: if constexpr ((0 + 64 + 48 + 4) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 64 + 48 + 4)>{_Variant_raw_get<(0 + 64 + 48 + 4)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 64 + 48 + 4 + 1) + 1: if constexpr ((0 + 64 + 48 + 4 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 64 + 48 + 4 + 1)>{_Variant_raw_get<(0 + 64 + 48 + 4 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 64 + 48 + 4 + 2) + 1: if constexpr ((0 + 64 + 48 + 4 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 64 + 48 + 4 + 2)>{_Variant_raw_get<(0 + 64 + 48 + 4 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 64 + 48 + 4 + 3) + 1: if constexpr ((0 + 64 + 48 + 4 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 64 + 48 + 4 + 3)>{_Variant_raw_get<(0 + 64 + 48 + 4 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 64 + 48 + 8) + 1: if constexpr ((0 + 64 + 48 + 8) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 64 + 48 + 8)>{_Variant_raw_get<(0 + 64 + 48 + 8)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 64 + 48 + 8 + 1) + 1: if constexpr ((0 + 64 + 48 + 8 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 64 + 48 + 8 + 1)>{_Variant_raw_get<(0 + 64 + 48 + 8 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 64 + 48 + 8 + 2) + 1: if constexpr ((0 + 64 + 48 + 8 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 64 + 48 + 8 + 2)>{_Variant_raw_get<(0 + 64 + 48 + 8 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 64 + 48 + 8 + 3) + 1: if constexpr ((0 + 64 + 48 + 8 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 64 + 48 + 8 + 3)>{_Variant_raw_get<(0 + 64 + 48 + 8 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 64 + 48 + 12) + 1: if constexpr ((0 + 64 + 48 + 12) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 64 + 48 + 12)>{_Variant_raw_get<(0 + 64 + 48 + 12)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 64 + 48 + 12 + 1) + 1: if constexpr ((0 + 64 + 48 + 12 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 64 + 48 + 12 + 1)>{_Variant_raw_get<(0 + 64 + 48 + 12 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 64 + 48 + 12 + 2) + 1: if constexpr ((0 + 64 + 48 + 12 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 64 + 48 + 12 + 2)>{_Variant_raw_get<(0 + 64 + 48 + 12 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 64 + 48 + 12 + 3) + 1: if constexpr ((0 + 64 + 48 + 12 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 64 + 48 + 12 + 3)>{_Variant_raw_get<(0 + 64 + 48 + 12 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 128) + 1: if constexpr ((0 + 128) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 128)>{_Variant_raw_get<(0 + 128)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 128 + 1) + 1: if constexpr ((0 + 128 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 128 + 1)>{_Variant_raw_get<(0 + 128 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 128 + 2) + 1: if constexpr ((0 + 128 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 128 + 2)>{_Variant_raw_get<(0 + 128 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 128 + 3) + 1: if constexpr ((0 + 128 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 128 + 3)>{_Variant_raw_get<(0 + 128 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 128 + 4) + 1: if constexpr ((0 + 128 + 4) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 128 + 4)>{_Variant_raw_get<(0 + 128 + 4)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 128 + 4 + 1) + 1: if constexpr ((0 + 128 + 4 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 128 + 4 + 1)>{_Variant_raw_get<(0 + 128 + 4 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 128 + 4 + 2) + 1: if constexpr ((0 + 128 + 4 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 128 + 4 + 2)>{_Variant_raw_get<(0 + 128 + 4 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 128 + 4 + 3) + 1: if constexpr ((0 + 128 + 4 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 128 + 4 + 3)>{_Variant_raw_get<(0 + 128 + 4 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 128 + 8) + 1: if constexpr ((0 + 128 + 8) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 128 + 8)>{_Variant_raw_get<(0 + 128 + 8)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 128 + 8 + 1) + 1: if constexpr ((0 + 128 + 8 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 128 + 8 + 1)>{_Variant_raw_get<(0 + 128 + 8 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 128 + 8 + 2) + 1: if constexpr ((0 + 128 + 8 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 128 + 8 + 2)>{_Variant_raw_get<(0 + 128 + 8 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 128 + 8 + 3) + 1: if constexpr ((0 + 128 + 8 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 128 + 8 + 3)>{_Variant_raw_get<(0 + 128 + 8 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 128 + 12) + 1: if constexpr ((0 + 128 + 12) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 128 + 12)>{_Variant_raw_get<(0 + 128 + 12)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 128 + 12 + 1) + 1: if constexpr ((0 + 128 + 12 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 128 + 12 + 1)>{_Variant_raw_get<(0 + 128 + 12 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 128 + 12 + 2) + 1: if constexpr ((0 + 128 + 12 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 128 + 12 + 2)>{_Variant_raw_get<(0 + 128 + 12 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 128 + 12 + 3) + 1: if constexpr ((0 + 128 + 12 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 128 + 12 + 3)>{_Variant_raw_get<(0 + 128 + 12 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 128 + 16) + 1: if constexpr ((0 + 128 + 16) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 128 + 16)>{_Variant_raw_get<(0 + 128 + 16)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 128 + 16 + 1) + 1: if constexpr ((0 + 128 + 16 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 128 + 16 + 1)>{_Variant_raw_get<(0 + 128 + 16 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 128 + 16 + 2) + 1: if constexpr ((0 + 128 + 16 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 128 + 16 + 2)>{_Variant_raw_get<(0 + 128 + 16 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 128 + 16 + 3) + 1: if constexpr ((0 + 128 + 16 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 128 + 16 + 3)>{_Variant_raw_get<(0 + 128 + 16 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 128 + 16 + 4) + 1: if constexpr ((0 + 128 + 16 + 4) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 128 + 16 + 4)>{_Variant_raw_get<(0 + 128 + 16 + 4)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 128 + 16 + 4 + 1) + 1: if constexpr ((0 + 128 + 16 + 4 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 128 + 16 + 4 + 1)>{_Variant_raw_get<(0 + 128 + 16 + 4 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 128 + 16 + 4 + 2) + 1: if constexpr ((0 + 128 + 16 + 4 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 128 + 16 + 4 + 2)>{_Variant_raw_get<(0 + 128 + 16 + 4 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 128 + 16 + 4 + 3) + 1: if constexpr ((0 + 128 + 16 + 4 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 128 + 16 + 4 + 3)>{_Variant_raw_get<(0 + 128 + 16 + 4 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 128 + 16 + 8) + 1: if constexpr ((0 + 128 + 16 + 8) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 128 + 16 + 8)>{_Variant_raw_get<(0 + 128 + 16 + 8)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 128 + 16 + 8 + 1) + 1: if constexpr ((0 + 128 + 16 + 8 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 128 + 16 + 8 + 1)>{_Variant_raw_get<(0 + 128 + 16 + 8 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 128 + 16 + 8 + 2) + 1: if constexpr ((0 + 128 + 16 + 8 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 128 + 16 + 8 + 2)>{_Variant_raw_get<(0 + 128 + 16 + 8 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 128 + 16 + 8 + 3) + 1: if constexpr ((0 + 128 + 16 + 8 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 128 + 16 + 8 + 3)>{_Variant_raw_get<(0 + 128 + 16 + 8 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 128 + 16 + 12) + 1: if constexpr ((0 + 128 + 16 + 12) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 128 + 16 + 12)>{_Variant_raw_get<(0 + 128 + 16 + 12)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 128 + 16 + 12 + 1) + 1: if constexpr ((0 + 128 + 16 + 12 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 128 + 16 + 12 + 1)>{_Variant_raw_get<(0 + 128 + 16 + 12 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 128 + 16 + 12 + 2) + 1: if constexpr ((0 + 128 + 16 + 12 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 128 + 16 + 12 + 2)>{_Variant_raw_get<(0 + 128 + 16 + 12 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 128 + 16 + 12 + 3) + 1: if constexpr ((0 + 128 + 16 + 12 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 128 + 16 + 12 + 3)>{_Variant_raw_get<(0 + 128 + 16 + 12 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 128 + 32) + 1: if constexpr ((0 + 128 + 32) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 128 + 32)>{_Variant_raw_get<(0 + 128 + 32)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 128 + 32 + 1) + 1: if constexpr ((0 + 128 + 32 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 128 + 32 + 1)>{_Variant_raw_get<(0 + 128 + 32 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 128 + 32 + 2) + 1: if constexpr ((0 + 128 + 32 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 128 + 32 + 2)>{_Variant_raw_get<(0 + 128 + 32 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 128 + 32 + 3) + 1: if constexpr ((0 + 128 + 32 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 128 + 32 + 3)>{_Variant_raw_get<(0 + 128 + 32 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 128 + 32 + 4) + 1: if constexpr ((0 + 128 + 32 + 4) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 128 + 32 + 4)>{_Variant_raw_get<(0 + 128 + 32 + 4)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 128 + 32 + 4 + 1) + 1: if constexpr ((0 + 128 + 32 + 4 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 128 + 32 + 4 + 1)>{_Variant_raw_get<(0 + 128 + 32 + 4 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 128 + 32 + 4 + 2) + 1: if constexpr ((0 + 128 + 32 + 4 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 128 + 32 + 4 + 2)>{_Variant_raw_get<(0 + 128 + 32 + 4 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 128 + 32 + 4 + 3) + 1: if constexpr ((0 + 128 + 32 + 4 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 128 + 32 + 4 + 3)>{_Variant_raw_get<(0 + 128 + 32 + 4 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 128 + 32 + 8) + 1: if constexpr ((0 + 128 + 32 + 8) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 128 + 32 + 8)>{_Variant_raw_get<(0 + 128 + 32 + 8)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 128 + 32 + 8 + 1) + 1: if constexpr ((0 + 128 + 32 + 8 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 128 + 32 + 8 + 1)>{_Variant_raw_get<(0 + 128 + 32 + 8 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 128 + 32 + 8 + 2) + 1: if constexpr ((0 + 128 + 32 + 8 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 128 + 32 + 8 + 2)>{_Variant_raw_get<(0 + 128 + 32 + 8 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 128 + 32 + 8 + 3) + 1: if constexpr ((0 + 128 + 32 + 8 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 128 + 32 + 8 + 3)>{_Variant_raw_get<(0 + 128 + 32 + 8 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 128 + 32 + 12) + 1: if constexpr ((0 + 128 + 32 + 12) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 128 + 32 + 12)>{_Variant_raw_get<(0 + 128 + 32 + 12)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 128 + 32 + 12 + 1) + 1: if constexpr ((0 + 128 + 32 + 12 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 128 + 32 + 12 + 1)>{_Variant_raw_get<(0 + 128 + 32 + 12 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 128 + 32 + 12 + 2) + 1: if constexpr ((0 + 128 + 32 + 12 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 128 + 32 + 12 + 2)>{_Variant_raw_get<(0 + 128 + 32 + 12 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 128 + 32 + 12 + 3) + 1: if constexpr ((0 + 128 + 32 + 12 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 128 + 32 + 12 + 3)>{_Variant_raw_get<(0 + 128 + 32 + 12 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 128 + 48) + 1: if constexpr ((0 + 128 + 48) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 128 + 48)>{_Variant_raw_get<(0 + 128 + 48)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 128 + 48 + 1) + 1: if constexpr ((0 + 128 + 48 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 128 + 48 + 1)>{_Variant_raw_get<(0 + 128 + 48 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 128 + 48 + 2) + 1: if constexpr ((0 + 128 + 48 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 128 + 48 + 2)>{_Variant_raw_get<(0 + 128 + 48 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 128 + 48 + 3) + 1: if constexpr ((0 + 128 + 48 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 128 + 48 + 3)>{_Variant_raw_get<(0 + 128 + 48 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 128 + 48 + 4) + 1: if constexpr ((0 + 128 + 48 + 4) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 128 + 48 + 4)>{_Variant_raw_get<(0 + 128 + 48 + 4)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 128 + 48 + 4 + 1) + 1: if constexpr ((0 + 128 + 48 + 4 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 128 + 48 + 4 + 1)>{_Variant_raw_get<(0 + 128 + 48 + 4 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 128 + 48 + 4 + 2) + 1: if constexpr ((0 + 128 + 48 + 4 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 128 + 48 + 4 + 2)>{_Variant_raw_get<(0 + 128 + 48 + 4 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 128 + 48 + 4 + 3) + 1: if constexpr ((0 + 128 + 48 + 4 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 128 + 48 + 4 + 3)>{_Variant_raw_get<(0 + 128 + 48 + 4 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 128 + 48 + 8) + 1: if constexpr ((0 + 128 + 48 + 8) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 128 + 48 + 8)>{_Variant_raw_get<(0 + 128 + 48 + 8)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 128 + 48 + 8 + 1) + 1: if constexpr ((0 + 128 + 48 + 8 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 128 + 48 + 8 + 1)>{_Variant_raw_get<(0 + 128 + 48 + 8 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 128 + 48 + 8 + 2) + 1: if constexpr ((0 + 128 + 48 + 8 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 128 + 48 + 8 + 2)>{_Variant_raw_get<(0 + 128 + 48 + 8 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 128 + 48 + 8 + 3) + 1: if constexpr ((0 + 128 + 48 + 8 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 128 + 48 + 8 + 3)>{_Variant_raw_get<(0 + 128 + 48 + 8 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 128 + 48 + 12) + 1: if constexpr ((0 + 128 + 48 + 12) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 128 + 48 + 12)>{_Variant_raw_get<(0 + 128 + 48 + 12)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 128 + 48 + 12 + 1) + 1: if constexpr ((0 + 128 + 48 + 12 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 128 + 48 + 12 + 1)>{_Variant_raw_get<(0 + 128 + 48 + 12 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 128 + 48 + 12 + 2) + 1: if constexpr ((0 + 128 + 48 + 12 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 128 + 48 + 12 + 2)>{_Variant_raw_get<(0 + 128 + 48 + 12 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 128 + 48 + 12 + 3) + 1: if constexpr ((0 + 128 + 48 + 12 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 128 + 48 + 12 + 3)>{_Variant_raw_get<(0 + 128 + 48 + 12 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 192) + 1: if constexpr ((0 + 192) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 192)>{_Variant_raw_get<(0 + 192)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 192 + 1) + 1: if constexpr ((0 + 192 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 192 + 1)>{_Variant_raw_get<(0 + 192 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 192 + 2) + 1: if constexpr ((0 + 192 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 192 + 2)>{_Variant_raw_get<(0 + 192 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 192 + 3) + 1: if constexpr ((0 + 192 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 192 + 3)>{_Variant_raw_get<(0 + 192 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 192 + 4) + 1: if constexpr ((0 + 192 + 4) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 192 + 4)>{_Variant_raw_get<(0 + 192 + 4)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 192 + 4 + 1) + 1: if constexpr ((0 + 192 + 4 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 192 + 4 + 1)>{_Variant_raw_get<(0 + 192 + 4 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 192 + 4 + 2) + 1: if constexpr ((0 + 192 + 4 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 192 + 4 + 2)>{_Variant_raw_get<(0 + 192 + 4 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 192 + 4 + 3) + 1: if constexpr ((0 + 192 + 4 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 192 + 4 + 3)>{_Variant_raw_get<(0 + 192 + 4 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 192 + 8) + 1: if constexpr ((0 + 192 + 8) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 192 + 8)>{_Variant_raw_get<(0 + 192 + 8)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 192 + 8 + 1) + 1: if constexpr ((0 + 192 + 8 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 192 + 8 + 1)>{_Variant_raw_get<(0 + 192 + 8 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 192 + 8 + 2) + 1: if constexpr ((0 + 192 + 8 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 192 + 8 + 2)>{_Variant_raw_get<(0 + 192 + 8 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 192 + 8 + 3) + 1: if constexpr ((0 + 192 + 8 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 192 + 8 + 3)>{_Variant_raw_get<(0 + 192 + 8 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 192 + 12) + 1: if constexpr ((0 + 192 + 12) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 192 + 12)>{_Variant_raw_get<(0 + 192 + 12)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 192 + 12 + 1) + 1: if constexpr ((0 + 192 + 12 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 192 + 12 + 1)>{_Variant_raw_get<(0 + 192 + 12 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 192 + 12 + 2) + 1: if constexpr ((0 + 192 + 12 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 192 + 12 + 2)>{_Variant_raw_get<(0 + 192 + 12 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 192 + 12 + 3) + 1: if constexpr ((0 + 192 + 12 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 192 + 12 + 3)>{_Variant_raw_get<(0 + 192 + 12 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 192 + 16) + 1: if constexpr ((0 + 192 + 16) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 192 + 16)>{_Variant_raw_get<(0 + 192 + 16)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 192 + 16 + 1) + 1: if constexpr ((0 + 192 + 16 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 192 + 16 + 1)>{_Variant_raw_get<(0 + 192 + 16 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 192 + 16 + 2) + 1: if constexpr ((0 + 192 + 16 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 192 + 16 + 2)>{_Variant_raw_get<(0 + 192 + 16 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 192 + 16 + 3) + 1: if constexpr ((0 + 192 + 16 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 192 + 16 + 3)>{_Variant_raw_get<(0 + 192 + 16 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 192 + 16 + 4) + 1: if constexpr ((0 + 192 + 16 + 4) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 192 + 16 + 4)>{_Variant_raw_get<(0 + 192 + 16 + 4)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 192 + 16 + 4 + 1) + 1: if constexpr ((0 + 192 + 16 + 4 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 192 + 16 + 4 + 1)>{_Variant_raw_get<(0 + 192 + 16 + 4 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 192 + 16 + 4 + 2) + 1: if constexpr ((0 + 192 + 16 + 4 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 192 + 16 + 4 + 2)>{_Variant_raw_get<(0 + 192 + 16 + 4 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 192 + 16 + 4 + 3) + 1: if constexpr ((0 + 192 + 16 + 4 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 192 + 16 + 4 + 3)>{_Variant_raw_get<(0 + 192 + 16 + 4 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 192 + 16 + 8) + 1: if constexpr ((0 + 192 + 16 + 8) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 192 + 16 + 8)>{_Variant_raw_get<(0 + 192 + 16 + 8)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 192 + 16 + 8 + 1) + 1: if constexpr ((0 + 192 + 16 + 8 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 192 + 16 + 8 + 1)>{_Variant_raw_get<(0 + 192 + 16 + 8 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 192 + 16 + 8 + 2) + 1: if constexpr ((0 + 192 + 16 + 8 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 192 + 16 + 8 + 2)>{_Variant_raw_get<(0 + 192 + 16 + 8 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 192 + 16 + 8 + 3) + 1: if constexpr ((0 + 192 + 16 + 8 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 192 + 16 + 8 + 3)>{_Variant_raw_get<(0 + 192 + 16 + 8 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 192 + 16 + 12) + 1: if constexpr ((0 + 192 + 16 + 12) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 192 + 16 + 12)>{_Variant_raw_get<(0 + 192 + 16 + 12)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 192 + 16 + 12 + 1) + 1: if constexpr ((0 + 192 + 16 + 12 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 192 + 16 + 12 + 1)>{_Variant_raw_get<(0 + 192 + 16 + 12 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 192 + 16 + 12 + 2) + 1: if constexpr ((0 + 192 + 16 + 12 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 192 + 16 + 12 + 2)>{_Variant_raw_get<(0 + 192 + 16 + 12 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 192 + 16 + 12 + 3) + 1: if constexpr ((0 + 192 + 16 + 12 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 192 + 16 + 12 + 3)>{_Variant_raw_get<(0 + 192 + 16 + 12 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 192 + 32) + 1: if constexpr ((0 + 192 + 32) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 192 + 32)>{_Variant_raw_get<(0 + 192 + 32)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 192 + 32 + 1) + 1: if constexpr ((0 + 192 + 32 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 192 + 32 + 1)>{_Variant_raw_get<(0 + 192 + 32 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 192 + 32 + 2) + 1: if constexpr ((0 + 192 + 32 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 192 + 32 + 2)>{_Variant_raw_get<(0 + 192 + 32 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 192 + 32 + 3) + 1: if constexpr ((0 + 192 + 32 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 192 + 32 + 3)>{_Variant_raw_get<(0 + 192 + 32 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 192 + 32 + 4) + 1: if constexpr ((0 + 192 + 32 + 4) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 192 + 32 + 4)>{_Variant_raw_get<(0 + 192 + 32 + 4)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 192 + 32 + 4 + 1) + 1: if constexpr ((0 + 192 + 32 + 4 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 192 + 32 + 4 + 1)>{_Variant_raw_get<(0 + 192 + 32 + 4 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 192 + 32 + 4 + 2) + 1: if constexpr ((0 + 192 + 32 + 4 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 192 + 32 + 4 + 2)>{_Variant_raw_get<(0 + 192 + 32 + 4 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 192 + 32 + 4 + 3) + 1: if constexpr ((0 + 192 + 32 + 4 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 192 + 32 + 4 + 3)>{_Variant_raw_get<(0 + 192 + 32 + 4 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 192 + 32 + 8) + 1: if constexpr ((0 + 192 + 32 + 8) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 192 + 32 + 8)>{_Variant_raw_get<(0 + 192 + 32 + 8)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 192 + 32 + 8 + 1) + 1: if constexpr ((0 + 192 + 32 + 8 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 192 + 32 + 8 + 1)>{_Variant_raw_get<(0 + 192 + 32 + 8 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 192 + 32 + 8 + 2) + 1: if constexpr ((0 + 192 + 32 + 8 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 192 + 32 + 8 + 2)>{_Variant_raw_get<(0 + 192 + 32 + 8 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 192 + 32 + 8 + 3) + 1: if constexpr ((0 + 192 + 32 + 8 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 192 + 32 + 8 + 3)>{_Variant_raw_get<(0 + 192 + 32 + 8 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 192 + 32 + 12) + 1: if constexpr ((0 + 192 + 32 + 12) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 192 + 32 + 12)>{_Variant_raw_get<(0 + 192 + 32 + 12)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 192 + 32 + 12 + 1) + 1: if constexpr ((0 + 192 + 32 + 12 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 192 + 32 + 12 + 1)>{_Variant_raw_get<(0 + 192 + 32 + 12 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 192 + 32 + 12 + 2) + 1: if constexpr ((0 + 192 + 32 + 12 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 192 + 32 + 12 + 2)>{_Variant_raw_get<(0 + 192 + 32 + 12 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 192 + 32 + 12 + 3) + 1: if constexpr ((0 + 192 + 32 + 12 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 192 + 32 + 12 + 3)>{_Variant_raw_get<(0 + 192 + 32 + 12 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 192 + 48) + 1: if constexpr ((0 + 192 + 48) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 192 + 48)>{_Variant_raw_get<(0 + 192 + 48)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 192 + 48 + 1) + 1: if constexpr ((0 + 192 + 48 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 192 + 48 + 1)>{_Variant_raw_get<(0 + 192 + 48 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 192 + 48 + 2) + 1: if constexpr ((0 + 192 + 48 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 192 + 48 + 2)>{_Variant_raw_get<(0 + 192 + 48 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 192 + 48 + 3) + 1: if constexpr ((0 + 192 + 48 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 192 + 48 + 3)>{_Variant_raw_get<(0 + 192 + 48 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 192 + 48 + 4) + 1: if constexpr ((0 + 192 + 48 + 4) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 192 + 48 + 4)>{_Variant_raw_get<(0 + 192 + 48 + 4)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 192 + 48 + 4 + 1) + 1: if constexpr ((0 + 192 + 48 + 4 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 192 + 48 + 4 + 1)>{_Variant_raw_get<(0 + 192 + 48 + 4 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 192 + 48 + 4 + 2) + 1: if constexpr ((0 + 192 + 48 + 4 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 192 + 48 + 4 + 2)>{_Variant_raw_get<(0 + 192 + 48 + 4 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 192 + 48 + 4 + 3) + 1: if constexpr ((0 + 192 + 48 + 4 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 192 + 48 + 4 + 3)>{_Variant_raw_get<(0 + 192 + 48 + 4 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 192 + 48 + 8) + 1: if constexpr ((0 + 192 + 48 + 8) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 192 + 48 + 8)>{_Variant_raw_get<(0 + 192 + 48 + 8)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 192 + 48 + 8 + 1) + 1: if constexpr ((0 + 192 + 48 + 8 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 192 + 48 + 8 + 1)>{_Variant_raw_get<(0 + 192 + 48 + 8 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 192 + 48 + 8 + 2) + 1: if constexpr ((0 + 192 + 48 + 8 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 192 + 48 + 8 + 2)>{_Variant_raw_get<(0 + 192 + 48 + 8 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 192 + 48 + 8 + 3) + 1: if constexpr ((0 + 192 + 48 + 8 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 192 + 48 + 8 + 3)>{_Variant_raw_get<(0 + 192 + 48 + 8 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 192 + 48 + 12) + 1: if constexpr ((0 + 192 + 48 + 12) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 192 + 48 + 12)>{_Variant_raw_get<(0 + 192 + 48 + 12)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 192 + 48 + 12 + 1) + 1: if constexpr ((0 + 192 + 48 + 12 + 1) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 192 + 48 + 12 + 1)>{_Variant_raw_get<(0 + 192 + 48 + 12 + 1)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 192 + 48 + 12 + 2) + 1: if constexpr ((0 + 192 + 48 + 12 + 2) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 192 + 48 + 12 + 2)>{_Variant_raw_get<(0 + 192 + 48 + 12 + 2)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); case (0 + 192 + 48 + 12 + 3) + 1: if constexpr ((0 + 192 + 48 + 12 + 3) < _Size) { return static_cast<_Fn&&>(_Func)( _Variant_tagged_ref_t<_Storage, (0 + 192 + 48 + 12 + 3)>{_Variant_raw_get<(0 + 192 + 48 + 12 + 3)>(static_cast<_Storage&&>(_Obj))}); } __assume(false); default: __assume(false); };
+    }
+};
+
+
+
+
+template <class _Storage, class _Fn>
+[[nodiscard]] constexpr _Variant_raw_visit_t<_Fn, _Storage> _Variant_raw_visit(
+    size_t _Idx, _Storage&& _Obj, _Fn&& _Func) noexcept(_Variant_raw_visit_noexcept<_Fn, _Storage>) {
+    
+    
+    constexpr size_t _Size  = remove_reference_t<_Storage>::_Size;
+    constexpr int _Strategy = _Size <= 4 ? 1 : _Size <= 16 ? 2 : _Size <= 64 ? 3 : _Size <= 256 ? 4 : -1;
+    ++_Idx; 
+    return _Variant_raw_visit1<_Strategy>::_Visit(_Idx, static_cast<_Fn&&>(_Func), static_cast<_Storage&&>(_Obj));
+}
+
+
+template <class...>
+class _Variant_base;
+
+template <size_t _Count>
+using _Variant_index_t = 
+    conditional_t<(_Count < static_cast<size_t>((numeric_limits<signed char>::max)())), signed char,
+        conditional_t<(_Count < static_cast<size_t>((numeric_limits<short>::max)())), short, int>>;
+
+template <class... _Types>
+struct _Variant_construct_visitor { 
+                                    
+    _Variant_base<_Types...>& _Self;
+
+    template <class _Ty, size_t _Idx>
+    void operator()(_Tagged<_Ty, _Idx> _Source) const noexcept(disjunction_v<bool_constant<_Idx == variant_npos>,
+        is_nothrow_constructible<remove_reference_t<_Ty>, _Ty>>) { 
+                                                                   
+        (void) _Source; 
+        if constexpr (_Idx != variant_npos) {
+            auto& _Target = _Variant_raw_get<_Idx>(_Self._Storage());
+            _Construct_in_place(_Target, static_cast<_Ty&&>(_Source._Val));
+            _Self._Set_index(_Idx);
+        }
+    }
+};
+
+template <class _Target, class... _Types>
+inline constexpr bool _Variant_should_directly_construct_v =
+    disjunction_v<is_nothrow_constructible<_Target, _Types...>, negation<is_nothrow_move_constructible<_Target>>>;
+
+template <class... _Types>
+struct _Variant_assign_visitor { 
+    _Variant_base<_Types...>& _Self;
+
+    template <class _Ty, size_t _Idx>
+    void operator()(_Tagged<_Ty, _Idx> _Source) const noexcept(disjunction_v<bool_constant<_Idx == variant_npos>,
+        conjunction<is_nothrow_assignable<_Remove_cvref_t<_Ty>&, _Ty>,
+            is_nothrow_constructible<_Remove_cvref_t<_Ty>, _Ty>>>) {
+        
+        if constexpr (_Idx == variant_npos) { 
+            (void) _Source; 
+            _Self._Reset();
+        } else {
+            auto& _Target = _Variant_raw_get<_Idx>(_Self._Storage());
+            if (_Self._Which == _Idx) { 
+                _Target = static_cast<_Ty&&>(_Source._Val);
+            } else { 
+                if constexpr (is_lvalue_reference_v<_Ty>) { 
+                    if constexpr (_Variant_should_directly_construct_v<_Remove_cvref_t<_Ty>,
+                                      _Ty>) { 
+                        _Self._Reset();
+                        _Construct_in_place(_Target, _Source._Val);
+                    } else { 
+                        auto _Temp = _Source._Val;
+                        _Self._Reset();
+                        _Construct_in_place(_Target, ::std:: move(_Temp));
+                    }
+                } else { 
+                    _Self._Reset();
+                    _Construct_in_place(_Target, static_cast<_Ty&&>(_Source._Val));
+                }
+
+                _Self._Set_index(_Idx);
+            }
+        }
+    }
+};
+
+template <class... _Types>
+class _Variant_base
+    : private _Variant_storage<_Types...> { 
+public:
+    using _Index_t                       = _Variant_index_t<sizeof...(_Types)>;
+    static constexpr auto _Invalid_index = static_cast<_Index_t>(-1);
+    _Index_t _Which;
+
+    using _Storage_t = _Variant_storage<_Types...>;
+    [[nodiscard]] constexpr _Storage_t& _Storage() & noexcept { 
+        return *this;
+    }
+    [[nodiscard]] constexpr const _Storage_t& _Storage() const& noexcept { 
+        return *this;
+    }
+    [[nodiscard]] constexpr _Storage_t&& _Storage() && noexcept { 
+        return ::std:: move(*this);
+    }
+    [[nodiscard]] constexpr const _Storage_t&& _Storage() const&& noexcept { 
+        return ::std:: move(*this);
+    }
+
+    _Variant_base() noexcept : _Storage_t{}, _Which{_Invalid_index} {} 
+
+    template <size_t _Idx, class... _UTypes,
+        enable_if_t<is_constructible_v<_Meta_at_c<variant<_Types...>, _Idx>, _UTypes...>, int> = 0>
+    constexpr explicit _Variant_base(in_place_index_t<_Idx>, _UTypes&&... _Args) noexcept(
+        is_nothrow_constructible_v<_Meta_at_c<variant<_Types...>, _Idx>, _UTypes...>)
+        : _Storage_t(integral_constant<size_t, _Idx>{}, static_cast<_UTypes&&>(_Args)...),
+          _Which{static_cast<_Index_t>(_Idx)} { 
+    }
+
+    [[nodiscard]] constexpr bool valueless_by_exception() const noexcept { 
+        return _Which < 0;
+    }
+    [[nodiscard]] constexpr size_t index() const noexcept {
+        
+        return static_cast<size_t>(_Which);
+    }
+    void _Set_index(const size_t _Idx) noexcept {
+        
+        
+        _Which = static_cast<_Index_t>(_Idx);
+    }
+
+    template <size_t _Idx>
+    void _Destroy() noexcept {
+        
+        
+        if constexpr (_Idx != variant_npos && !is_trivially_destructible_v<_Meta_at_c<variant<_Types...>, _Idx>>) {
+            _Destroy_in_place(_Variant_raw_get<_Idx>(_Storage()));
+        }
+    }
+
+    void _Destroy() noexcept { 
+        if constexpr (!conjunction_v<is_trivially_destructible<_Types>...>) {
+            _Variant_raw_visit(index(), _Storage(), [](auto _Ref) noexcept {
+                if constexpr (decltype(_Ref)::_Idx != variant_npos) {
+                    _Destroy_in_place(_Ref._Val);
+                }
+            });
+        }
+    }
+
+    void _Reset() noexcept { 
+        _Destroy();
+        _Set_index(variant_npos);
+    }
+
+    template <size_t _Idx>
+    void _Reset() noexcept {
+        
+        
+        if constexpr (_Idx != variant_npos) {
+            _Destroy<_Idx>();
+            _Set_index(variant_npos);
+        }
+    }
+
+    void _Construct_from(const _Variant_base& _That) noexcept(conjunction_v<is_nothrow_copy_constructible<_Types>...>) {
+        
+        
+        _Variant_raw_visit(_That.index(), _That._Storage(), _Variant_construct_visitor<_Types...>{*this});
+    }
+
+    void _Construct_from(_Variant_base&& _That) noexcept(conjunction_v<is_nothrow_move_constructible<_Types>...>) {
+        
+        
+        _Variant_raw_visit(_That.index(), ::std:: move(_That)._Storage(), _Variant_construct_visitor<_Types...>{*this});
+    }
+
+    void _Assign_from(const _Variant_base& _That) noexcept(
+        conjunction_v<is_nothrow_copy_constructible<_Types>..., is_nothrow_copy_assignable<_Types>...>) {
+        
+        _Variant_raw_visit(_That.index(), _That._Storage(), _Variant_assign_visitor<_Types...>{*this});
+    }
+
+    void _Assign_from(_Variant_base&& _That) noexcept(
+        conjunction_v<is_nothrow_move_constructible<_Types>..., is_nothrow_move_assignable<_Types>...>) {
+        
+        _Variant_raw_visit(_That.index(), ::std:: move(_That)._Storage(), _Variant_assign_visitor<_Types...>{*this});
+    }
+};
+
+template <class... _Types>
+struct _Variant_destroy_layer_ : _Variant_base<_Types...> { 
+    using _Variant_base<_Types...>::_Variant_base;
+
+    ~_Variant_destroy_layer_() noexcept { 
+        this->_Destroy();
+    }
+
+    _Variant_destroy_layer_()                               = default;
+    _Variant_destroy_layer_(const _Variant_destroy_layer_&) = default;
+    _Variant_destroy_layer_(_Variant_destroy_layer_&&)      = default;
+    _Variant_destroy_layer_& operator=(const _Variant_destroy_layer_&) = default;
+    _Variant_destroy_layer_& operator=(_Variant_destroy_layer_&&) = default;
+};
+
+template <class... _Types>
+using _Variant_destroy_layer = conditional_t<conjunction_v<is_trivially_destructible<_Types>...>,
+    _Variant_base<_Types...>, _Variant_destroy_layer_<_Types...>>;
+
+
+
+
+
+
+#pragma warning(push)
+#pragma warning(disable : 5215) 
+#line 967 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\variant"
+template <size_t _Idx, class _Ty>
+struct _Variant_init_single_overload {
+    using _FTy = _Meta_list<integral_constant<size_t, _Idx>, _Ty> (*)(_Ty);
+    operator _FTy();
+};
+
+
+
+#pragma warning(pop)
+#line 977 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\variant"
+
+template <class _Indices, class... _Types>
+struct _Variant_init_overload_set_;
+
+template <size_t... _Indices, class... _Types>
+struct _Variant_init_overload_set_<index_sequence<_Indices...>, _Types...>
+    : _Variant_init_single_overload<_Indices, _Types>... {};
+
+template <class... _Types>
+using _Variant_init_overload_set = _Variant_init_overload_set_<index_sequence_for<_Types...>, _Types...>;
+
+template <class Enable, class _Ty, class... _Types>
+struct _Variant_init_helper {}; 
+
+template <class _Ty, class... _Types>
+struct _Variant_init_helper<void_t<decltype(_Variant_init_overload_set<_Types...>{}(::std:: declval<_Ty>()))>, _Ty,
+    _Types...> {
+    
+    
+    using type = decltype(_Variant_init_overload_set<_Types...>{}(::std:: declval<_Ty>()));
+};
+
+template <class _Ty, class... _Types> 
+using _Variant_init_type = _Meta_front<_Meta_pop_front<typename _Variant_init_helper<void, _Ty, _Types...>::type>>;
+
+template <class _Ty, class... _Types> 
+using _Variant_init_index = _Meta_front<typename _Variant_init_helper<void, _Ty, _Types...>::type>;
+
+template <class>
+struct _Is_in_place_index_specialization : false_type {};
+template <size_t _Idx>
+struct _Is_in_place_index_specialization<in_place_index_t<_Idx>> : true_type {};
+
+template <class... _Types>
+class variant : private _SMF_control<_Variant_destroy_layer<_Types...>, _Types...> { 
+public:
+    static_assert(conjunction_v<is_object<_Types>..., negation<is_array<_Types>>..., is_destructible<_Types>...>,
+        "variant<Types...> requires all of the Types to meet the Cpp17Destructible requirements "
+        "N4828 [variant.variant]/2.");
+    static_assert(sizeof...(_Types) > 0,
+        "variant<> (with no template arguments) may not be instantiated (N4835 [variant.variant]/3).");
+    using _Mybase = _SMF_control<_Variant_destroy_layer<_Types...>, _Types...>;
+
+    
+    template <class _First = _Meta_front<variant>, enable_if_t<is_default_constructible_v<_First>, int> = 0>
+    constexpr variant() noexcept(is_nothrow_default_constructible_v<_First>)
+        : _Mybase(in_place_index<0>) {} 
+
+    template <class _Ty,
+        enable_if_t<sizeof...(_Types) != 0 
+                        && !is_same_v<_Remove_cvref_t<_Ty>, variant> 
+                        && !_Is_specialization_v<_Remove_cvref_t<_Ty>, in_place_type_t> 
+                        && !_Is_in_place_index_specialization<_Remove_cvref_t<_Ty>>::value 
+                        && is_constructible_v<_Variant_init_type<_Ty, _Types...>, _Ty>, 
+            int> = 0>
+    constexpr variant(_Ty&& _Obj) noexcept(is_nothrow_constructible_v<_Variant_init_type<_Ty, _Types...>, _Ty>)
+        : _Mybase(in_place_index<_Variant_init_index<_Ty, _Types...>::value>, static_cast<_Ty&&>(_Obj)) {
+        
+    }
+
+    template <class _Ty, class... _UTypes, class _Idx = _Meta_find_unique_index<variant, _Ty>,
+        enable_if_t<_Idx::value != _Meta_npos && is_constructible_v<_Ty, _UTypes...>, int> = 0>
+    constexpr explicit variant(in_place_type_t<_Ty>, _UTypes&&... _Args) noexcept(
+        is_nothrow_constructible_v<_Ty, _UTypes...>) 
+        : _Mybase(in_place_index<_Idx::value>, static_cast<_UTypes&&>(_Args)...) {
+        
+    }
+    template <class _Ty, class _Elem, class... _UTypes, class _Idx = _Meta_find_unique_index<variant, _Ty>,
+        enable_if_t<_Idx::value != _Meta_npos && is_constructible_v<_Ty, initializer_list<_Elem>&, _UTypes...>, int> =
+            0>
+    constexpr explicit variant(in_place_type_t<_Ty>, initializer_list<_Elem> _Ilist, _UTypes&&... _Args) noexcept(
+        is_nothrow_constructible_v<_Ty, initializer_list<_Elem>&, _UTypes...>) 
+        : _Mybase(in_place_index<_Idx::value>, _Ilist, static_cast<_UTypes&&>(_Args)...) {
+        
+    }
+
+    template <size_t _Idx, class... _UTypes,
+        enable_if_t<is_constructible_v<_Meta_at_c<variant, _Idx>, _UTypes...>, int> = 0>
+    constexpr explicit variant(in_place_index_t<_Idx>, _UTypes&&... _Args) noexcept(
+        is_nothrow_constructible_v<_Meta_at_c<variant, _Idx>, _UTypes...>) 
+        : _Mybase(in_place_index<_Idx>, static_cast<_UTypes&&>(_Args)...) {
+        
+    }
+    template <size_t _Idx, class _Elem, class... _UTypes,
+        enable_if_t<is_constructible_v<_Meta_at_c<variant, _Idx>, initializer_list<_Elem>&, _UTypes...>, int> = 0>
+    constexpr explicit variant(in_place_index_t<_Idx>, initializer_list<_Elem> _Ilist, _UTypes&&... _Args) noexcept(
+        is_constructible_v<_Meta_at_c<variant, _Idx>, initializer_list<_Elem>&, _UTypes...>) 
+        : _Mybase(in_place_index<_Idx>, _Ilist, static_cast<_UTypes&&>(_Args)...) {
+        
+    }
+
+    
+    template <class _Ty, enable_if_t<!is_same_v<_Remove_cvref_t<_Ty>, variant> 
+                                         && is_constructible_v<_Variant_init_type<_Ty, _Types...>, _Ty> 
+                                         && is_assignable_v<_Variant_init_type<_Ty, _Types...>&, _Ty>, 
+                             int> = 0>
+    variant& operator=(_Ty&& _Obj) noexcept(is_nothrow_assignable_v<_Variant_init_type<_Ty, _Types...>&, _Ty>&&
+            is_nothrow_constructible_v<_Variant_init_type<_Ty, _Types...>, _Ty>) {
+        
+        constexpr size_t _TargetIdx = _Variant_init_index<_Ty, _Types...>::value;
+        if (index() == _TargetIdx) {
+            auto& _Target = _Variant_raw_get<_TargetIdx>(_Storage());
+            _Target       = static_cast<_Ty&&>(_Obj);
+        } else {
+            using _TargetTy = _Variant_init_type<_Ty, _Types...>;
+            if constexpr (_Variant_should_directly_construct_v<_TargetTy, _Ty>) {
+                this->_Reset();
+                _Emplace_valueless<_TargetIdx>(static_cast<_Ty&&>(_Obj));
+            } else {
+                _TargetTy _Temp(static_cast<_Ty&&>(_Obj));
+                this->_Reset();
+                _Emplace_valueless<_TargetIdx>(::std:: move(_Temp));
+            }
+        }
+
+        return *this;
+    }
+
+    
+    using _Mybase::_Storage;
+
+    template <class _Ty, class... _ArgTypes, size_t _Idx = _Meta_find_unique_index<variant, _Ty>::value,
+        enable_if_t<_Idx != _Meta_npos && is_constructible_v<_Ty, _ArgTypes...>, int> = 0>
+    _Ty& emplace(_ArgTypes&&... _Args) noexcept(is_nothrow_constructible_v<_Ty, _ArgTypes...>)  {
+        
+        this->_Reset();
+        return _Emplace_valueless<_Idx>(static_cast<_ArgTypes&&>(_Args)...);
+    }
+    template <class _Ty, class _Elem, class... _ArgTypes, size_t _Idx = _Meta_find_unique_index<variant, _Ty>::value,
+        enable_if_t<_Idx != _Meta_npos && is_constructible_v<_Ty, initializer_list<_Elem>&, _ArgTypes...>, int> = 0>
+    _Ty& emplace(initializer_list<_Elem> _Ilist, _ArgTypes&&... _Args) noexcept(
+        is_nothrow_constructible_v<_Ty, initializer_list<_Elem>&, _ArgTypes...>)  {
+        
+        this->_Reset();
+        return _Emplace_valueless<_Idx>(_Ilist, static_cast<_ArgTypes&&>(_Args)...);
+    }
+
+    template <size_t _Idx, class... _ArgTypes,
+        enable_if_t<is_constructible_v<_Meta_at_c<variant, _Idx>, _ArgTypes...>, int> = 0>
+    _Meta_at_c<variant, _Idx>& emplace(_ArgTypes&&... _Args) noexcept(
+        is_nothrow_constructible_v<_Meta_at_c<variant, _Idx>, _ArgTypes...>)  {
+        
+        this->_Reset();
+        return _Emplace_valueless<_Idx>(static_cast<_ArgTypes&&>(_Args)...);
+    }
+    template <size_t _Idx, class _Elem, class... _ArgTypes,
+        enable_if_t<is_constructible_v<_Meta_at_c<variant, _Idx>, initializer_list<_Elem>&, _ArgTypes...>, int> = 0>
+    _Meta_at_c<variant, _Idx>& emplace(initializer_list<_Elem> _Ilist, _ArgTypes&&... _Args) noexcept(
+        is_nothrow_constructible_v<_Meta_at_c<variant, _Idx>, initializer_list<_Elem>&,
+            _ArgTypes...>)  {
+        
+        this->_Reset();
+        return _Emplace_valueless<_Idx>(_Ilist, static_cast<_ArgTypes&&>(_Args)...);
+    }
+
+    
+    using _Mybase::index;
+    using _Mybase::valueless_by_exception;
+
+    
+
+
+
+
+    void swap(variant& _That) noexcept(
+        conjunction_v<is_nothrow_move_constructible<_Types>..., is_nothrow_swappable<_Types>...>) {
+        
+        
+        static_assert(conjunction_v<is_move_constructible<_Types>...>,
+            "variant<Types...>::swap requires all of the Types... to be move constructible. (N4835 [variant.swap]/1)");
+        static_assert(disjunction_v<negation<is_move_constructible<_Types>>..., conjunction<is_swappable<_Types>...>>,
+            "variant<Types...>::swap requires all of the Types... to be swappable. (N4835 [variant.swap]/1)");
+        if constexpr (conjunction_v<_Is_trivially_swappable<_Types>...>) {
+            using _BaseTy = _Variant_base<_Types...>;
+            ::std:: swap(static_cast<_BaseTy&>(*this), static_cast<_BaseTy&>(_That));
+        } else if constexpr (sizeof...(_Types) < 32) {
+            
+            _Variant_raw_visit(index(), _Storage(),
+                [this, &_That](auto _My_ref)
+
+                    noexcept(conjunction_v<is_nothrow_move_constructible<_Types>..., is_nothrow_swappable<_Types>...>)
+#line 1159 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\variant"
+                {
+                    _Variant_raw_visit(_That.index(), _That._Storage(),
+                        [this, &_That, _My_ref](auto _That_ref)
+
+                            noexcept(conjunction_v<is_nothrow_move_constructible<_Types>...,
+                                is_nothrow_swappable<_Types>...>)
+#line 1166 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\variant"
+                        {
+                            constexpr size_t _That_idx = decltype(_That_ref)::_Idx;
+
+
+
+                            constexpr size_t _My_idx = decltype(_My_ref)::_Idx;
+#line 1173 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\variant"
+                            if constexpr (_My_idx == _That_idx) { 
+                                if constexpr (_My_idx != variant_npos) { 
+                                    _Swap_adl(_My_ref._Val, _That_ref._Val);
+                                }
+                            } else if constexpr (_My_idx == variant_npos) { 
+                                this->_Emplace_valueless<_That_idx>(::std:: move(_That_ref._Val));
+                                _That.template _Reset<_That_idx>();
+                            } else if constexpr (_That_idx == variant_npos) { 
+                                _That._Emplace_valueless<_My_idx>(::std:: move(_My_ref._Val));
+                                this->template _Reset<_My_idx>();
+                            } else { 
+
+
+
+
+                                auto _Tmp = ::std:: move(_My_ref._Val);
+#line 1190 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\variant"
+                                this->template _Reset<_My_idx>();
+                                this->_Emplace_valueless<_That_idx>(::std:: move(_That_ref._Val));
+                                _That.template _Reset<_That_idx>();
+                                _That._Emplace_valueless<_My_idx>(::std:: move(_Tmp));
+                            }
+                        });
+                });
+        } else {
+            if (this->_Which == _That._Which) {
+                _Variant_raw_visit(static_cast<size_t>(this->_Which), _That._Storage(),
+                    [this](auto _Ref)
+
+                        noexcept(conjunction_v<is_nothrow_swappable<_Types>...>)
+#line 1204 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\variant"
+                    {
+                        constexpr size_t _Idx = decltype(_Ref)::_Idx;
+                        if constexpr (_Idx != variant_npos) {
+                            _Swap_adl(_Variant_raw_get<_Idx>(this->_Storage()), _Ref._Val);
+                        }
+                    });
+            } else {
+                variant _Tmp = ::std:: move(*this);
+                this->_Emplace_from(::std:: move(_That));
+                _That._Emplace_from(::std:: move(_Tmp));
+            }
+        }
+    }
+
+
+
+
+private:
+    template <size_t _Idx, class... _ArgTypes>
+    _Meta_at_c<variant, _Idx>& _Emplace_valueless(_ArgTypes&&... _Args) noexcept(
+        is_nothrow_constructible_v<_Meta_at_c<variant, _Idx>, _ArgTypes...>) {
+        
+        
+        auto& _Obj = _Variant_raw_get<_Idx>(_Storage());
+        _Construct_in_place(_Obj, static_cast<_ArgTypes&&>(_Args)...);
+        this->_Set_index(_Idx);
+        return _Obj;
+    }
+
+    void _Emplace_from(variant&& _That) noexcept(conjunction_v<is_nothrow_move_constructible<_Types>...>) {
+        
+        this->_Reset();
+        _Variant_raw_visit(_That.index(), _That._Storage(),
+            [this](auto _Ref)
+
+                noexcept(conjunction_v<is_nothrow_move_constructible<_Types>...>)
+#line 1241 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\variant"
+            {
+                constexpr size_t _Idx = decltype(_Ref)::_Idx;
+                if constexpr (_Idx != variant_npos) {
+                    this->_Emplace_valueless<_Idx>(::std:: move(_Ref._Val));
+                }
+            });
+    }
+};
+
+
+template <class _Ty, class... _Types>
+[[nodiscard]] constexpr bool holds_alternative(
+    const variant<_Types...>& _Var) noexcept { 
+    constexpr size_t _Idx = _Meta_find_unique_index<variant<_Types...>, _Ty>::value;
+    static_assert(_Idx != _Meta_npos, "holds_alternative<T>(const variant<Types...>&) requires T to occur exactly "
+                                      "once in Types. (N4835 [variant.get]/1)");
+    return _Var.index() == _Idx;
+}
+
+template <size_t _Idx, class... _Types>
+[[nodiscard]] constexpr decltype(auto) get(
+    variant<_Types...>& _Var) { 
+    static_assert(_Idx < sizeof...(_Types), "variant index out of bounds");
+    if (_Var.index() == _Idx) {
+        return _Variant_raw_get<_Idx>(_Var._Storage());
+    }
+
+    _Throw_bad_variant_access();
+}
+template <size_t _Idx, class... _Types>
+[[nodiscard]] constexpr decltype(auto) get(
+    variant<_Types...>&& _Var) { 
+    static_assert(_Idx < sizeof...(_Types), "variant index out of bounds");
+    if (_Var.index() == _Idx) {
+        return _Variant_raw_get<_Idx>(::std:: move(_Var)._Storage());
+    }
+
+    _Throw_bad_variant_access();
+}
+template <size_t _Idx, class... _Types>
+[[nodiscard]] constexpr decltype(auto) get(
+    const variant<_Types...>& _Var) { 
+    static_assert(_Idx < sizeof...(_Types), "variant index out of bounds");
+    if (_Var.index() == _Idx) {
+        return _Variant_raw_get<_Idx>(_Var._Storage());
+    }
+
+    _Throw_bad_variant_access();
+}
+template <size_t _Idx, class... _Types>
+[[nodiscard]] constexpr decltype(auto) get(
+    const variant<_Types...>&& _Var) { 
+    static_assert(_Idx < sizeof...(_Types), "variant index out of bounds");
+    if (_Var.index() == _Idx) {
+        return _Variant_raw_get<_Idx>(::std:: move(_Var)._Storage());
+    }
+
+    _Throw_bad_variant_access();
+}
+
+template <class _Ty, class... _Types>
+[[nodiscard]] constexpr decltype(auto) get(
+    variant<_Types...>& _Var) { 
+    constexpr size_t _Idx = _Meta_find_unique_index<variant<_Types...>, _Ty>::value;
+    static_assert(_Idx < sizeof...(_Types),
+        "get<T>(variant<Types...>&) requires T to occur exactly once in Types. (N4835 [variant.get]/5)");
+    return ::std:: get<_Idx>(_Var);
+}
+template <class _Ty, class... _Types>
+[[nodiscard]] constexpr decltype(auto) get(
+    variant<_Types...>&& _Var) { 
+    constexpr size_t _Idx = _Meta_find_unique_index<variant<_Types...>, _Ty>::value;
+    static_assert(_Idx < sizeof...(_Types),
+        "get<T>(variant<Types...>&&) requires T to occur exactly once in Types. (N4835 [variant.get]/5)");
+    return ::std:: get<_Idx>(::std:: move(_Var));
+}
+template <class _Ty, class... _Types>
+[[nodiscard]] constexpr decltype(auto) get(
+    const variant<_Types...>& _Var) { 
+    constexpr size_t _Idx = _Meta_find_unique_index<variant<_Types...>, _Ty>::value;
+    static_assert(_Idx < sizeof...(_Types),
+        "get<T>(const variant<Types...>&) requires T to occur exactly once in Types. (N4835 [variant.get]/5)");
+    return ::std:: get<_Idx>(_Var);
+}
+template <class _Ty, class... _Types>
+[[nodiscard]] constexpr decltype(auto) get(
+    const variant<_Types...>&& _Var) { 
+    constexpr size_t _Idx = _Meta_find_unique_index<variant<_Types...>, _Ty>::value;
+    static_assert(_Idx < sizeof...(_Types),
+        "get<T>(const variant<Types...>&&) requires T to occur exactly once in Types. (N4835 [variant.get]/5)");
+    return ::std:: get<_Idx>(::std:: move(_Var));
+}
+
+template <size_t _Idx, class... _Types>
+[[nodiscard]] constexpr auto get_if(
+    variant<_Types...>* _Ptr) noexcept { 
+    static_assert(_Idx < sizeof...(_Types), "variant index out of bounds");
+    return _Ptr && _Ptr->index() == _Idx ? ::std:: addressof(_Variant_raw_get<_Idx>(_Ptr->_Storage())) : nullptr;
+}
+template <size_t _Idx, class... _Types>
+[[nodiscard]] constexpr auto get_if(const variant<_Types...>*
+        _Ptr) noexcept { 
+    static_assert(_Idx < sizeof...(_Types), "variant index out of bounds");
+    return _Ptr && _Ptr->index() == _Idx ? ::std:: addressof(_Variant_raw_get<_Idx>(_Ptr->_Storage())) : nullptr;
+}
+
+template <class _Ty, class... _Types>
+[[nodiscard]] constexpr add_pointer_t<_Ty> get_if(
+    variant<_Types...>* _Ptr) noexcept { 
+    constexpr size_t _Idx = _Meta_find_unique_index<variant<_Types...>, _Ty>::value;
+    static_assert(_Idx != _Meta_npos,
+        "get_if<T>(variant<Types...> *) requires T to occur exactly once in Types. (N4835 [variant.get]/9)");
+    return ::std:: get_if<_Idx>(_Ptr);
+}
+template <class _Ty, class... _Types>
+[[nodiscard]] constexpr add_pointer_t<const _Ty> get_if(
+    const variant<_Types...>* _Ptr) noexcept { 
+    constexpr size_t _Idx = _Meta_find_unique_index<variant<_Types...>, _Ty>::value;
+    static_assert(_Idx != _Meta_npos,
+        "get_if<T>(const variant<Types...> *) requires T to occur exactly once in Types. (N4835 [variant.get]/9)");
+    return ::std:: get_if<_Idx>(_Ptr);
+}
+
+
+template <class _Op, class... _Types>
+struct _Variant_relop_visitor { 
+    const _Variant_storage<_Types...>& _Left;
+
+    template <class _Ty, size_t _Idx>
+    [[nodiscard]] constexpr bool operator()(_Tagged<const _Ty&, _Idx> _Right) const noexcept(
+        disjunction_v<bool_constant<_Idx == variant_npos>, is_nothrow_invocable_r<bool, _Op, const _Ty&, const _Ty&>>) {
+        
+        
+        if constexpr (_Idx != variant_npos) {
+            return _Op{}(_Variant_raw_get<_Idx>(_Left), _Right._Val);
+        } else { 
+            (void) _Right; 
+            return _Op{}(0, 0);
+        }
+    }
+};
+
+template <class... _Types>
+[[nodiscard]] constexpr bool operator==(const variant<_Types...>& _Left, const variant<_Types...>& _Right) noexcept(
+    conjunction_v<is_nothrow_invocable_r<bool, equal_to<>, const _Types&, const _Types&>...>)  {
+    
+    using _Visitor            = _Variant_relop_visitor<equal_to<>, _Types...>;
+    const size_t _Right_index = _Right.index();
+    return _Left.index() == _Right_index
+           && _Variant_raw_visit(_Right_index, _Right._Storage(), _Visitor{_Left._Storage()});
+}
+
+template <class... _Types>
+[[nodiscard]] constexpr bool operator!=(const variant<_Types...>& _Left, const variant<_Types...>& _Right) noexcept(
+    conjunction_v<is_nothrow_invocable_r<bool, not_equal_to<>, const _Types&, const _Types&>...>)  {
+    
+    using _Visitor            = _Variant_relop_visitor<not_equal_to<>, _Types...>;
+    const size_t _Right_index = _Right.index();
+    return _Left.index() != _Right_index
+           || _Variant_raw_visit(_Right_index, _Right._Storage(), _Visitor{_Left._Storage()});
+}
+
+template <class... _Types>
+[[nodiscard]] constexpr bool operator<(const variant<_Types...>& _Left, const variant<_Types...>& _Right) noexcept(
+    conjunction_v<is_nothrow_invocable_r<bool, less<>, const _Types&, const _Types&>...>)  {
+    
+    
+    using _Visitor             = _Variant_relop_visitor<less<>, _Types...>;
+    const size_t _Left_offset  = _Left.index() + 1;
+    const size_t _Right_offset = _Right.index() + 1;
+    return _Left_offset < _Right_offset
+           || (_Left_offset == _Right_offset
+               && _Variant_raw_visit(_Right_offset - 1, _Right._Storage(), _Visitor{_Left._Storage()}));
+}
+
+template <class... _Types>
+[[nodiscard]] constexpr bool operator>(const variant<_Types...>& _Left, const variant<_Types...>& _Right) noexcept(
+    conjunction_v<is_nothrow_invocable_r<bool, greater<>, const _Types&, const _Types&>...>)  {
+    
+    
+    using _Visitor             = _Variant_relop_visitor<greater<>, _Types...>;
+    const size_t _Left_offset  = _Left.index() + 1;
+    const size_t _Right_offset = _Right.index() + 1;
+    return _Left_offset > _Right_offset
+           || (_Left_offset == _Right_offset
+               && _Variant_raw_visit(_Right_offset - 1, _Right._Storage(), _Visitor{_Left._Storage()}));
+}
+
+template <class... _Types>
+[[nodiscard]] constexpr bool operator<=(const variant<_Types...>& _Left, const variant<_Types...>& _Right) noexcept(
+    conjunction_v<is_nothrow_invocable_r<bool, less_equal<>, const _Types&, const _Types&>...>)  {
+    
+    
+    using _Visitor             = _Variant_relop_visitor<less_equal<>, _Types...>;
+    const size_t _Left_offset  = _Left.index() + 1;
+    const size_t _Right_offset = _Right.index() + 1;
+    return _Left_offset < _Right_offset
+           || (_Left_offset == _Right_offset
+               && _Variant_raw_visit(_Right_offset - 1, _Right._Storage(), _Visitor{_Left._Storage()}));
+}
+
+template <class... _Types>
+[[nodiscard]] constexpr bool operator>=(const variant<_Types...>& _Left, const variant<_Types...>& _Right) noexcept(
+    conjunction_v<is_nothrow_invocable_r<bool, greater_equal<>, const _Types&, const _Types&>...>)  {
+    
+    
+    using _Visitor             = _Variant_relop_visitor<greater_equal<>, _Types...>;
+    const size_t _Left_offset  = _Left.index() + 1;
+    const size_t _Right_offset = _Right.index() + 1;
+    return _Left_offset > _Right_offset
+           || (_Left_offset == _Right_offset
+               && _Variant_raw_visit(_Right_offset - 1, _Right._Storage(), _Visitor{_Left._Storage()}));
+}
+
+
+template <class... _Variants>
+inline constexpr size_t _Variant_total_states =
+    (size_t{1} * ... * (variant_size_v<_Variants> + 1)); 
+
+[[nodiscard]] constexpr size_t _Variant_visit_index1(const size_t _Acc) noexcept {
+    return _Acc;
+}
+template <class _FirstTy, class... _RestTys>
+[[nodiscard]] constexpr size_t _Variant_visit_index1(size_t _Acc, const _FirstTy& _First,
+    const _RestTys&... _Rest) noexcept { 
+                                         
+    _Acc += (_First.index() + 1) * _Variant_total_states<_RestTys...>;
+    return _Variant_visit_index1(_Acc, _Rest...);
+}
+
+template <class _Callable, class... _Types>
+using _Variant_visit_result_t =
+    decltype(::std:: invoke(::std:: declval<_Callable>(), _Variant_raw_get<0>(::std:: declval<_Types>()._Storage())...));
+
+template <class>
+struct _Variant_dispatcher;
+
+template <size_t... _Is>
+struct _Variant_dispatcher<index_sequence<_Is...>> {
+    template <class _Ret, class _Callable, class... _Types, bool _Any_valueless = ((_Is == 0) || ...)>
+    [[nodiscard]] static constexpr _Ret _Dispatch2(_Callable&& _Obj, _Types&&... _Args) {
+        if constexpr (_Any_valueless) {
+            (void) _Obj; 
+            ((void) _Args, ...); 
+            _Throw_bad_variant_access();
+        }
+
+
+
+
+
+#line 1493 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\variant"
+        else {
+            return ::std:: invoke(
+                static_cast<_Callable&&>(_Obj), _Variant_raw_get<_Is - 1>(static_cast<_Types&&>(_Args)._Storage())...);
+        }
+    }
+};
+
+template <class _Ret, class _Ordinals, class _Callable, class _Variants>
+struct _Variant_dispatch_table; 
+
+template <class _Ret, class... _Ordinals, class _Callable, class... _Variants>
+struct _Variant_dispatch_table<_Ret, _Meta_list<_Ordinals...>, _Callable,
+    _Meta_list<_Variants...>> { 
+    using _Dispatch_t                     = _Ret (*)(_Callable&&, _Variants&&...);
+    static constexpr _Dispatch_t _Array[] = {
+        &_Variant_dispatcher<_Ordinals>::template _Dispatch2<_Ret, _Callable, _Variants...>...};
+};
+
+template <class _Callable, class _IndexSequence, class... _Variants>
+struct _Variant_single_visit_result; 
+
+template <class _Callable, size_t... _Idxs, class... _Variants>
+struct _Variant_single_visit_result<_Callable, index_sequence<_Idxs...>,
+    _Variants...> { 
+                    
+    using type = decltype(::std:: invoke(::std:: declval<_Callable>(),
+        _Variant_raw_get<_Idxs == 0 ? 0 : _Idxs - 1>(::std:: declval<_Variants>()._Storage())...));
+};
+
+template <class _Callable, class _ListOfIndexVectors, class... _Variants>
+struct _Variant_all_visit_results_same; 
+
+template <class _Callable, class... _IndexVectors, class... _Variants>
+struct _Variant_all_visit_results_same<_Callable, _Meta_list<_IndexVectors...>, _Variants...>
+    : _All_same<typename _Variant_single_visit_result<_Callable, _IndexVectors,
+          _Variants...>::type...>::type { 
+                                          
+};
+
+template <class _To, class _Callable, class _ListOfIndexVectors, class... _Variants>
+struct _Variant_all_visit_results_implicitly_convertible; 
+
+template <class _To, class _Callable, class... _IndexVectors, class... _Variants>
+struct _Variant_all_visit_results_implicitly_convertible<_To, _Callable, _Meta_list<_IndexVectors...>, _Variants...>
+    : _Convertible_from_all<_To,
+          typename _Variant_single_visit_result<_Callable, _IndexVectors, _Variants...>::type...>::type {
+    
+    
+};
+
+template <int _Strategy>
+struct _Visit_strategy;
+
+template <>
+struct _Visit_strategy<-1> { 
+                             
+    template <class _Ret, class _ListOfIndexVectors, class _Callable, class... _Variants>
+    static constexpr _Ret _Visit2(
+        size_t _Idx, _Callable&& _Obj, _Variants&&... _Args) { 
+        constexpr size_t _Size = _Variant_total_states<_Remove_cvref_t<_Variants>...>;
+        static_assert(_Size > 256);
+        constexpr auto& _Array =
+            _Variant_dispatch_table<_Ret, _ListOfIndexVectors, _Callable, _Meta_list<_Variants...>>::_Array;
+        return _Array[_Idx](static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...);
+    }
+};
+
+template <>
+struct _Visit_strategy<0> {
+    template <class _Ret, class, class _Callable>
+    static constexpr _Ret _Visit2(size_t, _Callable&& _Obj) { 
+        if constexpr (is_void_v<_Ret>) {
+            return static_cast<void>(static_cast<_Callable&&>(_Obj)());
+        } else {
+            return static_cast<_Callable&&>(_Obj)();
+        }
+    }
+};
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+template <>
+struct _Visit_strategy<1> {
+    template <class _Ret, class _ListOfIndexVectors, class _Callable, class... _Variants>
+    static constexpr _Ret _Visit2(
+        size_t _Idx, _Callable&& _Obj, _Variants&&... _Args) { 
+        constexpr size_t _Size = _Variant_total_states<_Remove_cvref_t<_Variants>...>; static_assert(_Size > (4) / 4 && _Size <= (4)); switch (_Idx) { case (0): if constexpr ((0) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 1): if constexpr ((0 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 2): if constexpr ((0 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 3): if constexpr ((0 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); default: __assume(false); };
+    }
+};
+
+template <>
+struct _Visit_strategy<2> {
+    template <class _Ret, class _ListOfIndexVectors, class _Callable, class... _Variants>
+    static constexpr _Ret _Visit2(
+        size_t _Idx, _Callable&& _Obj, _Variants&&... _Args) { 
+        constexpr size_t _Size = _Variant_total_states<_Remove_cvref_t<_Variants>...>; static_assert(_Size > (16) / 4 && _Size <= (16)); switch (_Idx) { case (0): if constexpr ((0) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 1): if constexpr ((0 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 2): if constexpr ((0 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 3): if constexpr ((0 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 4): if constexpr ((0 + 4) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 4)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 4 + 1): if constexpr ((0 + 4 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 4 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 4 + 2): if constexpr ((0 + 4 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 4 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 4 + 3): if constexpr ((0 + 4 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 4 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 8): if constexpr ((0 + 8) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 8)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 8 + 1): if constexpr ((0 + 8 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 8 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 8 + 2): if constexpr ((0 + 8 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 8 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 8 + 3): if constexpr ((0 + 8 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 8 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 12): if constexpr ((0 + 12) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 12)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 12 + 1): if constexpr ((0 + 12 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 12 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 12 + 2): if constexpr ((0 + 12 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 12 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 12 + 3): if constexpr ((0 + 12 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 12 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); default: __assume(false); };
+    }
+};
+
+template <>
+struct _Visit_strategy<3> {
+    template <class _Ret, class _ListOfIndexVectors, class _Callable, class... _Variants>
+    static constexpr _Ret _Visit2(
+        size_t _Idx, _Callable&& _Obj, _Variants&&... _Args) { 
+        constexpr size_t _Size = _Variant_total_states<_Remove_cvref_t<_Variants>...>; static_assert(_Size > (64) / 4 && _Size <= (64)); switch (_Idx) { case (0): if constexpr ((0) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 1): if constexpr ((0 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 2): if constexpr ((0 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 3): if constexpr ((0 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 4): if constexpr ((0 + 4) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 4)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 4 + 1): if constexpr ((0 + 4 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 4 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 4 + 2): if constexpr ((0 + 4 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 4 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 4 + 3): if constexpr ((0 + 4 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 4 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 8): if constexpr ((0 + 8) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 8)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 8 + 1): if constexpr ((0 + 8 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 8 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 8 + 2): if constexpr ((0 + 8 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 8 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 8 + 3): if constexpr ((0 + 8 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 8 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 12): if constexpr ((0 + 12) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 12)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 12 + 1): if constexpr ((0 + 12 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 12 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 12 + 2): if constexpr ((0 + 12 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 12 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 12 + 3): if constexpr ((0 + 12 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 12 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 16): if constexpr ((0 + 16) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 16)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 16 + 1): if constexpr ((0 + 16 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 16 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 16 + 2): if constexpr ((0 + 16 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 16 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 16 + 3): if constexpr ((0 + 16 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 16 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 16 + 4): if constexpr ((0 + 16 + 4) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 16 + 4)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 16 + 4 + 1): if constexpr ((0 + 16 + 4 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 16 + 4 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 16 + 4 + 2): if constexpr ((0 + 16 + 4 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 16 + 4 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 16 + 4 + 3): if constexpr ((0 + 16 + 4 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 16 + 4 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 16 + 8): if constexpr ((0 + 16 + 8) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 16 + 8)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 16 + 8 + 1): if constexpr ((0 + 16 + 8 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 16 + 8 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 16 + 8 + 2): if constexpr ((0 + 16 + 8 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 16 + 8 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 16 + 8 + 3): if constexpr ((0 + 16 + 8 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 16 + 8 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 16 + 12): if constexpr ((0 + 16 + 12) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 16 + 12)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 16 + 12 + 1): if constexpr ((0 + 16 + 12 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 16 + 12 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 16 + 12 + 2): if constexpr ((0 + 16 + 12 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 16 + 12 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 16 + 12 + 3): if constexpr ((0 + 16 + 12 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 16 + 12 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 32): if constexpr ((0 + 32) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 32)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 32 + 1): if constexpr ((0 + 32 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 32 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 32 + 2): if constexpr ((0 + 32 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 32 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 32 + 3): if constexpr ((0 + 32 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 32 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 32 + 4): if constexpr ((0 + 32 + 4) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 32 + 4)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 32 + 4 + 1): if constexpr ((0 + 32 + 4 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 32 + 4 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 32 + 4 + 2): if constexpr ((0 + 32 + 4 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 32 + 4 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 32 + 4 + 3): if constexpr ((0 + 32 + 4 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 32 + 4 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 32 + 8): if constexpr ((0 + 32 + 8) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 32 + 8)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 32 + 8 + 1): if constexpr ((0 + 32 + 8 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 32 + 8 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 32 + 8 + 2): if constexpr ((0 + 32 + 8 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 32 + 8 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 32 + 8 + 3): if constexpr ((0 + 32 + 8 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 32 + 8 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 32 + 12): if constexpr ((0 + 32 + 12) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 32 + 12)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 32 + 12 + 1): if constexpr ((0 + 32 + 12 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 32 + 12 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 32 + 12 + 2): if constexpr ((0 + 32 + 12 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 32 + 12 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 32 + 12 + 3): if constexpr ((0 + 32 + 12 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 32 + 12 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 48): if constexpr ((0 + 48) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 48)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 48 + 1): if constexpr ((0 + 48 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 48 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 48 + 2): if constexpr ((0 + 48 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 48 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 48 + 3): if constexpr ((0 + 48 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 48 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 48 + 4): if constexpr ((0 + 48 + 4) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 48 + 4)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 48 + 4 + 1): if constexpr ((0 + 48 + 4 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 48 + 4 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 48 + 4 + 2): if constexpr ((0 + 48 + 4 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 48 + 4 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 48 + 4 + 3): if constexpr ((0 + 48 + 4 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 48 + 4 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 48 + 8): if constexpr ((0 + 48 + 8) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 48 + 8)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 48 + 8 + 1): if constexpr ((0 + 48 + 8 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 48 + 8 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 48 + 8 + 2): if constexpr ((0 + 48 + 8 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 48 + 8 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 48 + 8 + 3): if constexpr ((0 + 48 + 8 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 48 + 8 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 48 + 12): if constexpr ((0 + 48 + 12) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 48 + 12)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 48 + 12 + 1): if constexpr ((0 + 48 + 12 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 48 + 12 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 48 + 12 + 2): if constexpr ((0 + 48 + 12 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 48 + 12 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 48 + 12 + 3): if constexpr ((0 + 48 + 12 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 48 + 12 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); default: __assume(false); };
+    }
+};
+
+template <>
+struct _Visit_strategy<4> {
+    template <class _Ret, class _ListOfIndexVectors, class _Callable, class... _Variants>
+    static constexpr _Ret _Visit2(
+        size_t _Idx, _Callable&& _Obj, _Variants&&... _Args) { 
+        constexpr size_t _Size = _Variant_total_states<_Remove_cvref_t<_Variants>...>; static_assert(_Size > (256) / 4 && _Size <= (256)); switch (_Idx) { case (0): if constexpr ((0) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 1): if constexpr ((0 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 2): if constexpr ((0 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 3): if constexpr ((0 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 4): if constexpr ((0 + 4) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 4)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 4 + 1): if constexpr ((0 + 4 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 4 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 4 + 2): if constexpr ((0 + 4 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 4 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 4 + 3): if constexpr ((0 + 4 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 4 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 8): if constexpr ((0 + 8) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 8)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 8 + 1): if constexpr ((0 + 8 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 8 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 8 + 2): if constexpr ((0 + 8 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 8 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 8 + 3): if constexpr ((0 + 8 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 8 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 12): if constexpr ((0 + 12) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 12)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 12 + 1): if constexpr ((0 + 12 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 12 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 12 + 2): if constexpr ((0 + 12 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 12 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 12 + 3): if constexpr ((0 + 12 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 12 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 16): if constexpr ((0 + 16) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 16)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 16 + 1): if constexpr ((0 + 16 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 16 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 16 + 2): if constexpr ((0 + 16 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 16 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 16 + 3): if constexpr ((0 + 16 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 16 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 16 + 4): if constexpr ((0 + 16 + 4) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 16 + 4)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 16 + 4 + 1): if constexpr ((0 + 16 + 4 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 16 + 4 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 16 + 4 + 2): if constexpr ((0 + 16 + 4 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 16 + 4 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 16 + 4 + 3): if constexpr ((0 + 16 + 4 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 16 + 4 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 16 + 8): if constexpr ((0 + 16 + 8) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 16 + 8)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 16 + 8 + 1): if constexpr ((0 + 16 + 8 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 16 + 8 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 16 + 8 + 2): if constexpr ((0 + 16 + 8 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 16 + 8 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 16 + 8 + 3): if constexpr ((0 + 16 + 8 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 16 + 8 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 16 + 12): if constexpr ((0 + 16 + 12) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 16 + 12)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 16 + 12 + 1): if constexpr ((0 + 16 + 12 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 16 + 12 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 16 + 12 + 2): if constexpr ((0 + 16 + 12 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 16 + 12 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 16 + 12 + 3): if constexpr ((0 + 16 + 12 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 16 + 12 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 32): if constexpr ((0 + 32) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 32)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 32 + 1): if constexpr ((0 + 32 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 32 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 32 + 2): if constexpr ((0 + 32 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 32 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 32 + 3): if constexpr ((0 + 32 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 32 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 32 + 4): if constexpr ((0 + 32 + 4) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 32 + 4)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 32 + 4 + 1): if constexpr ((0 + 32 + 4 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 32 + 4 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 32 + 4 + 2): if constexpr ((0 + 32 + 4 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 32 + 4 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 32 + 4 + 3): if constexpr ((0 + 32 + 4 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 32 + 4 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 32 + 8): if constexpr ((0 + 32 + 8) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 32 + 8)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 32 + 8 + 1): if constexpr ((0 + 32 + 8 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 32 + 8 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 32 + 8 + 2): if constexpr ((0 + 32 + 8 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 32 + 8 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 32 + 8 + 3): if constexpr ((0 + 32 + 8 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 32 + 8 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 32 + 12): if constexpr ((0 + 32 + 12) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 32 + 12)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 32 + 12 + 1): if constexpr ((0 + 32 + 12 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 32 + 12 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 32 + 12 + 2): if constexpr ((0 + 32 + 12 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 32 + 12 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 32 + 12 + 3): if constexpr ((0 + 32 + 12 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 32 + 12 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 48): if constexpr ((0 + 48) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 48)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 48 + 1): if constexpr ((0 + 48 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 48 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 48 + 2): if constexpr ((0 + 48 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 48 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 48 + 3): if constexpr ((0 + 48 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 48 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 48 + 4): if constexpr ((0 + 48 + 4) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 48 + 4)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 48 + 4 + 1): if constexpr ((0 + 48 + 4 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 48 + 4 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 48 + 4 + 2): if constexpr ((0 + 48 + 4 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 48 + 4 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 48 + 4 + 3): if constexpr ((0 + 48 + 4 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 48 + 4 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 48 + 8): if constexpr ((0 + 48 + 8) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 48 + 8)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 48 + 8 + 1): if constexpr ((0 + 48 + 8 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 48 + 8 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 48 + 8 + 2): if constexpr ((0 + 48 + 8 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 48 + 8 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 48 + 8 + 3): if constexpr ((0 + 48 + 8 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 48 + 8 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 48 + 12): if constexpr ((0 + 48 + 12) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 48 + 12)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 48 + 12 + 1): if constexpr ((0 + 48 + 12 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 48 + 12 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 48 + 12 + 2): if constexpr ((0 + 48 + 12 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 48 + 12 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 48 + 12 + 3): if constexpr ((0 + 48 + 12 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 48 + 12 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 64): if constexpr ((0 + 64) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 64)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 64 + 1): if constexpr ((0 + 64 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 64 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 64 + 2): if constexpr ((0 + 64 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 64 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 64 + 3): if constexpr ((0 + 64 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 64 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 64 + 4): if constexpr ((0 + 64 + 4) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 64 + 4)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 64 + 4 + 1): if constexpr ((0 + 64 + 4 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 64 + 4 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 64 + 4 + 2): if constexpr ((0 + 64 + 4 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 64 + 4 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 64 + 4 + 3): if constexpr ((0 + 64 + 4 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 64 + 4 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 64 + 8): if constexpr ((0 + 64 + 8) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 64 + 8)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 64 + 8 + 1): if constexpr ((0 + 64 + 8 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 64 + 8 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 64 + 8 + 2): if constexpr ((0 + 64 + 8 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 64 + 8 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 64 + 8 + 3): if constexpr ((0 + 64 + 8 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 64 + 8 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 64 + 12): if constexpr ((0 + 64 + 12) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 64 + 12)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 64 + 12 + 1): if constexpr ((0 + 64 + 12 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 64 + 12 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 64 + 12 + 2): if constexpr ((0 + 64 + 12 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 64 + 12 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 64 + 12 + 3): if constexpr ((0 + 64 + 12 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 64 + 12 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 64 + 16): if constexpr ((0 + 64 + 16) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 64 + 16)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 64 + 16 + 1): if constexpr ((0 + 64 + 16 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 64 + 16 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 64 + 16 + 2): if constexpr ((0 + 64 + 16 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 64 + 16 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 64 + 16 + 3): if constexpr ((0 + 64 + 16 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 64 + 16 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 64 + 16 + 4): if constexpr ((0 + 64 + 16 + 4) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 64 + 16 + 4)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 64 + 16 + 4 + 1): if constexpr ((0 + 64 + 16 + 4 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 64 + 16 + 4 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 64 + 16 + 4 + 2): if constexpr ((0 + 64 + 16 + 4 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 64 + 16 + 4 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 64 + 16 + 4 + 3): if constexpr ((0 + 64 + 16 + 4 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 64 + 16 + 4 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 64 + 16 + 8): if constexpr ((0 + 64 + 16 + 8) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 64 + 16 + 8)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 64 + 16 + 8 + 1): if constexpr ((0 + 64 + 16 + 8 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 64 + 16 + 8 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 64 + 16 + 8 + 2): if constexpr ((0 + 64 + 16 + 8 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 64 + 16 + 8 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 64 + 16 + 8 + 3): if constexpr ((0 + 64 + 16 + 8 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 64 + 16 + 8 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 64 + 16 + 12): if constexpr ((0 + 64 + 16 + 12) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 64 + 16 + 12)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 64 + 16 + 12 + 1): if constexpr ((0 + 64 + 16 + 12 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 64 + 16 + 12 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 64 + 16 + 12 + 2): if constexpr ((0 + 64 + 16 + 12 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 64 + 16 + 12 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 64 + 16 + 12 + 3): if constexpr ((0 + 64 + 16 + 12 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 64 + 16 + 12 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 64 + 32): if constexpr ((0 + 64 + 32) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 64 + 32)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 64 + 32 + 1): if constexpr ((0 + 64 + 32 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 64 + 32 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 64 + 32 + 2): if constexpr ((0 + 64 + 32 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 64 + 32 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 64 + 32 + 3): if constexpr ((0 + 64 + 32 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 64 + 32 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 64 + 32 + 4): if constexpr ((0 + 64 + 32 + 4) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 64 + 32 + 4)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 64 + 32 + 4 + 1): if constexpr ((0 + 64 + 32 + 4 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 64 + 32 + 4 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 64 + 32 + 4 + 2): if constexpr ((0 + 64 + 32 + 4 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 64 + 32 + 4 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 64 + 32 + 4 + 3): if constexpr ((0 + 64 + 32 + 4 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 64 + 32 + 4 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 64 + 32 + 8): if constexpr ((0 + 64 + 32 + 8) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 64 + 32 + 8)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 64 + 32 + 8 + 1): if constexpr ((0 + 64 + 32 + 8 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 64 + 32 + 8 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 64 + 32 + 8 + 2): if constexpr ((0 + 64 + 32 + 8 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 64 + 32 + 8 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 64 + 32 + 8 + 3): if constexpr ((0 + 64 + 32 + 8 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 64 + 32 + 8 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 64 + 32 + 12): if constexpr ((0 + 64 + 32 + 12) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 64 + 32 + 12)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 64 + 32 + 12 + 1): if constexpr ((0 + 64 + 32 + 12 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 64 + 32 + 12 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 64 + 32 + 12 + 2): if constexpr ((0 + 64 + 32 + 12 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 64 + 32 + 12 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 64 + 32 + 12 + 3): if constexpr ((0 + 64 + 32 + 12 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 64 + 32 + 12 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 64 + 48): if constexpr ((0 + 64 + 48) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 64 + 48)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 64 + 48 + 1): if constexpr ((0 + 64 + 48 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 64 + 48 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 64 + 48 + 2): if constexpr ((0 + 64 + 48 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 64 + 48 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 64 + 48 + 3): if constexpr ((0 + 64 + 48 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 64 + 48 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 64 + 48 + 4): if constexpr ((0 + 64 + 48 + 4) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 64 + 48 + 4)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 64 + 48 + 4 + 1): if constexpr ((0 + 64 + 48 + 4 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 64 + 48 + 4 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 64 + 48 + 4 + 2): if constexpr ((0 + 64 + 48 + 4 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 64 + 48 + 4 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 64 + 48 + 4 + 3): if constexpr ((0 + 64 + 48 + 4 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 64 + 48 + 4 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 64 + 48 + 8): if constexpr ((0 + 64 + 48 + 8) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 64 + 48 + 8)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 64 + 48 + 8 + 1): if constexpr ((0 + 64 + 48 + 8 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 64 + 48 + 8 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 64 + 48 + 8 + 2): if constexpr ((0 + 64 + 48 + 8 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 64 + 48 + 8 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 64 + 48 + 8 + 3): if constexpr ((0 + 64 + 48 + 8 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 64 + 48 + 8 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 64 + 48 + 12): if constexpr ((0 + 64 + 48 + 12) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 64 + 48 + 12)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 64 + 48 + 12 + 1): if constexpr ((0 + 64 + 48 + 12 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 64 + 48 + 12 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 64 + 48 + 12 + 2): if constexpr ((0 + 64 + 48 + 12 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 64 + 48 + 12 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 64 + 48 + 12 + 3): if constexpr ((0 + 64 + 48 + 12 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 64 + 48 + 12 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 128): if constexpr ((0 + 128) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 128)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 128 + 1): if constexpr ((0 + 128 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 128 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 128 + 2): if constexpr ((0 + 128 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 128 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 128 + 3): if constexpr ((0 + 128 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 128 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 128 + 4): if constexpr ((0 + 128 + 4) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 128 + 4)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 128 + 4 + 1): if constexpr ((0 + 128 + 4 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 128 + 4 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 128 + 4 + 2): if constexpr ((0 + 128 + 4 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 128 + 4 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 128 + 4 + 3): if constexpr ((0 + 128 + 4 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 128 + 4 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 128 + 8): if constexpr ((0 + 128 + 8) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 128 + 8)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 128 + 8 + 1): if constexpr ((0 + 128 + 8 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 128 + 8 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 128 + 8 + 2): if constexpr ((0 + 128 + 8 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 128 + 8 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 128 + 8 + 3): if constexpr ((0 + 128 + 8 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 128 + 8 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 128 + 12): if constexpr ((0 + 128 + 12) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 128 + 12)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 128 + 12 + 1): if constexpr ((0 + 128 + 12 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 128 + 12 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 128 + 12 + 2): if constexpr ((0 + 128 + 12 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 128 + 12 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 128 + 12 + 3): if constexpr ((0 + 128 + 12 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 128 + 12 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 128 + 16): if constexpr ((0 + 128 + 16) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 128 + 16)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 128 + 16 + 1): if constexpr ((0 + 128 + 16 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 128 + 16 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 128 + 16 + 2): if constexpr ((0 + 128 + 16 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 128 + 16 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 128 + 16 + 3): if constexpr ((0 + 128 + 16 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 128 + 16 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 128 + 16 + 4): if constexpr ((0 + 128 + 16 + 4) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 128 + 16 + 4)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 128 + 16 + 4 + 1): if constexpr ((0 + 128 + 16 + 4 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 128 + 16 + 4 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 128 + 16 + 4 + 2): if constexpr ((0 + 128 + 16 + 4 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 128 + 16 + 4 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 128 + 16 + 4 + 3): if constexpr ((0 + 128 + 16 + 4 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 128 + 16 + 4 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 128 + 16 + 8): if constexpr ((0 + 128 + 16 + 8) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 128 + 16 + 8)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 128 + 16 + 8 + 1): if constexpr ((0 + 128 + 16 + 8 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 128 + 16 + 8 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 128 + 16 + 8 + 2): if constexpr ((0 + 128 + 16 + 8 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 128 + 16 + 8 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 128 + 16 + 8 + 3): if constexpr ((0 + 128 + 16 + 8 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 128 + 16 + 8 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 128 + 16 + 12): if constexpr ((0 + 128 + 16 + 12) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 128 + 16 + 12)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 128 + 16 + 12 + 1): if constexpr ((0 + 128 + 16 + 12 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 128 + 16 + 12 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 128 + 16 + 12 + 2): if constexpr ((0 + 128 + 16 + 12 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 128 + 16 + 12 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 128 + 16 + 12 + 3): if constexpr ((0 + 128 + 16 + 12 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 128 + 16 + 12 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 128 + 32): if constexpr ((0 + 128 + 32) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 128 + 32)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 128 + 32 + 1): if constexpr ((0 + 128 + 32 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 128 + 32 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 128 + 32 + 2): if constexpr ((0 + 128 + 32 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 128 + 32 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 128 + 32 + 3): if constexpr ((0 + 128 + 32 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 128 + 32 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 128 + 32 + 4): if constexpr ((0 + 128 + 32 + 4) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 128 + 32 + 4)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 128 + 32 + 4 + 1): if constexpr ((0 + 128 + 32 + 4 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 128 + 32 + 4 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 128 + 32 + 4 + 2): if constexpr ((0 + 128 + 32 + 4 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 128 + 32 + 4 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 128 + 32 + 4 + 3): if constexpr ((0 + 128 + 32 + 4 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 128 + 32 + 4 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 128 + 32 + 8): if constexpr ((0 + 128 + 32 + 8) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 128 + 32 + 8)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 128 + 32 + 8 + 1): if constexpr ((0 + 128 + 32 + 8 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 128 + 32 + 8 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 128 + 32 + 8 + 2): if constexpr ((0 + 128 + 32 + 8 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 128 + 32 + 8 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 128 + 32 + 8 + 3): if constexpr ((0 + 128 + 32 + 8 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 128 + 32 + 8 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 128 + 32 + 12): if constexpr ((0 + 128 + 32 + 12) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 128 + 32 + 12)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 128 + 32 + 12 + 1): if constexpr ((0 + 128 + 32 + 12 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 128 + 32 + 12 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 128 + 32 + 12 + 2): if constexpr ((0 + 128 + 32 + 12 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 128 + 32 + 12 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 128 + 32 + 12 + 3): if constexpr ((0 + 128 + 32 + 12 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 128 + 32 + 12 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 128 + 48): if constexpr ((0 + 128 + 48) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 128 + 48)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 128 + 48 + 1): if constexpr ((0 + 128 + 48 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 128 + 48 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 128 + 48 + 2): if constexpr ((0 + 128 + 48 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 128 + 48 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 128 + 48 + 3): if constexpr ((0 + 128 + 48 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 128 + 48 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 128 + 48 + 4): if constexpr ((0 + 128 + 48 + 4) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 128 + 48 + 4)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 128 + 48 + 4 + 1): if constexpr ((0 + 128 + 48 + 4 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 128 + 48 + 4 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 128 + 48 + 4 + 2): if constexpr ((0 + 128 + 48 + 4 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 128 + 48 + 4 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 128 + 48 + 4 + 3): if constexpr ((0 + 128 + 48 + 4 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 128 + 48 + 4 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 128 + 48 + 8): if constexpr ((0 + 128 + 48 + 8) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 128 + 48 + 8)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 128 + 48 + 8 + 1): if constexpr ((0 + 128 + 48 + 8 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 128 + 48 + 8 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 128 + 48 + 8 + 2): if constexpr ((0 + 128 + 48 + 8 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 128 + 48 + 8 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 128 + 48 + 8 + 3): if constexpr ((0 + 128 + 48 + 8 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 128 + 48 + 8 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 128 + 48 + 12): if constexpr ((0 + 128 + 48 + 12) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 128 + 48 + 12)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 128 + 48 + 12 + 1): if constexpr ((0 + 128 + 48 + 12 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 128 + 48 + 12 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 128 + 48 + 12 + 2): if constexpr ((0 + 128 + 48 + 12 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 128 + 48 + 12 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 128 + 48 + 12 + 3): if constexpr ((0 + 128 + 48 + 12 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 128 + 48 + 12 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 192): if constexpr ((0 + 192) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 192)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 192 + 1): if constexpr ((0 + 192 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 192 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 192 + 2): if constexpr ((0 + 192 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 192 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 192 + 3): if constexpr ((0 + 192 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 192 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 192 + 4): if constexpr ((0 + 192 + 4) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 192 + 4)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 192 + 4 + 1): if constexpr ((0 + 192 + 4 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 192 + 4 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 192 + 4 + 2): if constexpr ((0 + 192 + 4 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 192 + 4 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 192 + 4 + 3): if constexpr ((0 + 192 + 4 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 192 + 4 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 192 + 8): if constexpr ((0 + 192 + 8) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 192 + 8)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 192 + 8 + 1): if constexpr ((0 + 192 + 8 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 192 + 8 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 192 + 8 + 2): if constexpr ((0 + 192 + 8 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 192 + 8 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 192 + 8 + 3): if constexpr ((0 + 192 + 8 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 192 + 8 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 192 + 12): if constexpr ((0 + 192 + 12) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 192 + 12)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 192 + 12 + 1): if constexpr ((0 + 192 + 12 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 192 + 12 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 192 + 12 + 2): if constexpr ((0 + 192 + 12 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 192 + 12 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 192 + 12 + 3): if constexpr ((0 + 192 + 12 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 192 + 12 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 192 + 16): if constexpr ((0 + 192 + 16) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 192 + 16)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 192 + 16 + 1): if constexpr ((0 + 192 + 16 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 192 + 16 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 192 + 16 + 2): if constexpr ((0 + 192 + 16 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 192 + 16 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 192 + 16 + 3): if constexpr ((0 + 192 + 16 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 192 + 16 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 192 + 16 + 4): if constexpr ((0 + 192 + 16 + 4) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 192 + 16 + 4)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 192 + 16 + 4 + 1): if constexpr ((0 + 192 + 16 + 4 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 192 + 16 + 4 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 192 + 16 + 4 + 2): if constexpr ((0 + 192 + 16 + 4 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 192 + 16 + 4 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 192 + 16 + 4 + 3): if constexpr ((0 + 192 + 16 + 4 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 192 + 16 + 4 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 192 + 16 + 8): if constexpr ((0 + 192 + 16 + 8) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 192 + 16 + 8)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 192 + 16 + 8 + 1): if constexpr ((0 + 192 + 16 + 8 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 192 + 16 + 8 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 192 + 16 + 8 + 2): if constexpr ((0 + 192 + 16 + 8 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 192 + 16 + 8 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 192 + 16 + 8 + 3): if constexpr ((0 + 192 + 16 + 8 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 192 + 16 + 8 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 192 + 16 + 12): if constexpr ((0 + 192 + 16 + 12) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 192 + 16 + 12)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 192 + 16 + 12 + 1): if constexpr ((0 + 192 + 16 + 12 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 192 + 16 + 12 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 192 + 16 + 12 + 2): if constexpr ((0 + 192 + 16 + 12 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 192 + 16 + 12 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 192 + 16 + 12 + 3): if constexpr ((0 + 192 + 16 + 12 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 192 + 16 + 12 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 192 + 32): if constexpr ((0 + 192 + 32) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 192 + 32)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 192 + 32 + 1): if constexpr ((0 + 192 + 32 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 192 + 32 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 192 + 32 + 2): if constexpr ((0 + 192 + 32 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 192 + 32 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 192 + 32 + 3): if constexpr ((0 + 192 + 32 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 192 + 32 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 192 + 32 + 4): if constexpr ((0 + 192 + 32 + 4) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 192 + 32 + 4)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 192 + 32 + 4 + 1): if constexpr ((0 + 192 + 32 + 4 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 192 + 32 + 4 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 192 + 32 + 4 + 2): if constexpr ((0 + 192 + 32 + 4 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 192 + 32 + 4 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 192 + 32 + 4 + 3): if constexpr ((0 + 192 + 32 + 4 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 192 + 32 + 4 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 192 + 32 + 8): if constexpr ((0 + 192 + 32 + 8) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 192 + 32 + 8)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 192 + 32 + 8 + 1): if constexpr ((0 + 192 + 32 + 8 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 192 + 32 + 8 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 192 + 32 + 8 + 2): if constexpr ((0 + 192 + 32 + 8 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 192 + 32 + 8 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 192 + 32 + 8 + 3): if constexpr ((0 + 192 + 32 + 8 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 192 + 32 + 8 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 192 + 32 + 12): if constexpr ((0 + 192 + 32 + 12) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 192 + 32 + 12)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 192 + 32 + 12 + 1): if constexpr ((0 + 192 + 32 + 12 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 192 + 32 + 12 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 192 + 32 + 12 + 2): if constexpr ((0 + 192 + 32 + 12 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 192 + 32 + 12 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 192 + 32 + 12 + 3): if constexpr ((0 + 192 + 32 + 12 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 192 + 32 + 12 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 192 + 48): if constexpr ((0 + 192 + 48) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 192 + 48)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 192 + 48 + 1): if constexpr ((0 + 192 + 48 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 192 + 48 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 192 + 48 + 2): if constexpr ((0 + 192 + 48 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 192 + 48 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 192 + 48 + 3): if constexpr ((0 + 192 + 48 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 192 + 48 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 192 + 48 + 4): if constexpr ((0 + 192 + 48 + 4) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 192 + 48 + 4)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 192 + 48 + 4 + 1): if constexpr ((0 + 192 + 48 + 4 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 192 + 48 + 4 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 192 + 48 + 4 + 2): if constexpr ((0 + 192 + 48 + 4 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 192 + 48 + 4 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 192 + 48 + 4 + 3): if constexpr ((0 + 192 + 48 + 4 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 192 + 48 + 4 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 192 + 48 + 8): if constexpr ((0 + 192 + 48 + 8) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 192 + 48 + 8)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 192 + 48 + 8 + 1): if constexpr ((0 + 192 + 48 + 8 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 192 + 48 + 8 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 192 + 48 + 8 + 2): if constexpr ((0 + 192 + 48 + 8 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 192 + 48 + 8 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 192 + 48 + 8 + 3): if constexpr ((0 + 192 + 48 + 8 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 192 + 48 + 8 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 192 + 48 + 12): if constexpr ((0 + 192 + 48 + 12) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 192 + 48 + 12)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 192 + 48 + 12 + 1): if constexpr ((0 + 192 + 48 + 12 + 1) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 192 + 48 + 12 + 1)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 192 + 48 + 12 + 2): if constexpr ((0 + 192 + 48 + 12 + 2) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 192 + 48 + 12 + 2)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); case (0 + 192 + 48 + 12 + 3): if constexpr ((0 + 192 + 48 + 12 + 3) < _Size) { using _Indices = _Meta_at_c<_ListOfIndexVectors, (0 + 192 + 48 + 12 + 3)>; return _Variant_dispatcher<_Indices>::template _Dispatch2<_Ret, _Callable, _Variants...>( static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...); } __assume(false); default: __assume(false); };
+    }
+};
+
+
+
+
+template <class... _Types>
+variant<_Types...>& _As_variant_(variant<_Types...>&);
+template <class... _Types>
+const variant<_Types...>& _As_variant_(const variant<_Types...>&);
+template <class... _Types>
+variant<_Types...>&& _As_variant_(variant<_Types...>&&);
+template <class... _Types>
+const variant<_Types...>&& _As_variant_(const variant<_Types...>&&);
+template <class _Ty>
+using _As_variant = 
+    decltype(_As_variant_(::std:: declval<_Ty>()));
+
+template <size_t _Size, class _Ret, class _ListOfIndexVectors, class _Callable, class... _Variants>
+constexpr _Ret _Visit_impl(_Callable&& _Obj, _Variants&&... _Args) {
+    constexpr int _Strategy =
+        _Size == 1 ? 0 : _Size <= 4 ? 1 : _Size <= 16 ? 2 : _Size <= 64 ? 3 : _Size <= 256 ? 4 : -1;
+    return _Visit_strategy<_Strategy>::template _Visit2<_Ret, _ListOfIndexVectors>(
+        _Variant_visit_index1(0, static_cast<_As_variant<_Variants>&>(_Args)...), static_cast<_Callable&&>(_Obj),
+        static_cast<_As_variant<_Variants>&&>(_Args)...);
+}
+
+template <class _Callable, class... _Variants, class = void_t<_As_variant<_Variants>...>>
+constexpr _Variant_visit_result_t<_Callable, _As_variant<_Variants>...> visit(_Callable&& _Obj, _Variants&&... _Args) {
+    
+    constexpr auto _Size = _Variant_total_states<_Remove_cvref_t<_As_variant<_Variants>>...>;
+    using _ListOfIndexLists =
+        _Meta_list<_Meta_as_list<make_index_sequence<1 + variant_size_v<_Remove_cvref_t<_As_variant<_Variants>>>>>...>;
+    using _ListOfIndexVectors =
+        _Meta_transform<_Meta_quote<_Meta_as_integer_sequence>, _Meta_cartesian_product<_ListOfIndexLists>>;
+    using _Ret = _Variant_visit_result_t<_Callable, _As_variant<_Variants>...>;
+    static_assert(_Variant_all_visit_results_same<_Callable, _ListOfIndexVectors, _As_variant<_Variants>...>::value,
+        "visit() requires the result of all potential invocations to have the same type and value category "
+        "(N4835 [variant.visit]/2).");
+
+    return _Visit_impl<_Size, _Ret, _ListOfIndexVectors>(
+        static_cast<_Callable&&>(_Obj), static_cast<_Variants&&>(_Args)...);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#line 1686 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\variant"
+
+
+struct monostate {};
+
+
+[[nodiscard]] constexpr bool operator==(monostate, monostate) noexcept {
+    return true;
+}
+[[nodiscard]] constexpr bool operator!=(monostate, monostate) noexcept {
+    return false;
+}
+[[nodiscard]] constexpr bool operator<(monostate, monostate) noexcept {
+    return false;
+}
+[[nodiscard]] constexpr bool operator>(monostate, monostate) noexcept {
+    return false;
+}
+[[nodiscard]] constexpr bool operator<=(monostate, monostate) noexcept {
+    return true;
+}
+[[nodiscard]] constexpr bool operator>=(monostate, monostate) noexcept {
+    return true;
+}
+
+
+template <class... _Types,
+    enable_if_t<conjunction_v<is_move_constructible<_Types>..., is_swappable<_Types>...>, int> = 0>
+void swap(variant<_Types...>& _Left, variant<_Types...>& _Right) noexcept(noexcept(_Left.swap(_Right))) {
+    _Left.swap(_Right);
+}
+
+
+struct _Variant_hash_visitor { 
+    template <class _Ty, size_t _Idx>
+    [[nodiscard]] size_t operator()(_Tagged<const _Ty&, _Idx> _Obj) const
+        noexcept(disjunction_v<bool_constant<_Idx == variant_npos>,
+            is_nothrow_invocable<hash<_Ty>, const _Ty&>>) { 
+        if constexpr (_Idx == variant_npos) { 
+            return 0;
+        } else { 
+            return hash<_Ty>{}(_Obj._Val);
+        }
+    }
+};
+
+template <class... _Types>
+struct hash<variant<_Types...>> : _Conditionally_enabled_hash<variant<_Types...>,
+                                      conjunction_v<is_default_constructible<hash<remove_const_t<_Types>>>...>> {
+    [[nodiscard]] static size_t _Do_hash(const variant<_Types...>& _Var) noexcept(
+        conjunction_v<_Is_nothrow_hashable<remove_const_t<_Types>>...>) {
+        
+        return _Variant_raw_visit(_Var.index(), _Var._Storage(), _Variant_hash_visitor{});
+    }
+};
+
+template <>
+struct hash<monostate> {
+    [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef monostate argument_type;
+    [[deprecated( "warning STL4007: Many result_type typedefs " "and all argument_type, first_argument_type, and second_argument_type typedefs are deprecated in C++17. " "You can define _SILENCE_CXX17_ADAPTOR_TYPEDEFS_DEPRECATION_WARNING " "or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.")]] typedef size_t result_type;
+
+    [[nodiscard]] size_t operator()(monostate) const noexcept {
+        return 1729; 
+    }
+};
+
+}
+
+
+
+
+
+
+
+
+
+
+#pragma warning(pop)
+#pragma pack(pop)
+#line 1765 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\variant"
+#line 1766 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\variant"
+#line 1767 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\variant"
+#line 4 "D:\\C++\\Books\\A Tour of C++ 2nd Edition\\ATourOfCPlusPlus\\ATourOfCPlusPlus\\main.cpp"
 #line 1 "D:\\C++\\Books\\A Tour of C++ 2nd Edition\\ATourOfCPlusPlus\\ATourOfCPlusPlus\\Student.h"
 #pragma once
 
@@ -59536,24 +62738,702 @@ struct Student
 	int operator[](int index);
 
 	int operator+();
+		
+	bool operator==(int x);
 
+	operator bool();
+
+	
 };
-#line 4 "D:\\C++\\Books\\A Tour of C++ 2nd Edition\\ATourOfCPlusPlus\\ATourOfCPlusPlus\\main.cpp"
+#line 5 "D:\\C++\\Books\\A Tour of C++ 2nd Edition\\ATourOfCPlusPlus\\ATourOfCPlusPlus\\main.cpp"
+#line 1 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\string"
+
+
+
+
+
+#pragma once
+
+
+
+
+
+
+
+
+#line 1 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\cctype"
+
+
+
+
+
+#pragma once
+
+
+
+
+
+
+
+#pragma pack(push, 8)
+#pragma warning(push, 3)
+#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294   5053 )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+namespace std {
+using :: isalnum;
+using :: isalpha;
+using :: iscntrl;
+using :: isdigit;
+using :: isgraph;
+using :: islower;
+using :: isprint;
+using :: ispunct;
+using :: isspace;
+using :: isupper;
+using :: isxdigit;
+using :: tolower;
+using :: toupper;
+
+using :: isblank;
+}
+
+
+
+#pragma warning(pop)
+#pragma pack(pop)
+
+#line 61 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\cctype"
+#line 62 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\cctype"
+#line 16 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\string"
+
+#pragma pack(push, 8)
+#pragma warning(push, 3)
+#pragma warning(disable : 4180 4412 4455 4472 4494 4514 4571 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294   5053 )
+
+
+
+
+namespace std {
+
+template <class _Elem, class _Traits, class _Alloc>
+basic_istream<_Elem, _Traits>& getline(basic_istream<_Elem, _Traits>&& _Istr,
+    basic_string<_Elem, _Traits, _Alloc>& _Str,
+    const _Elem _Delim) { 
+    using _Myis = basic_istream<_Elem, _Traits>;
+
+    typename _Myis::iostate _State = _Myis::goodbit;
+    bool _Changed                  = false;
+    const typename _Myis::sentry _Ok(_Istr, true);
+
+    if (_Ok) { 
+        try {
+        _Str.erase();
+        const typename _Traits::int_type _Metadelim = _Traits::to_int_type(_Delim);
+        typename _Traits::int_type _Meta            = _Istr.rdbuf()->sgetc();
+
+        for (;; _Meta = _Istr.rdbuf()->snextc()) {
+            if (_Traits::eq_int_type(_Traits::eof(), _Meta)) { 
+                _State |= _Myis::eofbit;
+                break;
+            } else if (_Traits::eq_int_type(_Meta, _Metadelim)) { 
+                _Changed = true;
+                _Istr.rdbuf()->sbumpc();
+                break;
+            } else if (_Str.max_size() <= _Str.size()) { 
+                _State |= _Myis::failbit;
+                break;
+            } else { 
+                _Str += _Traits::to_char_type(_Meta);
+                _Changed = true;
+            }
+        }
+        } catch (...) { (_Istr) .setstate(_Myis::badbit, true); }
+    }
+
+    if (!_Changed) {
+        _State |= _Myis::failbit;
+    }
+
+    _Istr.setstate(_State);
+    return _Istr;
+}
+
+template <class _Elem, class _Traits, class _Alloc>
+basic_istream<_Elem, _Traits>& getline(basic_istream<_Elem, _Traits>&& _Istr,
+    basic_string<_Elem, _Traits, _Alloc>& _Str) { 
+    return getline(_Istr, _Str, _Istr.widen('\n'));
+}
+
+template <class _Elem, class _Traits, class _Alloc>
+basic_istream<_Elem, _Traits>& getline(basic_istream<_Elem, _Traits>& _Istr, basic_string<_Elem, _Traits, _Alloc>& _Str,
+    const _Elem _Delim) { 
+    return getline(::std:: move(_Istr), _Str, _Delim);
+}
+
+template <class _Elem, class _Traits, class _Alloc>
+basic_istream<_Elem, _Traits>& getline(basic_istream<_Elem, _Traits>& _Istr,
+    basic_string<_Elem, _Traits, _Alloc>& _Str) { 
+    return getline(::std:: move(_Istr), _Str, _Istr.widen('\n'));
+}
+
+
+
+inline int stoi(const string& _Str, size_t* _Idx = nullptr, int _Base = 10) {
+    
+    int& _Errno_ref  = (*_errno()); 
+    const char* _Ptr = _Str.c_str();
+    char* _Eptr;
+    _Errno_ref      = 0;
+    const long _Ans = :: strtol(_Ptr, &_Eptr, _Base);
+
+    if (_Ptr == _Eptr) {
+        _Xinvalid_argument("invalid stoi argument");
+    }
+
+    if (_Errno_ref == 34 || _Ans < (-2147483647 - 1) || 2147483647 < _Ans) {
+        _Xout_of_range("stoi argument out of range");
+    }
+
+    if (_Idx) {
+        *_Idx = static_cast<size_t>(_Eptr - _Ptr);
+    }
+
+    return static_cast<int>(_Ans);
+}
+
+inline long stol(const string& _Str, size_t* _Idx = nullptr, int _Base = 10) {
+    
+    int& _Errno_ref  = (*_errno()); 
+    const char* _Ptr = _Str.c_str();
+    char* _Eptr;
+    _Errno_ref      = 0;
+    const long _Ans = :: strtol(_Ptr, &_Eptr, _Base);
+
+    if (_Ptr == _Eptr) {
+        _Xinvalid_argument("invalid stol argument");
+    }
+
+    if (_Errno_ref == 34) {
+        _Xout_of_range("stol argument out of range");
+    }
+
+    if (_Idx) {
+        *_Idx = static_cast<size_t>(_Eptr - _Ptr);
+    }
+
+    return _Ans;
+}
+
+inline unsigned long stoul(const string& _Str, size_t* _Idx = nullptr, int _Base = 10) {
+    
+    int& _Errno_ref  = (*_errno()); 
+    const char* _Ptr = _Str.c_str();
+    char* _Eptr;
+    _Errno_ref               = 0;
+    const unsigned long _Ans = :: strtoul(_Ptr, &_Eptr, _Base);
+
+    if (_Ptr == _Eptr) {
+        _Xinvalid_argument("invalid stoul argument");
+    }
+
+    if (_Errno_ref == 34) {
+        _Xout_of_range("stoul argument out of range");
+    }
+
+    if (_Idx) {
+        *_Idx = static_cast<size_t>(_Eptr - _Ptr);
+    }
+
+    return _Ans;
+}
+
+inline long long stoll(const string& _Str, size_t* _Idx = nullptr, int _Base = 10) {
+    
+    int& _Errno_ref  = (*_errno()); 
+    const char* _Ptr = _Str.c_str();
+    char* _Eptr;
+    _Errno_ref           = 0;
+    const long long _Ans = :: strtoll(_Ptr, &_Eptr, _Base);
+
+    if (_Ptr == _Eptr) {
+        _Xinvalid_argument("invalid stoll argument");
+    }
+
+    if (_Errno_ref == 34) {
+        _Xout_of_range("stoll argument out of range");
+    }
+
+    if (_Idx) {
+        *_Idx = static_cast<size_t>(_Eptr - _Ptr);
+    }
+
+    return _Ans;
+}
+
+inline unsigned long long stoull(const string& _Str, size_t* _Idx = nullptr, int _Base = 10) {
+    
+    int& _Errno_ref  = (*_errno()); 
+    const char* _Ptr = _Str.c_str();
+    char* _Eptr;
+    _Errno_ref                    = 0;
+    const unsigned long long _Ans = :: strtoull(_Ptr, &_Eptr, _Base);
+
+    if (_Ptr == _Eptr) {
+        _Xinvalid_argument("invalid stoull argument");
+    }
+
+    if (_Errno_ref == 34) {
+        _Xout_of_range("stoull argument out of range");
+    }
+
+    if (_Idx) {
+        *_Idx = static_cast<size_t>(_Eptr - _Ptr);
+    }
+
+    return _Ans;
+}
+
+inline float stof(const string& _Str, size_t* _Idx = nullptr) { 
+    int& _Errno_ref  = (*_errno()); 
+    const char* _Ptr = _Str.c_str();
+    char* _Eptr;
+    _Errno_ref       = 0;
+    const float _Ans = :: strtof(_Ptr, &_Eptr);
+
+    if (_Ptr == _Eptr) {
+        _Xinvalid_argument("invalid stof argument");
+    }
+
+    if (_Errno_ref == 34) {
+        _Xout_of_range("stof argument out of range");
+    }
+
+    if (_Idx) {
+        *_Idx = static_cast<size_t>(_Eptr - _Ptr);
+    }
+
+    return _Ans;
+}
+
+inline double stod(const string& _Str, size_t* _Idx = nullptr) { 
+    int& _Errno_ref  = (*_errno()); 
+    const char* _Ptr = _Str.c_str();
+    char* _Eptr;
+    _Errno_ref        = 0;
+    const double _Ans = :: strtod(_Ptr, &_Eptr);
+
+    if (_Ptr == _Eptr) {
+        _Xinvalid_argument("invalid stod argument");
+    }
+
+    if (_Errno_ref == 34) {
+        _Xout_of_range("stod argument out of range");
+    }
+
+    if (_Idx) {
+        *_Idx = static_cast<size_t>(_Eptr - _Ptr);
+    }
+
+    return _Ans;
+}
+
+inline long double stold(const string& _Str, size_t* _Idx = nullptr) { 
+    int& _Errno_ref  = (*_errno()); 
+    const char* _Ptr = _Str.c_str();
+    char* _Eptr;
+    _Errno_ref             = 0;
+    const long double _Ans = :: strtold(_Ptr, &_Eptr);
+
+    if (_Ptr == _Eptr) {
+        _Xinvalid_argument("invalid stold argument");
+    }
+
+    if (_Errno_ref == 34) {
+        _Xout_of_range("stold argument out of range");
+    }
+
+    if (_Idx) {
+        *_Idx = static_cast<size_t>(_Eptr - _Ptr);
+    }
+
+    return _Ans;
+}
+
+
+inline int stoi(const wstring& _Str, size_t* _Idx = nullptr, int _Base = 10) {
+    
+    int& _Errno_ref     = (*_errno()); 
+    const wchar_t* _Ptr = _Str.c_str();
+    wchar_t* _Eptr;
+    _Errno_ref      = 0;
+    const long _Ans = :: wcstol(_Ptr, &_Eptr, _Base);
+
+    if (_Ptr == _Eptr) {
+        _Xinvalid_argument("invalid stoi argument");
+    }
+
+    if (_Errno_ref == 34 || _Ans < (-2147483647 - 1) || 2147483647 < _Ans) {
+        _Xout_of_range("stoi argument out of range");
+    }
+
+    if (_Idx) {
+        *_Idx = static_cast<size_t>(_Eptr - _Ptr);
+    }
+
+    return static_cast<int>(_Ans);
+}
+
+inline long stol(const wstring& _Str, size_t* _Idx = nullptr, int _Base = 10) {
+    
+    int& _Errno_ref     = (*_errno()); 
+    const wchar_t* _Ptr = _Str.c_str();
+    wchar_t* _Eptr;
+    _Errno_ref      = 0;
+    const long _Ans = :: wcstol(_Ptr, &_Eptr, _Base);
+
+    if (_Ptr == _Eptr) {
+        _Xinvalid_argument("invalid stol argument");
+    }
+
+    if (_Errno_ref == 34) {
+        _Xout_of_range("stol argument out of range");
+    }
+
+    if (_Idx) {
+        *_Idx = static_cast<size_t>(_Eptr - _Ptr);
+    }
+
+    return _Ans;
+}
+
+inline unsigned long stoul(const wstring& _Str, size_t* _Idx = nullptr, int _Base = 10) {
+    
+    int& _Errno_ref     = (*_errno()); 
+    const wchar_t* _Ptr = _Str.c_str();
+    wchar_t* _Eptr;
+    _Errno_ref               = 0;
+    const unsigned long _Ans = :: wcstoul(_Ptr, &_Eptr, _Base);
+
+    if (_Ptr == _Eptr) {
+        _Xinvalid_argument("invalid stoul argument");
+    }
+
+    if (_Errno_ref == 34) {
+        _Xout_of_range("stoul argument out of range");
+    }
+
+    if (_Idx) {
+        *_Idx = static_cast<size_t>(_Eptr - _Ptr);
+    }
+
+    return _Ans;
+}
+
+inline long long stoll(const wstring& _Str, size_t* _Idx = nullptr, int _Base = 10) {
+    
+    int& _Errno_ref     = (*_errno()); 
+    const wchar_t* _Ptr = _Str.c_str();
+    wchar_t* _Eptr;
+    _Errno_ref           = 0;
+    const long long _Ans = :: wcstoll(_Ptr, &_Eptr, _Base);
+
+    if (_Ptr == _Eptr) {
+        _Xinvalid_argument("invalid stoll argument");
+    }
+
+    if (_Errno_ref == 34) {
+        _Xout_of_range("stoll argument out of range");
+    }
+
+    if (_Idx) {
+        *_Idx = static_cast<size_t>(_Eptr - _Ptr);
+    }
+
+    return _Ans;
+}
+
+inline unsigned long long stoull(const wstring& _Str, size_t* _Idx = nullptr, int _Base = 10) {
+    
+    int& _Errno_ref     = (*_errno()); 
+    const wchar_t* _Ptr = _Str.c_str();
+    wchar_t* _Eptr;
+    _Errno_ref                    = 0;
+    const unsigned long long _Ans = :: wcstoull(_Ptr, &_Eptr, _Base);
+
+    if (_Ptr == _Eptr) {
+        _Xinvalid_argument("invalid stoull argument");
+    }
+
+    if (_Errno_ref == 34) {
+        _Xout_of_range("stoull argument out of range");
+    }
+
+    if (_Idx) {
+        *_Idx = static_cast<size_t>(_Eptr - _Ptr);
+    }
+
+    return _Ans;
+}
+
+inline float stof(const wstring& _Str, size_t* _Idx = nullptr) { 
+    int& _Errno_ref     = (*_errno()); 
+    const wchar_t* _Ptr = _Str.c_str();
+    wchar_t* _Eptr;
+    _Errno_ref       = 0;
+    const float _Ans = :: wcstof(_Ptr, &_Eptr);
+
+    if (_Ptr == _Eptr) {
+        _Xinvalid_argument("invalid stof argument");
+    }
+
+    if (_Errno_ref == 34) {
+        _Xout_of_range("stof argument out of range");
+    }
+
+    if (_Idx) {
+        *_Idx = static_cast<size_t>(_Eptr - _Ptr);
+    }
+
+    return _Ans;
+}
+
+inline double stod(const wstring& _Str, size_t* _Idx = nullptr) { 
+    int& _Errno_ref     = (*_errno()); 
+    const wchar_t* _Ptr = _Str.c_str();
+    wchar_t* _Eptr;
+    _Errno_ref        = 0;
+    const double _Ans = :: wcstod(_Ptr, &_Eptr);
+
+    if (_Ptr == _Eptr) {
+        _Xinvalid_argument("invalid stod argument");
+    }
+
+    if (_Errno_ref == 34) {
+        _Xout_of_range("stod argument out of range");
+    }
+
+    if (_Idx) {
+        *_Idx = static_cast<size_t>(_Eptr - _Ptr);
+    }
+
+    return _Ans;
+}
+
+inline long double stold(const wstring& _Str, size_t* _Idx = nullptr) { 
+    int& _Errno_ref     = (*_errno()); 
+    const wchar_t* _Ptr = _Str.c_str();
+    wchar_t* _Eptr;
+    _Errno_ref             = 0;
+    const long double _Ans = :: wcstold(_Ptr, &_Eptr);
+
+    if (_Ptr == _Eptr) {
+        _Xinvalid_argument("invalid stold argument");
+    }
+
+    if (_Errno_ref == 34) {
+        _Xout_of_range("stold argument out of range");
+    }
+
+    if (_Idx) {
+        *_Idx = static_cast<size_t>(_Eptr - _Ptr);
+    }
+
+    return _Ans;
+}
+
+
+template <class _Elem, class _UTy>
+_Elem* _UIntegral_to_buff(_Elem* _RNext, _UTy _UVal) { 
+    static_assert(is_unsigned_v<_UTy>, "_UTy must be unsigned");
+
+
+
+
+
+    constexpr bool _Big_uty = sizeof(_UTy) > 4;
+    if constexpr (_Big_uty) { 
+        while (_UVal > 0xFFFFFFFFU) {
+            auto _UVal_chunk = static_cast<unsigned long>(_UVal % 1000000000);
+            _UVal /= 1000000000;
+
+            for (int _Idx = 0; _Idx != 9; ++_Idx) {
+                *--_RNext = static_cast<_Elem>('0' + _UVal_chunk % 10);
+                _UVal_chunk /= 10;
+            }
+        }
+    }
+
+    auto _UVal_trunc = static_cast<unsigned long>(_UVal);
+#line 476 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\string"
+
+    do {
+        *--_RNext = static_cast<_Elem>('0' + _UVal_trunc % 10);
+        _UVal_trunc /= 10;
+    } while (_UVal_trunc != 0);
+    return _RNext;
+}
+
+template <class _Elem, class _Ty>
+basic_string<_Elem> _Integral_to_string(const _Ty _Val) { 
+    static_assert(is_integral_v<_Ty>, "_Ty must be integral");
+    using _UTy = make_unsigned_t<_Ty>;
+    _Elem _Buff[21]; 
+    _Elem* const _Buff_end = ::std:: end(_Buff);
+    _Elem* _RNext          = _Buff_end;
+    const auto _UVal       = static_cast<_UTy>(_Val);
+    if (_Val < 0) {
+        _RNext    = _UIntegral_to_buff(_RNext, 0 - _UVal);
+        *--_RNext = '-';
+    } else {
+        _RNext = _UIntegral_to_buff(_RNext, _UVal);
+    }
+
+    return basic_string<_Elem>(_RNext, _Buff_end);
+}
+
+
+template <class _Elem, class _Ty>
+basic_string<_Elem> _UIntegral_to_string(const _Ty _Val) { 
+    static_assert(is_integral_v<_Ty>, "_Ty must be integral");
+    static_assert(is_unsigned_v<_Ty>, "_Ty must be unsigned");
+    _Elem _Buff[21]; 
+    _Elem* const _Buff_end = ::std:: end(_Buff);
+    _Elem* const _RNext    = _UIntegral_to_buff(_Buff_end, _Val);
+    return basic_string<_Elem>(_RNext, _Buff_end);
+}
+
+
+[[nodiscard]] inline string to_string(int _Val) { 
+    return _Integral_to_string<char>(_Val);
+}
+
+[[nodiscard]] inline string to_string(unsigned int _Val) { 
+    return _UIntegral_to_string<char>(_Val);
+}
+
+[[nodiscard]] inline string to_string(long _Val) { 
+    return _Integral_to_string<char>(_Val);
+}
+
+[[nodiscard]] inline string to_string(unsigned long _Val) { 
+    return _UIntegral_to_string<char>(_Val);
+}
+
+[[nodiscard]] inline string to_string(long long _Val) { 
+    return _Integral_to_string<char>(_Val);
+}
+
+[[nodiscard]] inline string to_string(unsigned long long _Val) { 
+    return _UIntegral_to_string<char>(_Val);
+}
+
+[[nodiscard]] inline string to_string(double _Val) { 
+    const auto _Len = static_cast<size_t>(:: _scprintf("%f", _Val));
+    string _Str(_Len, '\0');
+    :: sprintf_s(&_Str[0], _Len + 1, "%f", _Val);
+    return _Str;
+}
+
+[[nodiscard]] inline string to_string(float _Val) { 
+    return ::std:: to_string(static_cast<double>(_Val));
+}
+
+[[nodiscard]] inline string to_string(long double _Val) { 
+    return ::std:: to_string(static_cast<double>(_Val));
+}
+
+
+[[nodiscard]] inline wstring to_wstring(int _Val) { 
+    return _Integral_to_string<wchar_t>(_Val);
+}
+
+[[nodiscard]] inline wstring to_wstring(unsigned int _Val) { 
+    return _UIntegral_to_string<wchar_t>(_Val);
+}
+
+[[nodiscard]] inline wstring to_wstring(long _Val) { 
+    return _Integral_to_string<wchar_t>(_Val);
+}
+
+[[nodiscard]] inline wstring to_wstring(unsigned long _Val) { 
+    return _UIntegral_to_string<wchar_t>(_Val);
+}
+
+[[nodiscard]] inline wstring to_wstring(long long _Val) { 
+    return _Integral_to_string<wchar_t>(_Val);
+}
+
+[[nodiscard]] inline wstring to_wstring(unsigned long long _Val) { 
+    return _UIntegral_to_string<wchar_t>(_Val);
+}
+
+[[nodiscard]] inline wstring to_wstring(double _Val) { 
+    const auto _Len = static_cast<size_t>(:: _scwprintf(L"%f", _Val));
+    wstring _Str(_Len, L'\0');
+    :: swprintf_s(&_Str[0], _Len + 1, L"%f", _Val);
+    return _Str;
+}
+
+[[nodiscard]] inline wstring to_wstring(float _Val) { 
+    return ::std:: to_wstring(static_cast<double>(_Val));
+}
+
+[[nodiscard]] inline wstring to_wstring(long double _Val) { 
+    return ::std:: to_wstring(static_cast<double>(_Val));
+}
+}
+
+
+
+#pragma warning(pop)
+#pragma pack(pop)
+#line 599 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\string"
+#line 600 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\include\\string"
+#line 6 "D:\\C++\\Books\\A Tour of C++ 2nd Edition\\ATourOfCPlusPlus\\ATourOfCPlusPlus\\main.cpp"
+
+
+
+
+
+
+
+
 
 int main()
 {
 
-	Student s(10);
-	Student s3(50);
+	std::variant<int, const char*, bool, char, double, float, unsigned int, std::string> var;
+	
+	var = 3;
+	var = "Hello";
+	
+	int x = 0;
 
+	if (const auto m = std::get_if<const char*>(&var))
+	{	
+		std::cout << "m: " << m << std::endl;
+	}
 
-	const int x = 300;
-	const int m = 400;
+	std::cout << std::get<const char*>(var) << std::endl;
 
-	const int c = x + m;
-	constexpr int r = x + m;
-
-	std::cout << "Const: " << x << std::endl;
-	std::cout << "ConstExpr: " << m << std::endl;
 	return 0;
 }

@@ -1,0 +1,26 @@
+
+;; Function int main() (null)
+;; enabled by -tree-original
+
+
+{
+  int d = 0;
+  char s = 99;
+  float m = 1.0e+1;
+
+  <<cleanup_point   int d = 0;>>;
+  <<cleanup_point   char s = 99;>>;
+  <<cleanup_point   float m = 1.0e+1;>>;
+  <<cleanup_point <<< Unknown tree: expr_stmt
+  Func<int> (d) >>>>>;
+  return <retval> = 0;
+}
+return <retval> = 0;
+
+
+;; Function void Func(T) [with T = int] (null)
+;; enabled by -tree-original
+
+
+
+
