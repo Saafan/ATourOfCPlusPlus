@@ -21,6 +21,7 @@
   <ItemGroup>
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Student.cpp" />
+    <ClCompile Include="Student.ixx" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Student.h" />
@@ -96,7 +97,8 @@
       <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>false</ConformanceMode>
       <PreprocessToFile>false</PreprocessToFile>
-      <LanguageStandard>stdcpp17</LanguageStandard>
+      <LanguageStandard>stdcpplatest</LanguageStandard>
+      <CompileAs>CompileAsCppModule</CompileAs>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>

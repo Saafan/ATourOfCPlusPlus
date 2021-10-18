@@ -1,20 +1,11 @@
+#include <iostream>
 
-//template<typename... T>
-//void Func(T&... Args)
-//{
-////	++Args...;
-//}
-
-template<typename T, typename... Args>
-T adder(T first, Args... args) {
-	return first + adder(args...);
-}
+import Student;
 
 int main()
 {
-	int d = 0;
-	char s = 'c';
-	float m = 10.0f;
+	Student s(100);
+	std::cout << "grade: " << s.x << std::endl;
 
 	return 0;
 }
