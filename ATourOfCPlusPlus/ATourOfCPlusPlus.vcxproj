@@ -21,7 +21,6 @@
   <ItemGroup>
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Student.cpp" />
-    <ClCompile Include="Student.ixx" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Student.h" />
