@@ -1,16 +1,33 @@
 #include <iostream>
-#include "Student.h"
 #include <string>
 
 #include <initializer_list>
 
+struct Student
+{
+	int id;
+	double grade;
+};
+
+struct Apartment
+{
+	int apartNum;
+	double rent;
+};
+
+
+
+
 int main()
 {
-	std::initializer_list<int> l;
+	
+	int x = 0;
+	Student s{ 46, 10.0 };
 
-	l = {557,2,3,4,5,6,7,8,4444};
+	Apartment ap = reinterpret_cast<Apartment&>(s);
 
-	std::cout << "Size: " << std::endl;
+	std::cout << "Apartment Number: " << ap.apartNum << " | Apartment Rent: "<< ap.rent << std::endl;
+
 	
 	return 0;
 }
