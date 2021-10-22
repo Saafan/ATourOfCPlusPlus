@@ -1,33 +1,13 @@
 #include <iostream>
-#include <string>
-
-#include <initializer_list>
-
-struct Student
-{
-	int id;
-	double grade;
-};
-
-struct Apartment
-{
-	int apartNum;
-	double rent;
-};
-
-
-
 
 int main()
 {
-	
-	int x = 0;
-	Student s{ 46, 10.0 };
+	const int x = 100;
+	const int* m = &x;
+	int* y = const_cast<int*>(m);
+	*y = 200;
 
-	Apartment ap = reinterpret_cast<Apartment&>(s);
 
-	std::cout << "Apartment Number: " << ap.apartNum << " | Apartment Rent: "<< ap.rent << std::endl;
-
-	
+	std::cout << "y: " << &y << " x: "<< &x << std::endl;
 	return 0;
 }
