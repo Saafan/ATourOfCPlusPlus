@@ -32,7 +32,7 @@ void Derived::MustFunction()
 
 int main()
 {
-	Base b;
+	//Base b; Cannot create instance of class since it've pure function
 	Derived d;
 	
 	
