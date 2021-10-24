@@ -140,10 +140,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="src\Classes.cpp" />
     <ClCompile Include="src\main.cpp" />
     <ClCompile Include="src\Student.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="src\Classes.h" />
     <ClInclude Include="src\Student.h" />
     <ClInclude Include="Todo.h" />
   </ItemGroup>
