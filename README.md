@@ -1,4 +1,4 @@
-Note Taken through out reading from repositry can be found here:
+Note Taken through out reading from Tour Of C++ can be found here:
 
 http://saafan.xyz/?cat=12
 
