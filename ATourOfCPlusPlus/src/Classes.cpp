@@ -1,22 +1,20 @@
 #include <iostream>
 #include "Classes.h"
 
-void Base::VirtualFunction()
+
+Car::Car(const Car& c)
 {
-	std::cout << "Base Virtual Function" << std::endl;
+	x = 100;
 }
 
-void Base::NormalOverriddenFunction()
+Car::Car(int a, int b)
 {
-	std::cout << "Base Overridden Function" << std::endl;
+	x = a, y = b;
 }
 
-void Derived::VirtualFunction()
+Car& Car::operator=(const Car& c)
 {
-	std::cout << "Derived Virtual Function" << std::endl;
-}
-
-void Derived::NormalOverriddenFunction()
-{
-	std::cout << "Derived Overridden Function" << std::endl;
+	y = 200;
+	
+	return *this;
 }
